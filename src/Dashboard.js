@@ -3,7 +3,7 @@ import BootstrapTable from 'react-bootstrap-table-next';
 import filterFactory, { textFilter, Comparator } from 'react-bootstrap-table2-filter';
 import cellEditFactory from 'react-bootstrap-table2-editor';
 import ToolkitProvider, { CSVExport } from 'react-bootstrap-table2-toolkit';
-
+import { Button, Row, Col } from 'react-bootstrap';
 const { ExportCSVButton } = CSVExport;
 
 const columns = [{
@@ -59,36 +59,63 @@ const columns = [{
   text: 'Total'
 }];
 
-const products = [{
-  reference: 1,
-  name: "Product1",
-  price: 120
-}, {
-  reference: 2,
-  name: "Product2",
-  price: 80
-}];
+const divStyle = {
+    margin: '10px'
+};
 
 export class Dashboard extends Component {
+
+  constructor(props){
+    super(props);
+    this.state = {
+      products: [{
+        reference: 1,
+        name: "Exemplo",
+        price: 120,
+        quantity: 4,
+        total: 480,
+        color: "preto"
+      }]
+    }
+    this.addLIne = this.addLIne.bind(this);
+  }
+
+  addLIne(){
+    this.state.products.push({});
+    this.setState({products: this.state.products});
+  }
+
   render() {
     return (
-      <div>
+      <div style={divStyle}>
         <ToolkitProvider
           keyField="id"
-          data={products}
+          data={this.state.products}
           columns={columns}
           exportCSV
         >
           {
             props => (
               <div>
-                <ExportCSVButton {...props.csvProps}>Baixar relatório</ExportCSVButton>
                 <hr />
-                <BootstrapTable 
+                <BootstrapTable
                   {...props.baseProps}
+                  striped
                   filter={filterFactory()}
                   cellEdit={cellEditFactory({ mode: 'click' })}
                 />
+                <Row>
+                    <Button 
+                      onClick={this.addLIne}
+                      style={divStyle} bsStyle='primary'>
+                        Adicionar Linha
+                    </Button>
+                </Row>
+                <Row>
+                  <Col xs={8} xsOffset={10}>
+                    <ExportCSVButton bsStyle='success' {...props.csvProps}>Baixar relatório</ExportCSVButton>
+                  </Col>
+                </Row>
               </div>
             )
           }
