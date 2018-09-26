@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import {Route, Link } from "react-router-dom";
+import {Row, Col, Image} from 'react-bootstrap';
 import Dashboard from './Dashboard'
 import 'react-bootstrap-table-next/dist/react-bootstrap-table2.min.css';
 
@@ -13,9 +14,16 @@ class App extends Component {
       <div>
         {cssImport}
         {cssStylesheet}
-      <nav>
-        <Link to="/dashboard">Dashboard</Link>
-      </nav>
+        <Row>
+          <Col xs={6} md={6}>
+            <Image src="/assets/logo-picktita.png"/>
+          </Col>
+          <Col xs={6} md={6}>
+            <nav>
+              <Link to="/dashboard">Dashboard</Link>
+            </nav>
+          </Col>
+        </Row>
       <div>
         <Route path="/dashboard" component={Dashboard}/>
       </div>
