@@ -25,31 +25,31 @@ const columns = [{
   dataField: 'g',
   text: 'G'
 }, {
-  dataField: 'um',
+  dataField: 'one',
   text: '1'
 }, {
-  dataField: 'duas',
+  dataField: 'two',
   text: '2'
 }, {
-  dataField: 'tres',
+  dataField: 'three',
   text: '3'
 }, {
-  dataField: 'quatro',
+  dataField: 'four',
   text: '4'
 }, {
-  dataField: 'seis',
+  dataField: 'six',
   text: '6'
 }, {
-  dataField: 'oito',
+  dataField: 'eight',
   text: '8'
 }, {
-  dataField: 'dez',
+  dataField: 'ten',
   text: '10'
 }, {
-  dataField: 'doze',
+  dataField: 'twelve',
   text: '12'
 }, {
-  dataField: 'quatorze',
+  dataField: 'fourteen',
   text: '14'
 }, {
   dataField: 'price',
@@ -67,21 +67,41 @@ export class Dashboard extends Component {
 
   constructor(props){
     super(props);
-    this.state = {
-      products: [{
-        reference: 1,
-        name: "Exemplo",
-        price: 120,
-        quantity: 4,
-        total: 480,
-        color: "preto"
-      }]
+    this.state = {products: []};
+    for (let i=0;i<9;i++){
+      this.state.products.push({
+        reference: 1000+i,
+        p: null,
+        m: null,
+        g: null,
+        one: null,
+        two: null,
+        three: null,
+        four: null,
+        six: null,
+        eight: null,
+        ten: null,
+        twelve: null,
+        fourteen: null,
+        price: null,
+        quantity: null,
+        total: null,
+        color: null
+      });
     }
     this.addLIne = this.addLIne.bind(this);
   }
 
   addLIne(){
-    this.state.products.push({});
+    let lastRowIndex = this.state.products.length-1;
+    let lastProductArrayElement = this.state.products[lastRowIndex];
+
+    let newElement =  {
+      ...lastProductArrayElement,
+      reference: lastProductArrayElement.reference+1
+    };
+    this.state.products.push(newElement);
+
     this.setState({products: this.state.products});
   }
 
@@ -89,7 +109,7 @@ export class Dashboard extends Component {
     return (
       <div style={divStyle}>
         <ToolkitProvider
-          keyField="id"
+          keyField="reference"
           data={this.state.products}
           columns={columns}
           exportCSV
