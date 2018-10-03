@@ -63,30 +63,35 @@ const divStyle = {
   margin: '10px'
 };
 
+const emptyProduct = {
+  reference: 1000,
+  p: 0,
+  m: 0,
+  g: 0,
+  one: 0,
+  two: 0,
+  three: 0,
+  four: 0,
+  six: 0,
+  eight: 0,
+  ten: 0,
+  twelve: 0,
+  fourteen: 0,
+  price: 0,
+  quantity: 0,
+  total: 0,
+  color: 0
+};
+
 export class Dashboard extends Component {
 
   constructor(props) {
     super(props);
     this.state = { products: [] };
     for (let i = 0; i < 9; i++) {
+      emptyProduct.reference = 1000 + i;
       this.state.products.push({
-        reference: 1000 + i,
-        p: null,
-        m: null,
-        g: null,
-        one: null,
-        two: null,
-        three: null,
-        four: null,
-        six: null,
-        eight: null,
-        ten: null,
-        twelve: null,
-        fourteen: null,
-        price: null,
-        quantity: null,
-        total: null,
-        color: null
+        ...emptyProduct
       });
     }
     this.state.show = false;
@@ -97,7 +102,15 @@ export class Dashboard extends Component {
   }
 
   clearTable() {
-    
+    let arrayOfProducts = [];
+    for (let i = 0; i < this.state.products.length; i++) {
+      emptyProduct.reference = 1000 + i;
+      arrayOfProducts.push({
+        ...emptyProduct
+      });
+    }
+    this.setState({ products: arrayOfProducts });
+    this.setState({ show: false });
   }
 
   handleClose() {this.setState({ show: false })}
