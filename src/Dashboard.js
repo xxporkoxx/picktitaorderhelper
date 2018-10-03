@@ -3,7 +3,7 @@ import BootstrapTable from 'react-bootstrap-table-next';
 import filterFactory, { textFilter, Comparator } from 'react-bootstrap-table2-filter';
 import cellEditFactory from 'react-bootstrap-table2-editor';
 import ToolkitProvider, { CSVExport } from 'react-bootstrap-table2-toolkit';
-import { Button, Row, Col } from 'react-bootstrap';
+import { Button, Row, Col, Modal } from 'react-bootstrap';
 const { ExportCSVButton } = CSVExport;
 
 const columns = [{
@@ -60,17 +60,17 @@ const columns = [{
 }];
 
 const divStyle = {
-    margin: '10px'
+  margin: '10px'
 };
 
 export class Dashboard extends Component {
 
-  constructor(props){
+  constructor(props) {
     super(props);
-    this.state = {products: []};
-    for (let i=0;i<9;i++){
+    this.state = { products: [] };
+    for (let i = 0; i < 9; i++) {
       this.state.products.push({
-        reference: 1000+i,
+        reference: 1000 + i,
         p: null,
         m: null,
         g: null,
@@ -89,23 +89,35 @@ export class Dashboard extends Component {
         color: null
       });
     }
+    this.state.show = false;
     this.addLIne = this.addLIne.bind(this);
+    this.clearTable = this.clearTable.bind(this);
+    this.handleShow = this.handleShow.bind(this);
+    this.handleClose = this.handleClose.bind(this);
   }
 
-  addLIne(){
-    let lastRowIndex = this.state.products.length-1;
+  clearTable() {
+    
+  }
+
+  handleClose() {this.setState({ show: false })}
+  handleShow() {this.setState({ show: true })}
+
+  addLIne() {
+    let lastRowIndex = this.state.products.length - 1;
     let lastProductArrayElement = this.state.products[lastRowIndex];
 
-    let newElement =  {
+    let newElement = {
       ...lastProductArrayElement,
-      reference: lastProductArrayElement.reference+1
+      reference: lastProductArrayElement.reference + 1
     };
     this.state.products.push(newElement);
 
-    this.setState({products: this.state.products});
+    this.setState({ products: this.state.products });
   }
 
   render() {
+
     return (
       <div style={divStyle}>
         <ToolkitProvider
@@ -125,21 +137,39 @@ export class Dashboard extends Component {
                   cellEdit={cellEditFactory({ mode: 'click' })}
                 />
                 <Row>
-                    <Button 
-                      onClick={this.addLIne}
-                      style={divStyle} bsStyle='primary'>
-                        Adicionar Linha
+                  <Button
+                    onClick={this.addLIne}
+                    style={divStyle} bsStyle='primary'>
+                    Adicionar Linha
                     </Button>
                 </Row>
                 <Row>
-                  <Col xs={8} xsOffset={10}>
-                    <ExportCSVButton bsStyle='success' {...props.csvProps}>Baixar relatório</ExportCSVButton>
+                  <Col xsOffset={9}>
+                    <Button
+                      onClick={this.handleShow}
+                      style={divStyle} bsStyle='danger'>
+                      Limpar Tabela
+                    </Button>
+                    <ExportCSVButton {...props.csvProps}>Baixar relatório</ExportCSVButton>
                   </Col>
                 </Row>
               </div>
             )
           }
         </ToolkitProvider>
+
+        <Modal show={this.state.show} onHide={this.handleClose}>
+          <Modal.Header closeButton>
+            <Modal.Title>Atenção</Modal.Title>
+          </Modal.Header>
+          <Modal.Body>
+            <h4>Você está prestes a apagar toda a tabela. Tem certeza que deseja deletar tudo?</h4>
+          </Modal.Body>
+          <Modal.Footer>
+            <Button onClick={this.clearTable} bsStyle='danger'>Sim</Button>
+            <Button onClick={this.handleClose} bsStyle='primary'>Não</Button>
+          </Modal.Footer>
+        </Modal>
       </div>
     )
   }
