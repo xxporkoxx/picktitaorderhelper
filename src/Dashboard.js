@@ -1,17 +1,23 @@
 import React, { Component } from 'react';
 import BootstrapTable from 'react-bootstrap-table-next';
-import filterFactory, { textFilter, Comparator } from 'react-bootstrap-table2-filter';
+import filterFactory from 'react-bootstrap-table2-filter';
 import cellEditFactory from 'react-bootstrap-table2-editor';
 import ToolkitProvider, { CSVExport } from 'react-bootstrap-table2-toolkit';
 import { Button, Row, Col, Modal } from 'react-bootstrap';
 const { ExportCSVButton } = CSVExport;
 
 const columns = [{
-  dataField: 'reference',
-  text: 'Ref'
+  dataField: 'id',
+  text: '#',
+  style: (cell, row, rowIndex, colIndex) => {
+    return {
+      backgroundColor: '#efefef',
+      fontWeight: 'bold'
+    };
+  }
 }, {
-  dataField: 'quantity',
-  text: 'Qnt'
+  dataField: 'reference',
+  text: 'REF'
 }, {
   dataField: 'color',
   text: 'Cor'
@@ -52,6 +58,9 @@ const columns = [{
   dataField: 'fourteen',
   text: '14'
 }, {
+  dataField: 'quantity',
+  text: 'Qnt'
+}, {
   dataField: 'price',
   text: 'Preço'
 }, {
@@ -64,7 +73,8 @@ const divStyle = {
 };
 
 const emptyProduct = {
-  reference: 1000,
+  id: 0,
+  reference: 0,
   p: 0,
   m: 0,
   g: 0,
@@ -80,7 +90,7 @@ const emptyProduct = {
   price: 0,
   quantity: 0,
   total: 0,
-  color: 0
+  color: "---"
 };
 
 export class Dashboard extends Component {
@@ -89,7 +99,7 @@ export class Dashboard extends Component {
     super(props);
     this.state = { products: [] };
     for (let i = 0; i < 9; i++) {
-      emptyProduct.reference = 1000 + i;
+      emptyProduct.id = 0 + i;
       this.state.products.push({
         ...emptyProduct
       });
@@ -99,12 +109,22 @@ export class Dashboard extends Component {
     this.clearTable = this.clearTable.bind(this);
     this.handleShow = this.handleShow.bind(this);
     this.handleClose = this.handleClose.bind(this);
+    this.onStartEdit = this.onStartEdit.bind(this);
+    this.afterSaveCell = this.afterSaveCell.bind(this);
+  }
+
+  onStartEdit(row, column, rowIndex, columnIndex){
+    console.log('start to edit!!!');
+  }
+
+  afterSaveCell(oldValue, newValue, row, column){
+    console.log('After Saving Cell!!');
   }
 
   clearTable() {
     let arrayOfProducts = [];
     for (let i = 0; i < this.state.products.length; i++) {
-      emptyProduct.reference = 1000 + i;
+      emptyProduct.id = 0 + i;
       arrayOfProducts.push({
         ...emptyProduct
       });
@@ -113,8 +133,8 @@ export class Dashboard extends Component {
     this.setState({ show: false });
   }
 
-  handleClose() {this.setState({ show: false })}
-  handleShow() {this.setState({ show: true })}
+  handleClose() { this.setState({ show: false }) }
+  handleShow() { this.setState({ show: true }) }
 
   addLIne() {
     let lastRowIndex = this.state.products.length - 1;
@@ -122,7 +142,7 @@ export class Dashboard extends Component {
 
     let newElement = {
       ...lastProductArrayElement,
-      reference: lastProductArrayElement.reference + 1
+      id: lastProductArrayElement.id + 1
     };
     this.state.products.push(newElement);
 
@@ -134,7 +154,7 @@ export class Dashboard extends Component {
     return (
       <div style={divStyle}>
         <ToolkitProvider
-          keyField="reference"
+          keyField="id"
           data={this.state.products}
           columns={columns}
           exportCSV
@@ -147,7 +167,11 @@ export class Dashboard extends Component {
                   {...props.baseProps}
                   striped
                   filter={filterFactory()}
-                  cellEdit={cellEditFactory({ mode: 'click' })}
+                  cellEdit={ cellEditFactory({
+                    mode: 'click',
+                    onStartEdit: (row, column, rowIndex, columnIndex) => { this.onStartEdit(row, column, rowIndex, columnIndex) },
+                    afterSaveCell: (oldValue, newValue, row, column) => { this.afterSaveCell(oldValue, newValue, row, column) }
+                  }) }
                 />
                 <Row>
                   <Button
