@@ -68,7 +68,8 @@ const columns = [{
   }
 }, {
   dataField: 'price',
-  text: 'Preço'
+  text: 'Preço',
+  formatter: currencyFormatter
 }, {
   dataField: 'total',
   text: 'Total',
@@ -76,8 +77,15 @@ const columns = [{
   style: {
     backgroundColor: '#efefef',
     fontWeight: 'bold'
-  }
+  },
+  formatter: currencyFormatter
 }];
+
+function currencyFormatter(cell, row, rowIndex, formatExtraData) {
+  return (
+    parseFloat(cell).toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })
+  );
+}
 
 const divStyle = {
   margin: '10px'
@@ -120,22 +128,16 @@ export class Dashboard extends Component {
     this.clearTable = this.clearTable.bind(this);
     this.handleShow = this.handleShow.bind(this);
     this.handleClose = this.handleClose.bind(this);
-    this.onStartEdit = this.onStartEdit.bind(this);
     this.afterSaveCell = this.afterSaveCell.bind(this);
   }
 
-  onStartEdit(row, column, rowIndex, columnIndex) {
-    console.log('start to edit!!!');
-  }
-
   afterSaveCell(oldValue, newValue, row, column) {
-    console.log('After Saving Cell!!');
     let quantity = parseInt(parseInt(row.p, 10) + parseInt(row.m, 10) +
       parseInt(row.g, 10) + parseInt(row.one, 10) + parseInt(row.two, 10) +
       parseInt(row.three, 10) + parseInt(row.four, 10) + parseInt(row.six, 10) +
       parseInt(row.eight, 10) + parseInt(row.ten, 10) + parseInt(row.twelve, 10) +
       parseInt(row.fourteen, 10), 10);
-    let total = parseInt(quantity, 10) * parseInt(row.price, 10);
+    let total = parseInt(quantity, 10) * parseFloat(row.price, 10);
     let product = this.state.products[row.id];
 
     product.total = total;
@@ -194,7 +196,6 @@ export class Dashboard extends Component {
                   filter={filterFactory()}
                   cellEdit={cellEditFactory({
                     mode: 'click',
-                    onStartEdit: (row, column, rowIndex, columnIndex) => { this.onStartEdit(row, column, rowIndex, columnIndex) },
                     afterSaveCell: (oldValue, newValue, row, column) => { this.afterSaveCell(oldValue, newValue, row, column) }
                   })}
                 />
