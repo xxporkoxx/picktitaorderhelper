@@ -141,7 +141,6 @@ export class Dashboard extends Component {
     this.handleShow = this.handleShow.bind(this);
     this.handleClose = this.handleClose.bind(this);
     this.afterSaveCell = this.afterSaveCell.bind(this);
-    this.handleKeyDown = this.handleKeyDown.bind(this);
   }
 
   componentDidUpdate(){
@@ -163,10 +162,6 @@ export class Dashboard extends Component {
     this.setState(prevState => ({
       products: update(prevState.products, { [row.id]: { $set: product } })
     }));
-  }
-
-  handleKeyDown(e){
-    console.log("sdfasfd");
   }
 
   clearTable() {
@@ -219,7 +214,6 @@ export class Dashboard extends Component {
                     mode: 'click',
                     afterSaveCell: (oldValue, newValue, row, column) => { this.afterSaveCell(oldValue, newValue, row, column) }
                   })}
-                  handleKeyDown = {(teste) => this.handleKeyDown(teste)}
                 />
                 <Row>
                   <Button
