@@ -4,16 +4,17 @@ import filterFactory from 'react-bootstrap-table2-filter';
 import cellEditFactory from 'react-bootstrap-table2-editor';
 import ToolkitProvider, { CSVExport } from 'react-bootstrap-table2-toolkit';
 import { Button, Row, Col, Modal } from 'react-bootstrap';
+import update from 'react-addons-update';
+
 const { ExportCSVButton } = CSVExport;
 
 const columns = [{
   dataField: 'id',
   text: '#',
-  style: (cell, row, rowIndex, colIndex) => {
-    return {
-      backgroundColor: '#efefef',
-      fontWeight: 'bold'
-    };
+  editable: false,
+  style: {
+    backgroundColor: '#efefef',
+    fontWeight: 'bold'
   }
 }, {
   dataField: 'reference',
@@ -59,13 +60,23 @@ const columns = [{
   text: '14'
 }, {
   dataField: 'quantity',
-  text: 'Qnt'
+  text: 'Qnt',
+  editable: false,
+  style: {
+    backgroundColor: '#efefef',
+    fontWeight: 'bold'
+  }
 }, {
   dataField: 'price',
   text: 'Preço'
 }, {
   dataField: 'total',
-  text: 'Total'
+  text: 'Total',
+  editable: false,
+  style: {
+    backgroundColor: '#efefef',
+    fontWeight: 'bold'
+  }
 }];
 
 const divStyle = {
@@ -113,12 +124,26 @@ export class Dashboard extends Component {
     this.afterSaveCell = this.afterSaveCell.bind(this);
   }
 
-  onStartEdit(row, column, rowIndex, columnIndex){
+  onStartEdit(row, column, rowIndex, columnIndex) {
     console.log('start to edit!!!');
   }
 
-  afterSaveCell(oldValue, newValue, row, column){
+  afterSaveCell(oldValue, newValue, row, column) {
     console.log('After Saving Cell!!');
+    let quantity = parseInt(parseInt(row.p, 10) + parseInt(row.m, 10) +
+      parseInt(row.g, 10) + parseInt(row.one, 10) + parseInt(row.two, 10) +
+      parseInt(row.three, 10) + parseInt(row.four, 10) + parseInt(row.six, 10) +
+      parseInt(row.eight, 10) + parseInt(row.ten, 10) + parseInt(row.twelve, 10) +
+      parseInt(row.fourteen, 10), 10);
+    let total = parseInt(quantity, 10) * parseInt(row.price, 10);
+    let product = this.state.products[row.id];
+
+    product.total = total;
+    product.quantity = quantity;
+
+    this.setState(prevState => ({
+      products: update(prevState.products, { [row.id]: { $set: product } })
+    }));
   }
 
   clearTable() {
@@ -167,11 +192,11 @@ export class Dashboard extends Component {
                   {...props.baseProps}
                   striped
                   filter={filterFactory()}
-                  cellEdit={ cellEditFactory({
+                  cellEdit={cellEditFactory({
                     mode: 'click',
                     onStartEdit: (row, column, rowIndex, columnIndex) => { this.onStartEdit(row, column, rowIndex, columnIndex) },
                     afterSaveCell: (oldValue, newValue, row, column) => { this.afterSaveCell(oldValue, newValue, row, column) }
-                  }) }
+                  })}
                 />
                 <Row>
                   <Button
