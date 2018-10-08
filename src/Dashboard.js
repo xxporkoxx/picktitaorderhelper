@@ -74,11 +74,11 @@ const columns = [{
   dataField: 'total',
   text: 'Total',
   editable: false,
+  formatter: currencyFormatter,  
   style: {
     backgroundColor: '#efefef',
     fontWeight: 'bold'
-  },
-  formatter: currencyFormatter
+  }
 }];
 
 function currencyFormatter(cell, row, rowIndex, formatExtraData) {
@@ -116,19 +116,36 @@ export class Dashboard extends Component {
 
   constructor(props) {
     super(props);
-    this.state = { products: [] };
-    for (let i = 0; i < 9; i++) {
-      emptyProduct.id = 0 + i;
-      this.state.products.push({
-        ...emptyProduct
-      });
+    let appState = { 
+      products: [],
+      show: false
+    };
+
+    //Select between cached state and new state
+    if(localStorage.getItem("appState")){
+      appState = JSON.parse(localStorage.getItem("appState"));
     }
-    this.state.show = false;
+    else{
+      for (let i = 0; i < 9; i++) {
+        emptyProduct.id = 0 + i;
+        appState.products.push({
+          ...emptyProduct
+        });
+      }
+    }
+
+    this.state = {...appState}
+
     this.addLIne = this.addLIne.bind(this);
     this.clearTable = this.clearTable.bind(this);
     this.handleShow = this.handleShow.bind(this);
     this.handleClose = this.handleClose.bind(this);
     this.afterSaveCell = this.afterSaveCell.bind(this);
+    this.handleKeyDown = this.handleKeyDown.bind(this);
+  }
+
+  componentDidUpdate(){
+    localStorage.setItem('appState', JSON.stringify(this.state));
   }
 
   afterSaveCell(oldValue, newValue, row, column) {
@@ -146,6 +163,10 @@ export class Dashboard extends Component {
     this.setState(prevState => ({
       products: update(prevState.products, { [row.id]: { $set: product } })
     }));
+  }
+
+  handleKeyDown(e){
+    console.log("sdfasfd");
   }
 
   clearTable() {
@@ -198,6 +219,7 @@ export class Dashboard extends Component {
                     mode: 'click',
                     afterSaveCell: (oldValue, newValue, row, column) => { this.afterSaveCell(oldValue, newValue, row, column) }
                   })}
+                  handleKeyDown = {(teste) => this.handleKeyDown(teste)}
                 />
                 <Row>
                   <Button
