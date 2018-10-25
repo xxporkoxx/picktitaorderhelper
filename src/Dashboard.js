@@ -23,6 +23,9 @@ const columns = [{
   dataField: 'color',
   text: 'Cor'
 }, {
+  dataField: 'rn',
+  text: 'RN'
+}, {
   dataField: 'p',
   text: 'P'
 }, {
@@ -31,6 +34,9 @@ const columns = [{
 }, {
   dataField: 'g',
   text: 'G'
+}, {
+  dataField: 'gg',
+  text: 'GG'
 }, {
   dataField: 'one',
   text: '1'
@@ -59,6 +65,15 @@ const columns = [{
   dataField: 'fourteen',
   text: '14'
 }, {
+  dataField: 'sixteen',
+  text: '16'
+}, {
+  dataField: 'eighteen',
+  text: '18'
+}, {
+  dataField: 'twenty',
+  text: '20'
+}, {
   dataField: 'quantity',
   text: 'Qnt',
   editable: false,
@@ -74,7 +89,7 @@ const columns = [{
   dataField: 'total',
   text: 'Total',
   editable: false,
-  formatter: currencyFormatter,  
+  formatter: currencyFormatter,
   style: {
     backgroundColor: '#efefef',
     fontWeight: 'bold'
@@ -94,9 +109,11 @@ const divStyle = {
 const emptyProduct = {
   id: 0,
   reference: 0,
+  rn: 0,
   p: 0,
   m: 0,
   g: 0,
+  gg:0,
   one: 0,
   two: 0,
   three: 0,
@@ -106,6 +123,9 @@ const emptyProduct = {
   ten: 0,
   twelve: 0,
   fourteen: 0,
+  sixteen: 0,
+  eighteen: 0,
+  twenty: 0,
   price: 0,
   quantity: 0,
   total: 0,
@@ -116,16 +136,16 @@ export class Dashboard extends Component {
 
   constructor(props) {
     super(props);
-    let appState = { 
+    let appState = {
       products: [],
       show: false
     };
 
     //Select between cached state and new state
-    if(localStorage.getItem("appState")){
+    if (localStorage.getItem("appState")) {
       appState = JSON.parse(localStorage.getItem("appState"));
     }
-    else{
+    else {
       for (let i = 0; i < 9; i++) {
         emptyProduct.id = 0 + i;
         appState.products.push({
@@ -134,7 +154,7 @@ export class Dashboard extends Component {
       }
     }
 
-    this.state = {...appState}
+    this.state = { ...appState }
 
     this.addLIne = this.addLIne.bind(this);
     this.clearTable = this.clearTable.bind(this);
@@ -143,16 +163,17 @@ export class Dashboard extends Component {
     this.afterSaveCell = this.afterSaveCell.bind(this);
   }
 
-  componentDidUpdate(){
+  componentDidUpdate() {
     localStorage.setItem('appState', JSON.stringify(this.state));
   }
 
   afterSaveCell(oldValue, newValue, row, column) {
-    let quantity = parseInt(parseInt(row.p, 10) + parseInt(row.m, 10) +
-      parseInt(row.g, 10) + parseInt(row.one, 10) + parseInt(row.two, 10) +
-      parseInt(row.three, 10) + parseInt(row.four, 10) + parseInt(row.six, 10) +
-      parseInt(row.eight, 10) + parseInt(row.ten, 10) + parseInt(row.twelve, 10) +
-      parseInt(row.fourteen, 10), 10);
+    let quantity = parseInt(parseInt(row.rn, 10) + parseInt(row.p, 10) +
+      parseInt(row.m, 10) + parseInt(row.g, 10)+ parseInt(row.gg, 10) +
+      parseInt(row.one, 10) + parseInt(row.two, 10) + parseInt(row.three, 10) +
+      parseInt(row.four, 10) + parseInt(row.six, 10) + parseInt(row.eight, 10) +
+      parseInt(row.ten, 10) + parseInt(row.twelve, 10) + parseInt(row.fourteen, 10) +
+      parseInt(row.sixteen, 10) + parseInt(row.eighteen, 10) + parseInt(row.twenty, 10), 10);
     let total = parseInt(quantity, 10) * parseFloat(row.price, 10);
     let product = this.state.products[row.id];
 
