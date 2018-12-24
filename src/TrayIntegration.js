@@ -2,14 +2,14 @@ import { Button } from 'react-bootstrap';
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
-import { clickButton } from './actions';
+import { tray_auth } from './actions';
 
 export class TrayIntegration  extends Component {
 
     constructor(props) {
       super(props);
        let initialState={
-           inputValue: ''
+           inputValue: 'quakquer cosia'
        }
        this.state = { initialState };
     }
@@ -21,7 +21,7 @@ export class TrayIntegration  extends Component {
     } 
 
     render(){
-        const {newValue, clickButton} = this.props;
+        const {access_token, tray_auth} = this.props;
         const { inputValue } = this.state;
 
         return(
@@ -31,20 +31,20 @@ export class TrayIntegration  extends Component {
                     type='text'
                     value={inputValue}
                 />
-                <Button onClick={() => clickButton(inputValue)}>
+                <Button onClick={() => tray_auth()}>
                     Incluir arquivo
                 </Button>
-                <h1>{newValue}</h1>
+                <h1>{access_token}</h1>
           </div>
         );
     }
 }
 
 const mapStateToProps = store => ({
-    newValue: store.clickState.newValue
+    access_token: store.trayApiState.auth.access_token
 });
 
 const mapDispatchToProps = dispatch =>
-    bindActionCreators({ clickButton }, dispatch);
+    bindActionCreators({ tray_auth }, dispatch);
   
 export default connect(mapStateToProps, mapDispatchToProps)(TrayIntegration);
