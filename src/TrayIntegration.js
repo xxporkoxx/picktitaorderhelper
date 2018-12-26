@@ -56,7 +56,8 @@ export class TrayIntegration  extends Component {
                 ({Product}) => {
                     return(
                         <tr key={Product.id}>
-                            <td>{Product.id}</td>
+                            <td>{Product.id}</td>                        
+                            <td>{Product.reference}</td>
                             <td>{Product.name}</td>
                             <td>{Product.stock}</td>
                         </tr>
@@ -73,7 +74,8 @@ export class TrayIntegration  extends Component {
                 <Table striped bordered condensed hover>
                     <thead>
                         <tr>
-                        <th>#</th>
+                        <th>ID</th>
+                        <th>Referência</th>
                         <th>Nome</th>
                         <th>Estoque</th>
                         </tr>
@@ -82,7 +84,6 @@ export class TrayIntegration  extends Component {
                         {mappedProductArray}
                     </tbody>
                 </Table>;
-
           </div>
         );
     }
