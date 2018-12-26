@@ -1,4 +1,11 @@
-import { TRAY_AUTH_POST, TRAY_AUTH_SUCCESS,TRAY_AUTH_FAILURE } from "../actions";
+import { 
+        TRAY_AUTH_SUCCESS,
+        TRAY_AUTH_FAILURE,
+        TRAY_GET_PRODUCT_SUCCESS,
+        TRAY_GET_PRODUCT_FAILURE,
+        TRAY_REFRESH_PRODUCT_SUCCESS,
+        TRAY_REFRESH_PRODUCT_FAILURE
+    } from "../actions";
 
 const initialState={
     auth: {}
@@ -7,10 +14,6 @@ const initialState={
 export const trayApiReducer = (state = initialState, action) => {
     
     switch(action.type) {
-        case TRAY_AUTH_POST:
-            return {
-                ...state
-            };
         case TRAY_AUTH_SUCCESS:
             return {
                 ...state,
@@ -19,8 +22,28 @@ export const trayApiReducer = (state = initialState, action) => {
         case TRAY_AUTH_FAILURE:
             return {
                 ...state,
-                auth: action.error
-            };            
+                error: action.error
+            };
+        case TRAY_GET_PRODUCT_SUCCESS:
+            return {
+                ...state,
+                products: action.data
+            };
+        case TRAY_GET_PRODUCT_FAILURE:
+            return {
+                ...state,
+                error: action.error
+            };
+        case TRAY_REFRESH_PRODUCT_SUCCESS:
+            return {
+                ...state,
+                products: action.data
+            };
+        case TRAY_REFRESH_PRODUCT_FAILURE:
+            return {
+                ...state,
+                error: action.error
+            };
         default:
             return state
     }
