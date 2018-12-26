@@ -57,7 +57,7 @@ export class TrayIntegration  extends Component {
                     return(
                         <tr key={Product.id}>
                             <td>{Product.id}</td>
-                            <td colSpan="2">{Product.name}</td>
+                            <td>{Product.name}</td>
                             <td>{Product.stock}</td>
                         </tr>
                     )
@@ -75,7 +75,6 @@ export class TrayIntegration  extends Component {
                         <tr>
                         <th>#</th>
                         <th>Nome</th>
-                        <th/>
                         <th>Estoque</th>
                         </tr>
                     </thead>
