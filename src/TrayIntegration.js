@@ -4,7 +4,6 @@ import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 import * as TrayIntegrationActions from './actions';
 import DropZoneComponent from "./components/DropZoneComponent";
-import request from "superagent";
 
 export class TrayIntegration  extends Component {
 
@@ -84,7 +83,7 @@ export class TrayIntegration  extends Component {
                     <Col md={4} sm={4} xs={6}>
                         <DropZoneComponent>
                             {({getRootProps}) => <div {...getRootProps({
-                                
+
                             })} />}
                         </DropZoneComponent>
                     </Col>

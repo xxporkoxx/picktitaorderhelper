@@ -12,15 +12,34 @@ const baseStyle = {
   };
 
 class DropZoneComponent extends React.Component {
-    onDrop = (acceptedFiles, rejectedFiles) => {
-        console.log(acceptedFiles);
-        rejectedFiles? alert("Arquivo não suportado, escolha um arquivo de Texto (.txt)"):null
-        acceptedFiles;
+
+    onDrop = (acceptedFile, rejectedFile) => {
+        console.log(acceptedFile);
+        if(rejectedFile.length > 0 ){
+            alert("Arquivo não suportado, escolha um arquivo de Texto (.txt)")
+        }
+        else{
+            const fileReader = new FileReader();
+            fileReader.onloadend = function(event) {
+                let textFile = event.target.result;
+
+                if(textFile.match("^[0-9]*$")){
+                    console.log(textFile);
+                    
+                }
+                else{
+                    alert("Arquivo não suportado, adicione um arquivo contendo apenas referências separadas por uma quebra de linha")                    
+                }
+                
+            };
+
+            fileReader.readAsText(acceptedFile[0]);
+        }
     }
 
    render() {
     return (
-      <Dropzone onDrop={this.onDrop} accept="text/plain" >
+      <Dropzone onDrop={this.onDrop} accept="text/plain" multiple={false} >
         {({getRootProps, getInputProps, isDragActive}) => {
 
           return (
