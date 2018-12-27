@@ -1,8 +1,10 @@
-import { Button, Table } from 'react-bootstrap';
+import { Button, Table, Row, Col } from 'react-bootstrap';
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 import * as TrayIntegrationActions from './actions';
+import DropZoneComponent from "./components/DropZoneComponent";
+import request from "superagent";
 
 export class TrayIntegration  extends Component {
 
@@ -17,7 +19,7 @@ export class TrayIntegration  extends Component {
        this.state = { initialState };
        
        this.refreshProductList = this.refreshProductList.bind(this);       
-       this.fileUpload = this.fileUpload.bind(this);
+       this.fileDownload = this.fileDownload.bind(this);
     }
 
     componentDidMount(){
@@ -42,7 +44,7 @@ export class TrayIntegration  extends Component {
         });
     }
 
-    fileUpload(){
+    fileDownload(){
         
     }
 
@@ -68,9 +70,25 @@ export class TrayIntegration  extends Component {
 
         return(
             <div style={{ paddingTop: '10px' }}>
-                <Button onClick={() => this.refreshProductList()}>
-                    Recarregar Relatório de Produtos
-                </Button>
+                <Row>
+                    <Col md={4} sm={4} xs={6}>
+                        <Button onClick={() => this.refreshProductList()}>
+                            Recarregar Relatório de Produtos
+                        </Button>
+                    </Col>
+                    <Col md={4} sm={4} xs={6}>
+                        <Button onClick={() => this.fileDownload()}>
+                            Baixar Relatório de Produtos
+                        </Button>
+                    </Col>
+                    <Col md={4} sm={4} xs={6}>
+                        <DropZoneComponent>
+                            {({getRootProps}) => <div {...getRootProps({
+                                
+                            })} />}
+                        </DropZoneComponent>
+                    </Col>
+                </Row>
                 <Table striped bordered condensed hover>
                     <thead>
                         <tr>
@@ -83,7 +101,7 @@ export class TrayIntegration  extends Component {
                     <tbody>
                         {mappedProductArray}
                     </tbody>
-                </Table>;
+                </Table>
           </div>
         );
     }
