@@ -3,61 +3,94 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 import * as TrayIntegrationActions from './actions';
-import DropZoneComponent from "./components/DropZoneComponent";
+import Dropzone from 'react-dropzone';
+import classNames from 'classnames'
 
-export class TrayIntegration  extends Component {
+const baseStyle = {
+    width: 200,
+    height: 34,
+    borderWidth: 2,
+    borderColor: '#666',
+    borderStyle: 'dashed',
+    borderRadius: 5
+};
+
+export class TrayIntegration extends Component {
 
     constructor(props) {
-      super(props);
-       let initialState={
-           inputValue: '',
-           trayApiState: {
+        super(props);
+        let initialState = {
+            inputValue: '',
+            trayApiState: {
                 products: {},
             }
-       }
-       this.state = { initialState };
-       
-       this.refreshProductList = this.refreshProductList.bind(this);       
-       this.fileDownload = this.fileDownload.bind(this);
+        }
+        this.state = { initialState };
+
+        this.refreshProductList = this.refreshProductList.bind(this);
+        this.fileDownload = this.fileDownload.bind(this);
     }
 
-    componentDidMount(){
+    componentDidMount() {
         this.props.tray_auth()
-        .then(response => {
-            this.props.tray_auth_success(response.data)
-            this.refreshProductList();
-        })
-        .catch(error => {
-            this.props.tray_auth_failure(error);
-        });
+            .then(response => {
+                this.props.tray_auth_success(response.data)
+                this.refreshProductList();
+            })
+            .catch(error => {
+                this.props.tray_auth_failure(error);
+            });
     }
 
-    refreshProductList(){
+    refreshProductList() {
         this.props.tray_get_product(0, true)
-        .then(response => {
-            this.props.tray_get_product_success(response.data);
-        })
-        .catch(error => {
-            this.props.tray_get_product_failure(error);
-            alert(error);
-        });
+            .then(response => {
+                this.props.tray_get_product_success(response.data);
+            })
+            .catch(error => {
+                this.props.tray_get_product_failure(error);
+                alert(error);
+            });
     }
 
-    fileDownload(){
-        
+    fileDownload() {
+
     }
 
-    render(){
+    onDrop = (acceptedFile, rejectedFile) => {
+        if (rejectedFile.length > 0) {
+            alert("Arquivo não suportado, escolha um arquivo de Texto (.txt)")
+        }
+        else {
+            const fileReader = new FileReader();
+            fileReader.onloadend = function (event) {
+                let textFile = event.target.result;
+
+                if (textFile.match("[0-9]")) {
+                    console.log(textFile);
+
+                }
+                else {
+                    alert("Arquivo não suportado, adicione um arquivo contendo apenas referências separadas por uma quebra de linha")
+                }
+
+            };
+
+            fileReader.readAsText(acceptedFile[0]);
+        }
+    }
+
+    render() {
         const { access_token } = this.props.auth;
-        let  productArray  = this.props.products ? this.props.products.Products : null;
-        let  mappedProductArray = <tr/>;
+        let productArray = this.props.products ? this.props.products.Products : null;
+        let mappedProductArray = <tr />;
 
-        if(productArray !== null){
+        if (productArray !== null) {
             mappedProductArray = productArray.map(
-                ({Product}) => {
-                    return(
+                ({ Product }) => {
+                    return (
                         <tr key={Product.id}>
-                            <td>{Product.id}</td>                        
+                            <td>{Product.id}</td>
                             <td>{Product.reference}</td>
                             <td>{Product.name}</td>
                             <td>{Product.stock}</td>
@@ -67,7 +100,7 @@ export class TrayIntegration  extends Component {
             );
         }
 
-        return(
+        return (
             <div style={{ paddingTop: '10px' }}>
                 <Row>
                     <Col md={4} sm={4} xs={6}>
@@ -81,27 +114,36 @@ export class TrayIntegration  extends Component {
                         </Button>
                     </Col>
                     <Col md={4} sm={4} xs={6}>
-                        <DropZoneComponent>
-                            {({getRootProps}) => <div {...getRootProps({
-
-                            })} />}
-                        </DropZoneComponent>
+                        <Dropzone onDrop={this.onDrop} accept="text/plain" multiple={false} >
+                            {({ getRootProps, getInputProps, isDragActive, onClick }) => {
+                                return (
+                                    <div
+                                        {...getRootProps(this.state)}
+                                        style={baseStyle}
+                                        className={classNames('dropzone', { 'dropzone--isActive': isDragActive })}
+                                    >
+                                        <input {...getInputProps()} />
+                                        {<p>Clique ou Arraste um arquivo</p>}
+                                    </div>
+                                )
+                            }}
+                        </Dropzone>
                     </Col>
                 </Row>
                 <Table striped bordered condensed hover>
                     <thead>
                         <tr>
-                        <th>ID</th>
-                        <th>Referência</th>
-                        <th>Nome</th>
-                        <th>Estoque</th>
+                            <th>ID</th>
+                            <th>Referência</th>
+                            <th>Nome</th>
+                            <th>Estoque</th>
                         </tr>
                     </thead>
                     <tbody>
                         {mappedProductArray}
                     </tbody>
                 </Table>
-          </div>
+            </div>
         );
     }
 }
@@ -113,5 +155,5 @@ const mapStateToProps = state => ({
 
 const mapDispatchToProps = dispatch =>
     bindActionCreators({ ...TrayIntegrationActions }, dispatch);
-  
+
 export default connect(mapStateToProps, mapDispatchToProps)(TrayIntegration);
