@@ -1,4 +1,4 @@
-import {TRAY_CODE, TRAY_CONSUMER_KEY, TRAY_CONSUMER_SECRET_KEY, TRAY_API_URL } from '../api_keys';
+import {TRAY_CODE, TRAY_CONSUMER_KEY, TRAY_CONSUMER_SECRET_KEY, TRAY_API_URL } from '../constants/api_keys';
 import axios from 'axios';
 import { Store } from '../store';
 

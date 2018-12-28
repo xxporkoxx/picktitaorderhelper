@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import './App.css';
 import { Route } from "react-router-dom";
-import { Image, Nav, Navbar, NavItem } from 'react-bootstrap';
-import OrderHelper from './OrderHelper'
-import TrayIntegration from './TrayIntegration'
+import { Image, Nav, Navbar, NavItem, MenuItem, NavDropdown } from 'react-bootstrap';
+import OrderHelper from '../containers/OrderHelper'
+import TrayIntegration from '../containers/TrayIntegration'
 import 'react-bootstrap-table-next/dist/react-bootstrap-table2.min.css';
 import Dashboard from './Dashboard';
 
@@ -24,20 +24,25 @@ class App extends Component {
               </a>
             </Navbar.Brand>
           </Navbar.Header>
-          <Nav>
+          <Nav bsStyle="tabs">
             <NavItem eventKey={1} href="/orderHelper">
               Planilha de Pedido
             </NavItem>
             <NavItem eventKey={2} href="/trayIntegration">
               Integração Tray
             </NavItem>
+            <NavDropdown eventKey={4} title="Integração Tray" id="nav-dropdown">
+              <MenuItem eventKey={4.1} href="/">Lstagem de Produtos</MenuItem>
+              <MenuItem divider />
+              <MenuItem eventKey={4.2} href="/trayIntegration">Atualização de Estoque</MenuItem>
+            </NavDropdown>
           </Nav>
         </Navbar>
         <div>
-        <Route path="/" exact component={Dashboard} />
-        <Route path="/dashboard" component={Dashboard} />
-        <Route path="/orderHelper" component={OrderHelper} />
-        <Route path="/trayIntegration" component={TrayIntegration} />
+          <Route path="/" exact component={Dashboard} />
+          <Route path="/dashboard" component={Dashboard} />
+          <Route path="/orderHelper" component={OrderHelper} />
+          <Route path="/trayIntegration" component={TrayIntegration} />
         </div>
       </div>
     );

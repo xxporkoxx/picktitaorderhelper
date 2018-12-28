@@ -2,7 +2,7 @@ import { Button, Table, Row, Col } from 'react-bootstrap';
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
-import * as TrayIntegrationActions from './actions';
+import * as TrayIntegrationActions from '../actions';
 import Dropzone from 'react-dropzone';
 import classNames from 'classnames'
 
