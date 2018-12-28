@@ -15,7 +15,7 @@ const baseStyle = {
     borderRadius: 5
 };
 
-export class TrayIntegration extends Component {
+export class TrayProductListing extends Component {
 
     constructor(props) {
         super(props);
@@ -155,4 +155,4 @@ const mapStateToProps = state => ({
 const mapDispatchToProps = dispatch =>
     bindActionCreators({ ...TrayIntegrationActions }, dispatch);
 
-export default connect(mapStateToProps, mapDispatchToProps)(TrayIntegration);
+export default connect(mapStateToProps, mapDispatchToProps)(TrayProductListing);
