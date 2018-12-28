@@ -81,7 +81,6 @@ export class TrayIntegration extends Component {
     }
 
     render() {
-        const { access_token } = this.props.auth;
         let productArray = this.props.products ? this.props.products.Products : null;
         let mappedProductArray = <tr />;
 
