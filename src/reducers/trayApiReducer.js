@@ -1,19 +1,19 @@
-import { 
-        TRAY_AUTH_SUCCESS,
-        TRAY_AUTH_FAILURE,
-        TRAY_GET_PRODUCT_SUCCESS,
-        TRAY_GET_PRODUCT_FAILURE,
-        TRAY_REFRESH_PRODUCT_SUCCESS,
-        TRAY_REFRESH_PRODUCT_FAILURE
-    } from "../actions";
+import {
+    TRAY_AUTH_SUCCESS,
+    TRAY_AUTH_FAILURE,
+    TRAY_GET_PRODUCT_SUCCESS,
+    TRAY_GET_PRODUCT_FAILURE,
+    TRAY_REFRESH_PRODUCT_SUCCESS,
+    TRAY_REFRESH_PRODUCT_FAILURE,
+} from "../actions";
 
-const initialState={
+const initialState = {
     auth: {}
 };
 
 export const trayApiReducer = (state = initialState, action) => {
-    
-    switch(action.type) {
+
+    switch (action.type) {
         case TRAY_AUTH_SUCCESS:
             return {
                 ...state,

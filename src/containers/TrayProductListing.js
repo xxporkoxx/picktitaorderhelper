@@ -1,31 +1,19 @@
-import { Button, Table, Row, Col } from 'react-bootstrap';
+import { Button, Table, Row, Col, Pagination } from 'react-bootstrap';
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 import * as TrayIntegrationActions from '../actions';
-import Dropzone from 'react-dropzone';
-import classNames from 'classnames'
-
-const baseStyle = {
-    width: 200,
-    height: 34,
-    borderWidth: 2,
-    borderColor: '#666',
-    borderStyle: 'dashed',
-    borderRadius: 5
-};
 
 export class TrayProductListing extends Component {
 
     constructor(props) {
         super(props);
-        let initialState = {
-            inputValue: '',
+
+        this.state = { activePage: 1,
             trayApiState: {
                 products: {},
-            }
-        }
-        this.state = { initialState };
+            } 
+        };
 
         this.refreshProductList = this.refreshProductList.bind(this);
         this.fileDownload = this.fileDownload.bind(this);
@@ -43,41 +31,20 @@ export class TrayProductListing extends Component {
     }
 
     refreshProductList() {
-        this.props.tray_get_product(0, true)
+        this.props.tray_get_product(null,4)
             .then(response => {
                 this.props.tray_get_product_success(response.data);
+                this.props.actionHideLoading();                                                
             })
             .catch(error => {
                 this.props.tray_get_product_failure(error);
+                this.props.actionHideLoading();                                                                
                 alert(error);
             });
     }
 
     fileDownload() {
 
-    }
-
-    onDrop = (acceptedFile, rejectedFile) => {
-        if (rejectedFile.length > 0) {
-            alert("Arquivo não suportado, escolha um arquivo de Texto (.txt)")
-        }
-        else {
-            const fileReader = new FileReader();
-            fileReader.onloadend = function (event) {
-                let textFile = event.target.result;
-
-                if (textFile.match("[0-9]")) {
-                    console.log(textFile);
-
-                }
-                else {
-                    alert("Arquivo não suportado, adicione um arquivo contendo apenas referências separadas por uma quebra de linha")
-                }
-
-            };
-
-            fileReader.readAsText(acceptedFile[0]);
-        }
     }
 
     render() {
@@ -112,22 +79,7 @@ export class TrayProductListing extends Component {
                             Baixar Relatório de Produtos
                         </Button>
                     </Col>
-                    <Col md={4} sm={4} xs={6}>
-                        <Dropzone onDrop={this.onDrop} accept="text/plain" multiple={false} >
-                            {({ getRootProps, getInputProps, isDragActive, onClick }) => {
-                                return (
-                                    <div
-                                        {...getRootProps(this.state)}
-                                        style={baseStyle}
-                                        className={classNames('dropzone', { 'dropzone--isActive': isDragActive })}
-                                    >
-                                        <input {...getInputProps()} />
-                                        {<p>Clique ou Arraste um arquivo</p>}
-                                    </div>
-                                )
-                            }}
-                        </Dropzone>
-                    </Col>
+
                 </Row>
                 <Table striped bordered condensed hover>
                     <thead>
@@ -142,6 +94,27 @@ export class TrayProductListing extends Component {
                         {mappedProductArray}
                     </tbody>
                 </Table>
+                <Row>
+                    <Col mdOffset={4} >
+                        <Pagination>
+                            <Pagination.First />
+                            <Pagination.Prev />
+                            <Pagination.Item>{1}</Pagination.Item>
+                            <Pagination.Ellipsis />
+
+                            <Pagination.Item>{10}</Pagination.Item>
+                            <Pagination.Item>{11}</Pagination.Item>
+                            <Pagination.Item active>{12}</Pagination.Item>
+                            <Pagination.Item>{13}</Pagination.Item>
+                            <Pagination.Item disabled>{14}</Pagination.Item>
+
+                            <Pagination.Ellipsis />
+                            <Pagination.Item>{20}</Pagination.Item>
+                            <Pagination.Next />
+                            <Pagination.Last />
+                        </Pagination>;
+                    </Col>
+                </Row>
             </div>
         );
     }

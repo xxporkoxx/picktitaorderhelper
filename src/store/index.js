@@ -1,8 +1,24 @@
-import { createStore, applyMiddleware } from 'redux';
-import { Reducers } from '../reducers';
-import logger from 'redux-logger';
-import thunk from 'redux-thunk';
+import thunkMiddleware from 'redux-thunk'
+import promiseMiddleware from 'redux-promise-middleware'
+import { createLogger } from 'redux-logger'
+import {
+  createStore,
+  applyMiddleware,
+  compose,
+} from 'redux'
+import { loadingBarMiddleware } from 'react-redux-loading-bar'
 
-const middleware = applyMiddleware(thunk ,logger);
+import rootReducer from '../reducers'
 
-export const Store = createStore(Reducers, middleware);
+const createStoreWithMiddleware = compose(
+  applyMiddleware(
+    thunkMiddleware, // lets us dispatch() functions
+    promiseMiddleware(), // resolves promises
+    loadingBarMiddleware(), // manages loading bar
+    createLogger(), // log actions in console
+  ),
+)(createStore)
+
+const store = createStoreWithMiddleware(rootReducer)
+
+export default store

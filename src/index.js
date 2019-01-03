@@ -5,10 +5,10 @@ import App from './containers/App';
 import registerServiceWorker from './registerServiceWorker';
 import { BrowserRouter } from "react-router-dom";
 import { Provider } from 'react-redux';
-import { Store } from './store';
+import store from './store';
 
 ReactDOM.render((
-    <Provider store={Store}>
+    <Provider store={store}>
         <BrowserRouter>
             <App />
         </BrowserRouter>
