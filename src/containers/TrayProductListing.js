@@ -1,15 +1,17 @@
-import { Button, Table, Row, Col, Pagination } from 'react-bootstrap';
+import { Button, Table, Row, Col } from 'react-bootstrap';
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 import * as TrayIntegrationActions from '../actions';
+import { ProductPagination } from '../components/ProductPagination';
 
 export class TrayProductListing extends Component {
 
     constructor(props) {
         super(props);
 
-        this.state = { activePage: 1,
+        this.state = { 
+            activePage: 1,
             trayApiState: {
                 products: {},
             } 
@@ -45,6 +47,10 @@ export class TrayProductListing extends Component {
 
     fileDownload() {
 
+    }
+
+    onSelectPage(newSelectedPage){
+        console.log(`Slecte page ${newSelectedPage}`)
     }
 
     render() {
@@ -94,27 +100,11 @@ export class TrayProductListing extends Component {
                         {mappedProductArray}
                     </tbody>
                 </Table>
-                <Row>
-                    <Col mdOffset={4} >
-                        <Pagination>
-                            <Pagination.First />
-                            <Pagination.Prev />
-                            <Pagination.Item>{1}</Pagination.Item>
-                            <Pagination.Ellipsis />
-
-                            <Pagination.Item>{10}</Pagination.Item>
-                            <Pagination.Item>{11}</Pagination.Item>
-                            <Pagination.Item active>{12}</Pagination.Item>
-                            <Pagination.Item>{13}</Pagination.Item>
-                            <Pagination.Item disabled>{14}</Pagination.Item>
-
-                            <Pagination.Ellipsis />
-                            <Pagination.Item>{20}</Pagination.Item>
-                            <Pagination.Next />
-                            <Pagination.Last />
-                        </Pagination>;
-                    </Col>
-                </Row>
+                <ProductPagination
+                    activePage = {this.state.activePage}
+                    onSelectPage = {this.onSelectPage}
+                    lastPage = {15}
+                />
             </div>
         );
     }
