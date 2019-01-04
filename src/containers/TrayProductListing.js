@@ -106,17 +106,11 @@ export class TrayProductListing extends Component {
         return (
             <div style={{ paddingTop: '10px' }}>
                 <Row>
-                    <Col md={4} sm={4} xs={6}>
-                        <Button onClick={() => this.refreshProductList()}>
-                            Recarregar Relatório de Produtos
-                        </Button>
-                    </Col>
-                    <Col md={4} sm={4} xs={6}>
-                        <Button onClick={() => this.fileDownload()}>
+                    <Col>
+                        <Button bsStyle="primary" onClick={() => this.fileDownload()}>
                             Baixar Relatório de Produtos
                         </Button>
                     </Col>
-
                 </Row>
                 <Table striped bordered condensed hover>
                     <thead>
