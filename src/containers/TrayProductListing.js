@@ -10,11 +10,18 @@ export class TrayProductListing extends Component {
     constructor(props) {
         super(props);
 
-        this.state = { 
-            activePage: 1,
+        this.state = {
             trayApiState: {
-                products: {},
-            } 
+                products: {
+                    paging: {
+                        page: 0,
+                        limit: 0,
+                        maxLimit: 0,
+                        offset: 0,
+                        total: 0
+                    }
+                }
+            }
         };
 
         this.refreshProductList = this.refreshProductList.bind(this);
@@ -33,14 +40,27 @@ export class TrayProductListing extends Component {
     }
 
     refreshProductList() {
-        this.props.tray_get_product(null,4)
+        this.props.tray_get_product(null, 4)
             .then(response => {
-                this.props.tray_get_product_success(response.data);
-                this.props.actionHideLoading();                                                
+                let { data } = response;
+                this.props.tray_get_product_success(data);
+                this.props.actionHideLoading();
+                this.setState({
+                    trayApiState: {
+                        products: {
+                            paging: {
+                                page: data.paging.page,
+                                limit: data.paging.limit,
+                                offset: data.paging.offset,
+                                total: data.paging.total
+                            }
+                        }
+                    }
+                })
             })
             .catch(error => {
                 this.props.tray_get_product_failure(error);
-                this.props.actionHideLoading();                                                                
+                this.props.actionHideLoading();
                 alert(error);
             });
     }
@@ -49,13 +69,14 @@ export class TrayProductListing extends Component {
 
     }
 
-    onSelectPage(newSelectedPage){
+    onSelectPage(newSelectedPage) {
         console.log(`Slecte page ${newSelectedPage}`)
     }
 
     render() {
         let productArray = this.props.products ? this.props.products.Products : null;
         let mappedProductArray = <tr />;
+        let {page, limit, total} = this.state.trayApiState.products.paging;
 
         if (productArray !== null) {
             mappedProductArray = productArray.map(
@@ -71,6 +92,14 @@ export class TrayProductListing extends Component {
                 }
             );
         }
+
+        let paginationComponent = (total==0)? null :
+            <ProductPagination
+                activePage={page}
+                onSelectPage={this.onSelectPage}
+                limit={limit}
+                total={total}
+            />;
 
         return (
             <div style={{ paddingTop: '10px' }}>
@@ -100,11 +129,7 @@ export class TrayProductListing extends Component {
                         {mappedProductArray}
                     </tbody>
                 </Table>
-                <ProductPagination
-                    activePage = {this.state.activePage}
-                    onSelectPage = {this.onSelectPage}
-                    lastPage = {15}
-                />
+                {paginationComponent}
             </div>
         );
     }

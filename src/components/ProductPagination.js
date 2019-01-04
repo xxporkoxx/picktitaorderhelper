@@ -6,8 +6,11 @@ export class ProductPagination extends Component {
 
     constructor(props) {
         super(props);
+        console.log(this.props)
         this.state = {
-            activePage: this.props.activePage
+            activePage: this.props.activePage,
+            itemsCountPerPage: this.props.limit,
+            totalItemsCount: this.props.total
         };
         this.onClck = this.onClck.bind(this);
     }
@@ -22,12 +25,12 @@ export class ProductPagination extends Component {
     render() {
         return (
             <Row>
-                <Col mdOffset={4} >
+                <Col mdOffset={2} >
                     <Pagination
                         activePage={this.state.activePage}
-                        itemsCountPerPage={10}
-                        totalItemsCount={50}
-                        pageRangeDisplayed={10}
+                        itemsCountPerPage={this.state.itemsCountPerPage}
+                        totalItemsCount={this.state.totalItemsCount}
+                        pageRangeDisplayed={20}
                         onChange={(nextPage) => this.onClck(nextPage)}
                     />
                 </Col>
