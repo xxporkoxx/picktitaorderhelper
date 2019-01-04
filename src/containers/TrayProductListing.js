@@ -25,6 +25,7 @@ export class TrayProductListing extends Component {
         };
 
         this.refreshProductList = this.refreshProductList.bind(this);
+        this.onSelectPage = this.onSelectPage.bind(this);
         this.fileDownload = this.fileDownload.bind(this);
     }
 
@@ -32,15 +33,15 @@ export class TrayProductListing extends Component {
         this.props.tray_auth()
             .then(response => {
                 this.props.tray_auth_success(response.data)
-                this.refreshProductList();
+                this.refreshProductList(1);
             })
             .catch(error => {
                 this.props.tray_auth_failure(error);
             });
     }
 
-    refreshProductList() {
-        this.props.tray_get_product(null, 4)
+    refreshProductList(page) {
+        this.props.tray_get_product(null, page)
             .then(response => {
                 let { data } = response;
                 this.props.tray_get_product_success(data);
@@ -71,6 +72,7 @@ export class TrayProductListing extends Component {
 
     onSelectPage(newSelectedPage) {
         console.log(`Slecte page ${newSelectedPage}`)
+        this.refreshProductList(newSelectedPage);
     }
 
     render() {
