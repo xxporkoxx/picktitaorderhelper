@@ -95,7 +95,7 @@ export class TrayProductListing extends Component {
             );
         }
 
-        let paginationComponent = (total==0)? null :
+        let paginationComponent = (total===0)? null :
             <ProductPagination
                 activePage={page}
                 onSelectPage={this.onSelectPage}
