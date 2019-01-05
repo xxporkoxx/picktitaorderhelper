@@ -13,17 +13,26 @@ const ProductListDownload = (totalPages) => {
         arrayOfPages[i - 1] = i;
     }
 
-    store.dispatch(tray_get_all_products(arrayOfPages))
+    return( store.dispatch(tray_get_all_products(arrayOfPages))
         .then((result) => {
-            store.dispatch(tray_get_all_products_success(result));
+
+            let allProducts =
+                [].concat.apply([], result.map((request) => {
+                    return request.data.Products
+                })
+            );
+
+            store.dispatch(tray_get_all_products_success(allProducts));
             store.dispatch(actionResetLoading());
+
+            return allProducts;
         })
         .catch((error) => {
             store.dispatch(tray_get_all_products_failure(error));
             store.dispatch(actionResetLoading());
-        });
-
-    return (true);
+            return error;
+        })
+    )
 };
 
 export default ProductListDownload

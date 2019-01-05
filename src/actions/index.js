@@ -116,17 +116,10 @@ export const tray_get_all_products = (arrayOfPagesNumbers) => {
 }
 
 export const TRAY_GET_ALL_PRODUCTS_SUCCESS = 'TRAY_GET_ALL_PRODUCTS_SUCCESS';
-export const tray_get_all_products_success = (result) => {
-
-    let allProducts =
-        [].concat.apply([], result.map((request) => {
-            return request.data.Products
-        })
-    );
-    
+export const tray_get_all_products_success = (data) => {
     return {
         type: TRAY_GET_ALL_PRODUCTS_SUCCESS,
-        data: allProducts
+        data
     }
 }
 

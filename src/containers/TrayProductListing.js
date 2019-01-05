@@ -70,7 +70,21 @@ export class TrayProductListing extends Component {
     fileDownload() {
         let { limit, total } = this.state.trayApiState.products.paging;
         let totalPages = Math.round(total / limit);
-        console.log(`RESULTADO:${ProductListDownload(totalPages)}`);
+        ProductListDownload(totalPages)
+            .then((result) => {
+                let fileUrl =
+                    window.URL.createObjectURL(new Blob([result], { type: 'text/plain' }));
+                let tempLink = document.createElement('a');
+                let date = new Date();
+                let fileName = 
+                `RelatorioProdutosDown.${date.getDay()}.${date.getMonth()}.${date.getFullYear()}.${date.getHours()}.${date.getMinutes()}.txt`
+                tempLink.href = fileUrl;
+                tempLink.setAttribute('download', fileName);
+                tempLink.click();
+            })
+            .catch((error) => {
+                alert(error);
+            })
     }
 
     onSelectPage(newSelectedPage) {
