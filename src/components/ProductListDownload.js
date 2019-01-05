@@ -1,7 +1,10 @@
-import React from 'react';
-import { tray_get_all_products } from '../actions';
-import store from '../store/index'
-import { hideLoading } from 'react-redux-loading-bar';
+import {
+    tray_get_all_products,
+    actionResetLoading,
+    tray_get_all_products_success,
+    tray_get_all_products_failure
+} from '../actions';
+import store from '../store/index';
 
 const ProductListDownload = (totalPages) => {
     totalPages = 10;
@@ -12,10 +15,13 @@ const ProductListDownload = (totalPages) => {
 
     store.dispatch(tray_get_all_products(arrayOfPages))
         .then((result) => {
-            store.dispatch(hideLoading());
-            console.log(result);
-        }
-    )
+            store.dispatch(tray_get_all_products_success(result));
+            store.dispatch(actionResetLoading());
+        })
+        .catch((error) => {
+            store.dispatch(tray_get_all_products_failure(error));
+            store.dispatch(actionResetLoading());
+        });
 
     return (true);
 };

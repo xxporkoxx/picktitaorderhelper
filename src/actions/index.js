@@ -1,10 +1,11 @@
 import { TRAY_CODE, TRAY_CONSUMER_KEY, TRAY_CONSUMER_SECRET_KEY, TRAY_API_URL } from '../constants/api_keys';
 import axios from 'axios';
 import store from '../store';
-import { showLoading, hideLoading } from 'react-redux-loading-bar'
+import { showLoading, hideLoading, resetLoading } from 'react-redux-loading-bar'
 
 export const actionShowLoading = () => { return (dispatch) => dispatch(showLoading()) }
 export const actionHideLoading = () => { return (dispatch) => dispatch(hideLoading()) }
+export const actionResetLoading = () => { return (dispatch) => dispatch(resetLoading()) }
 
 export const tray_auth = () => {
     let data = {
@@ -106,11 +107,33 @@ export const tray_refresh_product_failure = (error) => {
 }
 
 export const tray_get_all_products = (arrayOfPagesNumbers) => {
-    let allProducts = []
     return dispatch => Promise.all(
         arrayOfPagesNumbers.map((currentPage) => { // map instead of forEach
             console.log(currentPage)
-            return dispatch(tray_get_product(null,currentPage))
+            return dispatch(tray_get_product(null, currentPage))
         })
     );
+}
+
+export const TRAY_GET_ALL_PRODUCTS_SUCCESS = 'TRAY_GET_ALL_PRODUCTS_SUCCESS';
+export const tray_get_all_products_success = (result) => {
+
+    let allProducts =
+        [].concat.apply([], result.map((request) => {
+            return request.data.Products
+        })
+    );
+    
+    return {
+        type: TRAY_GET_ALL_PRODUCTS_SUCCESS,
+        data: allProducts
+    }
+}
+
+export const TRAY_GET_ALL_PRODUCTS_FAILURE = 'TRAY_GET_ALL_PRODUCTS_FAILURE';
+export const tray_get_all_products_failure = (data) => {
+    return {
+        type: TRAY_GET_ALL_PRODUCTS_FAILURE,
+        data
+    }
 }
