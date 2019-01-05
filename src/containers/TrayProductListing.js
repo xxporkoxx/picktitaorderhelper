@@ -5,6 +5,7 @@ import { bindActionCreators } from 'redux';
 import * as TrayIntegrationActions from '../actions';
 import { ProductPagination } from '../components/ProductPagination';
 import ProductListDownload from '../components/ProductListDownload'
+import DownloadFileStructuring from '../components/DownloadFileStructuring';
 
 export class TrayProductListing extends Component {
 
@@ -38,6 +39,7 @@ export class TrayProductListing extends Component {
             })
             .catch(error => {
                 this.props.tray_auth_failure(error);
+                alert(error);
             });
     }
 
@@ -72,15 +74,7 @@ export class TrayProductListing extends Component {
         let totalPages = Math.round(total / limit);
         ProductListDownload(totalPages)
             .then((result) => {
-                let fileUrl =
-                    window.URL.createObjectURL(new Blob([result], { type: 'text/plain' }));
-                let tempLink = document.createElement('a');
-                let date = new Date();
-                let fileName = 
-                `RelatorioProdutosDown.${date.getDay()}.${date.getMonth()}.${date.getFullYear()}.${date.getHours()}.${date.getMinutes()}.txt`
-                tempLink.href = fileUrl;
-                tempLink.setAttribute('download', fileName);
-                tempLink.click();
+                DownloadFileStructuring(result);
             })
             .catch((error) => {
                 alert(error);

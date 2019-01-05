@@ -108,8 +108,7 @@ export const tray_refresh_product_failure = (error) => {
 
 export const tray_get_all_products = (arrayOfPagesNumbers) => {
     return dispatch => Promise.all(
-        arrayOfPagesNumbers.map((currentPage) => { // map instead of forEach
-            console.log(currentPage)
+        arrayOfPagesNumbers.map((currentPage) => {
             return dispatch(tray_get_product(null, currentPage))
         })
     );
