@@ -4,7 +4,7 @@ import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 import * as TrayIntegrationActions from '../actions';
 import { ProductPagination } from '../components/ProductPagination';
-import ProductListDownload from '../components/ProductListDownload'
+import DownloadProductListRequest from '../components/DownloadProductListRequest'
 import DownloadFileStructuring from '../components/DownloadFileStructuring';
 
 export class TrayProductListing extends Component {
@@ -72,7 +72,7 @@ export class TrayProductListing extends Component {
     fileDownload() {
         let { limit, total } = this.state.trayApiState.products.paging;
         let totalPages = Math.round(total / limit);
-        ProductListDownload(totalPages)
+        DownloadProductListRequest(totalPages)
             .then((result) => {
                 DownloadFileStructuring(result);
             })

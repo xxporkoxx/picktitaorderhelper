@@ -5,6 +5,7 @@ import { bindActionCreators } from 'redux';
 import * as TrayIntegrationActions from '../actions';
 import Dropzone from 'react-dropzone';
 import classNames from 'classnames'
+import UploadFileParse from '../components/UploadFileParse'
 
 const baseStyle = {
     width: 200,
@@ -17,6 +18,15 @@ const baseStyle = {
 
 export class TrayStockUpdate extends Component {
 
+    constructor(props){
+        super(props);
+        this.state={
+            fileAccepted: false,
+            numberOfProducts: 0,
+            productsNotFounded:[]
+        }
+    }
+
     onDrop = (acceptedFile, rejectedFile) => {
         if (rejectedFile.length > 0) {
             alert("Arquivo não suportado, escolha um arquivo de Texto (.txt)")
@@ -25,12 +35,14 @@ export class TrayStockUpdate extends Component {
             const fileReader = new FileReader();
             fileReader.onloadend = function (event) {
                 let textFile = event.target.result;
+                let parsedProducts = UploadFileParse(textFile);
 
-                if (textFile.match("[0-9]")) {
+                if (parsedProducts !== null) {
                     //Upload procedure
+                    
                 }
                 else {
-                    alert("Arquivo não suportado, adicione um arquivo contendo apenas referências separadas por uma quebra de linha")
+                    alert("Arquivo não suportado, adicione um arquivo contendo apenas referências que sigam o padrão: ID|REF|NOME|ESTOQUE e uma quebra de linha no final")
                 }
 
             };
@@ -42,16 +54,18 @@ export class TrayStockUpdate extends Component {
     render() {
         return (
             <div>
-                <Jumbotron>
-                    <h2>Atualização de Estoque de Produtos</h2>
-                    <p>
-                        Fazendo o Upload de um arquivo abaixo contendo várias linhas na formatação correta,
-                        todos os produtos listados deverão estar previamente integrados na plataforma
-                        e terão seu estoque atualizado. O arquivo deve ser formatado da forma:
-                        ID REF NOME ESTOQUE 
+                <Jumbotron >
+                    <div style={{ marginLeft: '15px',marginRight: '15px' }}>
+                        <h2>Atualização de Estoque de Produtos</h2>
+                        <p>
+                            Fazendo o Upload de um arquivo abaixo contendo várias linhas na formatação correta,
+                            todos os produtos listados deverão estar previamente integrados na plataforma
+                            e terão seu estoque atualizado. O arquivo deve ser formatado da forma:
+                            ID|REF|NOME|ESTOQUE
                     </p>
+                    </div>
                 </Jumbotron>;
-                <Row>
+                <Row style={{ marginLeft: '15px',marginRight: '15px' }}>
                     <Col md={4} sm={4} xs={6}>
                         <Dropzone onDrop={this.onDrop} accept="text/plain" multiple={false} >
                             {({ getRootProps, getInputProps, isDragActive, onClick }) => {

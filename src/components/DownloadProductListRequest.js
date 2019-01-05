@@ -6,7 +6,7 @@ import {
 } from '../actions';
 import store from '../store/index';
 
-const ProductListDownload = (totalPages) => {
+const DownloadProductListRequest = (totalPages) => {
     totalPages = 30;
     let arrayOfPages = [];
     for (let i = 1; i <= totalPages; i++) {
@@ -35,4 +35,4 @@ const ProductListDownload = (totalPages) => {
     )
 };
 
-export default ProductListDownload
+export default DownloadProductListRequest
