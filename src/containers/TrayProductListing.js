@@ -117,15 +117,18 @@ export class TrayProductListing extends Component {
             <div style={{ paddingTop: '10px' }}>
                 <Row>
                     <Col>
-                        <Button 
+                        <Button
                             bsStyle="primary"
-                            style={{ margin: '10px', marginLeft:'20px' }}
+                            style={{ margin: '10px', marginLeft: '20px' }}
                             onClick={() => this.fileDownload()}>
                             Baixar Relatório de Produtos
                         </Button>
                     </Col>
                 </Row>
-                <Table striped bordered condensed hover>
+                <Table
+                    striped bordered condensed hover
+                    style={{ margin: '10px'}}
+                >
                     <thead>
                         <tr>
                             <th>ID</th>
