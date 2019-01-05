@@ -117,7 +117,10 @@ export class TrayProductListing extends Component {
             <div style={{ paddingTop: '10px' }}>
                 <Row>
                     <Col>
-                        <Button bsStyle="primary" onClick={() => this.fileDownload()}>
+                        <Button 
+                            bsStyle="primary"
+                            style={{ margin: '10px', marginLeft:'20px' }}
+                            onClick={() => this.fileDownload()}>
                             Baixar Relatório de Produtos
                         </Button>
                     </Col>

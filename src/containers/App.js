@@ -37,7 +37,7 @@ class App extends Component {
             </NavDropdown>
           </Nav>
         </Navbar>
-        <LoadingBar/>
+        <LoadingBar maxProgress={80} progressIncrease={20}/>
         <div>
           <Route path="/" exact component={Dashboard} />
           <Route path="/dashboard" component={Dashboard} />

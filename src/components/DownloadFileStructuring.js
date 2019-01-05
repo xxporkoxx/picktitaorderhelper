@@ -2,7 +2,7 @@ const DownloadFileStructuring = (arrayOfProducts) => {
     let tempLink = document.createElement('a');
     let date = new Date();
     let fileName =
-        `RelatorioProdutosDown.${date.getDay()}.${date.getMonth()}.${date.getFullYear()}.${date.getHours()}.${date.getMinutes()}.txt`
+        `RelatorioProdutosDown.${date.getDay()}.${date.getMonth()+1}.${date.getFullYear()}.${date.getHours()}.${date.getMinutes()}.txt`
 
     //Formatting info ID|REFERENCE|NAME|STOCK and changing the separator by a new line: \r\n
     let parsedText = arrayOfProducts.map((item) => {
