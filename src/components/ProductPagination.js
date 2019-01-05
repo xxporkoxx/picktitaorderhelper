@@ -6,7 +6,6 @@ export class ProductPagination extends Component {
 
     constructor(props) {
         super(props);
-        console.log(this.props)
         this.state = {
             activePage: this.props.activePage,
             itemsCountPerPage: this.props.limit,

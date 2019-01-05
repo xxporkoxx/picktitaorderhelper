@@ -27,8 +27,7 @@ export class TrayStockUpdate extends Component {
                 let textFile = event.target.result;
 
                 if (textFile.match("[0-9]")) {
-                    console.log(textFile);
-
+                    //Upload procedure
                 }
                 else {
                     alert("Arquivo não suportado, adicione um arquivo contendo apenas referências separadas por uma quebra de linha")

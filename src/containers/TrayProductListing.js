@@ -4,6 +4,7 @@ import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 import * as TrayIntegrationActions from '../actions';
 import { ProductPagination } from '../components/ProductPagination';
+import ProductListDownload from '../components/ProductListDownload'
 
 export class TrayProductListing extends Component {
 
@@ -67,18 +68,19 @@ export class TrayProductListing extends Component {
     }
 
     fileDownload() {
-
+        let { limit, total } = this.state.trayApiState.products.paging;
+        let totalPages = Math.round(total / limit);
+        console.log(`RESULTADO:${ProductListDownload(totalPages)}`);
     }
 
     onSelectPage(newSelectedPage) {
-        console.log(`Slecte page ${newSelectedPage}`)
         this.refreshProductList(newSelectedPage);
     }
 
     render() {
         let productArray = this.props.products ? this.props.products.Products : null;
         let mappedProductArray = <tr />;
-        let {page, limit, total} = this.state.trayApiState.products.paging;
+        let { page, limit, total } = this.state.trayApiState.products.paging;
 
         if (productArray !== null) {
             mappedProductArray = productArray.map(
@@ -95,7 +97,7 @@ export class TrayProductListing extends Component {
             );
         }
 
-        let paginationComponent = (total===0)? null :
+        let paginationComponent = (total === 0) ? null :
             <ProductPagination
                 activePage={page}
                 onSelectPage={this.onSelectPage}

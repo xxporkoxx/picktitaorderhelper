@@ -3,8 +3,8 @@ import axios from 'axios';
 import store from '../store';
 import { showLoading, hideLoading } from 'react-redux-loading-bar'
 
-export const actionShowLoading = () => { return (dispatch) => dispatch(showLoading())}
-export const actionHideLoading = () => { return (dispatch) => dispatch(hideLoading())}
+export const actionShowLoading = () => { return (dispatch) => dispatch(showLoading()) }
+export const actionHideLoading = () => { return (dispatch) => dispatch(hideLoading()) }
 
 export const tray_auth = () => {
     let data = {
@@ -44,10 +44,10 @@ export const tray_get_product = (reference, pageNumber) => {
     let url = `${TRAY_API_URL}/products/?access_token=${access_token}`;
 
     let url_get_page = Number.isInteger(pageNumber) ?
-     `${url}&page=${pageNumber}&limit=${limit}` : null;
+        `${url}&page=${pageNumber}&limit=${limit}` : null;
     let url_get_single = Number.isInteger(reference) ? `${url}&reference=${reference}` : null;
-    
-    url  = (url_get_page !==null) ? url_get_page : url_get_single;
+
+    url = (url_get_page !== null) ? url_get_page : url_get_single;
 
     return (dispatch) => {
         dispatch(showLoading())
@@ -103,4 +103,14 @@ export const tray_refresh_product_failure = (error) => {
         type: TRAY_REFRESH_PRODUCT_FAILURE,
         error
     }
+}
+
+export const tray_get_all_products = (arrayOfPagesNumbers) => {
+    let allProducts = []
+    return dispatch => Promise.all(
+        arrayOfPagesNumbers.map((currentPage) => { // map instead of forEach
+            console.log(currentPage)
+            return dispatch(tray_get_product(null,currentPage))
+        })
+    );
 }
