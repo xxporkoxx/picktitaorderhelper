@@ -6,6 +6,7 @@ import * as TrayIntegrationActions from '../actions';
 import { ProductPagination } from '../components/ProductPagination';
 import DownloadProductListRequest from '../components/DownloadProductListRequest'
 import DownloadFileStructuring from '../components/DownloadFileStructuring';
+import { TableComponent } from '../components/TableComponent';
 
 export class TrayProductListing extends Component {
 
@@ -87,7 +88,7 @@ export class TrayProductListing extends Component {
 
     render() {
         let productArray = this.props.products ? this.props.products.Products : null;
-        let mappedProductArray = <tr />;
+        let mappedProductArray = null;
         let { page, limit, total } = this.state.trayApiState.products.paging;
 
         if (productArray !== null) {
@@ -125,22 +126,7 @@ export class TrayProductListing extends Component {
                         </Button>
                     </Col>
                 </Row>
-                <Table
-                    striped bordered condensed hover
-                    style={{ margin: '10px'}}
-                >
-                    <thead>
-                        <tr>
-                            <th>ID</th>
-                            <th>Referência</th>
-                            <th>Nome</th>
-                            <th>Estoque</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {mappedProductArray}
-                    </tbody>
-                </Table>
+                {TableComponent(mappedProductArray !==null, mappedProductArray)}
                 {paginationComponent}
             </div>
         );

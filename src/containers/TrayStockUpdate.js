@@ -1,4 +1,4 @@
-import { Row, Col, Jumbotron, Table } from 'react-bootstrap';
+import { Row, Col, Jumbotron, Label } from 'react-bootstrap';
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
@@ -6,6 +6,7 @@ import * as TrayIntegrationActions from '../actions';
 import Dropzone from 'react-dropzone';
 import classNames from 'classnames'
 import UploadFileParse from '../components/UploadFileParse'
+import { TableComponent } from '../components/TableComponent';
 
 const baseStyle = {
     width: 200,
@@ -123,22 +124,9 @@ export class TrayStockUpdate extends Component {
                         <p> Número total de produtos: {numberOfProducts} </p>
                     </Col>
                 </Row>
-                <Table
-                    striped bordered condensed hover
-                    style={{ margin: '10px'}}
-                >
-                    <thead>
-                        <tr>
-                            <th>ID</th>
-                            <th>Referência</th>
-                            <th>Nome</th>
-                            <th>Estoque</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {mappedHtmlProductTableContent}
-                    </tbody>
-                </Table>
+                <Row>
+                    {TableComponent(fileAccepted, mappedHtmlProductTableContent)}
+                </Row>
             </div>
         );
     }
