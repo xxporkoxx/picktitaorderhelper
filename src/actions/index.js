@@ -106,6 +106,9 @@ export const tray_refresh_product_failure = (error) => {
     }
 }
 
+/*GET
+ TRAY RETIREVE ALL PRODUCTS AVAIABLE
+*/
 export const tray_get_all_products = (arrayOfPagesNumbers) => {
     return dispatch => Promise.all(
         arrayOfPagesNumbers.map((currentPage) => {
@@ -126,6 +129,15 @@ export const TRAY_GET_ALL_PRODUCTS_FAILURE = 'TRAY_GET_ALL_PRODUCTS_FAILURE';
 export const tray_get_all_products_failure = (data) => {
     return {
         type: TRAY_GET_ALL_PRODUCTS_FAILURE,
+        data
+    }
+}
+
+// Saving All the uploaded products iside the store
+export const SAVE_UPLOADED_PRODUCTS = 'SAVE_UPLOADED_PRODUCTS';
+export const save_uploaded_products = (data) => {
+    return {
+        type: SAVE_UPLOADED_PRODUCTS,
         data
     }
 }

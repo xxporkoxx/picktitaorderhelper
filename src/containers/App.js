@@ -6,7 +6,7 @@ import OrderHelper from '../containers/OrderHelper'
 import TrayProductListing from '../containers/TrayProductListing'
 import 'react-bootstrap-table-next/dist/react-bootstrap-table2.min.css';
 import Dashboard from './Dashboard';
-import { TrayStockUpdate } from '../containers/TrayStockUpdate';
+import TrayStockUpdate from '../containers/TrayStockUpdate';
 import LoadingBar from 'react-redux-loading-bar'
 
 const cssImport = <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />

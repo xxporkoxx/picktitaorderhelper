@@ -1,4 +1,4 @@
-import { Row, Col, Jumbotron } from 'react-bootstrap';
+import { Row, Col, Jumbotron, Table } from 'react-bootstrap';
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
@@ -18,28 +18,45 @@ const baseStyle = {
 
 export class TrayStockUpdate extends Component {
 
-    constructor(props){
+    constructor(props) {
         super(props);
-        this.state={
-            fileAccepted: false,
-            numberOfProducts: 0,
-            productsNotFounded:[]
+        this.state = {
+            trayApiState: {
+                uploadedContent: {
+                    fileAccepted: false,
+                    numberOfProducts: 0,
+                    parsedProducts: [],
+                    productsNotFounded: []
+                }
+            }
         }
+
+        this.onDrop = this.onDrop.bind(this)
     }
 
-    onDrop = (acceptedFile, rejectedFile) => {
+    onDrop(acceptedFile, rejectedFile) {
         if (rejectedFile.length > 0) {
             alert("Arquivo não suportado, escolha um arquivo de Texto (.txt)")
         }
         else {
             const fileReader = new FileReader();
-            fileReader.onloadend = function (event) {
+            fileReader.onloadend = (event) => {
                 let textFile = event.target.result;
                 let parsedProducts = UploadFileParse(textFile);
 
                 if (parsedProducts !== null) {
-                    //Upload procedure
-                    
+                    let uploadedContent = {
+                        fileAccepted: true,
+                        numberOfProducts: parsedProducts.length,
+                        parsedProducts,
+                        productsNotFounded: []
+                    }
+                    this.props.save_uploaded_products(uploadedContent)
+                    this.setState({
+                        trayApiState: {
+                            uploadedContent
+                        }
+                    })
                 }
                 else {
                     alert("Arquivo não suportado, adicione um arquivo contendo apenas referências que sigam o padrão: ID|REF|NOME|ESTOQUE e uma quebra de linha no final")
@@ -52,10 +69,29 @@ export class TrayStockUpdate extends Component {
     }
 
     render() {
+        let { fileAccepted, numberOfProducts, parsedProducts } =
+            this.state.trayApiState.uploadedContent
+        let mappedHtmlProductTableContent = null;
+
+        if (fileAccepted !== false) {
+            mappedHtmlProductTableContent = parsedProducts.map(
+                (product) => {
+                    return (
+                        <tr key={product.id}>
+                            <td>{product.id}</td>
+                            <td>{product.reference}</td>
+                            <td>{product.name}</td>
+                            <td>{product.stock}</td>
+                        </tr>
+                    )
+                }
+            );
+        }
+
         return (
             <div>
                 <Jumbotron >
-                    <div style={{ marginLeft: '15px',marginRight: '15px' }}>
+                    <div style={{ marginLeft: '15px', marginRight: '15px' }}>
                         <h2>Atualização de Estoque de Produtos</h2>
                         <p>
                             Fazendo o Upload de um arquivo abaixo contendo várias linhas na formatação correta,
@@ -64,8 +100,8 @@ export class TrayStockUpdate extends Component {
                             ID|REF|NOME|ESTOQUE
                     </p>
                     </div>
-                </Jumbotron>;
-                <Row style={{ marginLeft: '15px',marginRight: '15px' }}>
+                </Jumbotron>
+                <Row style={{ marginLeft: '15px', marginRight: '15px' }}>
                     <Col md={4} sm={4} xs={6}>
                         <Dropzone onDrop={this.onDrop} accept="text/plain" multiple={false} >
                             {({ getRootProps, getInputProps, isDragActive, onClick }) => {
@@ -82,7 +118,27 @@ export class TrayStockUpdate extends Component {
                             }}
                         </Dropzone>
                     </Col>
+                    <Col>
+                        <p> Status do Arquivo: {fileAccepted ? "Aceito" : "Irregular"} </p>
+                        <p> Número total de produtos: {numberOfProducts} </p>
+                    </Col>
                 </Row>
+                <Table
+                    striped bordered condensed hover
+                    style={{ margin: '10px'}}
+                >
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Referência</th>
+                            <th>Nome</th>
+                            <th>Estoque</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {mappedHtmlProductTableContent}
+                    </tbody>
+                </Table>
             </div>
         );
     }
@@ -90,7 +146,8 @@ export class TrayStockUpdate extends Component {
 
 const mapStateToProps = state => ({
     auth: state.trayApiState.auth,
-    products: state.trayApiState.products
+    products: state.trayApiState.products,
+    uploadedContent: state.trayApiState.uploadedContent
 });
 
 const mapDispatchToProps = dispatch =>

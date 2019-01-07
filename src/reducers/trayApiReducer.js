@@ -6,7 +6,8 @@ import {
     TRAY_REFRESH_PRODUCT_SUCCESS,
     TRAY_REFRESH_PRODUCT_FAILURE,
     TRAY_GET_ALL_PRODUCTS_SUCCESS,
-    TRAY_GET_ALL_PRODUCTS_FAILURE
+    TRAY_GET_ALL_PRODUCTS_FAILURE,
+    SAVE_UPLOADED_PRODUCTS
 } from "../actions";
 
 const initialState = {
@@ -55,7 +56,12 @@ export const trayApiReducer = (state = initialState, action) => {
         return {
             ...state,
             error: action.error
-        };  
+        };
+        case SAVE_UPLOADED_PRODUCTS:
+        return {
+            ...state,
+            uploadedContent: action.data
+        };
         default:
             return state
     }
