@@ -46,7 +46,7 @@ export class TrayProductListing extends Component {
 
     refreshProductList(page) {
         this.props.tray_get_product(null, page)
-            .then(response => {
+/*            .then(response => {
                 let { data } = response;
                 this.props.tray_get_product_success(data);
                 this.props.actionHideLoading();
@@ -68,7 +68,7 @@ export class TrayProductListing extends Component {
                 this.props.tray_get_product_failure(error);
                 this.props.actionHideLoading();
                 alert(error);
-            });
+            });*/
     }
 
     fileDownload() {
@@ -93,8 +93,6 @@ export class TrayProductListing extends Component {
             this.state.trayApiState.products.Products : null;
         let mappedProductArray = null;
         let { page, limit, total } = this.state.trayApiState.products.paging;
-        console.log (this.state)
-        console.log (this.props)
 
         if (productArray !== null) {
             mappedProductArray = productArray.map(

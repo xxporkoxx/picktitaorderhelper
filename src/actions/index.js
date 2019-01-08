@@ -52,7 +52,42 @@ export const tray_get_product = (reference, pageNumber) => {
 
     return (dispatch) => {
         dispatch(showLoading())
-        return axios.get(url);
+        return axios.get(url)
+            .then((productResponse) => {
+                let productsArray = productResponse.data.Products;
+                let variantPromiseArray = productsArray.map(({ Product } = productsArray) => {
+                    let variantArray = Product.Variant
+
+                    if (variantArray.length > 0) {
+                        return Promise.all(
+                            variantArray.map(variant => {
+                                return dispatch(tray_get_product_variant(variant.id))
+                            })
+                        );
+                    }
+                    return null;
+                })
+
+                variantPromiseArray.map((promise, i) => {
+                    return promise != null ?
+                        promise.then(solvedVariantPromiseArray => {
+                            productResponse.data.Products[i].Product.Variant = solvedVariantPromiseArray
+                            /*let arrayofVariants = solvedVariantPromiseArray.map((solvedVariant, i) => {
+                                return solvedVariant.then( variantResponse => solvedVariant)
+                            })
+                            console.log(arrayofVariants)*/
+                        }) : null
+                })
+
+                console.log(productResponse)
+
+
+                console.log(variantPromiseArray)
+                return variantPromiseArray
+            })
+            .catch((error) => {
+                return error
+            });
     }
 }
 
