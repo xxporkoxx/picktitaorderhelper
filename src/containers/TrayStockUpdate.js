@@ -1,4 +1,4 @@
-import { Row, Col, Jumbotron, Label } from 'react-bootstrap';
+import { Row, Col, Jumbotron } from 'react-bootstrap';
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
