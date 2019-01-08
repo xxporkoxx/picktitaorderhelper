@@ -7,14 +7,14 @@ const UploadFileParse = (fileContent) => {
     if (numberOfSeparators === 4 * numberOfLineEnd) {
         let arrayOfProducts = arrayOfProductsOnLines.map(lineProduct => {
             let splitedLineProducts = lineProduct.split("@");
-
             return {
-                id: splitedLineProducts[0],
+                id: splitedLineProducts[0].replace(/[\n\r]+/g, ''),
                 reference: splitedLineProducts[1],
                 name: splitedLineProducts[2],
                 stock: splitedLineProducts[3]
             }
         });
+        console.log(arrayOfProducts)        
         return arrayOfProducts;
     }
     else {
