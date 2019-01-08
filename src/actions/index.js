@@ -72,6 +72,16 @@ export const tray_get_product_failure = (error) => {
     }
 }
 
+export const tray_get_product_variant = (variantId) => {
+    let access_token = store.getState().trayApiState.auth.access_token;
+    let url = `${TRAY_API_URL}/products/variants/?access_token=${access_token}&id=${variantId}`;
+
+    return (dispatch) => {
+        dispatch(showLoading())
+        return axios.get(url);
+    }
+}
+
 /*PUT - Refreshing product 
     require access_token and product id
 */
