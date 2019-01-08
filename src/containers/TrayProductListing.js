@@ -53,6 +53,7 @@ export class TrayProductListing extends Component {
                 this.setState({
                     trayApiState: {
                         products: {
+                            Products: data.Products,                         
                             paging: {
                                 page: data.paging.page,
                                 limit: data.paging.limit,
@@ -87,9 +88,13 @@ export class TrayProductListing extends Component {
     }
 
     render() {
-        let productArray = this.props.products ? this.props.products.Products : null;
+        let productArray = 
+            this.state.trayApiState.products.Products ?
+            this.state.trayApiState.products.Products : null;
         let mappedProductArray = null;
         let { page, limit, total } = this.state.trayApiState.products.paging;
+        console.log (this.state)
+        console.log (this.props)
 
         if (productArray !== null) {
             mappedProductArray = productArray.map(
@@ -135,7 +140,6 @@ export class TrayProductListing extends Component {
 
 const mapStateToProps = state => ({
     auth: state.trayApiState.auth,
-    products: state.trayApiState.products
 });
 
 const mapDispatchToProps = dispatch =>

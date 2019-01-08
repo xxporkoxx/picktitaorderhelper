@@ -14,7 +14,6 @@ const UploadFileParse = (fileContent) => {
                 stock: splitedLineProducts[3]
             }
         });
-        console.log(arrayOfProducts)        
         return arrayOfProducts;
     }
     else {

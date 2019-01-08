@@ -1,4 +1,4 @@
-import { Row, Col, Jumbotron } from 'react-bootstrap';
+import { Row, Col, Jumbotron, Button } from 'react-bootstrap';
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
@@ -7,6 +7,7 @@ import Dropzone from 'react-dropzone';
 import classNames from 'classnames'
 import UploadFileParse from '../components/UploadFileParse'
 import { TableComponent } from '../components/TableComponent';
+import { TextTruncateIndicator } from '../utils/TextTruncateIndicator';
 
 const baseStyle = {
     width: 200,
@@ -27,12 +28,18 @@ export class TrayStockUpdate extends Component {
                     fileAccepted: false,
                     numberOfProducts: 0,
                     parsedProducts: [],
-                    productsNotFounded: []
+                    productsNoReference: [],
+                    productsNegativeStock: []
                 }
             }
         }
 
-        this.onDrop = this.onDrop.bind(this)
+        this.onDrop = this.onDrop.bind(this);
+        this.UpdateListedProductsStock = this.UpdateListedProductsStock.bind(this);
+    }
+
+    UpdateListedProductsStock() {
+        console.log("UpdateListedProductsStock")
     }
 
     onDrop(acceptedFile, rejectedFile) {
@@ -46,12 +53,21 @@ export class TrayStockUpdate extends Component {
                 let parsedProducts = UploadFileParse(textFile);
 
                 if (parsedProducts !== null) {
+                    let productsNoReference = parsedProducts.map(product => {
+                        return !product.reference ? product.id : null;
+                    }).filter(item => item !== null)
+                    let productsNegativeStock = parsedProducts.map(product => {
+                        return product.stock < 0 ? product.id : null;
+                    }).filter(item => item !== null)
+
                     let uploadedContent = {
                         fileAccepted: true,
                         numberOfProducts: parsedProducts.length,
                         parsedProducts,
-                        productsNotFounded: []
+                        productsNoReference,
+                        productsNegativeStock
                     }
+
                     this.props.save_uploaded_products(uploadedContent)
                     this.setState({
                         trayApiState: {
@@ -69,8 +85,10 @@ export class TrayStockUpdate extends Component {
         }
     }
 
+
+
     render() {
-        let { fileAccepted, numberOfProducts, parsedProducts } =
+        let { fileAccepted, numberOfProducts, parsedProducts, productsNoReference, productsNegativeStock } =
             this.state.trayApiState.uploadedContent
         let mappedHtmlProductTableContent = null;
 
@@ -103,7 +121,7 @@ export class TrayStockUpdate extends Component {
                     </div>
                 </Jumbotron>
                 <Row style={{ marginLeft: '15px', marginRight: '15px' }}>
-                    <Col md={4} sm={4} xs={6}>
+                    <Col lg={3} md={3} sm={3} xs={6}>
                         <Dropzone onDrop={this.onDrop} accept="text/plain" multiple={false} >
                             {({ getRootProps, getInputProps, isDragActive, onClick }) => {
                                 return (
@@ -119,9 +137,22 @@ export class TrayStockUpdate extends Component {
                             }}
                         </Dropzone>
                     </Col>
-                    <Col>
-                        <p> Status do Arquivo: {fileAccepted ? "Aceito" : "Irregular"} </p>
-                        <p> Número total de produtos: {numberOfProducts} </p>
+                    <Col lg={3} md={3} sm={3} xs={6}>
+                        <p> <b>Status do Arquivo:</b> {fileAccepted ? "Aceito" : "Irregular"} </p>
+                        <p> <b>Número total de produtos:</b> {numberOfProducts} </p>
+                    </Col>
+                    <Col lg={3} md={3} sm={3} xs={6}>
+                        {TextTruncateIndicator("Produtos sem referência: ",productsNoReference)}
+                        {TextTruncateIndicator("Produtos com estoque negativo: ",productsNegativeStock)}                        
+                    </Col>
+                    <Col lg={3} md={3} sm={3} xs={6}>
+                        <Button
+                            bsStyle="primary"
+                            style={{ margin: '10px', marginLeft: '20px' }}
+                            disabled={!fileAccepted}
+                            onClick={() => this.UpdateListedProductsStock()}>
+                            Atualizar Estoque dos Produtos Listados
+                        </Button>
                     </Col>
                 </Row>
                 <Row>
@@ -132,11 +163,7 @@ export class TrayStockUpdate extends Component {
     }
 }
 
-const mapStateToProps = state => ({
-    auth: state.trayApiState.auth,
-    products: state.trayApiState.products,
-    uploadedContent: state.trayApiState.uploadedContent
-});
+const mapStateToProps = state => ({});
 
 const mapDispatchToProps = dispatch =>
     bindActionCreators({ ...TrayIntegrationActions }, dispatch);
