@@ -68,22 +68,19 @@ export const tray_get_product = (reference, pageNumber) => {
                     return null;
                 })
 
-                variantPromiseArray.map((promise, i) => {
-                    return promise != null ?
-                        promise.then(solvedVariantPromiseArray => {
-                            productResponse.data.Products[i].Product.Variant = solvedVariantPromiseArray
-                            /*let arrayofVariants = solvedVariantPromiseArray.map((solvedVariant, i) => {
-                                return solvedVariant.then( variantResponse => solvedVariant)
-                            })
-                            console.log(arrayofVariants)*/
-                        }) : null
-                })
+                Promise.all(variantPromiseArray).then(solvedVariantsPromiseArray => {
+                    solvedVariantsPromiseArray.map((solvedVariants, i) => {
+                        return (
+                            productResponse.data.Products[i].Product.Variant =
+                            solvedVariants !== null ? solvedVariants.map(variant => {
+                                return variant.data.Variants[0].Variant
+                            }) : []
+                        )
+                    })
+                });
 
                 console.log(productResponse)
-
-
-                console.log(variantPromiseArray)
-                return variantPromiseArray
+                return productResponse
             })
             .catch((error) => {
                 return error
