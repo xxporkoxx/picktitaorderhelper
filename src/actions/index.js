@@ -80,9 +80,9 @@ export const tray_get_product = (reference, pageNumber) => {
 
                 return flattenVariantArray.then(variantArray => {
                     let mergedProductResponse = productResponse;
-                    variantArray.map((variants,i)=>{
+                    variantArray.map((variants,i)=>
                         mergedProductResponse.data.Products[i].Product.Variant = variants
-                    })
+                    )
                     return mergedProductResponse;
                 })
             })

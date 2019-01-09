@@ -6,7 +6,7 @@ import * as TrayIntegrationActions from '../actions';
 import { ProductPagination } from '../components/ProductPagination';
 import DownloadProductListRequest from '../components/DownloadProductListRequest'
 import DownloadFileStructuring from '../components/DownloadFileStructuring';
-import { TableComponent } from '../components/TableComponent';
+import { VariantTableComponent } from '../components/VariantTableComponent';
 
 export class TrayProductListing extends Component {
 
@@ -49,6 +49,7 @@ export class TrayProductListing extends Component {
             .then(response => {
                 let { data } = response;
                 this.props.tray_get_product_success(data);
+
                 this.setState({
                     trayApiState: {
                         products: {
@@ -91,23 +92,7 @@ export class TrayProductListing extends Component {
         let productArray =
             this.state.trayApiState.products.Products ?
                 this.state.trayApiState.products.Products : null;
-        let mappedProductArray = null;
         let { page, limit, total } = this.state.trayApiState.products.paging;
-
-        if (productArray !== null) {
-            mappedProductArray = productArray.map(
-                ({ Product }) => {
-                    return (
-                        <tr key={Product.id}>
-                            <td>{Product.id}</td>
-                            <td>{Product.reference}</td>
-                            <td>{Product.name}</td>
-                            <td>{Product.stock}</td>
-                        </tr>
-                    )
-                }
-            );
-        }
 
         let paginationComponent = (total === 0) ? null :
             <ProductPagination
@@ -129,7 +114,7 @@ export class TrayProductListing extends Component {
                         </Button>
                     </Col>
                 </Row>
-                {TableComponent(mappedProductArray !== null, mappedProductArray)}
+                {VariantTableComponent(productArray)}
                 {paginationComponent}
             </div>
         );
