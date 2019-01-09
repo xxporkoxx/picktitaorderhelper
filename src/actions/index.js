@@ -68,10 +68,9 @@ export const tray_get_product = (reference, pageNumber) => {
                     return null;
                 })
 
-                Promise.all(variantPromiseArray).then(solvedVariantsPromiseArray => {
-                    solvedVariantsPromiseArray.map((solvedVariants, i) => {
+                let flattenVariantArray = Promise.all(variantPromiseArray).then(solvedVariantsPromiseArray => {
+                    return solvedVariantsPromiseArray.map((solvedVariants) => {
                         return (
-                            productResponse.data.Products[i].Product.Variant =
                             solvedVariants !== null ? solvedVariants.map(variant => {
                                 return variant.data.Variants[0].Variant
                             }) : []
@@ -79,7 +78,13 @@ export const tray_get_product = (reference, pageNumber) => {
                     })
                 });
 
-                return productResponse
+                return flattenVariantArray.then(variantArray => {
+                    let mergedProductResponse = productResponse;
+                    variantArray.map((variants,i)=>{
+                        mergedProductResponse.data.Products[i].Product.Variant = variants
+                    })
+                    return mergedProductResponse;
+                })
             })
             .catch((error) => {
                 return error
