@@ -46,14 +46,13 @@ export class TrayProductListing extends Component {
 
     refreshProductList(page) {
         this.props.tray_get_product(null, page)
-/*            .then(response => {
+            .then(response => {
                 let { data } = response;
                 this.props.tray_get_product_success(data);
-                this.props.actionHideLoading();
                 this.setState({
                     trayApiState: {
                         products: {
-                            Products: data.Products,                         
+                            Products: data.Products,
                             paging: {
                                 page: data.paging.page,
                                 limit: data.paging.limit,
@@ -63,12 +62,13 @@ export class TrayProductListing extends Component {
                         }
                     }
                 })
+                this.props.actionResetLoading();
             })
             .catch(error => {
                 this.props.tray_get_product_failure(error);
-                this.props.actionHideLoading();
+                this.props.actionResetLoading();
                 alert(error);
-            });*/
+            });
     }
 
     fileDownload() {
@@ -88,9 +88,9 @@ export class TrayProductListing extends Component {
     }
 
     render() {
-        let productArray = 
+        let productArray =
             this.state.trayApiState.products.Products ?
-            this.state.trayApiState.products.Products : null;
+                this.state.trayApiState.products.Products : null;
         let mappedProductArray = null;
         let { page, limit, total } = this.state.trayApiState.products.paging;
 
@@ -129,7 +129,7 @@ export class TrayProductListing extends Component {
                         </Button>
                     </Col>
                 </Row>
-                {TableComponent(mappedProductArray !==null, mappedProductArray)}
+                {TableComponent(mappedProductArray !== null, mappedProductArray)}
                 {paginationComponent}
             </div>
         );

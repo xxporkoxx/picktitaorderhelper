@@ -79,12 +79,11 @@ export const tray_get_product = (reference, pageNumber) => {
                     })
                 });
 
-                console.log(productResponse)
                 return productResponse
             })
             .catch((error) => {
                 return error
-            });
+            })
     }
 }
 
