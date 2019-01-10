@@ -29,7 +29,7 @@ export const VariantTableComponent = (productArray) => {
                 </td>
                 <td>
                     <b>{Product.stock}</b>
-                    {arrayOfVariantReferences.map((stock,i) => <p key={i}>{stock}</p>)}
+                    {arrayOfVariantStocks.map((stock,i) => <p key={i}>{stock}</p>)}
                 </td>
             </tr>;
         }
