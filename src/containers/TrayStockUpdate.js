@@ -53,6 +53,7 @@ export class TrayStockUpdate extends Component {
                 let parsedProducts = UploadFileParse(textFile);
 
                 if (parsedProducts !== null) {
+                    //TODOFix the productsNoReference and negative stock to also look inside variant
                     let productsNoReference = parsedProducts.map(product => {
                         return !product.reference ? product.id : null;
                     }).filter(item => item !== null)
