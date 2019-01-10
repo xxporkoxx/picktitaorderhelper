@@ -6,8 +6,8 @@ import * as TrayIntegrationActions from '../actions';
 import Dropzone from 'react-dropzone';
 import classNames from 'classnames'
 import UploadFileParse from '../components/UploadFileParse'
-import { TableComponent } from '../components/TableComponent';
 import { TextTruncateIndicator } from '../utils/TextTruncateIndicator';
+import {VariantTableComponent} from '../components/VariantTableComponent'
 
 const baseStyle = {
     width: 200,
@@ -91,22 +91,6 @@ export class TrayStockUpdate extends Component {
     render() {
         let { fileAccepted, numberOfProducts, parsedProducts, productsNoReference, productsNegativeStock } =
             this.state.trayApiState.uploadedContent
-        let mappedHtmlProductTableContent = null;
-
-        if (fileAccepted !== false) {
-            mappedHtmlProductTableContent = parsedProducts.map(
-                (product) => {
-                    return (
-                        <tr key={product.id}>
-                            <td>{product.id}</td>
-                            <td>{product.reference}</td>
-                            <td>{product.name}</td>
-                            <td>{product.stock}</td>
-                        </tr>
-                    )
-                }
-            );
-        }
 
         return (
             <div>
@@ -143,8 +127,8 @@ export class TrayStockUpdate extends Component {
                         <p> <b>Número total de produtos:</b> {numberOfProducts} </p>
                     </Col>
                     <Col lg={3} md={3} sm={3} xs={6}>
-                        {TextTruncateIndicator("Produtos sem referência: ",productsNoReference)}
-                        {TextTruncateIndicator("Produtos com estoque negativo: ",productsNegativeStock)}                        
+                        {TextTruncateIndicator("Produtos sem referência: ", productsNoReference)}
+                        {TextTruncateIndicator("Produtos com estoque negativo: ", productsNegativeStock)}
                     </Col>
                     <Col lg={3} md={3} sm={3} xs={6}>
                         <Button
@@ -157,7 +141,7 @@ export class TrayStockUpdate extends Component {
                     </Col>
                 </Row>
                 <Row>
-                    {TableComponent(fileAccepted, mappedHtmlProductTableContent)}
+                    {VariantTableComponent(parsedProducts)}
                 </Row>
             </div>
         );

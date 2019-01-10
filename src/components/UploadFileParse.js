@@ -8,11 +8,13 @@ const UploadFileParse = (fileContent) => {
         let arrayOfProducts = arrayOfProductsOnLines.map(lineProduct => {
             let splitedLineProducts = lineProduct.split("@");
             return {
-                id: splitedLineProducts[0].replace(/[\n\r]+/g, ''),
-                reference: splitedLineProducts[1],
-                name: splitedLineProducts[2],
-                stock: splitedLineProducts[3],
-                Variant: []
+                Product: {
+                    id: splitedLineProducts[0].replace(/[\n\r]+/g, ''),
+                    reference: splitedLineProducts[1],
+                    name: splitedLineProducts[2],
+                    stock: splitedLineProducts[3],
+                    Variant: []
+                }
             }
         });
 
@@ -25,8 +27,8 @@ const UploadFileParse = (fileContent) => {
             mergedArrayOfProductsAndVariants.push(arrayOfProducts[i])
             j++;
             if (arrayOfProducts[i] && arrayOfProducts[j]) {
-                while (arrayOfProducts[i].id === arrayOfProducts[j].id) {
-                    mergedArrayOfProductsAndVariants[mergedArrayOfProductsAndVariants.length - 1].Variant.push(arrayOfProducts[j])
+                while (arrayOfProducts[i].Product.id === arrayOfProducts[j].Product.id) {
+                    mergedArrayOfProductsAndVariants[mergedArrayOfProductsAndVariants.length - 1].Product.Variant.push(arrayOfProducts[j].Product)
                     j++;
                 }
             }
