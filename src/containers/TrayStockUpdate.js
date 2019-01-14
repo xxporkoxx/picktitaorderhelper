@@ -39,7 +39,7 @@ export class TrayStockUpdate extends Component {
     }
 
     UpdateListedProductsStock() {
-        console.log("UpdateListedProductsStock")
+        this.props.tray_refresh_all_products(this.state.trayApiState.uploadedContent.parsedProducts)
     }
 
     onDrop(acceptedFile, rejectedFile) {

@@ -12,7 +12,7 @@ const DownloadFileStructuring = (arrayOfProducts) => {
             `${product.id}@${product.reference}@${product.name}@${product.stock}@~`;
 
         let variantPlotedString = variantArray.map(variant => {
-            return `${product.id}@${variant.reference}@${product.name}@${variant.stock}@~`
+            return `${variant.id}@${variant.reference}@${product.name}@${variant.stock}@~`
         }).join("\r\n");
 
         return variantPlotedString ? productPlottedString + "\r\n" + variantPlotedString : productPlottedString;

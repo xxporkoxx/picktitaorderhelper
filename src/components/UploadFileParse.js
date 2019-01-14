@@ -2,7 +2,7 @@ const UploadFileParse = (fileContent) => {
     let numberOfLineEnd = ((fileContent.match(/~/g) || []).length);
     let numberOfSeparators = ((fileContent.match(/@/g) || []).length);
 
-    let arrayOfProductsOnLines = fileContent.split("~");
+    let arrayOfProductsOnLines = fileContent.split("~").slice(0,-1);
 
     if (numberOfSeparators === 4 * numberOfLineEnd) {
         let arrayOfProducts = arrayOfProductsOnLines.map(lineProduct => {
@@ -22,19 +22,19 @@ const UploadFileParse = (fileContent) => {
         mergedArrayOfProductsAndVariants.push(arrayOfProducts.length > 0 ? arrayOfProducts[0] : []);
         let j = 1;
         let i = 1;
-        while (i < arrayOfProducts.length) {
+        while (i < arrayOfProducts.length-1) {
             i = j;
             mergedArrayOfProductsAndVariants.push(arrayOfProducts[i])
             j++;
             if (arrayOfProducts[i] && arrayOfProducts[j]) {
-                while (arrayOfProducts[i].Product.id === arrayOfProducts[j].Product.id) {
+                while (arrayOfProducts[i].Product.name === arrayOfProducts[j].Product.name) {
                     mergedArrayOfProductsAndVariants[mergedArrayOfProductsAndVariants.length - 1].Product.Variant.push(arrayOfProducts[j].Product)
                     j++;
                 }
             }
         }
 
-        return arrayOfProducts;
+        return mergedArrayOfProductsAndVariants;
     }
     else {
         return null;

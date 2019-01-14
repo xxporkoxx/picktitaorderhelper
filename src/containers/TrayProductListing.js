@@ -32,16 +32,10 @@ export class TrayProductListing extends Component {
         this.fileDownload = this.fileDownload.bind(this);
     }
 
-    componentDidMount() {
-        this.props.tray_auth()
-            .then(response => {
-                this.props.tray_auth_success(response.data)
-                this.refreshProductList(1);
-            })
-            .catch(error => {
-                this.props.tray_auth_failure(error);
-                alert(error);
-            });
+    componentWillReceiveProps(nextProps) {
+        if(nextProps.auth !== this.props.auth){
+            this.refreshProductList(1);
+        }
     }
 
     refreshProductList(page) {

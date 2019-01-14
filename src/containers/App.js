@@ -8,11 +8,19 @@ import 'react-bootstrap-table-next/dist/react-bootstrap-table2.min.css';
 import Dashboard from './Dashboard';
 import TrayStockUpdate from '../containers/TrayStockUpdate';
 import LoadingBar from 'react-redux-loading-bar'
+import { connect } from 'react-redux';
+import { bindActionCreators } from 'redux';
+import * as TrayIntegrationActions from '../actions';
 
 const cssImport = <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
 const cssStylesheet = <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous" />
 
 class App extends Component {
+
+  componentDidMount(){
+    this.props.tray_auth()
+  }
+
   render() {
     return (
       <div>
@@ -37,18 +45,23 @@ class App extends Component {
             </NavDropdown>
           </Nav>
         </Navbar>
-        <LoadingBar maxProgress={90} progressIncrease={20}/>
+        <LoadingBar maxProgress={90} progressIncrease={20} />
         <div>
           <Route path="/" exact component={Dashboard} />
           <Route path="/dashboard" component={Dashboard} />
           <Route path="/orderHelper" component={OrderHelper} />
           <Route path="/TrayProductListing" component={TrayProductListing} />
-          <Route path="/TrayStockUpdate" component={TrayStockUpdate} />          
+          <Route path="/TrayStockUpdate" component={TrayStockUpdate} />
         </div>
-        <LoadingBar maxProgress={90} progressIncrease={20}/>
+        <LoadingBar maxProgress={90} progressIncrease={20} />
       </div>
     );
   }
 }
 
-export default App;
+const mapStateToProps = state => ({});
+
+const mapDispatchToProps = dispatch =>
+  bindActionCreators({ ...TrayIntegrationActions }, dispatch);
+
+export default connect(mapStateToProps, mapDispatchToProps)(App);

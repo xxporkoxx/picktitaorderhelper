@@ -15,7 +15,29 @@ export const tray_auth = () => {
     };
 
     return (dispatch) => {
-        return axios.post(`${TRAY_API_URL}/auth`, data);
+        return axios.post(`${TRAY_API_URL}/auth`, data)
+            .then(response => {
+                let { code } = response.data;
+                if (code === 200)
+                    dispatch(tray_auth_success(response.data))
+                else if (code === 401)
+                    dispatch(tray_auth_refresh(response.data))
+            })
+            .catch(error => {
+                dispatch(tray_auth_failure(error));
+            });
+    }
+}
+
+export const tray_auth_refresh = (data) => {
+    return (dispatch) => {
+        return axios.get(`${TRAY_API_URL}/auth?refresh_token=${data.refresh_token}`)
+            .then(response => {
+                dispatch(tray_auth_success(response.data))
+            })
+            .catch(error => {
+                dispatch(tray_auth_failure(error));
+            });
     }
 }
 
@@ -80,7 +102,7 @@ export const tray_get_product = (reference, pageNumber) => {
 
                 return flattenVariantArray.then(variantArray => {
                     let mergedProductResponse = productResponse;
-                    variantArray.map((variants,i)=>
+                    variantArray.map((variants, i) =>
                         mergedProductResponse.data.Products[i].Product.Variant = variants
                     )
                     return mergedProductResponse;
@@ -121,17 +143,27 @@ export const tray_get_product_variant = (variantId) => {
 /*PUT - Refreshing product 
     require access_token and product id
 */
-export const tray_refresh_product = (reference) => {
+export const tray_refresh_product = (product) => {
     let access_token = store.getState().trayApiState.auth.access_token;
+    let variantArray = product.Variant;
+    let noVariant = variantArray.length === 0 ? true : false;
+    let url = `${TRAY_API_URL}/products/${product.id}?access_token=${access_token}`;
 
     return (dispatch) => {
         dispatch(showLoading())
-        return axios.get(`${TRAY_API_URL}/products/?access_token=${access_token}&reference=${reference}`)
+        return axios.put(url, { stock: product.stock })
             .then(response => {
-                dispatch(tray_refresh_product_success(response.data))
+                let variantPromises = []
+                if (!noVariant) {
+                    variantPromises = Promise.all(
+                        variantArray.map(variant => {
+                            return dispatch(tray_refresh_product_variant(variant))
+                        })
+                    );
+                }
             })
             .catch(error => {
-                dispatch(tray_refresh_product_failure(error));
+                return error;
             });
     }
 }
@@ -150,6 +182,24 @@ export const tray_refresh_product_failure = (error) => {
         type: TRAY_REFRESH_PRODUCT_FAILURE,
         error
     }
+}
+
+/* PUT - Refresh one Variant from some product */
+export const tray_refresh_product_variant = (variant) => {
+    let access_token = store.getState().trayApiState.auth.access_token;
+    let url = `${TRAY_API_URL}/products/variants/${variant.id}?access_token=${access_token}`;
+    return axios.put(url, { stock: variant.stock })
+        .then(response => response)
+        .catch(error => error)
+}
+
+/* PUT - Refresh All Products */
+export const tray_refresh_all_products = (arrayOfProducts) => {
+    return dispatch => Promise.all(
+        arrayOfProducts.map(({ Product }) => {
+            return dispatch(tray_refresh_product(Product))
+        })
+    );
 }
 
 /*GET

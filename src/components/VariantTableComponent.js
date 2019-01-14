@@ -6,11 +6,13 @@ export const VariantTableComponent = (productArray) => {
 
     if (productArray !== null) {
         mappedProductLayout = productArray.map(({ Product },i) => {
+            let arrayOfVariantIds = []
             let arrayOfVariantReferences = []
             let arrayOfVariantNames = []
             let arrayOfVariantStocks = []
 
             Product.Variant.map(variant => {
+                arrayOfVariantIds.push(variant.id)
                 arrayOfVariantReferences.push(variant.reference)
                 arrayOfVariantNames.push(`Variação de ${Product.name}`)
                 arrayOfVariantStocks.push(variant.stock)
@@ -18,7 +20,10 @@ export const VariantTableComponent = (productArray) => {
             })
 
             return <tr key={Product.id+i}>
-                <td><b>{Product.id}</b></td>
+                <td>
+                    <b>{Product.id}</b>
+                    {arrayOfVariantIds.map((id,i) => <p key={i}>{id}</p>)}
+                </td>
                 <td>
                     <b>{Product.reference}</b>
                     {arrayOfVariantReferences.map((reference,i) => <p key={i}>{reference}</p>)}
