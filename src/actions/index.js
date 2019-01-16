@@ -1,5 +1,4 @@
-import { TRAY_CODE, TRAY_CONSUMER_KEY, TRAY_CONSUMER_SECRET_KEY, TRAY_API_URL } from '../constants/api_keys';
-import axios from 'axios';
+import API from '../constants/api';
 import store from '../store';
 import { showLoading, hideLoading, resetLoading } from 'react-redux-loading-bar'
 
@@ -9,13 +8,13 @@ export const actionResetLoading = () => { return (dispatch) => dispatch(resetLoa
 
 export const tray_auth = () => {
     let data = {
-        code: TRAY_CODE,
-        consumer_key: TRAY_CONSUMER_KEY,
-        consumer_secret: TRAY_CONSUMER_SECRET_KEY
+        code: process.env.REACT_APP_TRAY_CODE,
+        consumer_key: process.env.REACT_APP_TRAY_CONSUMER_KEY,
+        consumer_secret: process.env.REACT_APP_TRAY_CONSUMER_SECRET_KEY
     };
 
     return (dispatch) => {
-        return axios.post(`${TRAY_API_URL}/auth`, data)
+        return API.post(`auth`, data)
             .then(response => {
                 let { code } = response.data;
                 if (code === 200)
@@ -31,7 +30,7 @@ export const tray_auth = () => {
 
 export const tray_auth_refresh = (data) => {
     return (dispatch) => {
-        return axios.get(`${TRAY_API_URL}/auth?refresh_token=${data.refresh_token}`)
+        return API.get(`auth?refresh_token=${data.refresh_token}`)
             .then(response => {
                 dispatch(tray_auth_success(response.data))
             })
@@ -64,7 +63,7 @@ export const tray_auth_failure = (error) => {
 const limit = 50; //Retrieve 50 products per page
 export const tray_get_product = (reference, pageNumber) => {
     let access_token = store.getState().trayApiState.auth.access_token;
-    let url = `${TRAY_API_URL}/products/?access_token=${access_token}`;
+    let url = `products/?access_token=${access_token}`;
 
     let url_get_page = Number.isInteger(pageNumber) ?
         `${url}&page=${pageNumber}&limit=${limit}` : null;
@@ -74,7 +73,7 @@ export const tray_get_product = (reference, pageNumber) => {
 
     return (dispatch) => {
         dispatch(showLoading())
-        return axios.get(url)
+        return API.get(url)
             .then((productResponse) => {
                 let productsArray = productResponse.data.Products;
                 let variantPromiseArray = productsArray.map(({ Product } = productsArray) => {
@@ -132,11 +131,11 @@ export const tray_get_product_failure = (error) => {
 
 export const tray_get_product_variant = (variantId) => {
     let access_token = store.getState().trayApiState.auth.access_token;
-    let url = `${TRAY_API_URL}/products/variants/?access_token=${access_token}&id=${variantId}`;
+    let url = `products/variants/?access_token=${access_token}&id=${variantId}`;
 
     return (dispatch) => {
         dispatch(showLoading())
-        return axios.get(url);
+        return API.get(url);
     }
 }
 
@@ -147,11 +146,11 @@ export const tray_refresh_product = (product) => {
     let access_token = store.getState().trayApiState.auth.access_token;
     let variantArray = product.Variant;
     let noVariant = variantArray.length === 0 ? true : false;
-    let url = `${TRAY_API_URL}/products/${product.id}?access_token=${access_token}`;
+    let url = `products/${product.id}?access_token=${access_token}`;
 
     return (dispatch) => {
         dispatch(showLoading())
-        return axios.put(url, { stock: product.stock })
+        return API.put(url, { stock: product.stock })
             .then(response => {
                 let variantPromises = []
                 if (!noVariant) {
@@ -187,8 +186,8 @@ export const tray_refresh_product_failure = (error) => {
 /* PUT - Refresh one Variant from some product */
 export const tray_refresh_product_variant = (variant) => {
     let access_token = store.getState().trayApiState.auth.access_token;
-    let url = `${TRAY_API_URL}/products/variants/${variant.id}?access_token=${access_token}`;
-    return axios.put(url, { stock: variant.stock })
+    let url = `products/variants/${variant.id}?access_token=${access_token}`;
+    return API.put(url, { stock: variant.stock })
         .then(response => response)
         .catch(error => error)
 }
