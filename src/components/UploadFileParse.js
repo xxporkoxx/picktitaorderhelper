@@ -30,8 +30,10 @@ const UploadFileParse = (fileContent) => {
                 while (arrayOfProducts[i].Product.name === arrayOfProducts[j].Product.name) {
                     mergedArrayOfProductsAndVariants[mergedArrayOfProductsAndVariants.length - 1].Product.Variant.push(arrayOfProducts[j].Product)
                     j++;
+                    if(j > arrayOfProducts.length-1) break
                 }
             }
+            if(j > arrayOfProducts.length-1) break
         }
 
         return mergedArrayOfProductsAndVariants;
