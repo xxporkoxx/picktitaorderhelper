@@ -22,3 +22,6 @@ yarn-error.log*
 
 #Ignoring Api keys File
 /src/constants/api_keys.js
+
+#Ignoring .env File
+./env*
