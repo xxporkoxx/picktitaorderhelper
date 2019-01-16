@@ -156,7 +156,7 @@ export const tray_refresh_product = (product) => {
                 if (!noVariant) {
                     variantPromises = Promise.all(
                         variantArray.map(variant => {
-                            return dispatch(tray_refresh_product_variant(variant))
+                            return tray_refresh_product_variant(variant)
                         })
                     );
                 }
