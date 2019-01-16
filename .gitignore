@@ -24,4 +24,4 @@ yarn-error.log*
 /src/constants/api_keys.js
 
 #Ignoring .env File
-./env*
+.env*
