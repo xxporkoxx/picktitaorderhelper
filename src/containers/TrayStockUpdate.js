@@ -7,7 +7,7 @@ import Dropzone from 'react-dropzone';
 import classNames from 'classnames'
 import UploadFileParse from '../components/UploadFileParse'
 import { TextTruncateIndicator } from '../utils/TextTruncateIndicator';
-import {VariantTableComponent} from '../components/VariantTableComponent'
+import { VariantTableComponent } from '../components/VariantTableComponent'
 
 const baseStyle = {
     width: 200,
@@ -42,13 +42,21 @@ export class TrayStockUpdate extends Component {
                 let parsedProducts = UploadFileParse(textFile);
 
                 if (parsedProducts !== null) {
-                    //TODOFix the productsNoReference and negative stock to also look inside variant
-                    let productsNoReference = parsedProducts.map(({Product}) => {
-                        return !Product.reference ? Product.id : null;
-                    }).filter(item => item !== null)
-                    let productsNegativeStock = parsedProducts.map(({Product}) => {
-                        return Product.stock < 0 ? Product.id : null;
-                    }).filter(item => item !== null)
+                    let productsNoReference = parsedProducts.map(({ Product }) => {
+                        if (!Product.Variant.length > 0)
+                            return !Product.reference ? Product.id : null;
+                        else {
+                            return Product.Variant.map(variant => !variant.reference ? variant.id : null)
+                        }
+
+                    }).reduce((a, b) => a.concat(b), []).filter(item => item !== null)
+                    let productsNegativeStock = parsedProducts.map(({ Product }) => {
+                        if (!Product.Variant.length > 0)
+                            return Product.stock < 0 ? Product.id : null;
+                        else {
+                            return Product.Variant.map(variant => variant.stock < 0 ? variant.id : null)
+                        }
+                    }).reduce((a, b) => a.concat(b), []).filter(item => item !== null)
 
                     let uploadedContent = {
                         fileAccepted: true,
@@ -75,7 +83,7 @@ export class TrayStockUpdate extends Component {
     render() {
         let { fileAccepted, numberOfProducts, parsedProducts, productsNoReference, productsNegativeStock } =
             this.props.trayApiState.uploadedContent
-        let {refreshedProductsStatus} = this.props.trayApiState;
+        let { refreshedProductsStatus } = this.props.trayApiState;
 
         return (
             <div>
