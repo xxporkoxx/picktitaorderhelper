@@ -14,6 +14,16 @@ import {
 
 const initialState = {
     auth: {},
+    products: {
+        paging: {
+            page: 0,
+            limit: 0,
+            maxLimit: 0,
+            offset: 0,
+            total: 0
+        },
+        Products: null
+    },
     uploadedContent: {
         fileAccepted: false,
         numberOfProducts: 0,

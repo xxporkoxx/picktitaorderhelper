@@ -13,20 +13,6 @@ export class TrayProductListing extends Component {
     constructor(props) {
         super(props);
 
-        this.state = {
-            trayApiState: {
-                products: {
-                    paging: {
-                        page: 0,
-                        limit: 0,
-                        maxLimit: 0,
-                        offset: 0,
-                        total: 0
-                    }
-                }
-            }
-        };
-
         this.refreshProductList = this.refreshProductList.bind(this);
         this.onSelectPage = this.onSelectPage.bind(this);
         this.fileDownload = this.fileDownload.bind(this);
@@ -43,20 +29,6 @@ export class TrayProductListing extends Component {
             .then(response => {
                 let { data } = response;
                 this.props.tray_get_product_success(data);
-
-                this.setState({
-                    trayApiState: {
-                        products: {
-                            Products: data.Products,
-                            paging: {
-                                page: data.paging.page,
-                                limit: data.paging.limit,
-                                offset: data.paging.offset,
-                                total: data.paging.total
-                            }
-                        }
-                    }
-                })
                 this.props.actionResetLoading();
             })
             .catch(error => {
@@ -67,7 +39,7 @@ export class TrayProductListing extends Component {
     }
 
     fileDownload() {
-        let { limit, total } = this.state.trayApiState.products.paging;
+        let { limit, total } = this.props.products.paging;
         let totalPages = Math.round(total / limit);
         DownloadProductListRequest(totalPages)
             .then((result) => {
@@ -83,10 +55,8 @@ export class TrayProductListing extends Component {
     }
 
     render() {
-        let productArray =
-            this.state.trayApiState.products.Products ?
-                this.state.trayApiState.products.Products : null;
-        let { page, limit, total } = this.state.trayApiState.products.paging;
+        let productArray = this.props.products.Products
+        let { page, limit, total } = this.props.products.paging;
 
         let paginationComponent = (total === 0) ? null :
             <ProductPagination
@@ -117,6 +87,7 @@ export class TrayProductListing extends Component {
 
 const mapStateToProps = state => ({
     auth: state.trayApiState.auth,
+    products: state.trayApiState.products
 });
 
 const mapDispatchToProps = dispatch =>
