@@ -22,24 +22,13 @@ export class TrayStockUpdate extends Component {
 
     constructor(props) {
         super(props);
-        this.state = {
-            trayApiState: {
-                uploadedContent: {
-                    fileAccepted: false,
-                    numberOfProducts: 0,
-                    parsedProducts: [],
-                    productsNoReference: [],
-                    productsNegativeStock: []
-                }
-            }
-        }
 
         this.onDrop = this.onDrop.bind(this);
         this.UpdateListedProductsStock = this.UpdateListedProductsStock.bind(this);
     }
 
     UpdateListedProductsStock() {
-        this.props.tray_refresh_all_products(this.state.trayApiState.uploadedContent.parsedProducts)
+        this.props.tray_refresh_all_products(this.props.trayApiState.uploadedContent.parsedProducts)
     }
 
     onDrop(acceptedFile, rejectedFile) {
@@ -70,11 +59,6 @@ export class TrayStockUpdate extends Component {
                     }
 
                     this.props.save_uploaded_products(uploadedContent)
-                    this.setState({
-                        trayApiState: {
-                            uploadedContent
-                        }
-                    })
                 }
                 else {
                     alert("Arquivo não suportado, adicione um arquivo contendo apenas referências que sigam o padrão: ID|REF|NOME|ESTOQUE e uma quebra de linha no final")
@@ -90,7 +74,8 @@ export class TrayStockUpdate extends Component {
 
     render() {
         let { fileAccepted, numberOfProducts, parsedProducts, productsNoReference, productsNegativeStock } =
-            this.state.trayApiState.uploadedContent
+            this.props.trayApiState.uploadedContent
+        let {refreshedProductsStatus} = this.props.trayApiState;
 
         return (
             <div>
@@ -141,14 +126,16 @@ export class TrayStockUpdate extends Component {
                     </Col>
                 </Row>
                 <Row>
-                    {VariantTableComponent(parsedProducts)}
+                    {VariantTableComponent(parsedProducts, refreshedProductsStatus)}
                 </Row>
             </div>
         );
     }
 }
 
-const mapStateToProps = state => ({});
+const mapStateToProps = state => ({
+    trayApiState: state.trayApiState
+});
 
 const mapDispatchToProps = dispatch =>
     bindActionCreators({ ...TrayIntegrationActions }, dispatch);

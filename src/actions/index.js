@@ -148,21 +148,28 @@ export const tray_refresh_product = (product) => {
     let noVariant = variantArray.length === 0 ? true : false;
     let url = `products/${product.id}?access_token=${access_token}`;
 
+    let promiseArray = variantArray.map(variant => {
+        return tray_refresh_product_variant(variant)
+    })
+
     return (dispatch) => {
         dispatch(showLoading())
         return API.put(url, { stock: product.stock })
             .then(response => {
-                let variantPromises = []
-                if (!noVariant) {
-                    variantPromises = Promise.all(
-                        variantArray.map(variant => {
-                            return tray_refresh_product_variant(variant)
-                        })
-                    );
+                if (noVariant) 
+                    return response
+                else {
+                    promiseArray.unshift(Promise.resolve(response))
+                    return Promise.all(promiseArray);
                 }
             })
             .catch(error => {
-                return error;
+                if (noVariant) 
+                    return error.response
+                else {
+                    promiseArray.unshift(Promise.resolve(error.response))
+                    return Promise.all(promiseArray);
+                }
             });
     }
 }
@@ -189,7 +196,7 @@ export const tray_refresh_product_variant = (variant) => {
     let url = `products/variants/${variant.id}?access_token=${access_token}`;
     return API.put(url, { stock: variant.stock })
         .then(response => response)
-        .catch(error => error)
+        .catch(error => error.response)
 }
 
 /* PUT - Refresh All Products */
@@ -198,7 +205,29 @@ export const tray_refresh_all_products = (arrayOfProducts) => {
         arrayOfProducts.map(({ Product }) => {
             return dispatch(tray_refresh_product(Product))
         })
-    );
+    ).then(response => {
+        dispatch(tray_refresh_all_product_success(response))
+        dispatch(resetLoading())
+    }).catch(error => {
+        dispatch(tray_refresh_all_product_failure(error))
+        dispatch(resetLoading())
+    });
+}
+
+export const TRAY_REFRESH_ALL_PRODUCT_SUCCESS = 'TRAY_REFRESH_ALL_PRODUCT_SUCCESS';
+export const tray_refresh_all_product_success = (data) => {
+    return {
+        type: TRAY_REFRESH_ALL_PRODUCT_SUCCESS,
+        data
+    }
+}
+
+export const TRAY_REFRESH_ALL_PRODUCT_FAILURE = 'TRAY_REFRESH_ALL_PRODUCT_FAILURE';
+export const tray_refresh_all_product_failure = (data) => {
+    return {
+        type: TRAY_REFRESH_ALL_PRODUCT_FAILURE,
+        data
+    }
 }
 
 /*GET
