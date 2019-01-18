@@ -17,7 +17,7 @@ export const tray_auth = () => {
         return API.post(`auth`, data)
             .then(response => {
                 let { code } = response.data;
-                if (code === 200)
+                if (code === 200 || code === 201)
                     dispatch(tray_auth_success(response.data))
                 else if (code === 401)
                     dispatch(tray_auth_refresh(response.data))
