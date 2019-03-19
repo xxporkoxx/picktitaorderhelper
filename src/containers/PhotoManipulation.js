@@ -6,6 +6,47 @@ import Dropzone from 'react-dropzone';
 import { dropZoneStyle } from '../constants/drop_zone_config'
 import classNames from 'classnames'
 
+const thumbsContainer = {
+    display: 'flex',
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    marginTop: 12,
+    backgroundColor: '#f1f1f1',
+    padding: 5,
+    borderRadius: 2,
+    border: '1px solid #eaeaea',
+    alignContent: 'center',
+    justifyContent: 'center'
+};
+
+const thumb = {
+    display: 'inline-flex',
+    borderRadius: 2,
+    border: '1px solid #eaeaea',
+    marginBottom: 8,
+    marginRight: 8,
+    width: 100,
+    height: 100,
+    padding: 4,
+    boxSizing: 'border-box',
+    backgroundColor: '#c7cbce',
+    alignContent: 'center',
+    justifyContent: 'center'
+};
+
+const thumbInner = {
+    display: 'flex',
+    minWidth: 0,
+    overflow: 'hidden',
+    backgroundColor: '#ffffff',
+};
+
+const img = {
+    display: 'block',
+    width: 'auto',
+    height: '100%',
+};
+
 export class PhotoManipulation extends Component {
 
     constructor(props) {
@@ -17,14 +58,25 @@ export class PhotoManipulation extends Component {
     }
 
     onDrop(acceptedFile, rejectedFile) {
-        this.setState({files: acceptedFile})
+        this.setState({
+            files: acceptedFile.map(file => Object.assign(file, {
+                preview: URL.createObjectURL(file)
+            }))
+        })
+
     }
 
     render() {
-        const files = this.state.files.map(file => (
-            <li key={file.name}>
-                {file.name} - {file.size} bytes
-            </li>
+        const thumbs = this.state.files.map(file => (
+            <div style={thumb} key={file.name}>
+                <div style={thumbInner}>
+                    <img
+                        alt={file.name}
+                        src={file.preview}
+                        style={img}
+                    />
+                </div>
+            </div>
         ));
 
         return (
@@ -44,13 +96,17 @@ export class PhotoManipulation extends Component {
                                         style={dropZoneStyle}
                                         className={classNames('dropzone', { 'dropzone--isActive': isDragActive })}
                                     >
-                                        <input {...getInputProps()} />
-                                        {<p>Clique ou Arraste uma ou mais Imagens. <br /> Extenssões: .png, .jpeg, .jpg</p>}
+                                        <center>
+                                            <h4>Upload de Imagens</h4>
+                                            {<p>Clique ou Arraste uma ou mais Imagens. <br /> Extenssões: .png, .jpeg, .jpg</p>}
+                                            <input {...getInputProps()} />
+                                        </center>
                                     </div>
-                                    <aside>
-                                        <h4>Files</h4>
-                                        <ul>{files}</ul>
+                                    <center><h3>Prévia das Imagens</h3></center>
+                                    <aside style={thumbsContainer}>
+                                        {thumbs.length ? thumbs : <h5>Nenhum Produto Listado</h5>}
                                     </aside>
+
                                 </section>
                             )
                         }}
