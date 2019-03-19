@@ -4,6 +4,7 @@ import { Route } from "react-router-dom";
 import { Image, Nav, Navbar, NavItem, MenuItem, NavDropdown } from 'react-bootstrap';
 import OrderHelper from '../containers/OrderHelper'
 import TrayProductListing from '../containers/TrayProductListing'
+import PhotoManipulation from '../containers/PhotoManipulation'
 import 'react-bootstrap-table-next/dist/react-bootstrap-table2.min.css';
 import Dashboard from './Dashboard';
 import TrayStockUpdate from '../containers/TrayStockUpdate';
@@ -43,6 +44,9 @@ class App extends Component {
               <MenuItem divider />
               <MenuItem eventKey={4.2} href="/TrayStockUpdate">Atualização de Estoque</MenuItem>
             </NavDropdown>
+            <NavItem eventKey={5} href="/photoManipulation">
+              Tratamento de Imagens
+            </NavItem>
           </Nav>
         </Navbar>
         <LoadingBar maxProgress={90} progressIncrease={20} />
@@ -52,6 +56,7 @@ class App extends Component {
           <Route path="/orderHelper" component={OrderHelper} />
           <Route path="/TrayProductListing" component={TrayProductListing} />
           <Route path="/TrayStockUpdate" component={TrayStockUpdate} />
+          <Route path="/photoManipulation" component={PhotoManipulation} />
         </div>
         <LoadingBar maxProgress={90} progressIncrease={20} />
       </div>

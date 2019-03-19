@@ -8,16 +8,7 @@ import classNames from 'classnames'
 import UploadFileParse from '../components/UploadFileParse'
 import { TextTruncateIndicator } from '../utils/TextTruncateIndicator';
 import { VariantTableComponent } from '../components/VariantTableComponent'
-
-const baseStyle = {
-    width: 200,
-    height: 34,
-    borderWidth: 2,
-    borderColor: '#666',
-    borderStyle: 'dashed',
-    borderRadius: 5
-};
-
+import { dropZoneStyle } from '../constants/drop_zone_config'
 export class TrayStockUpdate extends Component {
 
     constructor(props) {
@@ -105,7 +96,7 @@ export class TrayStockUpdate extends Component {
                                 return (
                                     <div
                                         {...getRootProps()}
-                                        style={baseStyle}
+                                        style={dropZoneStyle}
                                         className={classNames('dropzone', { 'dropzone--isActive': isDragActive })}
                                     >
                                         <input {...getInputProps()} />
