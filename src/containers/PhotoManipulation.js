@@ -5,6 +5,7 @@ import { bindActionCreators } from 'redux';
 import Dropzone from 'react-dropzone';
 import { dropZoneStyle } from '../constants/drop_zone_config'
 import classNames from 'classnames'
+import * as PhotoManipulationActions from '../actions/PhotoManipulationActions'
 
 const thumbsContainer = {
     display: 'flex',
@@ -52,22 +53,17 @@ export class PhotoManipulation extends Component {
     constructor(props) {
         super(props);
         this.onDrop = this.onDrop.bind(this);
-        this.state = {
-            files: []
-        };
     }
 
     onDrop(acceptedFile, rejectedFile) {
-        this.setState({
-            files: acceptedFile.map(file => Object.assign(file, {
-                preview: URL.createObjectURL(file)
-            }))
-        })
-
+        let files = acceptedFile.map(file => Object.assign(file, {
+            preview: URL.createObjectURL(file)
+        }));
+        this.props.save_accepted_files(files)
     }
 
     render() {
-        const thumbs = this.state.files.map(file => (
+        const thumbs = this.props.photoManipulation.photos.map(file => (
             <div style={thumb} key={file.name}>
                 <div style={thumbInner}>
                     <img
@@ -118,9 +114,10 @@ export class PhotoManipulation extends Component {
 }
 
 const mapStateToProps = state => ({
+    photoManipulation: state.photoManipulation
 });
 
 const mapDispatchToProps = dispatch =>
-    bindActionCreators({}, dispatch);
+    bindActionCreators({ ...PhotoManipulationActions }, dispatch);
 
 export default connect(mapStateToProps, mapDispatchToProps)(PhotoManipulation);
