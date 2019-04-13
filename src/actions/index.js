@@ -164,6 +164,9 @@ export const tray_refresh_product = (product) => {
                 }
             })
             .catch(error => {
+                error.response = error.response ?
+                                 error.response :
+                                 {data:{message: "error", code: 400, id: product.id}, statusText: "LIMIT REACHED"}
                 if (noVariant) 
                     return error.response
                 else {
@@ -196,7 +199,9 @@ export const tray_refresh_product_variant = (variant) => {
     let url = `products/variants/${variant.id}?access_token=${access_token}`;
     return API.put(url, { stock: variant.stock })
         .then(response => response)
-        .catch(error => error.response)
+        .catch(error => {
+            return error.response ? error.response : {data:{message: "error", code: 400, id: variant.id}, statusText: "LIMIT REACHED"}
+        })
 }
 
 /* PUT - Refresh All Products */
