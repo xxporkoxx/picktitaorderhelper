@@ -7,7 +7,7 @@ import {
 import store from '../store/index';
 
 const DownloadProductListRequest = (totalPages) => {
-    totalPages = 1;
+    //totalPages = 100;
     let arrayOfPages = [];
     for (let i = 1; i <= totalPages; i++) {
         arrayOfPages[i - 1] = i;

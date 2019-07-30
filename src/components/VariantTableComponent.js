@@ -15,8 +15,8 @@ export const VariantTableComponent = (productArray, refreshedProductsStatus) => 
 
             if (refreshedProductsStatus) {
                 Product = Product.Variant.length > 0 ?
-                    { ...Product, status: refreshedProductsStatus[i][0].statusText } :
-                    { ...Product, status: refreshedProductsStatus[i].statusText }
+                    { ...Product, status: refreshedProductsStatus[i][0].status } :
+                    { ...Product, status: refreshedProductsStatus[i].status }
             }
 
             Product.Variant.map((variant, j) => {
@@ -25,7 +25,7 @@ export const VariantTableComponent = (productArray, refreshedProductsStatus) => 
                 arrayOfVariantNames.push(`Variação de ${Product.name}`)
                 arrayOfVariantStocks.push(variant.stock)
                 refreshedProductsStatus ?
-                    arrayOfVariantStatus.push(refreshedProductsStatus[i][j + 1].statusText):null
+                    arrayOfVariantStatus.push(refreshedProductsStatus[i][j + 1].status) : null
                 return true;
             })
 
