@@ -19,7 +19,46 @@ export class TrayStockUpdate extends Component {
     }
 
     UpdateListedProductsStock() {
-        this.props.tray_refresh_all_products(this.props.trayApiState.uploadedContent.parsedProducts)
+        let {parsedProducts} = this.props.trayApiState.uploadedContent;
+        let splitedArrayOfProducts = []
+        //Split array of ParsedProducts into chuncks of 200 products, avoiding Request Limit
+        while(parsedProducts.length){
+            splitedArrayOfProducts.push(parsedProducts.splice(0,100))
+        }
+        
+        this.props.tray_refresh_all_products(splitedArrayOfProducts[0]).then(
+            setTimeout(()=>{
+                this.props.tray_refresh_all_products(splitedArrayOfProducts[1]).then(
+                    setTimeout(()=>{
+                        this.props.tray_refresh_all_products(splitedArrayOfProducts[2]).then(
+                            setTimeout(()=>{
+                                this.props.tray_refresh_all_products(splitedArrayOfProducts[3]).then(
+                                    setTimeout(()=>{
+                                        this.props.tray_refresh_all_products(splitedArrayOfProducts[4]).then(
+                                            setTimeout(()=>{
+                                                this.props.tray_refresh_all_products(splitedArrayOfProducts[5]).then(
+                                                    setTimeout(()=>{
+                                                        this.props.tray_refresh_all_products(splitedArrayOfProducts[6]).then(
+                                                            setTimeout(()=>{
+                                                                this.props.tray_refresh_all_products(splitedArrayOfProducts[7]).then(
+                                                                    setTimeout(()=>{
+                                                                        this.props.tray_refresh_all_products(splitedArrayOfProducts[8])
+                                                                    },15000)
+                                                                )
+                                                            },15000)
+                                                        )
+                                                    },15000)
+                                                )
+                                            },15000)
+                                        )
+                                    },15000)
+                                )
+                            },15000)
+                        )
+                    },15000)
+                )
+            },15000)
+        )
     }
 
     onDrop(acceptedFile, rejectedFile) {
