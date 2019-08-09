@@ -40,7 +40,7 @@ export class TrayProductListing extends Component {
 
     fileDownload() {
         let { limit, total } = this.props.products.paging;
-        let totalPages = Math.round(total / limit);
+        let totalPages = Math.ceil(total / limit);
         DownloadProductListRequest(totalPages)
             .then((result) => {
                 DownloadFileStructuring(result);

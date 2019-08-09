@@ -89,23 +89,31 @@ export const tray_get_product = (reference, pageNumber) => {
                     return null;
                 })
 
-                let flattenVariantArray = Promise.all(variantPromiseArray).then(solvedVariantsPromiseArray => {
-                    return solvedVariantsPromiseArray.map((solvedVariants) => {
-                        return (
-                            solvedVariants !== null ? solvedVariants.map(variant => {
-                                return variant.data.Variants[0].Variant
-                            }) : []
-                        )
+                let flattenVariantArray = Promise.all(variantPromiseArray)
+                    .then(solvedVariantsPromiseArray => {
+                        return solvedVariantsPromiseArray.map((solvedVariants) => {
+                            return (
+                                solvedVariants !== null ? solvedVariants.map(variant => {
+                                    return variant.data.Variants[0].Variant
+                                }) : []
+                            )
+                        })
                     })
-                });
+                    .catch(error => {
+                        console.log(error.message+" "+error.config.url);
+                        return [];
+                    });
 
-                return flattenVariantArray.then(variantArray => {
-                    let mergedProductResponse = productResponse;
-                    variantArray.map((variants, i) =>
-                        mergedProductResponse.data.Products[i].Product.Variant = variants
-                    )
-                    return mergedProductResponse;
-                })
+                return flattenVariantArray
+                    .then(variantArray => {
+                        let mergedProductResponse = productResponse;
+                        variantArray.map((variants, i) =>
+                            mergedProductResponse.data.Products[i].Product.Variant = variants
+                        )
+                        return mergedProductResponse;
+                    }).catch((error) => {
+                        console.log(error.message+ " " +error.config.url);
+                    })
             })
             .catch((error) => {
                 return error
@@ -156,7 +164,7 @@ export const tray_refresh_product = (product) => {
         dispatch(showLoading())
         return API.put(url, { stock: product.stock })
             .then(response => {
-                if (noVariant) 
+                if (noVariant)
                     return response
                 else {
                     promiseArray.unshift(Promise.resolve(response))
@@ -165,9 +173,9 @@ export const tray_refresh_product = (product) => {
             })
             .catch(error => {
                 error.response = error.response ?
-                                 error.response :
-                                 {data:{message: "error", code: 400, id: product.id}, statusText: "LIMIT REACHED"}
-                if (noVariant) 
+                    error.response :
+                    { data: { message: "error", code: 400, id: product.id }, statusText: "LIMIT REACHED" }
+                if (noVariant)
                     return error.response
                 else {
                     promiseArray.unshift(Promise.resolve(error.response))
@@ -200,7 +208,7 @@ export const tray_refresh_product_variant = (variant) => {
     return API.put(url, { stock: variant.stock })
         .then(response => response)
         .catch(error => {
-            return error.response ? error.response : {data:{message: "error", code: 400, id: variant.id}, statusText: "LIMIT REACHED"}
+            return error.response ? error.response : { data: { message: "error", code: 400, id: variant.id }, statusText: "LIMIT REACHED" }
         })
 }
 
