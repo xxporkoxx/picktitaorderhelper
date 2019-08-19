@@ -19,7 +19,7 @@ export class TrayProductListing extends Component {
     }
 
     componentWillReceiveProps(nextProps) {
-        if(nextProps.auth !== this.props.auth){
+        if (nextProps.auth !== this.props.auth) {
             this.refreshProductList(1);
         }
     }
@@ -40,13 +40,35 @@ export class TrayProductListing extends Component {
 
     fileDownload() {
         let { limit, total } = this.props.products.paging;
-        let totalPages = Math.ceil(total / limit);
-        DownloadProductListRequest(totalPages)
+        let totalPages = Math.round(total / limit);
+        let chunk = 5
+        let arrayOfChunkPages = [];
+
+        let arrayOfPages = [];
+        for (let i = 1; i <= totalPages; i++) {
+            arrayOfPages[i - 1] = i;
+        }
+
+        let pagecounter = 0;
+        for (let i = 0, j = arrayOfPages.length; i < j; i += chunk, pagecounter++) {
+            arrayOfChunkPages[pagecounter] = arrayOfPages.slice(i, i + chunk);
+        }
+
+        DownloadProductListRequest(arrayOfChunkPages[0])
             .then((result) => {
                 DownloadFileStructuring(result);
-            })
-            .catch((error) => {
-                alert(error);
+                DownloadProductListRequest(arrayOfChunkPages[1])
+                    .then((result) => {
+                        DownloadFileStructuring(result);
+                        DownloadProductListRequest(arrayOfChunkPages[2])
+                            .then((result) => {
+                                DownloadFileStructuring(result);
+                                DownloadProductListRequest(arrayOfChunkPages[3])
+                                    .then((result) => {
+                                        DownloadFileStructuring(result);
+                                    })
+                            })
+                    })
             })
     }
 
