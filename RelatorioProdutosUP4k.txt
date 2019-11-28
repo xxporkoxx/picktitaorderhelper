@@ -1,23 +1,23 @@
 1@@PRODUTO DE TESTE@997@~
 3@331010@Mochila Pampili Zoo Tucano Preto@0@~
 7151@331011@Mochila Pampili Zoo Tucano Preto@0@~
-5@303472@Tênis Bibi Walk Baby New Azul@2@~
-1@303473@Tênis Bibi Walk Baby New Azul@0@~
-3@303474@Tênis Bibi Walk Baby New Azul@0@~
-5@303475@Tênis Bibi Walk Baby New Azul@0@~
-9@303477@Tênis Bibi Walk Baby New Azul@0@~
-11@303478@Tênis Bibi Walk Baby New Azul@0@~
-13@303479@Tênis Bibi Walk Baby New Azul@1@~
-15@303480@Tênis Bibi Walk Baby New Azul@1@~
-3557@303476@Tênis Bibi Walk Baby New Azul@0@~
+5@303472@Tênis Bibi Walk Baby New Azul - Black Friday@2@~
+1@303473@Tênis Bibi Walk Baby New Azul - Black Friday@0@~
+3@303474@Tênis Bibi Walk Baby New Azul - Black Friday@0@~
+5@303475@Tênis Bibi Walk Baby New Azul - Black Friday@0@~
+9@303477@Tênis Bibi Walk Baby New Azul - Black Friday@0@~
+11@303478@Tênis Bibi Walk Baby New Azul - Black Friday@0@~
+13@303479@Tênis Bibi Walk Baby New Azul - Black Friday@1@~
+15@303480@Tênis Bibi Walk Baby New Azul - Black Friday@1@~
+3557@303476@Tênis Bibi Walk Baby New Azul - Black Friday@0@~
 7@262237@Preparador De Papinhas Amassador Garden Fresh Nuby@0@~
-9@321631@Tenis Masculino Cavalera Couro Otto Cano Médio@0@~
-31@321636@Tenis Masculino Cavalera Couro Otto Cano Médio@0@~
-33@321637@Tenis Masculino Cavalera Couro Otto Cano Médio@0@~
-3267@321634@Tenis Masculino Cavalera Couro Otto Cano Médio@0@~
-3269@321633@Tenis Masculino Cavalera Couro Otto Cano Médio@0@~
-3271@321632@Tenis Masculino Cavalera Couro Otto Cano Médio@0@~
-3325@321635@Tenis Masculino Cavalera Couro Otto Cano Médio@0@~
+9@321631@Tenis Masculino Cavalera Couro Otto Cano Médio - Black Friday@0@~
+31@321636@Tenis Masculino Cavalera Couro Otto Cano Médio - Black Friday@0@~
+33@321637@Tenis Masculino Cavalera Couro Otto Cano Médio - Black Friday@0@~
+3267@321634@Tenis Masculino Cavalera Couro Otto Cano Médio - Black Friday@0@~
+3269@321633@Tenis Masculino Cavalera Couro Otto Cano Médio - Black Friday@0@~
+3271@321632@Tenis Masculino Cavalera Couro Otto Cano Médio - Black Friday@0@~
+3325@321635@Tenis Masculino Cavalera Couro Otto Cano Médio - Black Friday@0@~
 11@356522@Copo Nuby Treinamento Super Bico 240ml Anti Vazamento@2@~
 10833@356524@Copo Nuby Treinamento Super Bico 240ml Anti Vazamento@0@~
 10835@356523@Copo Nuby Treinamento Super Bico 240ml Anti Vazamento@2@~
@@ -68,9 +68,6 @@
 3571@264371@Jaqueta Milon Infantil Menina Couro Sintetico@1@~
 3573@264372@Jaqueta Milon Infantil Menina Couro Sintetico@0@~
 7433@264375@Jaqueta Milon Infantil Menina Couro Sintetico@0@~
-71@267382@Tenis Masculino Infantil Klin Genesis Menino@0@~
-171@267388@Tenis Masculino Infantil Klin Genesis Menino@0@~
-173@267390@Tenis Masculino Infantil Klin Genesis Menino@0@~
 73@362277@Naninha Hug Baby Bear Menino e Menina Azul e Rosa Folhagem E12408@2@~
 11825@362278@Naninha Hug Baby Bear Menino e Menina Azul e Rosa Folhagem E12408@1@~
 11827@362279@Naninha Hug Baby Bear Menino e Menina Azul e Rosa Folhagem E12408@1@~
@@ -105,21 +102,21 @@
 93@283282@Tênis Masculino Cavalera Nobuck Antony@1@~
 235@321623@Tênis Masculino Cavalera Nobuck Antony@1@~
 4183@283287@Tênis Masculino Cavalera Nobuck Antony@0@~
-97@272368@Sapato Salto Dakota Feminino Preto@0@~
-2683@272371@Sapato Salto Dakota Feminino Preto@0@~
-2685@272372@Sapato Salto Dakota Feminino Preto@0@~
-2687@272373@Sapato Salto Dakota Feminino Preto@0@~
-2689@272375@Sapato Salto Dakota Feminino Preto@0@~
+97@272368@Sapato Salto Dakota Feminino Preto - Black Friday@0@~
+2683@272371@Sapato Salto Dakota Feminino Preto - Black Friday@0@~
+2685@272372@Sapato Salto Dakota Feminino Preto - Black Friday@0@~
+2687@272373@Sapato Salto Dakota Feminino Preto - Black Friday@0@~
+2689@272375@Sapato Salto Dakota Feminino Preto - Black Friday@0@~
 105@283601@Frasqueira Hug Baby Azul Escura@1@~
 117@251364@Cobertor Para Berço Colibri Jungle@1@~
 119@264467@Tenis Cavalera Masculino Urbano Marrom@2@~
 279@264472@Tenis Cavalera Masculino Urbano Marrom@2@~
-123@283254@Tenis Cavalera Masculino Jeans Azul@0@~
-281@283258@Tenis Cavalera Masculino Jeans Azul@0@~
-283@283259@Tenis Cavalera Masculino Jeans Azul@0@~
-285@283256@Tenis Cavalera Masculino Jeans Azul@0@~
-3327@283257@Tenis Cavalera Masculino Jeans Azul@0@~
-3329@283260@Tenis Cavalera Masculino Jeans Azul@0@~
+123@283254@Tenis Cavalera Masculino Jeans Azul - Black Friday@0@~
+281@283258@Tenis Cavalera Masculino Jeans Azul - Black Friday@0@~
+283@283259@Tenis Cavalera Masculino Jeans Azul - Black Friday@0@~
+285@283256@Tenis Cavalera Masculino Jeans Azul - Black Friday@0@~
+3327@283257@Tenis Cavalera Masculino Jeans Azul - Black Friday@0@~
+3329@283260@Tenis Cavalera Masculino Jeans Azul - Black Friday@0@~
 127@238056@Porta Frutas Alimentador Buba Bebe@0@~
 131@307223@Bebe Conforto Cocoon Galzerano@1@~
 3595@321972@Bebe Conforto Cocoon Galzerano@0@~
@@ -128,11 +125,11 @@
 3601@321969@Bebe Conforto Cocoon Galzerano@1@~
 133@262230@Tesoura Infantil Nuby Bebe@7@~
 139@274670@Bolsa Maternidade Chevron G@1@~
-143@299169@Sapatilha Pampili Infantil Menina Pinguim@3@~
-295@299170@Sapatilha Pampili Infantil Menina Pinguim@1@~
-297@299171@Sapatilha Pampili Infantil Menina Pinguim@1@~
-299@299172@Sapatilha Pampili Infantil Menina Pinguim@1@~
-301@299173@Sapatilha Pampili Infantil Menina Pinguim@0@~
+143@299169@Sapatilha Pampili Infantil Menina Pinguim - Black Friday@3@~
+295@299170@Sapatilha Pampili Infantil Menina Pinguim - Black Friday@1@~
+297@299171@Sapatilha Pampili Infantil Menina Pinguim - Black Friday@1@~
+299@299172@Sapatilha Pampili Infantil Menina Pinguim - Black Friday@1@~
+301@299173@Sapatilha Pampili Infantil Menina Pinguim - Black Friday@0@~
 147@338400@Mochila Petite Jolie PJ3912 Jessie@0@~
 4207@338401@Mochila Petite Jolie PJ3912 Jessie@0@~
 7971@338402@Mochila Petite Jolie PJ3912 Jessie@0@~
@@ -185,7 +182,7 @@
 207@274707  @Kit 6 Cabides Hug Bebe Malha Matelassê Branco@1@~
 209@299568@Sandália Infantil Pampili Cherrie Frape@1@~
 403@299569@Sandália Infantil Pampili Cherrie Frape@0@~
-409@299572@Sandália Infantil Pampili Cherrie Frape@1@~
+409@299572@Sandália Infantil Pampili Cherrie Frape@0@~
 415@299575@Sandália Infantil Pampili Cherrie Frape@0@~
 211@298782@Sandalia Infantil Pampili Kiss@2@~
 417@298783@Sandalia Infantil Pampili Kiss@0@~
@@ -215,41 +212,41 @@
 495@298019@Tamanco Beira Rio Rosa Conforto@0@~
 497@298020@Tamanco Beira Rio Rosa Conforto@0@~
 499@298021@Tamanco Beira Rio Rosa Conforto@0@~
-229@298791@Sandália Infantil Pampili Kiss Laço@3@~
-525@298792@Sandália Infantil Pampili Kiss Laço@1@~
-527@298793@Sandália Infantil Pampili Kiss Laço@0@~
-529@298794@Sandália Infantil Pampili Kiss Laço@1@~
-531@298795@Sandália Infantil Pampili Kiss Laço@1@~
-533@298796@Sandália Infantil Pampili Kiss Laço@0@~
-535@298797@Sandália Infantil Pampili Kiss Laço@0@~
-537@298798@Sandália Infantil Pampili Kiss Laço@0@~
-539@298799@Sandália Infantil Pampili Kiss Laço@0@~
+229@298791@Sandália Infantil Pampili Kiss Laço - Black Friday@3@~
+525@298792@Sandália Infantil Pampili Kiss Laço - Black Friday@1@~
+527@298793@Sandália Infantil Pampili Kiss Laço - Black Friday@0@~
+529@298794@Sandália Infantil Pampili Kiss Laço - Black Friday@1@~
+531@298795@Sandália Infantil Pampili Kiss Laço - Black Friday@1@~
+533@298796@Sandália Infantil Pampili Kiss Laço - Black Friday@0@~
+535@298797@Sandália Infantil Pampili Kiss Laço - Black Friday@0@~
+537@298798@Sandália Infantil Pampili Kiss Laço - Black Friday@0@~
+539@298799@Sandália Infantil Pampili Kiss Laço - Black Friday@0@~
 231@213515@Camiseta Kyly Infantil Menina Manga Longa@1@~
-239@298501@Sapatilha Pampili Infantil Bailarina@8@~
-545@298514@Sapatilha Pampili Infantil Bailarina@1@~
-547@298515@Sapatilha Pampili Infantil Bailarina@0@~
-549@298516@Sapatilha Pampili Infantil Bailarina@0@~
-551@298517@Sapatilha Pampili Infantil Bailarina@0@~
-553@298518@Sapatilha Pampili Infantil Bailarina@0@~
-555@298519@Sapatilha Pampili Infantil Bailarina@0@~
-2919@298521@Sapatilha Pampili Infantil Bailarina@1@~
-2921@298522@Sapatilha Pampili Infantil Bailarina@0@~
-2923@298523@Sapatilha Pampili Infantil Bailarina@0@~
-2925@298524@Sapatilha Pampili Infantil Bailarina@0@~
-2927@298525@Sapatilha Pampili Infantil Bailarina@0@~
-3701@298502@Sapatilha Pampili Infantil Bailarina@1@~
-3703@298503@Sapatilha Pampili Infantil Bailarina@0@~
-3705@298504@Sapatilha Pampili Infantil Bailarina@0@~
-3707@298505@Sapatilha Pampili Infantil Bailarina@0@~
-3709@298506@Sapatilha Pampili Infantil Bailarina@0@~
-3711@298507@Sapatilha Pampili Infantil Bailarina@0@~
-3713@298508@Sapatilha Pampili Infantil Bailarina@1@~
-3715@298509@Sapatilha Pampili Infantil Bailarina@0@~
-3717@298510@Sapatilha Pampili Infantil Bailarina@1@~
-3719@298511@Sapatilha Pampili Infantil Bailarina@0@~
-3721@298512@Sapatilha Pampili Infantil Bailarina@0@~
-3723@298513@Sapatilha Pampili Infantil Bailarina@0@~
-3883@298520@Sapatilha Pampili Infantil Bailarina@3@~
+239@298501@Sapatilha Pampili Infantil Bailarina - Black Friday@8@~
+545@298514@Sapatilha Pampili Infantil Bailarina - Black Friday@1@~
+547@298515@Sapatilha Pampili Infantil Bailarina - Black Friday@0@~
+549@298516@Sapatilha Pampili Infantil Bailarina - Black Friday@0@~
+551@298517@Sapatilha Pampili Infantil Bailarina - Black Friday@0@~
+553@298518@Sapatilha Pampili Infantil Bailarina - Black Friday@0@~
+555@298519@Sapatilha Pampili Infantil Bailarina - Black Friday@0@~
+2919@298521@Sapatilha Pampili Infantil Bailarina - Black Friday@1@~
+2921@298522@Sapatilha Pampili Infantil Bailarina - Black Friday@0@~
+2923@298523@Sapatilha Pampili Infantil Bailarina - Black Friday@0@~
+2925@298524@Sapatilha Pampili Infantil Bailarina - Black Friday@0@~
+2927@298525@Sapatilha Pampili Infantil Bailarina - Black Friday@0@~
+3701@298502@Sapatilha Pampili Infantil Bailarina - Black Friday@1@~
+3703@298503@Sapatilha Pampili Infantil Bailarina - Black Friday@0@~
+3705@298504@Sapatilha Pampili Infantil Bailarina - Black Friday@0@~
+3707@298505@Sapatilha Pampili Infantil Bailarina - Black Friday@0@~
+3709@298506@Sapatilha Pampili Infantil Bailarina - Black Friday@0@~
+3711@298507@Sapatilha Pampili Infantil Bailarina - Black Friday@0@~
+3713@298508@Sapatilha Pampili Infantil Bailarina - Black Friday@1@~
+3715@298509@Sapatilha Pampili Infantil Bailarina - Black Friday@0@~
+3717@298510@Sapatilha Pampili Infantil Bailarina - Black Friday@1@~
+3719@298511@Sapatilha Pampili Infantil Bailarina - Black Friday@0@~
+3721@298512@Sapatilha Pampili Infantil Bailarina - Black Friday@0@~
+3723@298513@Sapatilha Pampili Infantil Bailarina - Black Friday@0@~
+3883@298520@Sapatilha Pampili Infantil Bailarina - Black Friday@3@~
 263@302090@Tênis Bibi Space Wave Azul Luz@3@~
 2717@302091@Tênis Bibi Space Wave Azul Luz@1@~
 2719@302092@Tênis Bibi Space Wave Azul Luz@1@~
@@ -262,19 +259,19 @@
 2733@302099@Tênis Bibi Space Wave Azul Luz@0@~
 265@266578@Conjunto Kyly Infantil Longo Menina@1@~
 595@266580@Conjunto Kyly Infantil Longo Menina@1@~
-267@295237@Chinelo Slide Plataforma Beira Rio Vermelho@2@~
-597@295238@Chinelo Slide Plataforma Beira Rio Vermelho@0@~
-599@295240@Chinelo Slide Plataforma Beira Rio Vermelho@0@~
-601@295243@Chinelo Slide Plataforma Beira Rio Vermelho@0@~
-3059@295239@Chinelo Slide Plataforma Beira Rio Vermelho@0@~
-3061@295241@Chinelo Slide Plataforma Beira Rio Vermelho@0@~
-3063@295242@Chinelo Slide Plataforma Beira Rio Vermelho@0@~
-3731@295244@Chinelo Slide Plataforma Beira Rio Vermelho@1@~
-3733@295245@Chinelo Slide Plataforma Beira Rio Vermelho@0@~
-3735@295246@Chinelo Slide Plataforma Beira Rio Vermelho@0@~
-3737@295247@Chinelo Slide Plataforma Beira Rio Vermelho@1@~
-3739@295248@Chinelo Slide Plataforma Beira Rio Vermelho@0@~
-3741@295249@Chinelo Slide Plataforma Beira Rio Vermelho@0@~
+267@295237@Chinelo Slide Plataforma Beira Rio Vermelho - Black Friday@2@~
+597@295238@Chinelo Slide Plataforma Beira Rio Vermelho - Black Friday@0@~
+599@295240@Chinelo Slide Plataforma Beira Rio Vermelho - Black Friday@0@~
+601@295243@Chinelo Slide Plataforma Beira Rio Vermelho - Black Friday@0@~
+3059@295239@Chinelo Slide Plataforma Beira Rio Vermelho - Black Friday@0@~
+3061@295241@Chinelo Slide Plataforma Beira Rio Vermelho - Black Friday@0@~
+3063@295242@Chinelo Slide Plataforma Beira Rio Vermelho - Black Friday@0@~
+3731@295244@Chinelo Slide Plataforma Beira Rio Vermelho - Black Friday@0@~
+3733@295245@Chinelo Slide Plataforma Beira Rio Vermelho - Black Friday@0@~
+3735@295246@Chinelo Slide Plataforma Beira Rio Vermelho - Black Friday@0@~
+3737@295247@Chinelo Slide Plataforma Beira Rio Vermelho - Black Friday@1@~
+3739@295248@Chinelo Slide Plataforma Beira Rio Vermelho - Black Friday@0@~
+3741@295249@Chinelo Slide Plataforma Beira Rio Vermelho - Black Friday@0@~
 285@271709@Conjunto Milon Bebe Menino@1@~
 631@271711@Conjunto Milon Bebe Menino@1@~
 3747@271710@Conjunto Milon Bebe Menino@0@~
@@ -287,25 +284,21 @@
 659@280662@Bota JCountry Infantil Marrom@1@~
 3751@280659@Bota JCountry Infantil Marrom@0@~
 3753@280661@Bota JCountry Infantil Marrom@0@~
-303@292992@Sapatilha Molekinha Feminina Infantil Preta@2@~
-661@292993@Sapatilha Molekinha Feminina Infantil Preta@1@~
-663@292994@Sapatilha Molekinha Feminina Infantil Preta@0@~
-665@292996@Sapatilha Molekinha Feminina Infantil Preta@0@~
-667@292997@Sapatilha Molekinha Feminina Infantil Preta@1@~
-669@292999@Sapatilha Molekinha Feminina Infantil Preta@0@~
-671@293000@Sapatilha Molekinha Feminina Infantil Preta@0@~
-2659@292998@Sapatilha Molekinha Feminina Infantil Preta@0@~
-3745@292995@Sapatilha Molekinha Feminina Infantil Preta@0@~
+303@292992@Sapatilha Molekinha Feminina Infantil Preta - Black Friday@2@~
+661@292993@Sapatilha Molekinha Feminina Infantil Preta - Black Friday@1@~
+663@292994@Sapatilha Molekinha Feminina Infantil Preta - Black Friday@0@~
+665@292996@Sapatilha Molekinha Feminina Infantil Preta - Black Friday@0@~
+667@292997@Sapatilha Molekinha Feminina Infantil Preta - Black Friday@1@~
+669@292999@Sapatilha Molekinha Feminina Infantil Preta - Black Friday@0@~
+671@293000@Sapatilha Molekinha Feminina Infantil Preta - Black Friday@0@~
+2659@292998@Sapatilha Molekinha Feminina Infantil Preta - Black Friday@0@~
+3745@292995@Sapatilha Molekinha Feminina Infantil Preta - Black Friday@0@~
 305@268998@Colete Milon Infantil Menina Pelos@1@~
 673@268999@Colete Milon Infantil Menina Pelos@0@~
 675@269000@Colete Milon Infantil Menina Pelos@1@~
 677@269001@Colete Milon Infantil Menina Pelos@0@~
 679@269002@Colete Milon Infantil Menina Pelos@0@~
 681@269003@Colete Milon Infantil Menina Pelos@0@~
-309@272376@Sandália Dakota Salto Alto Grosso@0@~
-3759@272378@Sandália Dakota Salto Alto Grosso@0@~
-3761@272380@Sandália Dakota Salto Alto Grosso@0@~
-3763@272382@Sandália Dakota Salto Alto Grosso@0@~
 311@268920@Bota Pampili Feminina Adulta Marrom@2@~
 687@268923@Bota Pampili Feminina Adulta Marrom@0@~
 689@268924@Bota Pampili Feminina Adulta Marrom@1@~
@@ -313,17 +306,17 @@
 339@214070@Camiseta Kyly Infantil Menina Conforto@2@~
 341@290102@Tênis Com Luz Menino Infantil Dinossauro Bibi@0@~
 745@290105@Tênis Com Luz Menino Infantil Dinossauro Bibi@0@~
-349@264475@Tenis Cavalera Masculino Preto Conforto Original@2@~
-777@264477@Tenis Cavalera Masculino Preto Conforto Original@0@~
-779@264478@Tenis Cavalera Masculino Preto Conforto Original@1@~
-781@264481@Tenis Cavalera Masculino Preto Conforto Original@1@~
-4025@264479@Tenis Cavalera Masculino Preto Conforto Original@0@~
-351@283298@Tenis Cavalera Masculino Neoprene Diogo Elastico@3@~
-785@283300@Tenis Cavalera Masculino Neoprene Diogo Elastico@0@~
-793@283305@Tenis Cavalera Masculino Neoprene Diogo Elastico@2@~
-795@283317@Tenis Cavalera Masculino Neoprene Diogo Elastico@1@~
-3767@283304@Tenis Cavalera Masculino Neoprene Diogo Elastico@0@~
-361@283595@Bolsa Hug Nautica M Nude@1@~
+349@264475@Tenis Cavalera Masculino Preto Conforto Original - Black Friday@2@~
+777@264477@Tenis Cavalera Masculino Preto Conforto Original - Black Friday@0@~
+779@264478@Tenis Cavalera Masculino Preto Conforto Original - Black Friday@1@~
+781@264481@Tenis Cavalera Masculino Preto Conforto Original - Black Friday@1@~
+4025@264479@Tenis Cavalera Masculino Preto Conforto Original - Black Friday@0@~
+351@283298@Tenis Cavalera Masculino Neoprene Diogo Elastico - Black Friday@3@~
+785@283300@Tenis Cavalera Masculino Neoprene Diogo Elastico - Black Friday@0@~
+793@283305@Tenis Cavalera Masculino Neoprene Diogo Elastico - Black Friday@2@~
+795@283317@Tenis Cavalera Masculino Neoprene Diogo Elastico - Black Friday@1@~
+3767@283304@Tenis Cavalera Masculino Neoprene Diogo Elastico - Black Friday@0@~
+361@283595@Bolsa Hug Nautica M Nude - Black Friday@1@~
 367@267795@Calça Infantil Kyly Menina Moletom@4@~
 819@267796@Calça Infantil Kyly Menina Moletom@3@~
 821@267797@Calça Infantil Kyly Menina Moletom@1@~
@@ -352,23 +345,23 @@
 385@264229@Jaqueta Infantil Masculina Milon Microfibra@0@~
 885@264232@Jaqueta Infantil Masculina Milon Microfibra@0@~
 3765@264231@Jaqueta Infantil Masculina Milon Microfibra@0@~
-389@299600@Sandália Infantil Pampili Dourado Conforto@3@~
-889@299602@Sandália Infantil Pampili Dourado Conforto@2@~
-891@299603@Sandália Infantil Pampili Dourado Conforto@0@~
-897@299606@Sandália Infantil Pampili Dourado Conforto@1@~
+389@299600@Sandália Infantil Pampili Dourado Conforto - Black Friday@3@~
+889@299602@Sandália Infantil Pampili Dourado Conforto - Black Friday@2@~
+891@299603@Sandália Infantil Pampili Dourado Conforto - Black Friday@0@~
+897@299606@Sandália Infantil Pampili Dourado Conforto - Black Friday@1@~
 391@362273@Naninha Hug Sunshine Nuvem Bebe Cinza@7@~
 11915@362274@Naninha Hug Sunshine Nuvem Bebe Cinza@7@~
 393@362285@Naninha Hug Baby Pequena Princesa E1408@8@~
 11821@362286@Naninha Hug Baby Pequena Princesa E1408@8@~
-395@304953@Naninha Hug Panda Amigo Baby Bear@3@~
+395@304953@Naninha Hug Panda Amigo Baby Bear - Black Friday@3@~
 397@284248@Naninha Hug Baby Bear Menino E11908A@0@~
 401@362287@Naninha Hug Baby Bear Madri Triangulos Rosa ou Azul E12708@3@~
 11829@362289@Naninha Hug Baby Bear Madri Triangulos Rosa ou Azul E12708@2@~
 11831@362288@Naninha Hug Baby Bear Madri Triangulos Rosa ou Azul E12708@1@~
 403@284260@Naninha Hug Baby Bear Raposa Raposinha Menino E10608A@0@~
-405@362280@Naninha Hug Bebe Little Dreamer Azul ou Rosa E11408@18@~
-11833@362282@Naninha Hug Bebe Little Dreamer Azul ou Rosa E11408@9@~
-11835@362281@Naninha Hug Bebe Little Dreamer Azul ou Rosa E11408@10@~
+405@362280@Naninha Hug Bebe Little Dreamer Azul ou Rosa E11408 - Black Friday@19@~
+11833@362282@Naninha Hug Bebe Little Dreamer Azul ou Rosa E11408 - Black Friday@9@~
+11835@362281@Naninha Hug Bebe Little Dreamer Azul ou Rosa E11408 - Black Friday@10@~
 419@244188@Sandalia Menina Zaxynina Docinho@0@~
 911@244193@Sandalia Menina Zaxynina Docinho@0@~
 913@244191@Sandalia Menina Zaxynina Docinho@0@~
@@ -384,14 +377,14 @@
 5921@331007@Mochila Pampili Ovelhinha Zoo Nude@0@~
 457@292152@Mochila Petite Jolie Bolsa Blossom Pj3468@0@~
 1005@292153@Mochila Petite Jolie Bolsa Blossom Pj3468@0@~
-463@299560@Sandália Infantil Pampili Cherrie Nude@1@~
-1015@299561@Sandália Infantil Pampili Cherrie Nude@0@~
-1017@299562@Sandália Infantil Pampili Cherrie Nude@0@~
-1019@299563@Sandália Infantil Pampili Cherrie Nude@0@~
-1021@299564@Sandália Infantil Pampili Cherrie Nude@1@~
-1023@299565@Sandália Infantil Pampili Cherrie Nude@0@~
-1025@299566@Sandália Infantil Pampili Cherrie Nude@0@~
-1027@299567@Sandália Infantil Pampili Cherrie Nude@0@~
+463@299560@Sandália Infantil Pampili Cherrie Nude - Black Friday@1@~
+1015@299561@Sandália Infantil Pampili Cherrie Nude - Black Friday@0@~
+1017@299562@Sandália Infantil Pampili Cherrie Nude - Black Friday@0@~
+1019@299563@Sandália Infantil Pampili Cherrie Nude - Black Friday@0@~
+1021@299564@Sandália Infantil Pampili Cherrie Nude - Black Friday@1@~
+1023@299565@Sandália Infantil Pampili Cherrie Nude - Black Friday@0@~
+1025@299566@Sandália Infantil Pampili Cherrie Nude - Black Friday@0@~
+1027@299567@Sandália Infantil Pampili Cherrie Nude - Black Friday@0@~
 467@299176@Tênis Infantil Pampili Luna Dots Unicórnio Rosa Degrade@0@~
 12535@299177@Tênis Infantil Pampili Luna Dots Unicórnio Rosa Degrade@0@~
 12537@299178@Tênis Infantil Pampili Luna Dots Unicórnio Rosa Degrade@0@~
@@ -406,11 +399,11 @@
 471@299162@Sapatilha Infantil Pampili Menina Coruja Zoo@1@~
 1053@299163@Sapatilha Infantil Pampili Menina Coruja Zoo@1@~
 473@289764@Cadeira Cadeirão Papa Alta Premium Real@0@~
-479@298526@Sapatilha Infantil Pampili Bailarina Nude@4@~
-1091@298527@Sapatilha Infantil Pampili Bailarina Nude@1@~
-1093@298528@Sapatilha Infantil Pampili Bailarina Nude@1@~
-1097@298530@Sapatilha Infantil Pampili Bailarina Nude@1@~
-1103@298533@Sapatilha Infantil Pampili Bailarina Nude@1@~
+479@298526@Sapatilha Infantil Pampili Bailarina Nude - Black Friday@4@~
+1091@298527@Sapatilha Infantil Pampili Bailarina Nude - Black Friday@1@~
+1093@298528@Sapatilha Infantil Pampili Bailarina Nude - Black Friday@1@~
+1097@298530@Sapatilha Infantil Pampili Bailarina Nude - Black Friday@1@~
+1103@298533@Sapatilha Infantil Pampili Bailarina Nude - Black Friday@1@~
 481@299194@Tênis Infantil Pampili Sneaker Luz Dots Rosa Chiclete@0@~
 1107@299195@Tênis Infantil Pampili Sneaker Luz Dots Rosa Chiclete@0@~
 1109@299196@Tênis Infantil Pampili Sneaker Luz Dots Rosa Chiclete@0@~
@@ -419,12 +412,12 @@
 485@297977@Tênis Bloompy Infantil Menina@0@~
 4047@297982@Tênis Bloompy Infantil Menina@0@~
 4049@297983@Tênis Bloompy Infantil Menina@0@~
-487@298023@Tamanco Beira Rio Conforto Preto@3@~
-1145@298024@Tamanco Beira Rio Conforto Preto@1@~
-1147@298025@Tamanco Beira Rio Conforto Preto@2@~
-1149@298026@Tamanco Beira Rio Conforto Preto@0@~
-1151@298027@Tamanco Beira Rio Conforto Preto@0@~
-1153@298028@Tamanco Beira Rio Conforto Preto@0@~
+487@298023@Tamanco Beira Rio Conforto Preto - Black Friday@3@~
+1145@298024@Tamanco Beira Rio Conforto Preto - Black Friday@1@~
+1147@298025@Tamanco Beira Rio Conforto Preto - Black Friday@2@~
+1149@298026@Tamanco Beira Rio Conforto Preto - Black Friday@0@~
+1151@298027@Tamanco Beira Rio Conforto Preto - Black Friday@0@~
+1153@298028@Tamanco Beira Rio Conforto Preto - Black Friday@0@~
 495@304465@Tenis Masculino Olympikus Cyber Confort@1@~
 1175@304468@Tenis Masculino Olympikus Cyber Confort@0@~
 1177@304469@Tenis Masculino Olympikus Cyber Confort@1@~
@@ -440,10 +433,10 @@
 1191@290123@Tenis Bibi Infantil Menino Evolution@0@~
 1193@290124@Tenis Bibi Infantil Menino Evolution@0@~
 3913@290125@Tenis Bibi Infantil Menino Evolution@0@~
-505@304478@Tenis Olympikus Sprinter Masculino Caminhada@7@~
-2761@304483@Tenis Olympikus Sprinter Masculino Caminhada@1@~
-2763@304482@Tenis Olympikus Sprinter Masculino Caminhada@3@~
-2765@304481@Tenis Olympikus Sprinter Masculino Caminhada@3@~
+505@304478@Tenis Olympikus Sprinter Masculino Caminhada - Black Friday@7@~
+2761@304483@Tenis Olympikus Sprinter Masculino Caminhada - Black Friday@1@~
+2763@304482@Tenis Olympikus Sprinter Masculino Caminhada - Black Friday@3@~
+2765@304481@Tenis Olympikus Sprinter Masculino Caminhada - Black Friday@3@~
 507@304498@Tenis Olympikus Perfect 2 Masculino Preto@2@~
 1203@304503@Tenis Olympikus Perfect 2 Masculino Preto@2@~
 1207@304505@Tenis Olympikus Perfect 2 Masculino Preto@0@~
@@ -494,8 +487,8 @@
 3505@268770@Calça Vrasalon Infantil Masculina Moletom Slim@1@~
 3507@268768@Calça Vrasalon Infantil Masculina Moletom Slim@0@~
 3509@268771@Calça Vrasalon Infantil Masculina Moletom Slim@0@~
-549@231985@Tenis Klin Masculino Infantil Jet Kids Azul@0@~
-12599@231986@Tenis Klin Masculino Infantil Jet Kids Azul@0@~
+549@231985@Tenis Klin Masculino Infantil Jet Kids Azul@1@~
+12599@231986@Tenis Klin Masculino Infantil Jet Kids Azul@1@~
 12601@231987@Tenis Klin Masculino Infantil Jet Kids Azul@0@~
 12603@231988@Tenis Klin Masculino Infantil Jet Kids Azul@0@~
 12605@231989@Tenis Klin Masculino Infantil Jet Kids Azul@0@~
@@ -518,52 +511,51 @@
 2621@238672@Sandalia Klassipé Infantil Star Brilho@0@~
 2623@238673@Sandalia Klassipé Infantil Star Brilho@0@~
 2625@238675@Sandalia Klassipé Infantil Star Brilho@0@~
-557@294121@Tênis Sua Cia Feminino @3@~
-1325@294122@Tênis Sua Cia Feminino @0@~
-1327@294123@Tênis Sua Cia Feminino @0@~
-1329@294124@Tênis Sua Cia Feminino @0@~
-1331@294125@Tênis Sua Cia Feminino @1@~
-1333@294126@Tênis Sua Cia Feminino @0@~
-1335@294127@Tênis Sua Cia Feminino @1@~
-13225@294128@Tênis Sua Cia Feminino @0@~
-13227@294129@Tênis Sua Cia Feminino @0@~
-13229@294130@Tênis Sua Cia Feminino @0@~
-13231@294131@Tênis Sua Cia Feminino @1@~
-13233@294132@Tênis Sua Cia Feminino @0@~
-13235@294133@Tênis Sua Cia Feminino @0@~
-559@255056@Sandália Infantil Pink Cats Rasteirinha@4@~
-2595@255057@Sandália Infantil Pink Cats Rasteirinha@1@~
-2597@255059@Sandália Infantil Pink Cats Rasteirinha@2@~
-2599@255060@Sandália Infantil Pink Cats Rasteirinha@1@~
-2601@255062@Sandália Infantil Pink Cats Rasteirinha@0@~
-2603@255063@Sandália Infantil Pink Cats Rasteirinha@0@~
-2605@255064@Sandália Infantil Pink Cats Rasteirinha@0@~
-561@294101@Sandalia Feminina Rasteirinha Sua Cia Verniz@2@~
-1341@294109@Sandalia Feminina Rasteirinha Sua Cia Verniz@1@~
+557@294121@Tênis Sua Cia Feminino  - Black Friday@3@~
+1325@294122@Tênis Sua Cia Feminino  - Black Friday@0@~
+1327@294123@Tênis Sua Cia Feminino  - Black Friday@0@~
+1329@294124@Tênis Sua Cia Feminino  - Black Friday@0@~
+1331@294125@Tênis Sua Cia Feminino  - Black Friday@1@~
+1333@294126@Tênis Sua Cia Feminino  - Black Friday@0@~
+1335@294127@Tênis Sua Cia Feminino  - Black Friday@1@~
+13225@294128@Tênis Sua Cia Feminino  - Black Friday@0@~
+13227@294129@Tênis Sua Cia Feminino  - Black Friday@0@~
+13229@294130@Tênis Sua Cia Feminino  - Black Friday@0@~
+13231@294131@Tênis Sua Cia Feminino  - Black Friday@1@~
+13233@294132@Tênis Sua Cia Feminino  - Black Friday@0@~
+13235@294133@Tênis Sua Cia Feminino  - Black Friday@0@~
+559@255056@Sandália Infantil Pink Cats Rasteirinha - Black Friday@4@~
+2595@255057@Sandália Infantil Pink Cats Rasteirinha - Black Friday@1@~
+2597@255059@Sandália Infantil Pink Cats Rasteirinha - Black Friday@2@~
+2599@255060@Sandália Infantil Pink Cats Rasteirinha - Black Friday@1@~
+2601@255062@Sandália Infantil Pink Cats Rasteirinha - Black Friday@0@~
+2603@255063@Sandália Infantil Pink Cats Rasteirinha - Black Friday@0@~
+2605@255064@Sandália Infantil Pink Cats Rasteirinha - Black Friday@0@~
+561@294101@Sandalia Feminina Rasteirinha Sua Cia Verniz@1@~
+1341@294109@Sandalia Feminina Rasteirinha Sua Cia Verniz@0@~
 1343@294110@Sandalia Feminina Rasteirinha Sua Cia Verniz@0@~
 1345@294111@Sandalia Feminina Rasteirinha Sua Cia Verniz@0@~
 1347@294112@Sandalia Feminina Rasteirinha Sua Cia Verniz@0@~
 1349@294113@Sandalia Feminina Rasteirinha Sua Cia Verniz@1@~
-571@242874@Tenis Infantil Masculino Bibi Marinho Walk New@2@~
-1389@242876@Tenis Infantil Masculino Bibi Marinho Walk New@1@~
-1391@242877@Tenis Infantil Masculino Bibi Marinho Walk New@1@~
-1393@242878@Tenis Infantil Masculino Bibi Marinho Walk New@0@~
+571@242874@Tenis Infantil Masculino Bibi Marinho Walk New - Black Friday@2@~
+1389@242876@Tenis Infantil Masculino Bibi Marinho Walk New - Black Friday@0@~
+1391@242877@Tenis Infantil Masculino Bibi Marinho Walk New - Black Friday@1@~
+1393@242878@Tenis Infantil Masculino Bibi Marinho Walk New - Black Friday@0@~
 575@263829@Bota Pampili Feminina Infantil Bege@2@~
 1409@263831@Bota Pampili Feminina Infantil Bege@0@~
 1411@263832@Bota Pampili Feminina Infantil Bege@1@~
 1413@263833@Bota Pampili Feminina Infantil Bege@1@~
 1415@263834@Bota Pampili Feminina Infantil Bege@0@~
 1417@263835@Bota Pampili Feminina Infantil Bege@0@~
-581@272025@Cobertor Bebe Colibri Exclusive Unique Bege@0@~
 583@268385@Cobertor Colibri Exclusive Bordado Camafeu@1@~
-589@296561@Sapatilha Coratta Feminina Creme@0@~
-1423@296562@Sapatilha Coratta Feminina Creme@0@~
-1425@296563@Sapatilha Coratta Feminina Creme@0@~
-1427@296564@Sapatilha Coratta Feminina Creme@0@~
-1429@296565@Sapatilha Coratta Feminina Creme@0@~
-1431@296566@Sapatilha Coratta Feminina Creme@0@~
-1433@296567@Sapatilha Coratta Feminina Creme@0@~
-1435@296568@Sapatilha Coratta Feminina Creme@0@~
+589@296561@Sapatilha Coratta Feminina Creme - Black Friday@0@~
+1423@296562@Sapatilha Coratta Feminina Creme - Black Friday@0@~
+1425@296563@Sapatilha Coratta Feminina Creme - Black Friday@0@~
+1427@296564@Sapatilha Coratta Feminina Creme - Black Friday@0@~
+1429@296565@Sapatilha Coratta Feminina Creme - Black Friday@0@~
+1431@296566@Sapatilha Coratta Feminina Creme - Black Friday@0@~
+1433@296567@Sapatilha Coratta Feminina Creme - Black Friday@0@~
+1435@296568@Sapatilha Coratta Feminina Creme - Black Friday@0@~
 593@296554@Sandalia Coratta Feminina Salto@0@~
 1451@296555@Sandalia Coratta Feminina Salto@0@~
 1453@296556@Sandalia Coratta Feminina Salto@0@~
@@ -612,12 +604,12 @@
 1533@265996@Tenis Klin Infantil Menino Mini Genesis@0@~
 1535@265997@Tenis Klin Infantil Menino Mini Genesis@0@~
 1537@265998@Tenis Klin Infantil Menino Mini Genesis@0@~
-609@290744@Tenis Infantil Klin Flyer Street Casual Preto@4@~
-1539@290745@Tenis Infantil Klin Flyer Street Casual Preto@0@~
-1541@290746@Tenis Infantil Klin Flyer Street Casual Preto@2@~
-1543@290747@Tenis Infantil Klin Flyer Street Casual Preto@0@~
-1545@290748@Tenis Infantil Klin Flyer Street Casual Preto@2@~
-1547@290749@Tenis Infantil Klin Flyer Street Casual Preto@0@~
+609@290744@Tenis Infantil Klin Flyer Street Casual Preto - Black Friday@4@~
+1539@290745@Tenis Infantil Klin Flyer Street Casual Preto - Black Friday@0@~
+1541@290746@Tenis Infantil Klin Flyer Street Casual Preto - Black Friday@2@~
+1543@290747@Tenis Infantil Klin Flyer Street Casual Preto - Black Friday@0@~
+1545@290748@Tenis Infantil Klin Flyer Street Casual Preto - Black Friday@2@~
+1547@290749@Tenis Infantil Klin Flyer Street Casual Preto - Black Friday@0@~
 611@284414@Tenis Klin Infantil Menino Step Flex@0@~
 1549@284415@Tenis Klin Infantil Menino Step Flex@0@~
 1551@284417@Tenis Klin Infantil Menino Step Flex@0@~
@@ -668,10 +660,10 @@
 4087@282462@Blusa Milon Infantil Menina Branca@1@~
 4089@282463@Blusa Milon Infantil Menina Branca@3@~
 4091@282464@Blusa Milon Infantil Menina Branca@2@~
-649@281944@Vestido Amora Menina Roxo@1@~
-1675@281945@Vestido Amora Menina Roxo@0@~
-1677@281947@Vestido Amora Menina Roxo@1@~
-4051@281950@Vestido Amora Menina Roxo@0@~
+649@281944@Vestido Amora Menina Roxo - Black Friday@1@~
+1675@281945@Vestido Amora Menina Roxo - Black Friday@0@~
+1677@281947@Vestido Amora Menina Roxo - Black Friday@1@~
+4051@281950@Vestido Amora Menina Roxo - Black Friday@0@~
 667@289075@Chinelo Cartago Malta Iv Dedo@5@~
 1695@339052@Chinelo Cartago Malta Iv Dedo@0@~
 1699@339053@Chinelo Cartago Malta Iv Dedo@2@~
@@ -699,14 +691,14 @@
 1741@290713@Tenis Klin Confort Plus Infantil Menina Conforto@0@~
 1743@290714@Tenis Klin Confort Plus Infantil Menina Conforto@0@~
 1745@290715@Tenis Klin Confort Plus Infantil Menina Conforto@0@~
-691@290716@Tenis Klin New Confort Menino@2@~
-1747@290721@Tenis Klin New Confort Menino@0@~
-1749@290717@Tenis Klin New Confort Menino@1@~
-1751@290718@Tenis Klin New Confort Menino@0@~
-1753@290719@Tenis Klin New Confort Menino@1@~
-1755@290720@Tenis Klin New Confort Menino@0@~
-1757@290722@Tenis Klin New Confort Menino@0@~
-1759@290723@Tenis Klin New Confort Menino@0@~
+691@290716@Tenis Klin New Confort Menino - Black Friday@2@~
+1747@290721@Tenis Klin New Confort Menino - Black Friday@0@~
+1749@290717@Tenis Klin New Confort Menino - Black Friday@1@~
+1751@290718@Tenis Klin New Confort Menino - Black Friday@0@~
+1753@290719@Tenis Klin New Confort Menino - Black Friday@1@~
+1755@290720@Tenis Klin New Confort Menino - Black Friday@0@~
+1757@290722@Tenis Klin New Confort Menino - Black Friday@0@~
+1759@290723@Tenis Klin New Confort Menino - Black Friday@0@~
 693@304485@Tênis Esportivo Feminino Olympikus Elegance@7@~
 1761@304495@Tênis Esportivo Feminino Olympikus Elegance@0@~
 1763@304492@Tênis Esportivo Feminino Olympikus Elegance@0@~
@@ -801,9 +793,8 @@
 2027@289055@Sandalia Infantil Batman Liga Da Justica@0@~
 2029@289056@Sandalia Infantil Batman Liga Da Justica@0@~
 2033@289057@Sandalia Infantil Batman Liga Da Justica@1@~
-795@225672@Cubo Fazenda Musical Educativo KS Kids@0@~
-799@362283@Naninha Hug Baby Bear Menino E10608A@8@~
-11823@362284@Naninha Hug Baby Bear Menino E10608A@8@~
+799@362283@Naninha Hug Baby Bear Menino E10608A - Black Friday@8@~
+11823@362284@Naninha Hug Baby Bear Menino E10608A - Black Friday@8@~
 805@283579@Bolsa Maternidade Hug Rosa Bombom G@0@~
 3861@283580@Bolsa Maternidade Hug Rosa Bombom G@0@~
 3863@283581@Bolsa Maternidade Hug Rosa Bombom G@0@~
@@ -812,12 +803,11 @@
 2037@283273@Tenis Cavalera Masculino Camurça Preto@0@~
 2039@283274@Tenis Cavalera Masculino Camurça Preto@1@~
 813@219584@Kit Refeição Kuka Rosa Bebe Prato@0@~
-827@159521@Frasqueira Maternidade Pirulitando Azul@2@~
+827@159521@Frasqueira Maternidade Pirulitando Azul - Black Friday@2@~
 829@275150@Conjunto Menino Infantil Vrasalon@1@~
 3513@275151@Conjunto Menino Infantil Vrasalon@0@~
 3515@275153@Conjunto Menino Infantil Vrasalon@1@~
-845@274706@Cabides Hug Baby Little Dreamer@0@~
-847@220503@Bolsa Hug Peteca M Bebe@0@~
+845@274706@Cabides Hug Baby Little Dreamer@3@~
 859@220495@Bolsa Maternidade Mimo G Hug Baby@0@~
 865@280249@Cobertor Baby Class Etruria Bebe Rosa Belle@2@~
 871@272361@Sapato Dakota Salto Peeptoe Feminino@0@~
@@ -830,23 +820,23 @@
 2083@271556@Sapatilha Barbie Infantil Trends com Laço@0@~
 2087@271557@Sapatilha Barbie Infantil Trends com Laço@0@~
 2089@271559@Sapatilha Barbie Infantil Trends com Laço@1@~
-881@271251@Tenis Infantil Feminino Klin Genesis Roxo@1@~
-2105@271252@Tenis Infantil Feminino Klin Genesis Roxo@0@~
-2107@271253@Tenis Infantil Feminino Klin Genesis Roxo@1@~
-2111@271255@Tenis Infantil Feminino Klin Genesis Roxo@0@~
-2113@271256@Tenis Infantil Feminino Klin Genesis Roxo@0@~
-4027@271259@Tenis Infantil Feminino Klin Genesis Roxo@0@~
-4029@271260@Tenis Infantil Feminino Klin Genesis Roxo@0@~
-883@271261@Tenis Klin Infantil Masculino Matrix Preto@0@~
-2123@271262@Tenis Klin Infantil Masculino Matrix Preto@0@~
-2125@271263@Tenis Klin Infantil Masculino Matrix Preto@0@~
-2127@271264@Tenis Klin Infantil Masculino Matrix Preto@0@~
-2129@271265@Tenis Klin Infantil Masculino Matrix Preto@0@~
-2131@271266@Tenis Klin Infantil Masculino Matrix Preto@0@~
-2133@271267@Tenis Klin Infantil Masculino Matrix Preto@0@~
-2135@271268@Tenis Klin Infantil Masculino Matrix Preto@0@~
-2137@271269@Tenis Klin Infantil Masculino Matrix Preto@0@~
-2139@271270@Tenis Klin Infantil Masculino Matrix Preto@0@~
+881@271251@Tenis Infantil Feminino Klin Genesis Roxo - Black Friday@1@~
+2105@271252@Tenis Infantil Feminino Klin Genesis Roxo - Black Friday@0@~
+2107@271253@Tenis Infantil Feminino Klin Genesis Roxo - Black Friday@1@~
+2111@271255@Tenis Infantil Feminino Klin Genesis Roxo - Black Friday@0@~
+2113@271256@Tenis Infantil Feminino Klin Genesis Roxo - Black Friday@0@~
+4027@271259@Tenis Infantil Feminino Klin Genesis Roxo - Black Friday@0@~
+4029@271260@Tenis Infantil Feminino Klin Genesis Roxo - Black Friday@0@~
+883@271261@Tenis Klin Infantil Masculino Matrix Preto - Black Friday@0@~
+2123@271262@Tenis Klin Infantil Masculino Matrix Preto - Black Friday@0@~
+2125@271263@Tenis Klin Infantil Masculino Matrix Preto - Black Friday@0@~
+2127@271264@Tenis Klin Infantil Masculino Matrix Preto - Black Friday@0@~
+2129@271265@Tenis Klin Infantil Masculino Matrix Preto - Black Friday@0@~
+2131@271266@Tenis Klin Infantil Masculino Matrix Preto - Black Friday@0@~
+2133@271267@Tenis Klin Infantil Masculino Matrix Preto - Black Friday@0@~
+2135@271268@Tenis Klin Infantil Masculino Matrix Preto - Black Friday@0@~
+2137@271269@Tenis Klin Infantil Masculino Matrix Preto - Black Friday@0@~
+2139@271270@Tenis Klin Infantil Masculino Matrix Preto - Black Friday@0@~
 895@270175@Sapatilha Feminina Dakota Tramas Nude@0@~
 2165@270177@Sapatilha Feminina Dakota Tramas Nude@0@~
 2167@270178@Sapatilha Feminina Dakota Tramas Nude@0@~
@@ -854,9 +844,9 @@
 2173@270181@Sapatilha Feminina Dakota Tramas Nude@0@~
 919@269348@Pantufa Molekinha Feminina Infantil Pelo Rosa@1@~
 2195@269353@Pantufa Molekinha Feminina Infantil Pelo Rosa@1@~
-935@263821@Sapatilha Pampili Super Fofura Dots@1@~
-2201@263823@Sapatilha Pampili Super Fofura Dots@1@~
-2209@263828@Sapatilha Pampili Super Fofura Dots@0@~
+935@263821@Sapatilha Pampili Super Fofura Dots - Black Friday@1@~
+2201@263823@Sapatilha Pampili Super Fofura Dots - Black Friday@1@~
+2209@263828@Sapatilha Pampili Super Fofura Dots - Black Friday@0@~
 945@116476@Cortador De Unha Baby Marco Boni@1@~
 949@262235@Copo Com Trava E Canudo De Silicone 450 Ml Nuby@0@~
 963@267920@Blusa Milon Menina Manga Longa Eight Lock Branca@1@~
@@ -888,8 +878,8 @@
 1151@245166@Pote De Leite Kuka@1@~
 1153@219580@Colher Com Estojo Kuka@0@~
 1159@250139@Redutor Sanitario Adoleta Infantil@1@~
-1161@231994@Sandalia Bebe Masculino Klin Cup Cake Branca@1@~
-3803@231995@Sandalia Bebe Masculino Klin Cup Cake Branca@1@~
+1161@231994@Sandalia Bebe Masculino Klin Cup Cake Branca - Black Friday@1@~
+3803@231995@Sandalia Bebe Masculino Klin Cup Cake Branca - Black Friday@1@~
 1169@299648@Mule Feminino Dolccini Xangai Preto@0@~
 2433@299649@Mule Feminino Dolccini Xangai Preto@0@~
 2435@299650@Mule Feminino Dolccini Xangai Preto@0@~
@@ -897,9 +887,9 @@
 2439@299652@Mule Feminino Dolccini Xangai Preto@0@~
 3727@299653@Mule Feminino Dolccini Xangai Preto@0@~
 3729@299654@Mule Feminino Dolccini Xangai Preto@0@~
-1171@299655@Mule Dolccini Feminino Lançamento@4@~
-12625@299656@Mule Dolccini Feminino Lançamento@1@~
-12627@299657@Mule Dolccini Feminino Lançamento@1@~
+1171@299655@Mule Dolccini Feminino Lançamento@3@~
+12625@299656@Mule Dolccini Feminino Lançamento@0@~
+12627@299657@Mule Dolccini Feminino Lançamento@0@~
 12629@299658@Mule Dolccini Feminino Lançamento@1@~
 12631@299659@Mule Dolccini Feminino Lançamento@1@~
 12633@299660@Mule Dolccini Feminino Lançamento@0@~
@@ -913,19 +903,19 @@
 1185@299389@Camiseta Cavalera Masculina Quadrados@1@~
 12611@299390@Camiseta Cavalera Masculina Quadrados@1@~
 12613@299392@Camiseta Cavalera Masculina Quadrados@0@~
-1187@290171@Camiseta Cavalera Masculina Lisa Original Conforto Cinza@1@~
-3985@290172@Camiseta Cavalera Masculina Lisa Original Conforto Cinza@0@~
-3987@290173@Camiseta Cavalera Masculina Lisa Original Conforto Cinza@0@~
-3989@290174@Camiseta Cavalera Masculina Lisa Original Conforto Cinza@0@~
-3991@290175@Camiseta Cavalera Masculina Lisa Original Conforto Cinza@0@~
-3993@290176@Camiseta Cavalera Masculina Lisa Original Conforto Cinza@0@~
-3995@290177@Camiseta Cavalera Masculina Lisa Original Conforto Cinza@0@~
-3997@290178@Camiseta Cavalera Masculina Lisa Original Conforto Cinza@0@~
-3999@290179@Camiseta Cavalera Masculina Lisa Original Conforto Cinza@0@~
-4001@299377@Camiseta Cavalera Masculina Lisa Original Conforto Cinza@1@~
-4003@299378@Camiseta Cavalera Masculina Lisa Original Conforto Cinza@0@~
-4005@299379@Camiseta Cavalera Masculina Lisa Original Conforto Cinza@0@~
-4007@299380@Camiseta Cavalera Masculina Lisa Original Conforto Cinza@0@~
+1187@290171@Camiseta Cavalera Masculina Lisa Original Conforto Cinza - Black Friday@1@~
+3985@290172@Camiseta Cavalera Masculina Lisa Original Conforto Cinza - Black Friday@0@~
+3987@290173@Camiseta Cavalera Masculina Lisa Original Conforto Cinza - Black Friday@0@~
+3989@290174@Camiseta Cavalera Masculina Lisa Original Conforto Cinza - Black Friday@0@~
+3991@290175@Camiseta Cavalera Masculina Lisa Original Conforto Cinza - Black Friday@0@~
+3993@290176@Camiseta Cavalera Masculina Lisa Original Conforto Cinza - Black Friday@0@~
+3995@290177@Camiseta Cavalera Masculina Lisa Original Conforto Cinza - Black Friday@0@~
+3997@290178@Camiseta Cavalera Masculina Lisa Original Conforto Cinza - Black Friday@0@~
+3999@290179@Camiseta Cavalera Masculina Lisa Original Conforto Cinza - Black Friday@0@~
+4001@299377@Camiseta Cavalera Masculina Lisa Original Conforto Cinza - Black Friday@1@~
+4003@299378@Camiseta Cavalera Masculina Lisa Original Conforto Cinza - Black Friday@0@~
+4005@299379@Camiseta Cavalera Masculina Lisa Original Conforto Cinza - Black Friday@0@~
+4007@299380@Camiseta Cavalera Masculina Lisa Original Conforto Cinza - Black Friday@0@~
 1193@296892@Tenis Cavalera Masculino Couro Caramelo@1@~
 2517@296893@Tenis Cavalera Masculino Couro Caramelo@1@~
 2519@296894@Tenis Cavalera Masculino Couro Caramelo@0@~
@@ -934,14 +924,14 @@
 2529@264612@Camiseta Cavalera Masculina Manga Curta Poison Lata@0@~
 2531@294613@Camiseta Cavalera Masculina Manga Curta Poison Lata@0@~
 2533@294615@Camiseta Cavalera Masculina Manga Curta Poison Lata@1@~
-1207@225596@Camiseta Cavalera Masculina Manga Curta Polo@1@~
+1207@225596@Camiseta Cavalera Masculina Manga Curta Polo - Black Friday@1@~
 1211@278256@Kit 3 Peças Divertido Azul Protetor Berço Lençol Loupit@0@~
-1232@269621@Sapatilha Zaxy Grendene AD In Roxa@9@~
-2796@269623@Sapatilha Zaxy Grendene AD In Roxa@4@~
-2798@269624@Sapatilha Zaxy Grendene AD In Roxa@2@~
-4147@269622@Sapatilha Zaxy Grendene AD In Roxa@1@~
-4149@269625@Sapatilha Zaxy Grendene AD In Roxa@1@~
-4151@269627@Sapatilha Zaxy Grendene AD In Roxa@1@~
+1232@269621@Sapatilha Zaxy Grendene AD In Roxa - Black Friday@9@~
+2796@269623@Sapatilha Zaxy Grendene AD In Roxa - Black Friday@4@~
+2798@269624@Sapatilha Zaxy Grendene AD In Roxa - Black Friday@2@~
+4147@269622@Sapatilha Zaxy Grendene AD In Roxa - Black Friday@1@~
+4149@269625@Sapatilha Zaxy Grendene AD In Roxa - Black Friday@1@~
+4151@269627@Sapatilha Zaxy Grendene AD In Roxa - Black Friday@1@~
 1236@264417@Tenis Klin Walk Caramelo Lançamento@0@~
 2810@264422@Tenis Klin Walk Caramelo Lançamento@0@~
 2812@264423@Tenis Klin Walk Caramelo Lançamento@0@~
@@ -968,14 +958,13 @@
 2975@271338@Camiseta Cavalera Masculina Manga Longa Clothing Mescla@1@~
 2977@271339@Camiseta Cavalera Masculina Manga Longa Clothing Mescla@1@~
 2979@271340@Camiseta Cavalera Masculina Manga Longa Clothing Mescla@0@~
-1259@290662@Camiseta Cavalera Masculina Águia Preta@6@~
-4133@318771@Camiseta Cavalera Masculina Águia Preta@1@~
-4135@315662@Camiseta Cavalera Masculina Águia Preta@2@~
-4137@318772@Camiseta Cavalera Masculina Águia Preta@1@~
-4139@290663@Camiseta Cavalera Masculina Águia Preta@0@~
-4141@290664@Camiseta Cavalera Masculina Águia Preta@1@~
-4143@290665@Camiseta Cavalera Masculina Águia Preta@0@~
-11149@356103@Camiseta Cavalera Masculina Águia Preta@1@~
+1259@290662@Camiseta Cavalera Masculina Águia Preta - Black Friday@5@~
+4133@318771@Camiseta Cavalera Masculina Águia Preta - Black Friday@1@~
+4135@315662@Camiseta Cavalera Masculina Águia Preta - Black Friday@2@~
+4137@318772@Camiseta Cavalera Masculina Águia Preta - Black Friday@1@~
+4139@290663@Camiseta Cavalera Masculina Águia Preta - Black Friday@0@~
+4141@290664@Camiseta Cavalera Masculina Águia Preta - Black Friday@1@~
+4143@290665@Camiseta Cavalera Masculina Águia Preta - Black Friday@0@~
 1261@307578@Calça Acostamento Masculina Bege Sarja Confort@1@~
 3023@307579@Calça Acostamento Masculina Bege Sarja Confort@0@~
 3025@307580@Calça Acostamento Masculina Bege Sarja Confort@0@~
@@ -1023,19 +1012,12 @@
 1293@270279@Camisa Ogochi Masculina Jeans Manga Longa Social@1@~
 3195@270280@Camisa Ogochi Masculina Jeans Manga Longa Social@1@~
 3197@270282@Camisa Ogochi Masculina Jeans Manga Longa Social@0@~
-1297@305770@Calça Acostamento Masculina Jeans Conforto@0@~
-3201@305771@Calça Acostamento Masculina Jeans Conforto@0@~
-3203@305773@Calça Acostamento Masculina Jeans Conforto@0@~
-3205@305775@Calça Acostamento Masculina Jeans Conforto@0@~
-3207@305776@Calça Acostamento Masculina Jeans Conforto@0@~
-3919@305772@Calça Acostamento Masculina Jeans Conforto@0@~
-3921@305774@Calça Acostamento Masculina Jeans Conforto@0@~
 1301@265070@Jaqueta Alto Giro Moletom Masculino@1@~
 3687@265071@Jaqueta Alto Giro Moletom Masculino@1@~
-1329@321228@Bolsa Petite Jolie Saddle PJ3815@1@~
-4595@321439@Bolsa Petite Jolie Saddle PJ3815@0@~
-4597@321229@Bolsa Petite Jolie Saddle PJ3815@0@~
-7267@321642@Bolsa Petite Jolie Saddle PJ3815@1@~
+1329@321228@Bolsa Petite Jolie Saddle PJ3815 - Black Friday@1@~
+4595@321439@Bolsa Petite Jolie Saddle PJ3815 - Black Friday@0@~
+4597@321229@Bolsa Petite Jolie Saddle PJ3815 - Black Friday@0@~
+7267@321642@Bolsa Petite Jolie Saddle PJ3815 - Black Friday@1@~
 1331@324983@Bolsa Baú Petite Jolie Preta PJ1758@0@~
 4593@325734@Bolsa Baú Petite Jolie Preta PJ1758@0@~
 1347@308471@Tênis Bebê Klin Mini Walk Monstrinho@2@~
@@ -1047,18 +1029,15 @@
 3383@308472@Tênis Bebê Klin Mini Walk Monstrinho@1@~
 1351@312352@Top Cropped Estampado Reserva Natural com Alças@1@~
 3391@312353@Top Cropped Estampado Reserva Natural com Alças@1@~
-1359@262734@Blusa Feminina Dimy Babado@1@~
-3423@262735@Blusa Feminina Dimy Babado@0@~
-3425@262736@Blusa Feminina Dimy Babado@1@~
 1367@233870@Mala Maternidade Jujuba Azul Marinho XG - Hug Baby@1@~
 1377@267500@Vestido Feminino Preto Curto Abelt@3@~
 3447@267501@Vestido Feminino Preto Curto Abelt@1@~
 3449@267502@Vestido Feminino Preto Curto Abelt@1@~
 3451@267503@Vestido Feminino Preto Curto Abelt@1@~
 1385@222354@Extrator Manual De Leite Pétala Philips Avent@0@~
-1387@283598@Bolsa Maternidade Hug Meu Ursinho M@0@~
-7261@327713@Bolsa Maternidade Hug Meu Ursinho M@0@~
-7263@283599@Bolsa Maternidade Hug Meu Ursinho M@0@~
+1387@283598@Bolsa Maternidade Hug Meu Ursinho M - Black Friday@0@~
+7261@327713@Bolsa Maternidade Hug Meu Ursinho M - Black Friday@0@~
+7263@283599@Bolsa Maternidade Hug Meu Ursinho M - Black Friday@0@~
 1389@283597@Bolsa Maternidade Hug Meu Ursinho G@0@~
 1391@325003@Bolsa Petite Jolie PJ3922@0@~
 4211@325005@Bolsa Petite Jolie PJ3922@0@~
@@ -1086,19 +1065,19 @@
 1407@319307@Regata Alto Giro Aero Dry Listras Rose Balance@1@~
 3755@319308@Regata Alto Giro Aero Dry Listras Rose Balance@1@~
 3757@319310@Regata Alto Giro Aero Dry Listras Rose Balance@0@~
-1409@307598@Tenis Infantil Klin Cravinho Pelúcia Anjinho@2@~
-4155@307599@Tenis Infantil Klin Cravinho Pelúcia Anjinho@1@~
-4157@307600@Tenis Infantil Klin Cravinho Pelúcia Anjinho@0@~
-4159@307601@Tenis Infantil Klin Cravinho Pelúcia Anjinho@0@~
-4161@307602@Tenis Infantil Klin Cravinho Pelúcia Anjinho@0@~
-4163@307603@Tenis Infantil Klin Cravinho Pelúcia Anjinho@0@~
-4165@307604@Tenis Infantil Klin Cravinho Pelúcia Anjinho@0@~
-4167@307605@Tenis Infantil Klin Cravinho Pelúcia Anjinho@0@~
-4169@307606@Tenis Infantil Klin Cravinho Pelúcia Anjinho@0@~
-4171@307607@Tenis Infantil Klin Cravinho Pelúcia Anjinho@0@~
-4173@307608@Tenis Infantil Klin Cravinho Pelúcia Anjinho@0@~
-4175@307609@Tenis Infantil Klin Cravinho Pelúcia Anjinho@0@~
-4177@307610@Tenis Infantil Klin Cravinho Pelúcia Anjinho@1@~
+1409@307598@Tenis Infantil Klin Cravinho Pelúcia Anjinho - Black Friday@2@~
+4155@307599@Tenis Infantil Klin Cravinho Pelúcia Anjinho - Black Friday@1@~
+4157@307600@Tenis Infantil Klin Cravinho Pelúcia Anjinho - Black Friday@0@~
+4159@307601@Tenis Infantil Klin Cravinho Pelúcia Anjinho - Black Friday@0@~
+4161@307602@Tenis Infantil Klin Cravinho Pelúcia Anjinho - Black Friday@0@~
+4163@307603@Tenis Infantil Klin Cravinho Pelúcia Anjinho - Black Friday@0@~
+4165@307604@Tenis Infantil Klin Cravinho Pelúcia Anjinho - Black Friday@0@~
+4167@307605@Tenis Infantil Klin Cravinho Pelúcia Anjinho - Black Friday@0@~
+4169@307606@Tenis Infantil Klin Cravinho Pelúcia Anjinho - Black Friday@0@~
+4171@307607@Tenis Infantil Klin Cravinho Pelúcia Anjinho - Black Friday@0@~
+4173@307608@Tenis Infantil Klin Cravinho Pelúcia Anjinho - Black Friday@0@~
+4175@307609@Tenis Infantil Klin Cravinho Pelúcia Anjinho - Black Friday@0@~
+4177@307610@Tenis Infantil Klin Cravinho Pelúcia Anjinho - Black Friday@1@~
 1411@316562@Sapatênis Klin Menino Cravinho Casual@1@~
 6101@316563@Sapatênis Klin Menino Cravinho Casual@0@~
 6103@316564@Sapatênis Klin Menino Cravinho Casual@0@~
@@ -1124,7 +1103,7 @@
 3935@323980@Camiseta Cavalera Masculina Manga Curta Básica@0@~
 3937@323981@Camiseta Cavalera Masculina Manga Curta Básica@0@~
 3939@323982@Camiseta Cavalera Masculina Manga Curta Básica@1@~
-1423@299393@Camiseta Cavalera Masculina Gola Polo@9@~
+1423@299393@Camiseta Cavalera Masculina Gola Polo@8@~
 3959@324002@Camiseta Cavalera Masculina Gola Polo@0@~
 3961@324003@Camiseta Cavalera Masculina Gola Polo@0@~
 3963@324004@Camiseta Cavalera Masculina Gola Polo@0@~
@@ -1144,7 +1123,7 @@
 11279@356112@Camiseta Cavalera Masculina Gola Polo@1@~
 11281@356113@Camiseta Cavalera Masculina Gola Polo@1@~
 11283@356114@Camiseta Cavalera Masculina Gola Polo@0@~
-11285@356115@Camiseta Cavalera Masculina Gola Polo@1@~
+11285@356115@Camiseta Cavalera Masculina Gola Polo@0@~
 1429@238058@Mordedor Centopeia Buba Colorido baby@1@~
 1435@356529@Porta Frutinha Nuby Alimentador Chupeta de Frutas@5@~
 10887@356531@Porta Frutinha Nuby Alimentador Chupeta de Frutas@3@~
@@ -1181,11 +1160,11 @@
 9087@316602@Sandalia Klin Infantil Masculina Tic Tac Azul@0@~
 9089@316603@Sandalia Klin Infantil Masculina Tic Tac Azul@1@~
 9091@316604@Sandalia Klin Infantil Masculina Tic Tac Azul@0@~
-1453@316643@Tênis Infantil Klin Sem Cadarço Baby Light Masculino Preto@1@~
+1453@316643@Tênis Infantil Klin Sem Cadarço Baby Light Masculino Preto@0@~
 6243@316644@Tênis Infantil Klin Sem Cadarço Baby Light Masculino Preto@0@~
 6245@316645@Tênis Infantil Klin Sem Cadarço Baby Light Masculino Preto@0@~
 6247@316646@Tênis Infantil Klin Sem Cadarço Baby Light Masculino Preto@0@~
-6249@316647@Tênis Infantil Klin Sem Cadarço Baby Light Masculino Preto@1@~
+6249@316647@Tênis Infantil Klin Sem Cadarço Baby Light Masculino Preto@0@~
 6251@316648@Tênis Infantil Klin Sem Cadarço Baby Light Masculino Preto@0@~
 6253@316649@Tênis Infantil Klin Sem Cadarço Baby Light Masculino Preto@0@~
 1455@308457@Tênis Bebê Klin Mini Walk Masculino Marinho@2@~
@@ -1213,14 +1192,14 @@
 4361@284410@Tênis Klin Infantil Step Flex Azul Marinho@0@~
 4363@284411@Tênis Klin Infantil Step Flex Azul Marinho@0@~
 4365@284413@Tênis Klin Infantil Step Flex Azul Marinho@0@~
-1469@314004@Tênis Klin Infantil Masculino Flyer Street Preto@3@~
-4367@314005@Tênis Klin Infantil Masculino Flyer Street Preto@0@~
-4369@314006@Tênis Klin Infantil Masculino Flyer Street Preto@0@~
-4371@314007@Tênis Klin Infantil Masculino Flyer Street Preto@0@~
-4373@314008@Tênis Klin Infantil Masculino Flyer Street Preto@0@~
-4375@314009@Tênis Klin Infantil Masculino Flyer Street Preto@0@~
-4377@314011@Tênis Klin Infantil Masculino Flyer Street Preto@3@~
-4379@314012@Tênis Klin Infantil Masculino Flyer Street Preto@0@~
+1469@314004@Tênis Klin Infantil Masculino Flyer Street Preto - Black Friday@3@~
+4367@314005@Tênis Klin Infantil Masculino Flyer Street Preto - Black Friday@0@~
+4369@314006@Tênis Klin Infantil Masculino Flyer Street Preto - Black Friday@0@~
+4371@314007@Tênis Klin Infantil Masculino Flyer Street Preto - Black Friday@0@~
+4373@314008@Tênis Klin Infantil Masculino Flyer Street Preto - Black Friday@0@~
+4375@314009@Tênis Klin Infantil Masculino Flyer Street Preto - Black Friday@0@~
+4377@314011@Tênis Klin Infantil Masculino Flyer Street Preto - Black Friday@3@~
+4379@314012@Tênis Klin Infantil Masculino Flyer Street Preto - Black Friday@0@~
 1471@308400@Tenis Klin Infantil Masculino Baby Walk Olho Cinza@0@~
 6227@308402@Tenis Klin Infantil Masculino Baby Walk Olho Cinza@0@~
 6229@308404@Tenis Klin Infantil Masculino Baby Walk Olho Cinza@0@~
@@ -1308,11 +1287,11 @@
 4503@324729@Calça Masculina Cavalera Jeans Skinny Escura @0@~
 4505@324730@Calça Masculina Cavalera Jeans Skinny Escura @1@~
 4507@324731@Calça Masculina Cavalera Jeans Skinny Escura @0@~
-1499@325236@Camiseta  Cavalera Masculina Dedo Preta@2@~
-4509@325237@Camiseta  Cavalera Masculina Dedo Preta@1@~
-4511@325238@Camiseta  Cavalera Masculina Dedo Preta@0@~
-4513@325239@Camiseta  Cavalera Masculina Dedo Preta@1@~
-4515@325240@Camiseta  Cavalera Masculina Dedo Preta@0@~
+1499@325236@Camiseta  Cavalera Masculina Dedo Preta - Black Friday@2@~
+4509@325237@Camiseta  Cavalera Masculina Dedo Preta - Black Friday@1@~
+4511@325238@Camiseta  Cavalera Masculina Dedo Preta - Black Friday@0@~
+4513@325239@Camiseta  Cavalera Masculina Dedo Preta - Black Friday@1@~
+4515@325240@Camiseta  Cavalera Masculina Dedo Preta - Black Friday@0@~
 1501@316657@Slip On Infantil Klin Moon Patches Feminino Preto@1@~
 6119@316663@Slip On Infantil Klin Moon Patches Feminino Preto@1@~
 1503@316650@Tenis Infantil Feminino Klin Baby Moon Branco@0@~
@@ -1397,8 +1376,8 @@
 4709@319656@Calça Riccieri Feminina Jeans Bordado Skinny@0@~
 1555@319045@Vestido Trimix Rosa Medio Feminino@1@~
 4711@319046@Vestido Trimix Rosa Medio Feminino@1@~
-1565@295211@Macacão Feminino Pacific Blue Curto Rosa@1@~
-4721@295216@Macacão Feminino Pacific Blue Curto Rosa@1@~
+1565@295211@Macacão Feminino Pacific Blue Curto Rosa - Black Friday@1@~
+4721@295216@Macacão Feminino Pacific Blue Curto Rosa - Black Friday@1@~
 1577@325784@Camisa Masculina YachtMaster Xadrez@1@~
 4747@325785@Camisa Masculina YachtMaster Xadrez@0@~
 4749@325786@Camisa Masculina YachtMaster Xadrez@0@~
@@ -1406,19 +1385,10 @@
 4753@325788@Camisa Masculina YachtMaster Xadrez@0@~
 4755@325789@Camisa Masculina YachtMaster Xadrez@0@~
 1579@284237@Naninha Hug Lovely Menina E11508@0@~
-1583@327726@Mochila Maternidade Hug Lisboa@0@~
-7367@327727@Mochila Maternidade Hug Lisboa@0@~
-7369@327728@Mochila Maternidade Hug Lisboa@0@~
+1583@327726@Mochila Maternidade Hug Lisboa - Black Friday@0@~
+7367@327727@Mochila Maternidade Hug Lisboa - Black Friday@0@~
+7369@327728@Mochila Maternidade Hug Lisboa - Black Friday@0@~
 1593@327730@Frasqueira Maternidade Hug Térmica Lisboa Azul Marinho@0@~
-1599@325821@Shorts Masculino YachtMaster Estampado@0@~
-4757@325822@Shorts Masculino YachtMaster Estampado@0@~
-4759@325823@Shorts Masculino YachtMaster Estampado@0@~
-4761@325824@Shorts Masculino YachtMaster Estampado@0@~
-4763@325825@Shorts Masculino YachtMaster Estampado@0@~
-4765@325826@Shorts Masculino YachtMaster Estampado@0@~
-4767@325827@Shorts Masculino YachtMaster Estampado@0@~
-4769@325828@Shorts Masculino YachtMaster Estampado@0@~
-1603@327717@Bolsa Maternidade Hug Barcelona M Mescla@0@~
 1605@327719@Frasqueira Maternidade Térmica Barcelona Mescla@0@~
 1607@327715@Mochila Maternidade Hug Barcelona Mescla@0@~
 1609@283575@Bolsa Maternidade Bombom M Azul Marinho@1@~
@@ -1596,9 +1566,9 @@
 5139@326118@Bermuda Ogochi Masculina Moletom Cinza@1@~
 1705@326128@Bermuda Ogochi Masculina Moletom Lisa@0@~
 5173@326133@Bermuda Ogochi Masculina Moletom Lisa@0@~
-1707@325596@Regata Feminina Alto Giro Sheer Tule Rosa@2@~
-5175@325597@Regata Feminina Alto Giro Sheer Tule Rosa@1@~
-5177@325598@Regata Feminina Alto Giro Sheer Tule Rosa@1@~
+1707@325596@Regata Feminina Alto Giro Sheer Tule Rosa - Black Friday@2@~
+5175@325597@Regata Feminina Alto Giro Sheer Tule Rosa - Black Friday@1@~
+5177@325598@Regata Feminina Alto Giro Sheer Tule Rosa - Black Friday@1@~
 1709@325589@Regata Feminina Alto Giro Skin Fit Degrade@2@~
 5179@325590@Regata Feminina Alto Giro Skin Fit Degrade@1@~
 5181@325591@Regata Feminina Alto Giro Skin Fit Degrade@1@~
@@ -1661,8 +1631,8 @@
 5359@326054@Short Masculino Folhagem YachtMaster@3@~
 5361@326055@Short Masculino Folhagem YachtMaster@3@~
 5363@326056@Short Masculino Folhagem YachtMaster@0@~
-1751@323987@Camiseta Masculina Cavalera Regata@4@~
-5367@331028@Camiseta Masculina Cavalera Regata@1@~
+1751@323987@Camiseta Masculina Cavalera Regata@3@~
+5367@331028@Camiseta Masculina Cavalera Regata@0@~
 5369@331029@Camiseta Masculina Cavalera Regata@1@~
 5373@331031@Camiseta Masculina Cavalera Regata@1@~
 5375@331032@Camiseta Masculina Cavalera Regata@1@~
@@ -1842,12 +1812,12 @@
 5749@331025@Bota Infantil Pampili Ivy Love Ever Preta@0@~
 5751@331026@Bota Infantil Pampili Ivy Love Ever Preta@0@~
 5753@331027@Bota Infantil Pampili Ivy Love Ever Preta@0@~
-1819@330188@Bota Infantil Pampili Jujuba Preto@2@~
-5755@330189@Bota Infantil Pampili Jujuba Preto@0@~
-5757@330190@Bota Infantil Pampili Jujuba Preto@1@~
-5759@330191@Bota Infantil Pampili Jujuba Preto@1@~
-5761@330192@Bota Infantil Pampili Jujuba Preto@0@~
-5763@330193@Bota Infantil Pampili Jujuba Preto@0@~
+1819@330188@Bota Infantil Pampili Jujuba Preto - Black Friday@2@~
+5755@330189@Bota Infantil Pampili Jujuba Preto - Black Friday@0@~
+5757@330190@Bota Infantil Pampili Jujuba Preto - Black Friday@1@~
+5759@330191@Bota Infantil Pampili Jujuba Preto - Black Friday@1@~
+5761@330192@Bota Infantil Pampili Jujuba Preto - Black Friday@0@~
+5763@330193@Bota Infantil Pampili Jujuba Preto - Black Friday@0@~
 1823@326567@Vestido Tubinho Gatos e Atos  Com Babados@1@~
 5765@326569@Vestido Tubinho Gatos e Atos  Com Babados@1@~
 5767@326570@Vestido Tubinho Gatos e Atos  Com Babados@0@~
@@ -1859,11 +1829,6 @@
 5977@332276@Tênis Lia Line Prata Conforto@1@~
 5979@332275@Tênis Lia Line Prata Conforto@1@~
 5981@332274@Tênis Lia Line Prata Conforto@2@~
-1829@331220@Camiseta Ogochi Masculina Polo Rosa@0@~
-6571@331221@Camiseta Ogochi Masculina Polo Rosa@0@~
-6573@331222@Camiseta Ogochi Masculina Polo Rosa@0@~
-6575@331223@Camiseta Ogochi Masculina Polo Rosa@0@~
-6577@331225@Camiseta Ogochi Masculina Polo Rosa@0@~
 1831@332277@Bota Lia Line Tratorada Prata Feminina Brilho@3@~
 5789@332279@Bota Lia Line Tratorada Prata Feminina Brilho@2@~
 5791@332278@Bota Lia Line Tratorada Prata Feminina Brilho@0@~
@@ -1885,12 +1850,6 @@
 5869@311336@Camiseta Ecko Unltd Masculina Manga Longa Preta@0@~
 5871@311337@Camiseta Ecko Unltd Masculina Manga Longa Preta@1@~
 5873@311338@Camiseta Ecko Unltd Masculina Manga Longa Preta@0@~
-1857@266263@Sapatilha Petite Jolie Star Xadrez PJ2967@0@~
-5875@266264@Sapatilha Petite Jolie Star Xadrez PJ2967@0@~
-5877@266266@Sapatilha Petite Jolie Star Xadrez PJ2967@0@~
-5879@266267@Sapatilha Petite Jolie Star Xadrez PJ2967@0@~
-5881@266268@Sapatilha Petite Jolie Star Xadrez PJ2967@0@~
-5883@266269@Sapatilha Petite Jolie Star Xadrez PJ2967@0@~
 1859@332062@Cobertor Colibri Le Petit Hipoalergênico@0@~
 1861@332203@Bota Pampili Feminina Safira Cano Longo@2@~
 6345@332204@Bota Pampili Feminina Safira Cano Longo@1@~
@@ -1903,36 +1862,36 @@
 6359@332211@Bota Pampili Feminina Safira Cano Longo@0@~
 6361@332212@Bota Pampili Feminina Safira Cano Longo@0@~
 6363@332213@Bota Pampili Feminina Safira Cano Longo@0@~
-1863@330194@Bota Pampili Menina Jujuba@12@~
-6387@330195@Bota Pampili Menina Jujuba@1@~
-6389@330196@Bota Pampili Menina Jujuba@1@~
-6391@330197@Bota Pampili Menina Jujuba@1@~
-6393@330198@Bota Pampili Menina Jujuba@1@~
-6395@330199@Bota Pampili Menina Jujuba@1@~
-6397@330200@Bota Pampili Menina Jujuba@1@~
-6399@330201@Bota Pampili Menina Jujuba@0@~
-6401@330202@Bota Pampili Menina Jujuba@0@~
-6403@330203@Bota Pampili Menina Jujuba@1@~
-6405@330204@Bota Pampili Menina Jujuba@1@~
-6407@330205@Bota Pampili Menina Jujuba@2@~
-6409@330206@Bota Pampili Menina Jujuba@2@~
-6411@330207@Bota Pampili Menina Jujuba@0@~
-1865@330129@Bota Pampili Feminina Fofura Cano Longo Preta@3@~
-6365@330130@Bota Pampili Feminina Fofura Cano Longo Preta@1@~
-6367@330131@Bota Pampili Feminina Fofura Cano Longo Preta@0@~
-6369@330132@Bota Pampili Feminina Fofura Cano Longo Preta@0@~
-6371@330133@Bota Pampili Feminina Fofura Cano Longo Preta@0@~
-6373@330134@Bota Pampili Feminina Fofura Cano Longo Preta@0@~
-6375@330135@Bota Pampili Feminina Fofura Cano Longo Preta@0@~
-6377@330136@Bota Pampili Feminina Fofura Cano Longo Preta@1@~
-6379@330137@Bota Pampili Feminina Fofura Cano Longo Preta@0@~
-6381@330138@Bota Pampili Feminina Fofura Cano Longo Preta@1@~
-6383@330139@Bota Pampili Feminina Fofura Cano Longo Preta@0@~
-6385@330140@Bota Pampili Feminina Fofura Cano Longo Preta@0@~
-1869@331320@Camiseta Ecko Logo Masculina@2@~
+1863@330194@Bota Pampili Menina Jujuba - Black Friday@12@~
+6387@330195@Bota Pampili Menina Jujuba - Black Friday@1@~
+6389@330196@Bota Pampili Menina Jujuba - Black Friday@1@~
+6391@330197@Bota Pampili Menina Jujuba - Black Friday@1@~
+6393@330198@Bota Pampili Menina Jujuba - Black Friday@1@~
+6395@330199@Bota Pampili Menina Jujuba - Black Friday@1@~
+6397@330200@Bota Pampili Menina Jujuba - Black Friday@1@~
+6399@330201@Bota Pampili Menina Jujuba - Black Friday@0@~
+6401@330202@Bota Pampili Menina Jujuba - Black Friday@0@~
+6403@330203@Bota Pampili Menina Jujuba - Black Friday@1@~
+6405@330204@Bota Pampili Menina Jujuba - Black Friday@1@~
+6407@330205@Bota Pampili Menina Jujuba - Black Friday@2@~
+6409@330206@Bota Pampili Menina Jujuba - Black Friday@2@~
+6411@330207@Bota Pampili Menina Jujuba - Black Friday@0@~
+1865@330129@Bota Pampili Feminina Fofura Cano Longo Preta - Black Friday@3@~
+6365@330130@Bota Pampili Feminina Fofura Cano Longo Preta - Black Friday@1@~
+6367@330131@Bota Pampili Feminina Fofura Cano Longo Preta - Black Friday@0@~
+6369@330132@Bota Pampili Feminina Fofura Cano Longo Preta - Black Friday@0@~
+6371@330133@Bota Pampili Feminina Fofura Cano Longo Preta - Black Friday@0@~
+6373@330134@Bota Pampili Feminina Fofura Cano Longo Preta - Black Friday@0@~
+6375@330135@Bota Pampili Feminina Fofura Cano Longo Preta - Black Friday@0@~
+6377@330136@Bota Pampili Feminina Fofura Cano Longo Preta - Black Friday@1@~
+6379@330137@Bota Pampili Feminina Fofura Cano Longo Preta - Black Friday@0@~
+6381@330138@Bota Pampili Feminina Fofura Cano Longo Preta - Black Friday@1@~
+6383@330139@Bota Pampili Feminina Fofura Cano Longo Preta - Black Friday@0@~
+6385@330140@Bota Pampili Feminina Fofura Cano Longo Preta - Black Friday@0@~
+1869@331320@Camiseta Ecko Logo Masculina@1@~
 5953@331321@Camiseta Ecko Logo Masculina@0@~
 5955@331322@Camiseta Ecko Logo Masculina@0@~
-5957@331323@Camiseta Ecko Logo Masculina@1@~
+5957@331323@Camiseta Ecko Logo Masculina@0@~
 5959@331324@Camiseta Ecko Logo Masculina@1@~
 1877@331295@Camiseta Ecko Unltd Masculina Rinoceronte@1@~
 5991@331296@Camiseta Ecko Unltd Masculina Rinoceronte@0@~
@@ -2038,7 +1997,7 @@
 12589@332333@Calça Jeans Cavalera Feminina Skinny Azul@0@~
 12591@332334@Calça Jeans Cavalera Feminina Skinny Azul@1@~
 12593@332335@Calça Jeans Cavalera Feminina Skinny Azul@0@~
-12595@332336@Calça Jeans Cavalera Feminina Skinny Azul@1@~
+12595@332336@Calça Jeans Cavalera Feminina Skinny Azul@2@~
 12597@332337@Calça Jeans Cavalera Feminina Skinny Azul@0@~
 1935@332338@Calça Cavalera Feminina Cigarrete Preta@1@~
 7299@332339@Calça Cavalera Feminina Cigarrete Preta@1@~
@@ -2047,11 +2006,11 @@
 7305@332342@Calça Cavalera Feminina Cigarrete Preta@0@~
 7307@332343@Calça Cavalera Feminina Cigarrete Preta@0@~
 7309@332344@Calça Cavalera Feminina Cigarrete Preta@0@~
-1937@332345@Calça Cavalera Feminina Cigarrete Azul@2@~
+1937@332345@Calça Cavalera Feminina Cigarrete Azul@3@~
 12577@332346@Calça Cavalera Feminina Cigarrete Azul@1@~
 12579@332347@Calça Cavalera Feminina Cigarrete Azul@0@~
 12581@332348@Calça Cavalera Feminina Cigarrete Azul@1@~
-12583@332349@Calça Cavalera Feminina Cigarrete Azul@0@~
+12583@332349@Calça Cavalera Feminina Cigarrete Azul@1@~
 12585@332350@Calça Cavalera Feminina Cigarrete Azul@0@~
 12587@332351@Calça Cavalera Feminina Cigarrete Azul@0@~
 1939@332225@Bolsa Feminina Petite Jolie Pj4041 Baú@0@~
@@ -2128,14 +2087,14 @@
 6661@313948@Tênis Klin Infantil College Preto@1@~
 6663@313949@Tênis Klin Infantil College Preto@0@~
 6665@313950@Tênis Klin Infantil College Preto@0@~
-2015@288612@Tenis Klin Menino College Azul Marinho@7@~
+2015@288612@Tenis Klin Menino College Azul Marinho@6@~
 6667@313935@Tenis Klin Menino College Azul Marinho@0@~
 6669@313936@Tenis Klin Menino College Azul Marinho@0@~
 6671@313937@Tenis Klin Menino College Azul Marinho@1@~
 6673@313938@Tenis Klin Menino College Azul Marinho@0@~
 6675@313939@Tenis Klin Menino College Azul Marinho@0@~
 6677@313940@Tenis Klin Menino College Azul Marinho@0@~
-6679@313941@Tenis Klin Menino College Azul Marinho@1@~
+6679@313941@Tenis Klin Menino College Azul Marinho@0@~
 9107@288615@Tenis Klin Menino College Azul Marinho@1@~
 9115@288619@Tenis Klin Menino College Azul Marinho@2@~
 9117@288620@Tenis Klin Menino College Azul Marinho@1@~
@@ -2239,11 +2198,11 @@
 6873@334821@Sapatilha Molekinha Infantil Rosa Metal Canelado@0@~
 6875@334822@Sapatilha Molekinha Infantil Rosa Metal Canelado@1@~
 6877@334823@Sapatilha Molekinha Infantil Rosa Metal Canelado@0@~
-2039@334810@Bolsa Petite Jolie Pretty PJ4116@4@~
+2039@334810@Bolsa Petite Jolie Pretty PJ4116@2@~
 12687@334812@Bolsa Petite Jolie Pretty PJ4116@0@~
-12689@334813@Bolsa Petite Jolie Pretty PJ4116@2@~
+12689@334813@Bolsa Petite Jolie Pretty PJ4116@1@~
 12691@334811@Bolsa Petite Jolie Pretty PJ4116@0@~
-12693@349271@Bolsa Petite Jolie Pretty PJ4116@2@~
+12693@349271@Bolsa Petite Jolie Pretty PJ4116@1@~
 2041@332617@Vestido Mania Nacional Feminino Malha@1@~
 6885@332618@Vestido Mania Nacional Feminino Malha@1@~
 2043@329852@Short Feminino Listrado Mania Nacional@1@~
@@ -2287,7 +2246,7 @@
 6961@335687@Sapatilha Moleca Feminina Verniz@0@~
 6963@335688@Sapatilha Moleca Feminina Verniz@1@~
 6965@335689@Sapatilha Moleca Feminina Verniz@0@~
-2061@335659@Sapatilha Moleca Feminina Nude Laço@9@~
+2061@335659@Sapatilha Moleca Feminina Nude Laço@11@~
 6967@335660@Sapatilha Moleca Feminina Nude Laço@1@~
 6969@335661@Sapatilha Moleca Feminina Nude Laço@0@~
 6971@335662@Sapatilha Moleca Feminina Nude Laço@1@~
@@ -2423,8 +2382,8 @@
 7361@337443@Tenis Feminino Moleca Slip On Preto@0@~
 7363@337444@Tenis Feminino Moleca Slip On Preto@1@~
 7365@337445@Tenis Feminino Moleca Slip On Preto@0@~
-2119@338353@Tenis Bloompy Feminino Elastico@4@~
-7371@338354@Tenis Bloompy Feminino Elastico@1@~
+2119@338353@Tenis Bloompy Feminino Elastico@3@~
+7371@338354@Tenis Bloompy Feminino Elastico@0@~
 7373@338355@Tenis Bloompy Feminino Elastico@1@~
 7375@338356@Tenis Bloompy Feminino Elastico@0@~
 7377@338357@Tenis Bloompy Feminino Elastico@1@~
@@ -2508,11 +2467,11 @@
 2161@339070@Sandália Babuch Grendene Mormaii@1@~
 7551@339071@Sandália Babuch Grendene Mormaii@0@~
 7553@339073@Sandália Babuch Grendene Mormaii@0@~
-7555@339074@Sandália Babuch Grendene Mormaii@1@~
+7555@339074@Sandália Babuch Grendene Mormaii@0@~
 7557@339075@Sandália Babuch Grendene Mormaii@0@~
 2163@339017@Chinelo Rider Masculino Full Slide Branco@2@~
 7559@339018@Chinelo Rider Masculino Full Slide Branco@0@~
-7561@339019@Chinelo Rider Masculino Full Slide Branco@2@~
+7561@339019@Chinelo Rider Masculino Full Slide Branco@1@~
 7563@339020@Chinelo Rider Masculino Full Slide Branco@0@~
 7565@339021@Chinelo Rider Masculino Full Slide Branco@0@~
 7567@339022@Chinelo Rider Masculino Full Slide Branco@0@~
@@ -2525,7 +2484,7 @@
 2167@337497@Sapatilha Sua Cia Feminina Verniz Vermelha@11@~
 7579@337498@Sapatilha Sua Cia Feminina Verniz Vermelha@1@~
 7581@337499@Sapatilha Sua Cia Feminina Verniz Vermelha@2@~
-7583@337500@Sapatilha Sua Cia Feminina Verniz Vermelha@1@~
+7583@337500@Sapatilha Sua Cia Feminina Verniz Vermelha@0@~
 7585@337501@Sapatilha Sua Cia Feminina Verniz Vermelha@3@~
 7587@337502@Sapatilha Sua Cia Feminina Verniz Vermelha@0@~
 7589@337503@Sapatilha Sua Cia Feminina Verniz Vermelha@1@~
@@ -2544,7 +2503,7 @@
 2171@337516@Mule Sua Cia Feminino Marrom Laço@2@~
 7613@337517@Mule Sua Cia Feminino Marrom Laço@0@~
 7615@337518@Mule Sua Cia Feminino Marrom Laço@0@~
-7617@337519@Mule Sua Cia Feminino Marrom Laço@1@~
+7617@337519@Mule Sua Cia Feminino Marrom Laço@0@~
 7619@337520@Mule Sua Cia Feminino Marrom Laço@0@~
 7621@337521@Mule Sua Cia Feminino Marrom Laço@1@~
 2175@332200@Camiseta Ogochi Masculina Polo Floral Estampada@1@~
@@ -2802,9 +2761,6 @@
 11253@358407@Camiseta Cavalera Masculina Polo@1@~
 11255@358408@Camiseta Cavalera Masculina Polo@1@~
 11257@358409@Camiseta Cavalera Masculina Polo@1@~
-2309@340899@Camiseta Cavalera Masculina Águia Dourada@0@~
-8217@340901@Camiseta Cavalera Masculina Águia Dourada@0@~
-8219@340902@Camiseta Cavalera Masculina Águia Dourada@0@~
 2311@342053@Camiseta Cavalera Masculina Caveira Moto@2@~
 8223@342054@Camiseta Cavalera Masculina Caveira Moto@1@~
 8225@342055@Camiseta Cavalera Masculina Caveira Moto@0@~
@@ -3055,7 +3011,7 @@
 8777@346081@Sapatilha Pampili Feminina Angel Peper@0@~
 8779@346082@Sapatilha Pampili Feminina Angel Peper@1@~
 8781@346083@Sapatilha Pampili Feminina Angel Peper@1@~
-8783@346084@Sapatilha Pampili Feminina Angel Peper@1@~
+8783@346084@Sapatilha Pampili Feminina Angel Peper@0@~
 8785@346085@Sapatilha Pampili Feminina Angel Peper@1@~
 8787@346086@Sapatilha Pampili Feminina Angel Peper@1@~
 2449@345471@Camiseta Cavalera Masculina Águia Dourada Punk Edition@0@~
@@ -3067,9 +3023,9 @@
 8797@345468@Camiseta Cavalera Masculina Smoked Ribs Preta@1@~
 8799@345469@Camiseta Cavalera Masculina Smoked Ribs Preta@0@~
 8801@345470@Camiseta Cavalera Masculina Smoked Ribs Preta@1@~
-2453@346308@Tenis Bibi 2WAY Infantil Menino Azul@4@~
+2453@346308@Tenis Bibi 2WAY Infantil Menino Azul@3@~
 8809@346309@Tenis Bibi 2WAY Infantil Menino Azul@2@~
-8811@346310@Tenis Bibi 2WAY Infantil Menino Azul@2@~
+8811@346310@Tenis Bibi 2WAY Infantil Menino Azul@1@~
 8813@346311@Tenis Bibi 2WAY Infantil Menino Azul@0@~
 8815@346312@Tenis Bibi 2WAY Infantil Menino Azul@0@~
 8817@346313@Tenis Bibi 2WAY Infantil Menino Azul@0@~
@@ -3151,7 +3107,7 @@
 9031@346118@Tênis Bibi Masculino Easy Preto@0@~
 9033@346119@Tênis Bibi Masculino Easy Preto@0@~
 9035@346120@Tênis Bibi Masculino Easy Preto@0@~
-9037@346121@Tênis Bibi Masculino Easy Preto@1@~
+9037@346121@Tênis Bibi Masculino Easy Preto@0@~
 9039@346122@Tênis Bibi Masculino Easy Preto@0@~
 9041@316123@Tênis Bibi Masculino Easy Preto@0@~
 9043@346124@Tênis Bibi Masculino Easy Preto@0@~
@@ -3190,7 +3146,7 @@
 2503@345475@Camiseta Cavalera Masculina Salsicha@0@~
 9143@346815@Camiseta Cavalera Masculina Salsicha@0@~
 9335@351564@Camiseta Cavalera Masculina Salsicha@0@~
-2505@311708@Sapatilha Sua Cia Dourada Metalizada@8@~
+2505@311708@Sapatilha Sua Cia Dourada Metalizada@7@~
 9145@311709@Sapatilha Sua Cia Dourada Metalizada@2@~
 9147@311710@Sapatilha Sua Cia Dourada Metalizada@1@~
 9149@311711@Sapatilha Sua Cia Dourada Metalizada@1@~
@@ -3350,7 +3306,7 @@
 2609@350203@Camiseta Cavalera Masculina Urso Pooh@2@~
 9471@350205@Camiseta Cavalera Masculina Urso Pooh@1@~
 9473@350206@Camiseta Cavalera Masculina Urso Pooh@1@~
-2611@352268@Bermuda Cavalera Masculina Vermelha Escura@5@~
+2611@352268@Bermuda Cavalera Masculina Vermelha Escura@4@~
 9475@352269@Bermuda Cavalera Masculina Vermelha Escura@1@~
 9477@352270@Bermuda Cavalera Masculina Vermelha Escura@0@~
 9479@352272@Bermuda Cavalera Masculina Vermelha Escura@1@~
@@ -3556,10 +3512,6 @@
 9845@354260@Tênis Red Nose Masculino Marrom@2@~
 9847@354261@Tênis Red Nose Masculino Marrom@2@~
 9849@354262@Tênis Red Nose Masculino Marrom@2@~
-2715@340437@Camiseta Acostamento Masculina Cinza Rock@0@~
-9851@340438@Camiseta Acostamento Masculina Cinza Rock@0@~
-9853@340439@Camiseta Acostamento Masculina Cinza Rock@0@~
-9855@340440@Camiseta Acostamento Masculina Cinza Rock@0@~
 2717@355048@Sandália Klin Masculina Sport Preto e Verde@7@~
 9857@355049@Sandália Klin Masculina Sport Preto e Verde@1@~
 9859@355050@Sandália Klin Masculina Sport Preto e Verde@1@~
@@ -3668,7 +3620,7 @@
 2751@355508@Sapato Klin Masculino Baby Flyer Azul Camurça @5@~
 10077@355510@Sapato Klin Masculino Baby Flyer Azul Camurça @1@~
 10079@355511@Sapato Klin Masculino Baby Flyer Azul Camurça @1@~
-10081@355512@Sapato Klin Masculino Baby Flyer Azul Camurça @2@~
+10081@355512@Sapato Klin Masculino Baby Flyer Azul Camurça @1@~
 10083@355513@Sapato Klin Masculino Baby Flyer Azul Camurça @1@~
 2753@355515@Tenis Klin Masculino Baby Flyer Azul@6@~
 10087@355520@Tenis Klin Masculino Baby Flyer Azul@1@~
@@ -3677,13 +3629,13 @@
 10093@355517@Tenis Klin Masculino Baby Flyer Azul@1@~
 10095@355518@Tenis Klin Masculino Baby Flyer Azul@1@~
 10097@355519@Tenis Klin Masculino Baby Flyer Azul@1@~
-2755@355556@Tenis Klin Masculino Flyer Marrom Escuro@7@~
+2755@355556@Tenis Klin Masculino Flyer Marrom Escuro@6@~
 10101@355558@Tenis Klin Masculino Flyer Marrom Escuro@0@~
 10103@355559@Tenis Klin Masculino Flyer Marrom Escuro@1@~
 10105@355560@Tenis Klin Masculino Flyer Marrom Escuro@1@~
 10107@355561@Tenis Klin Masculino Flyer Marrom Escuro@1@~
 10111@355563@Tenis Klin Masculino Flyer Marrom Escuro@2@~
-10113@355564@Tenis Klin Masculino Flyer Marrom Escuro@2@~
+10113@355564@Tenis Klin Masculino Flyer Marrom Escuro@1@~
 2757@354066@Tenis Molekinha Feminino Elastico@9@~
 10117@354067@Tenis Molekinha Feminino Elastico@0@~
 10119@354068@Tenis Molekinha Feminino Elastico@0@~
@@ -3715,8 +3667,8 @@
 10171@355644@Tenis Klin Masculino Step Flex Azul@0@~
 10177@355647@Tenis Klin Masculino Step Flex Azul@1@~
 10179@355648@Tenis Klin Masculino Step Flex Azul@1@~
-10181@355649@Tenis Klin Masculino Step Flex Azul@1@~
-2763@355603@Sandalia Klin Masculina Tic Tac Neoprene@21@~
+10181@355649@Tenis Klin Masculino Step Flex Azul@0@~
+2763@355603@Sandalia Klin Masculina Tic Tac Neoprene@20@~
 10221@355613@Sandalia Klin Masculina Tic Tac Neoprene@1@~
 10223@355614@Sandalia Klin Masculina Tic Tac Neoprene@1@~
 10225@355615@Sandalia Klin Masculina Tic Tac Neoprene@0@~
@@ -3739,7 +3691,7 @@
 10263@355607@Sandalia Klin Masculina Tic Tac Neoprene@0@~
 10265@355608@Sandalia Klin Masculina Tic Tac Neoprene@1@~
 10267@355609@Sandalia Klin Masculina Tic Tac Neoprene@1@~
-10269@355610@Sandalia Klin Masculina Tic Tac Neoprene@1@~
+10269@355610@Sandalia Klin Masculina Tic Tac Neoprene@0@~
 10271@355611@Sandalia Klin Masculina Tic Tac Neoprene@1@~
 10273@355612@Sandalia Klin Masculina Tic Tac Neoprene@1@~
 2765@355032@Sandália Pampili Feminina Salto Rosa@2@~
@@ -3767,27 +3719,27 @@
 10291@355586@Tenis Klin Masculino Baby Flyer Marrom@2@~
 10293@355587@Tenis Klin Masculino Baby Flyer Marrom@2@~
 10295@355588@Tenis Klin Masculino Baby Flyer Marrom@1@~
-2773@355572@Sandalia Klin Masculina Tic Tac Azul@7@~
+2773@355572@Sandalia Klin Masculina Tic Tac Azul@6@~
 10297@355573@Sandalia Klin Masculina Tic Tac Azul@1@~
 10299@355574@Sandalia Klin Masculina Tic Tac Azul@1@~
 10301@355575@Sandalia Klin Masculina Tic Tac Azul@1@~
 10303@355576@Sandalia Klin Masculina Tic Tac Azul@1@~
-10307@355578@Sandalia Klin Masculina Tic Tac Azul@1@~
+10307@355578@Sandalia Klin Masculina Tic Tac Azul@0@~
 10309@355579@Sandalia Klin Masculina Tic Tac Azul@1@~
 10311@355580@Sandalia Klin Masculina Tic Tac Azul@1@~
-2775@355594@Sandalia Klin Masculina Tic Tac Preta @6@~
+2775@355594@Sandalia Klin Masculina Tic Tac Preta @5@~
 10313@355595@Sandalia Klin Masculina Tic Tac Preta @1@~
 10315@355596@Sandalia Klin Masculina Tic Tac Preta @0@~
 10317@355597@Sandalia Klin Masculina Tic Tac Preta @0@~
 10319@355598@Sandalia Klin Masculina Tic Tac Preta @1@~
 10321@355599@Sandalia Klin Masculina Tic Tac Preta @1@~
-10323@355600@Sandalia Klin Masculina Tic Tac Preta @1@~
+10323@355600@Sandalia Klin Masculina Tic Tac Preta @0@~
 10325@355601@Sandalia Klin Masculina Tic Tac Preta @1@~
 10327@355601@Sandalia Klin Masculina Tic Tac Preta @1@~
 2777@355566@Tenis Klin Masculino Step Flex Cinza@7@~
 10329@355567@Tenis Klin Masculino Step Flex Cinza@1@~
 10331@355568@Tenis Klin Masculino Step Flex Cinza@1@~
-10333@355569@Tenis Klin Masculino Step Flex Cinza@2@~
+10333@355569@Tenis Klin Masculino Step Flex Cinza@1@~
 10335@355570@Tenis Klin Masculino Step Flex Cinza@2@~
 10337@355571@Tenis Klin Masculino Step Flex Cinza@1@~
 2779@355631@Sapato Klin Masculino Cravinho Casual Azul Marinho@2@~
@@ -3821,37 +3773,37 @@
 10389@355484@Tenis Klin Masculino Walk Preto@0@~
 10391@355485@Tenis Klin Masculino Walk Preto@1@~
 10393@355486@Tenis Klin Masculino Walk Preto@1@~
-2787@355488@Tenis Klin Masculino Walk Laranja@6@~
+2787@355488@Tenis Klin Masculino Walk Laranja@5@~
 10395@355489@Tenis Klin Masculino Walk Laranja@2@~
 10397@355490@Tenis Klin Masculino Walk Laranja@1@~
 10399@355491@Tenis Klin Masculino Walk Laranja@1@~
 10401@355492@Tenis Klin Masculino Walk Laranja@1@~
 10405@355494@Tenis Klin Masculino Walk Laranja@0@~
-10407@355495@Tenis Klin Masculino Walk Laranja@1@~
+10407@355495@Tenis Klin Masculino Walk Laranja@0@~
 10409@355496@Tenis Klin Masculino Walk Laranja@0@~
-2789@355498@Tenis Klin Masculino Walk Azul Marinho@2@~
+2789@355498@Tenis Klin Masculino Walk Azul Marinho@1@~
 10413@355499@Tenis Klin Masculino Walk Azul Marinho@0@~
 10415@355500@Tenis Klin Masculino Walk Azul Marinho@0@~
 10417@355501@Tenis Klin Masculino Walk Azul Marinho@0@~
 10419@355502@Tenis Klin Masculino Walk Azul Marinho@0@~
-10425@355505@Tenis Klin Masculino Walk Azul Marinho@1@~
+10425@355505@Tenis Klin Masculino Walk Azul Marinho@0@~
 10427@355506@Tenis Klin Masculino Walk Azul Marinho@1@~
-2791@355532@Tenis Klin Masculino Flyer Azul Escuro@7@~
+2791@355532@Tenis Klin Masculino Flyer Azul Escuro@6@~
 10431@355533@Tenis Klin Masculino Flyer Azul Escuro@0@~
 10433@355534@Tenis Klin Masculino Flyer Azul Escuro@1@~
 10435@355535@Tenis Klin Masculino Flyer Azul Escuro@0@~
 10437@355536@Tenis Klin Masculino Flyer Azul Escuro@2@~
 10439@355537@Tenis Klin Masculino Flyer Azul Escuro@2@~
 10441@355538@Tenis Klin Masculino Flyer Azul Escuro@0@~
-10443@355539@Tenis Klin Masculino Flyer Azul Escuro@1@~
+10443@355539@Tenis Klin Masculino Flyer Azul Escuro@0@~
 10445@355540@Tenis Klin Masculino Flyer Azul Escuro@1@~
-2793@355522@Tenis Klin Masculino Flyer Azul Marinho@8@~
+2793@355522@Tenis Klin Masculino Flyer Azul Marinho@7@~
 10449@355523@Tenis Klin Masculino Flyer Azul Marinho@2@~
 10451@355524@Tenis Klin Masculino Flyer Azul Marinho@2@~
 10453@355525@Tenis Klin Masculino Flyer Azul Marinho@2@~
 10455@355526@Tenis Klin Masculino Flyer Azul Marinho@0@~
 10461@355529@Tenis Klin Masculino Flyer Azul Marinho@1@~
-10465@355531@Tenis Klin Masculino Flyer Azul Marinho@1@~
+10465@355531@Tenis Klin Masculino Flyer Azul Marinho@0@~
 2795@354462@Sandalia Pampili Feminina Laço Preta@10@~
 10467@354463@Sandalia Pampili Feminina Laço Preta@1@~
 10469@354464@Sandalia Pampili Feminina Laço Preta@1@~
@@ -3964,11 +3916,11 @@
 10761@356290@Sandália Molekinha Feminina Dourada Fivela @1@~
 10765@356292@Sandália Molekinha Feminina Dourada Fivela @0@~
 10767@356293@Sandália Molekinha Feminina Dourada Fivela @0@~
-2831@356085@Sandália Molekinha Feminina Azul Marinho @3@~
+2831@356085@Sandália Molekinha Feminina Azul Marinho @2@~
 10777@356088@Sandália Molekinha Feminina Azul Marinho @0@~
 10779@356089@Sandália Molekinha Feminina Azul Marinho @0@~
 10781@356090@Sandália Molekinha Feminina Azul Marinho @1@~
-10785@356092@Sandália Molekinha Feminina Azul Marinho @1@~
+10785@356092@Sandália Molekinha Feminina Azul Marinho @0@~
 10787@356093@Sandália Molekinha Feminina Azul Marinho @1@~
 2833@356069@Sandália Molekinha Feminina Dourada@3@~
 10789@356070@Sandália Molekinha Feminina Dourada@0@~
@@ -4201,8 +4153,6 @@
 11299@357906@Camisa Cavalera Masculina Manga Curta Caveiras@0@~
 11301@357907@Camisa Cavalera Masculina Manga Curta Caveiras@1@~
 11303@357908@Camisa Cavalera Masculina Manga Curta Caveiras@0@~
-2917@358281@Bolsa Petite Jolie PJ4453 Easy@0@~
-11315@358284@Bolsa Petite Jolie PJ4453 Easy@0@~
 2919@356436@Sandália Grendene Feminina Larissa Manoela @11@~
 11325@356437@Sandália Grendene Feminina Larissa Manoela @2@~
 11327@356438@Sandália Grendene Feminina Larissa Manoela @1@~
@@ -4240,20 +4190,15 @@
 2935@356306@Blusa Farm Feminina Folhagens Verde@2@~
 11381@356307@Blusa Farm Feminina Folhagens Verde@1@~
 11383@356308@Blusa Farm Feminina Folhagens Verde@1@~
-2937@356310@Blusa Farm Feminina Metamorfose Preta@0@~
-11387@356311@Blusa Farm Feminina Metamorfose Preta@0@~
-11391@356313@Blusa Farm Feminina Metamorfose Preta@0@~
-2941@316214@Camiseta Acostamento Masculina Nirvana Banda@1@~
-11397@316218@Camiseta Acostamento Masculina Nirvana Banda@1@~
-2943@289159@Camiseta Acostamento Masculina Pink Floyd The Wall@1@~
-11401@289163@Camiseta Acostamento Masculina Pink Floyd The Wall@1@~
-2949@354962@Mochila Pampili Infantil Sereia Prata@0@~
-11435@354963@Mochila Pampili Infantil Sereia Prata@0@~
+2941@316214@Camiseta Acostamento Masculina Nirvana Banda - Black Friday@1@~
+11397@316218@Camiseta Acostamento Masculina Nirvana Banda - Black Friday@1@~
+2943@289159@Camiseta Acostamento Masculina Pink Floyd The Wall - Black Friday@1@~
+11401@289163@Camiseta Acostamento Masculina Pink Floyd The Wall - Black Friday@1@~
 2951@354968@Mochila Pampili Infantil Connected Hearts Preta@1@~
 11437@354969@Mochila Pampili Infantil Connected Hearts Preta@1@~
-2953@354951@Mochila Pampili Infantil Sweet Girl Rosa@0@~
+2953@354951@Mochila Pampili Infantil Sweet Girl Rosa@1@~
 11439@354953@Mochila Pampili Infantil Sweet Girl Rosa@0@~
-11441@354952@Mochila Pampili Infantil Sweet Girl Rosa@0@~
+11441@354952@Mochila Pampili Infantil Sweet Girl Rosa@1@~
 2955@354964@Bolsa Pampili Infantil Sereia Preta@1@~
 11443@354965@Bolsa Pampili Infantil Sereia Preta@1@~
 2957@354957@Mochila Pampili Infantil Cachorrinha@0@~
@@ -4261,8 +4206,6 @@
 11447@354959@Mochila Pampili Infantil Cachorrinha@0@~
 2959@354966@Mochila Pampili Infantil Coração Preta@1@~
 11449@354967@Mochila Pampili Infantil Coração Preta@1@~
-2961@354960@Bolsa Pampili Sereia Holográfica Prata @0@~
-11451@354961@Bolsa Pampili Sereia Holográfica Prata @0@~
 2963@252809@Chinelo Cartago Masculino Dakar Moto Preto @5@~
 11453@356412@Chinelo Cartago Masculino Dakar Moto Preto @1@~
 11455@356413@Chinelo Cartago Masculino Dakar Moto Preto @1@~
@@ -4375,9 +4318,6 @@
 3017@361871@Blusa Farm Feminina Floral Rosa@3@~
 11625@361872@Blusa Farm Feminina Floral Rosa@1@~
 11627@361873@Blusa Farm Feminina Floral Rosa@2@~
-3019@361874@Body Farm Feminino Tucano Estampado@0@~
-11723@361875@Body Farm Feminino Tucano Estampado@0@~
-11725@361876@Body Farm Feminino Tucano Estampado@0@~
 3021@361877@Vestido Farm Feminino Onça Folhas@1@~
 11633@361878@Vestido Farm Feminino Onça Folhas@1@~
 11635@361879@Vestido Farm Feminino Onça Folhas@0@~
@@ -4398,7 +4338,7 @@
 11681@361374@Sandália Grendene LOL Diva Bag Bolsa @0@~
 11683@361375@Sandália Grendene LOL Diva Bag Bolsa @1@~
 11685@361377@Sandália Grendene LOL Diva Bag Bolsa @1@~
-3029@361388@Chinelo Homem Aranha Brinde Star Fight Kids @4@~
+3029@361388@Chinelo Homem Aranha Brinde Star Fight Kids @5@~
 11689@361389@Chinelo Homem Aranha Brinde Star Fight Kids @1@~
 11691@361390@Chinelo Homem Aranha Brinde Star Fight Kids @1@~
 11693@361391@Chinelo Homem Aranha Brinde Star Fight Kids @0@~
@@ -4439,9 +4379,6 @@
 11775@362298@  Tenis Pampili Luna Slip On Força Do Rosa @1@~
 3043@361916@Naninha Hug Little Bear Happy Zoo @3@~
 11779@361917@Naninha Hug Little Bear Happy Zoo @3@~
-3045@361525@Bolsa Petite Jolie PJ4618 Love@0@~
-11781@361526@Bolsa Petite Jolie PJ4618 Love@0@~
-11783@361527@Bolsa Petite Jolie PJ4618 Love@0@~
 3049@361540@Bolsa Petite Jolie PJ4438 Thea@1@~
 11787@361542@Bolsa Petite Jolie PJ4438 Thea@0@~
 11789@361543@Bolsa Petite Jolie PJ4438 Thea@0@~
@@ -4460,14 +4397,9 @@
 3057@361535@Bolsa Petite Jolie Pj4451 Stella@1@~
 11815@361536@Bolsa Petite Jolie Pj4451 Stella@0@~
 11817@361538@Bolsa Petite Jolie Pj4451 Stella@1@~
-3059@292161@Bolsa Petite Jolie Pj3457 Worky@0@~
-11819@292163@Bolsa Petite Jolie Pj3457 Worky@0@~
 3065@363341@Mochila Bebê Multiuso Batistela Baby Animais@1@~
 12673@363343@Mochila Bebê Multiuso Batistela Baby Animais@0@~
 12675@363342@Mochila Bebê Multiuso Batistela Baby Animais@1@~
-3069@363337@Mochila de Bebê Multiuso Batistela Baby Zoo@0@~
-12659@363338@Mochila de Bebê Multiuso Batistela Baby Zoo@0@~
-12661@363340@Mochila de Bebê Multiuso Batistela Baby Zoo@0@~
 3073@362733@Vestido Farm Feminino Verde Musgo Estampado@0@~
 11861@365119@Vestido Farm Feminino Verde Musgo Estampado@0@~
 11863@362734@Vestido Farm Feminino Verde Musgo Estampado@0@~
@@ -4478,11 +4410,6 @@
 3077@362736@Vestido Farm Feminino Onças Folha@3@~
 11871@362738@Vestido Farm Feminino Onças Folha@2@~
 11873@362737@Vestido Farm Feminino Onças Folha@1@~
-3079@364665@Camiseta Cavalera Masculina Ozzy Osbourne Monalisa Preta@0@~
-11897@364666@Camiseta Cavalera Masculina Ozzy Osbourne Monalisa Preta@0@~
-11899@36467@Camiseta Cavalera Masculina Ozzy Osbourne Monalisa Preta@0@~
-11901@364668@Camiseta Cavalera Masculina Ozzy Osbourne Monalisa Preta@0@~
-11903@364669@Camiseta Cavalera Masculina Ozzy Osbourne Monalisa Preta@0@~
 3081@364670@Camiseta Cavalera Masculina Moto Preta@2@~
 11905@364671@Camiseta Cavalera Masculina Moto Preta@1@~
 11907@364672@Camiseta Cavalera Masculina Moto Preta@0@~
@@ -4561,8 +4488,6 @@
 12149@361202@Babuche Kemo Iate Listra@0@~
 12151@361203@Babuche Kemo Iate Listra@0@~
 12153@361204@Babuche Kemo Iate Listra@0@~
-3103@283598@Bolsa Hug Meu Ursinho M Azul Marinho@0@~
-12039@327713@Bolsa Hug Meu Ursinho M Azul Marinho@0@~
 3105@283570@Bolsa Maternidade Hug Docinho M Bege@1@~
 12041@342768@Bolsa Maternidade Hug Docinho M Bege@1@~
 3107@361333@Babuche Kemo Masculino Iate Cores@18@~
@@ -4692,10 +4617,10 @@
 12323@364661@Camiseta Cavalera Masculina Caveira Preta @1@~
 3139@364677@Camiseta Cavalera Masculina Punk Kids@1@~
 12329@364678@Camiseta Cavalera Masculina Punk Kids@1@~
-3141@366564@Tenis Infantil Luluca Pampili Blog Branco Glitter e Patches@3@~
+3141@366564@Tenis Infantil Luluca Pampili Blog Branco Glitter e Patches@2@~
 12333@366565@Tenis Infantil Luluca Pampili Blog Branco Glitter e Patches@0@~
 12335@366566@Tenis Infantil Luluca Pampili Blog Branco Glitter e Patches@0@~
-12337@366567@Tenis Infantil Luluca Pampili Blog Branco Glitter e Patches@1@~
+12337@366567@Tenis Infantil Luluca Pampili Blog Branco Glitter e Patches@0@~
 12339@366568@Tenis Infantil Luluca Pampili Blog Branco Glitter e Patches@1@~
 12341@366569@Tenis Infantil Luluca Pampili Blog Branco Glitter e Patches@1@~
 12343@366570@Tenis Infantil Luluca Pampili Blog Branco Glitter e Patches@0@~
@@ -4708,10 +4633,6 @@
 12369@365116@Saia Farm Feminina Longa Flores@1@~
 12371@365117@Saia Farm Feminina Longa Flores@1@~
 12373@365118@Saia Farm Feminina Longa Flores@0@~
-3147@365120@Vestido Farm Feminino Longo Tucano e Cajus@1@~
-12375@365121@Vestido Farm Feminino Longo Tucano e Cajus@0@~
-12377@365122@Vestido Farm Feminino Longo Tucano e Cajus@0@~
-12379@365123@Vestido Farm Feminino Longo Tucano e Cajus@1@~
 3149@365295@Tenis Pampili Feminino Believe Dream @5@~
 12409@365296@Tenis Pampili Feminino Believe Dream @1@~
 12411@365297@Tenis Pampili Feminino Believe Dream @1@~
@@ -4734,7 +4655,7 @@
 12441@366165@Tenis Pampili Feminino Brilho Strass Preto@1@~
 12443@366166@Tenis Pampili Feminino Brilho Strass Preto@1@~
 12445@366167@Tenis Pampili Feminino Brilho Strass Preto@1@~
-12447@366168@Tenis Pampili Feminino Brilho Strass Preto@1@~
+12447@366168@Tenis Pampili Feminino Brilho Strass Preto@0@~
 12449@366169@Tenis Pampili Feminino Brilho Strass Preto@1@~
 12451@366170@Tenis Pampili Feminino Brilho Strass Preto@1@~
 12453@366171@Tenis Pampili Feminino Brilho Strass Preto@1@~
@@ -4767,339 +4688,462 @@
 12497@361627@Roupão Banho Lepper Homem Aranha Felpudo Infantil@2@~
 12499@361628@Roupão Banho Lepper Homem Aranha Felpudo Infantil@0@~
 12501@361629@Roupão Banho Lepper Homem Aranha Felpudo Infantil@2@~
-3165@361634@ Roupão Banho Lepper Barbie Felpudo Infantil@7@~
-12503@361635@ Roupão Banho Lepper Barbie Felpudo Infantil@2@~
-12505@361636@ Roupão Banho Lepper Barbie Felpudo Infantil@2@~
+3165@361634@ Roupão Banho Lepper Barbie Felpudo Infantil@6@~
+12503@361635@ Roupão Banho Lepper Barbie Felpudo Infantil@1@~
+12505@361636@ Roupão Banho Lepper Barbie Felpudo Infantil@1@~
 12507@361638@ Roupão Banho Lepper Barbie Felpudo Infantil@2@~
-12509@361639@ Roupão Banho Lepper Barbie Felpudo Infantil@1@~
+12509@361639@ Roupão Banho Lepper Barbie Felpudo Infantil@0@~
 3167@312291@ Roupão Banho Lepper Minnie Felpudo Infantil@1@~
 12511@312292@ Roupão Banho Lepper Minnie Felpudo Infantil@1@~
-3169@256517@Roupão Banho Lepper Patrulha Canina Felpudo Infantil @1@~
-12513@256518@Roupão Banho Lepper Patrulha Canina Felpudo Infantil @1@~
-3171@361648@Roupão Banho Lepper Dinos Felpudo Infantil@7@~
+3169@256517@Roupão Banho Lepper Patrulha Canina Felpudo Infantil @0@~
+12513@256518@Roupão Banho Lepper Patrulha Canina Felpudo Infantil @0@~
+3171@361648@Roupão Banho Lepper Dinos Felpudo Infantil@6@~
 12515@361651@Roupão Banho Lepper Dinos Felpudo Infantil@1@~
 12517@361652@Roupão Banho Lepper Dinos Felpudo Infantil@2@~
 12519@361649@Roupão Banho Lepper Dinos Felpudo Infantil@2@~
-12521@361650@Roupão Banho Lepper Dinos Felpudo Infantil@2@~
+12521@361650@Roupão Banho Lepper Dinos Felpudo Infantil@1@~
 3173@312319@Toalha Banho Lepper Patrulha Canina Aveludada Infantil@3@~
-3175@361655@Toalha Banho Lepper Capitão America Vingadores Aveludada Infantil @10@~
+3175@361655@Toalha Banho Lepper Capitão America Vingadores Aveludada Infantil @9@~
 3177@361655@Toalha Banho Lepper Homem de Ferro Aveludada Infantil @9@~
 3179@361655@Toalha Banho Lepper Hulk Aveludada Infantil @7@~
 3181@361655@Toalha Banho Lepper Vingadores Aveludada Infantil@10@~
-3183@361655@Toalha Banho Lepper Vingadores Aveludada Infantil @10@~
+3183@361655@Toalha Banho Lepper Vingadores Aveludada Infantil @7@~
 3185@361658@Toalha Banho Lepper Simba Aveludada Infantil@9@~
 3187@361658@Toalha Banho Lepper Rei Leão Aveludada Infantil @9@~
 3195@361658@Toalha De Banho Lepper Timão E Pumba Aveludada Infantil@9@~
 3197@361658@Toalha Banho Lepper Timão E Pumba Aveludada Infantil@9@~
 3199@361658@Toalha Banho Lepper Simba & Nala Aveludada Infantil@9@~
-3201@368024@Tênis Pampili Feminino Tweenie Rosa@8@~
+3201@368024@Tênis Pampili Feminino Tweenie Rosa@6@~
 12525@368025@Tênis Pampili Feminino Tweenie Rosa@1@~
 12527@368026@Tênis Pampili Feminino Tweenie Rosa@1@~
-12529@368027@Tênis Pampili Feminino Tweenie Rosa@2@~
+12529@368027@Tênis Pampili Feminino Tweenie Rosa@1@~
 12531@368028@Tênis Pampili Feminino Tweenie Rosa@2@~
-12533@368029@Tênis Pampili Feminino Tweenie Rosa@2@~
-3207@339334@Sapatilha Sua Cia Feminina Verniz Vermelha @3@~
-12707@339335@Sapatilha Sua Cia Feminina Verniz Vermelha @0@~
-12709@339336@Sapatilha Sua Cia Feminina Verniz Vermelha @0@~
-12711@339337@Sapatilha Sua Cia Feminina Verniz Vermelha @0@~
-12713@339338@Sapatilha Sua Cia Feminina Verniz Vermelha @1@~
-12715@339339@Sapatilha Sua Cia Feminina Verniz Vermelha @1@~
-12717@339340@Sapatilha Sua Cia Feminina Verniz Vermelha @0@~
-12719@339341@Sapatilha Sua Cia Feminina Verniz Vermelha @0@~
-12721@339342@Sapatilha Sua Cia Feminina Verniz Vermelha @1@~
-3209@293703@Sapatilha Sua Cia Feminina Argolas Lilas@2@~
-12723@293706@Sapatilha Sua Cia Feminina Argolas Lilas@0@~
-12725@293707@Sapatilha Sua Cia Feminina Argolas Lilas@1@~
-12727@293708@Sapatilha Sua Cia Feminina Argolas Lilas@0@~
-12729@293709@Sapatilha Sua Cia Feminina Argolas Lilas@0@~
-12731@293704@Sapatilha Sua Cia Feminina Argolas Lilas@0@~
-12733@293705@Sapatilha Sua Cia Feminina Argolas Lilas@1@~
-3211@339368@Tênis Sua Cia Feminino Slip Animal Print Onça @3@~
-12735@339369@Tênis Sua Cia Feminino Slip Animal Print Onça @1@~
-12737@339370@Tênis Sua Cia Feminino Slip Animal Print Onça @1@~
-12739@339371@Tênis Sua Cia Feminino Slip Animal Print Onça @0@~
-12741@339372@Tênis Sua Cia Feminino Slip Animal Print Onça @1@~
-12743@339373@Tênis Sua Cia Feminino Slip Animal Print Onça @0@~
-12745@339374@Tênis Sua Cia Feminino Slip Animal Print Onça @0@~
-3213@275962@Sapatilha Petite Jolie PJ3149 Feminina Nude@2@~
-12747@275963@Sapatilha Petite Jolie PJ3149 Feminina Nude@0@~
-12749@275964@Sapatilha Petite Jolie PJ3149 Feminina Nude@0@~
-12751@275965@Sapatilha Petite Jolie PJ3149 Feminina Nude@2@~
-12753@275966@Sapatilha Petite Jolie PJ3149 Feminina Nude@0@~
-12755@275967@Sapatilha Petite Jolie PJ3149 Feminina Nude@0@~
-12757@275968@Sapatilha Petite Jolie PJ3149 Feminina Nude@0@~
-3215@273862@Sapatilha Adora Feminina Pedras @5@~
-12759@273863@Sapatilha Adora Feminina Pedras @0@~
-12761@273864@Sapatilha Adora Feminina Pedras @2@~
-12763@273865@Sapatilha Adora Feminina Pedras @3@~
-12765@273866@Sapatilha Adora Feminina Pedras @0@~
-12767@273867@Sapatilha Adora Feminina Pedras @0@~
-12769@273868@Sapatilha Adora Feminina Pedras @0@~
-3217@273817@Sapato Adora Feminino Pedras Salto Marrom@4@~
-12771@273818@Sapato Adora Feminino Pedras Salto Marrom@1@~
-12773@273819@Sapato Adora Feminino Pedras Salto Marrom@2@~
-12775@273820@Sapato Adora Feminino Pedras Salto Marrom@0@~
-12777@273821@Sapato Adora Feminino Pedras Salto Marrom@0@~
-12779@273822@Sapato Adora Feminino Pedras Salto Marrom@1@~
-12781@273823@Sapato Adora Feminino Pedras Salto Marrom@0@~
-3219@273801@Sapato Feminino Adora Salto Preto@7@~
-12783@273802@Sapato Feminino Adora Salto Preto@0@~
-12785@273803@Sapato Feminino Adora Salto Preto@2@~
-12787@273804@Sapato Feminino Adora Salto Preto@2@~
-12789@273805@Sapato Feminino Adora Salto Preto@2@~
-12791@273806@Sapato Feminino Adora Salto Preto@1@~
-12793@273807@Sapato Feminino Adora Salto Preto@0@~
-12795@273808@Sapato Feminino Adora Salto Preto@0@~
-3223@240317@Sapatilha Pampili Feminina Angel Branca@2@~
-12811@240318@Sapatilha Pampili Feminina Angel Branca@0@~
-12813@240319@Sapatilha Pampili Feminina Angel Branca@0@~
-12815@240320@Sapatilha Pampili Feminina Angel Branca@0@~
-12817@240321@Sapatilha Pampili Feminina Angel Branca@0@~
-12819@240322@Sapatilha Pampili Feminina Angel Branca@1@~
-12821@240323@Sapatilha Pampili Feminina Angel Branca@1@~
-3225@303280@Sandalia Zaxy Feminina Rosa@2@~
-12823@303281@Sandalia Zaxy Feminina Rosa@0@~
-12825@317833@Sandalia Zaxy Feminina Rosa@0@~
-12827@303282@Sandalia Zaxy Feminina Rosa@0@~
-12829@303283@Sandalia Zaxy Feminina Rosa@0@~
-12831@303284@Sandalia Zaxy Feminina Rosa@1@~
-12833@303285@Sandalia Zaxy Feminina Rosa@0@~
-12835@303286@Sandalia Zaxy Feminina Rosa@1@~
-3227@243438@Tenis Ortopasso Masculino Azul Escuro@3@~
-12837@243439@Tenis Ortopasso Masculino Azul Escuro@0@~
-12839@243440@Tenis Ortopasso Masculino Azul Escuro@1@~
-12841@243441@Tenis Ortopasso Masculino Azul Escuro@0@~
-12843@243442@Tenis Ortopasso Masculino Azul Escuro@1@~
-12845@243443@Tenis Ortopasso Masculino Azul Escuro@0@~
-12847@243444@Tenis Ortopasso Masculino Azul Escuro@0@~
-12849@243446@Tenis Ortopasso Masculino Azul Escuro@0@~
-12851@243447@Tenis Ortopasso Masculino Azul Escuro@0@~
-12853@243448@Tenis Ortopasso Masculino Azul Escuro@1@~
-3229@243455@Tenis Ortopasso Masculino Azul@3@~
-12855@243456@Tenis Ortopasso Masculino Azul@1@~
-12857@243457@Tenis Ortopasso Masculino Azul@1@~
-12859@243458@Tenis Ortopasso Masculino Azul@0@~
-12861@243459@Tenis Ortopasso Masculino Azul@0@~
-12863@243460@Tenis Ortopasso Masculino Azul@0@~
-12865@243461@Tenis Ortopasso Masculino Azul@1@~
-12867@243462@Tenis Ortopasso Masculino Azul@0@~
-3231@295257@Sandália Beira Rio Feminina Pedras Lilas@2@~
-12869@295258@Sandália Beira Rio Feminina Pedras Lilas@0@~
-12871@295259@Sandália Beira Rio Feminina Pedras Lilas@0@~
-12873@295260@Sandália Beira Rio Feminina Pedras Lilas@0@~
-12875@295261@Sandália Beira Rio Feminina Pedras Lilas@1@~
-12877@295262@Sandália Beira Rio Feminina Pedras Lilas@1@~
-12879@295263@Sandália Beira Rio Feminina Pedras Lilas@0@~
-3233@367025@Calça Tocaia @1@~
-12881@367027@Calça Tocaia @1@~
-3235@278146@Sapatilha Peki Lili Feminina Preta @3@~
-12889@278150@Sapatilha Peki Lili Feminina Preta @1@~
-12891@278151@Sapatilha Peki Lili Feminina Preta @1@~
-12893@278152@Sapatilha Peki Lili Feminina Preta @0@~
-12895@278153@Sapatilha Peki Lili Feminina Preta @0@~
-12897@278154@Sapatilha Peki Lili Feminina Preta @0@~
-12899@278155@Sapatilha Peki Lili Feminina Preta @1@~
-3237@278126@Sapatilha Peki Lili Feminina Detalhes Creme@2@~
-12901@278127@Sapatilha Peki Lili Feminina Detalhes Creme@0@~
-12903@278128@Sapatilha Peki Lili Feminina Detalhes Creme@0@~
-12905@278129@Sapatilha Peki Lili Feminina Detalhes Creme@1@~
-12907@278130@Sapatilha Peki Lili Feminina Detalhes Creme@0@~
-12909@278131@Sapatilha Peki Lili Feminina Detalhes Creme@1@~
-12911@278132@Sapatilha Peki Lili Feminina Detalhes Creme@0@~
-12913@278133@Sapatilha Peki Lili Feminina Detalhes Creme@0@~
-12915@278134@Sapatilha Peki Lili Feminina Detalhes Creme@0@~
-12917@248135@Sapatilha Peki Lili Feminina Detalhes Creme@0@~
-3239@304411@Tênis Via Vip Feminino Listras Creme@3@~
-12919@304412@Tênis Via Vip Feminino Listras Creme@1@~
-12921@304413@Tênis Via Vip Feminino Listras Creme@0@~
-12923@304414@Tênis Via Vip Feminino Listras Creme@0@~
-12925@304415@Tênis Via Vip Feminino Listras Creme@1@~
-12927@304416@Tênis Via Vip Feminino Listras Creme@0@~
-12929@304417@Tênis Via Vip Feminino Listras Creme@0@~
-12931@304418@Tênis Via Vip Feminino Listras Creme@1@~
-12933@304419@Tênis Via Vip Feminino Listras Creme@0@~
-12935@304420@Tênis Via Vip Feminino Listras Creme@0@~
-12937@334421@Tênis Via Vip Feminino Listras Creme@0@~
-3241@294797@Tênis Klin Feminino Genesis Preto@3@~
-12939@294798@Tênis Klin Feminino Genesis Preto@1@~
-12941@294799@Tênis Klin Feminino Genesis Preto@1@~
-12943@294800@Tênis Klin Feminino Genesis Preto@1@~
-12945@294801@Tênis Klin Feminino Genesis Preto@0@~
-12947@294802@Tênis Klin Feminino Genesis Preto@0@~
-12949@294803@Tênis Klin Feminino Genesis Preto@0@~
-12951@294804@Tênis Klin Feminino Genesis Preto@0@~
-12953@294805@Tênis Klin Feminino Genesis Preto@0@~
-12955@294806@Tênis Klin Feminino Genesis Preto@0@~
-3243@273809@Sapato Adora Feminino Salto Marrom@1@~
-12957@273812@Sapato Adora Feminino Salto Marrom@1@~
-3245@273824@Sapato Adora Feminino Salto Pedras Marrom @1@~
-12959@273830@Sapato Adora Feminino Salto Pedras Marrom @1@~
-3247@248177@Sapato Dolccini Feminino Listrado@1@~
-12961@248178@Sapato Dolccini Feminino Listrado@1@~
-3249@242196@Sapatilha Beira Rio Feminina Slip On Floral Vermelha@1@~
-12963@242200@Sapatilha Beira Rio Feminina Slip On Floral Vermelha@1@~
-3251@238937@Sapato Dakota Feminino Azul@2@~
-12965@238938@Sapato Dakota Feminino Azul@1@~
-12967@238942@Sapato Dakota Feminino Azul@1@~
-3253@244182@Sandalia Zaxy Feminina Playful Mickey@1@~
-12969@244187@Sandalia Zaxy Feminina Playful Mickey@1@~
-3255@243500@Sandalia Pampili Feminina Tiras Marrom @1@~
-12971@243508@Sandalia Pampili Feminina Tiras Marrom @1@~
-3257@248795@Sapatilha Pampili Feminina Laço Dourada@2@~
-12975@248796@Sapatilha Pampili Feminina Laço Dourada@0@~
-12977@248797@Sapatilha Pampili Feminina Laço Dourada@0@~
-12979@248798@Sapatilha Pampili Feminina Laço Dourada@2@~
-12981@248799@Sapatilha Pampili Feminina Laço Dourada@0@~
-12983@248800@Sapatilha Pampili Feminina Laço Dourada@0@~
-3259@299278@Sandalia Pampili Feminina Flor Rosa @1@~
-12973@299279@Sandalia Pampili Feminina Flor Rosa @1@~
-3261@299258@Sandalia Pampili Feminina Laço Rosa@1@~
-12985@299262@Sandalia Pampili Feminina Laço Rosa@1@~
-3263@296105@Tênis Biker Kids Feminino Slip On Preto@2@~
-12987@296106@Tênis Biker Kids Feminino Slip On Preto@1@~
-12989@296107@Tênis Biker Kids Feminino Slip On Preto@0@~
-12991@296108@Tênis Biker Kids Feminino Slip On Preto@0@~
-12993@296109@Tênis Biker Kids Feminino Slip On Preto@0@~
-12995@296110@Tênis Biker Kids Feminino Slip On Preto@1@~
-12997@296111@Tênis Biker Kids Feminino Slip On Preto@0@~
-12999@296112@Tênis Biker Kids Feminino Slip On Preto@0@~
-13001@296113@Tênis Biker Kids Feminino Slip On Preto@0@~
-3265@297977@Tênis Bloompy Feminino Elastico Rosa@1@~
-13003@297978@Tênis Bloompy Feminino Elastico Rosa@0@~
-13005@297979@Tênis Bloompy Feminino Elastico Rosa@0@~
-13007@297980@Tênis Bloompy Feminino Elastico Rosa@0@~
-13009@297981@Tênis Bloompy Feminino Elastico Rosa@0@~
-13011@297982@Tênis Bloompy Feminino Elastico Rosa@0@~
-13013@297983@Tênis Bloompy Feminino Elastico Rosa@0@~
-13015@297984@Tênis Bloompy Feminino Elastico Rosa@0@~
-13017@297985@Tênis Bloompy Feminino Elastico Rosa@1@~
-3267@269348@Pantufa Molekinha Feminina Pelos Rosa@2@~
-13019@269352@Pantufa Molekinha Feminina Pelos Rosa@1@~
-13021@269353@Pantufa Molekinha Feminina Pelos Rosa@1@~
-3269@269328@Pantufa Molekinha Feminina Coração Preta @5@~
-13023@269332@Pantufa Molekinha Feminina Coração Preta @1@~
-13025@269333@Pantufa Molekinha Feminina Coração Preta @1@~
-13027@269334@Pantufa Molekinha Feminina Coração Preta @1@~
-13029@269335@Pantufa Molekinha Feminina Coração Preta @1@~
-13031@269336@Pantufa Molekinha Feminina Coração Preta @1@~
-3271@247884@Sandalia Pampili Feminina Laço Branca@4@~
-13033@247885@Sandalia Pampili Feminina Laço Branca@1@~
-13035@247886@Sandalia Pampili Feminina Laço Branca@1@~
-13037@247887@Sandalia Pampili Feminina Laço Branca@1@~
-13039@247888@Sandalia Pampili Feminina Laço Branca@0@~
-13041@247889@Sandalia Pampili Feminina Laço Branca@1@~
-13043@247890@Sandalia Pampili Feminina Laço Branca@0@~
-3273@245035@Sapatilha Sua Cia Feminina Xadrex Preta@2@~
-13045@245037@Sapatilha Sua Cia Feminina Xadrex Preta@1@~
-13047@245038@Sapatilha Sua Cia Feminina Xadrex Preta@1@~
-3275@@Sandalia Pampili Feminina Detalhe Branca@2@~
-13049@299546@Sandalia Pampili Feminina Detalhe Branca@1@~
-13051@299551@Sandalia Pampili Feminina Detalhe Branca@1@~
-3277@238657@Sandalia Klasipe Feminina Pedras Dourada@1@~
-13053@238664@Sandalia Klasipe Feminina Pedras Dourada@1@~
-3279@270355@Sapatilha Molekinha Feminina Detalhes Prata@1@~
-13055@270359@Sapatilha Molekinha Feminina Detalhes Prata@1@~
-3281@247047@Sandália Pampili Feminina Kiara Salto@2@~
-13061@247048@Sandália Pampili Feminina Kiara Salto@1@~
-13063@247049@Sandália Pampili Feminina Kiara Salto@0@~
-13065@247050@Sandália Pampili Feminina Kiara Salto@0@~
-13067@247051@Sandália Pampili Feminina Kiara Salto@0@~
-13069@247052@Sandália Pampili Feminina Kiara Salto@0@~
-13071@247053@Sandália Pampili Feminina Kiara Salto@0@~
-13073@247054@Sandália Pampili Feminina Kiara Salto@1@~
-13075@247055@Sandália Pampili Feminina Kiara Salto@0@~
-3283@238676@Sandalia Klasipe Feminina Love Dourada@2@~
-13057@238677@Sandalia Klasipe Feminina Love Dourada@1@~
-13059@238682@Sandalia Klasipe Feminina Love Dourada@1@~
-3285@243101@Sapatênis Cavalera Masculino @2@~
-13077@243102@Sapatênis Cavalera Masculino @0@~
-13079@243103@Sapatênis Cavalera Masculino @0@~
-13081@243104@Sapatênis Cavalera Masculino @0@~
-13083@243105@Sapatênis Cavalera Masculino @0@~
-13085@243106@Sapatênis Cavalera Masculino @0@~
-13087@243107@Sapatênis Cavalera Masculino @0@~
-13089@243108@Sapatênis Cavalera Masculino @2@~
-13091@243109@Sapatênis Cavalera Masculino @0@~
-13093@243110@Sapatênis Cavalera Masculino @0@~
-13095@243111@Sapatênis Cavalera Masculino @0@~
-3287@294807@Tênis Klin Feminino Com Velcro @5@~
-13097@294808@Tênis Klin Feminino Com Velcro @1@~
-13099@294809@Tênis Klin Feminino Com Velcro @1@~
-13101@294810@Tênis Klin Feminino Com Velcro @1@~
-13103@294811@Tênis Klin Feminino Com Velcro @1@~
-13105@294812@Tênis Klin Feminino Com Velcro @0@~
-13107@294813@Tênis Klin Feminino Com Velcro @1@~
-13109@294814@Tênis Klin Feminino Com Velcro @0@~
-13111@294815@Tênis Klin Feminino Com Velcro @0@~
-3289@243449@Tênis Ortopasso Masculino @1@~
-13113@243450@Tênis Ortopasso Masculino @1@~
-13115@243451@Tênis Ortopasso Masculino @0@~
-13117@243452@Tênis Ortopasso Masculino @0@~
-13119@243453@Tênis Ortopasso Masculino @0@~
-13121@243454@Tênis Ortopasso Masculino @0@~
-3291@244327@Sandália Pampili Com Detalhe No Calcanhar@4@~
-13123@244328@Sandália Pampili Com Detalhe No Calcanhar@0@~
-13125@244329@Sandália Pampili Com Detalhe No Calcanhar@0@~
-13127@244330@Sandália Pampili Com Detalhe No Calcanhar@1@~
-13129@244331@Sandália Pampili Com Detalhe No Calcanhar@1@~
-13131@244332@Sandália Pampili Com Detalhe No Calcanhar@0@~
-13133@244333@Sandália Pampili Com Detalhe No Calcanhar@0@~
-13135@244334@Sandália Pampili Com Detalhe No Calcanhar@1@~
-13137@244335@Sandália Pampili Com Detalhe No Calcanhar@1@~
-3293@239876@Sandália Molekinha Feminina@2@~
-13139@239877@Sandália Molekinha Feminina@1@~
-13141@239878@Sandália Molekinha Feminina@1@~
-13143@239879@Sandália Molekinha Feminina@0@~
-13145@239880@Sandália Molekinha Feminina@0@~
-13147@239881@Sandália Molekinha Feminina@0@~
-13149@239882@Sandália Molekinha Feminina@0@~
-13151@239883@Sandália Molekinha Feminina@0@~
-13153@239884@Sandália Molekinha Feminina@0@~
-3295@244318@Sandália Pampili Com Flores @2@~
-13155@244319@Sandália Pampili Com Flores @1@~
-13157@244320@Sandália Pampili Com Flores @0@~
-13159@244321@Sandália Pampili Com Flores @1@~
-13161@244322@Sandália Pampili Com Flores @0@~
-13163@244323@Sandália Pampili Com Flores @0@~
-13165@244324@Sandália Pampili Com Flores @0@~
-13167@244325@Sandália Pampili Com Flores @0@~
-13169@244326@Sandália Pampili Com Flores @0@~
-3297@304382@Tenis Via Vip @4@~
-13171@304383@Tenis Via Vip @0@~
-13173@304384@Tenis Via Vip @0@~
-13175@304385@Tenis Via Vip @0@~
-13177@304386@Tenis Via Vip @2@~
-13179@304387@Tenis Via Vip @1@~
-13181@304388@Tenis Via Vip @1@~
-3299@339279@Sapatilha Sua Cia Marrom @3@~
-13183@339280@Sapatilha Sua Cia Marrom @0@~
-13185@339281@Sapatilha Sua Cia Marrom @0@~
-13187@339282@Sapatilha Sua Cia Marrom @1@~
-13189@339283@Sapatilha Sua Cia Marrom @0@~
-13191@339284@Sapatilha Sua Cia Marrom @1@~
-13193@339285@Sapatilha Sua Cia Marrom @1@~
-3301@339343@Sapatilha Sua Cia @5@~
-13195@339344@Sapatilha Sua Cia @0@~
-13197@339345@Sapatilha Sua Cia @1@~
-13199@339346@Sapatilha Sua Cia @1@~
-13201@339347@Sapatilha Sua Cia @0@~
-13203@339348@Sapatilha Sua Cia @0@~
-13205@339349@Sapatilha Sua Cia @2@~
-13207@339350@Sapatilha Sua Cia @0@~
-13209@339351@Sapatilha Sua Cia @1@~
-3303@315741@Sapatilha Sua Cia Preta @2@~
-13211@315742@Sapatilha Sua Cia Preta @1@~
-13213@315743@Sapatilha Sua Cia Preta @0@~
-13215@315744@Sapatilha Sua Cia Preta @0@~
-13217@315745@Sapatilha Sua Cia Preta @0@~
-13219@315746@Sapatilha Sua Cia Preta @0@~
-13221@315747@Sapatilha Sua Cia Preta @0@~
-13223@315748@Sapatilha Sua Cia Preta @1@~
-3305@339286@Sapatilha Sua Cia Amarela@4@~
-13237@339289@Sapatilha Sua Cia Amarela@1@~
-13239@339287@Sapatilha Sua Cia Amarela@1@~
-13241@339288@Sapatilha Sua Cia Amarela@1@~
-13243@339290@Sapatilha Sua Cia Amarela@0@~
-13245@339291@Sapatilha Sua Cia Amarela@1@~
-13247@339292@Sapatilha Sua Cia Amarela@0@~
-13249@339293@Sapatilha Sua Cia Amarela@0@~
+12533@368029@Tênis Pampili Feminino Tweenie Rosa@1@~
+3207@339334@Sapatilha Sua Cia Feminina Verniz Vermelha - Black Friday@2@~
+12707@339335@Sapatilha Sua Cia Feminina Verniz Vermelha - Black Friday@0@~
+12709@339336@Sapatilha Sua Cia Feminina Verniz Vermelha - Black Friday@0@~
+12711@339337@Sapatilha Sua Cia Feminina Verniz Vermelha - Black Friday@0@~
+12713@339338@Sapatilha Sua Cia Feminina Verniz Vermelha - Black Friday@1@~
+12715@339339@Sapatilha Sua Cia Feminina Verniz Vermelha - Black Friday@0@~
+12717@339340@Sapatilha Sua Cia Feminina Verniz Vermelha - Black Friday@0@~
+12719@339341@Sapatilha Sua Cia Feminina Verniz Vermelha - Black Friday@0@~
+12721@339342@Sapatilha Sua Cia Feminina Verniz Vermelha - Black Friday@1@~
+3209@293703@Sapatilha Sua Cia Feminina Argolas Lilas - Black Friday@2@~
+12723@293706@Sapatilha Sua Cia Feminina Argolas Lilas - Black Friday@0@~
+12725@293707@Sapatilha Sua Cia Feminina Argolas Lilas - Black Friday@1@~
+12727@293708@Sapatilha Sua Cia Feminina Argolas Lilas - Black Friday@0@~
+12729@293709@Sapatilha Sua Cia Feminina Argolas Lilas - Black Friday@0@~
+12731@293704@Sapatilha Sua Cia Feminina Argolas Lilas - Black Friday@0@~
+12733@293705@Sapatilha Sua Cia Feminina Argolas Lilas - Black Friday@1@~
+3211@339368@Tênis Sua Cia Feminino Slip Animal Print Onça -Black Friday@3@~
+12735@339369@Tênis Sua Cia Feminino Slip Animal Print Onça -Black Friday@1@~
+12737@339370@Tênis Sua Cia Feminino Slip Animal Print Onça -Black Friday@1@~
+12739@339371@Tênis Sua Cia Feminino Slip Animal Print Onça -Black Friday@0@~
+12741@339372@Tênis Sua Cia Feminino Slip Animal Print Onça -Black Friday@1@~
+12743@339373@Tênis Sua Cia Feminino Slip Animal Print Onça -Black Friday@0@~
+12745@339374@Tênis Sua Cia Feminino Slip Animal Print Onça -Black Friday@0@~
+3215@273862@Sapatilha Adora Feminina Pedras -Black Friday@0@~
+12759@273863@Sapatilha Adora Feminina Pedras -Black Friday@0@~
+12761@273864@Sapatilha Adora Feminina Pedras -Black Friday@0@~
+12763@273865@Sapatilha Adora Feminina Pedras -Black Friday@0@~
+12765@273866@Sapatilha Adora Feminina Pedras -Black Friday@0@~
+12767@273867@Sapatilha Adora Feminina Pedras -Black Friday@0@~
+12769@273868@Sapatilha Adora Feminina Pedras -Black Friday@0@~
+3219@273801@Sapato Feminino Adora Salto Preto -Black Friday@0@~
+12783@273802@Sapato Feminino Adora Salto Preto -Black Friday@0@~
+12785@273803@Sapato Feminino Adora Salto Preto -Black Friday@0@~
+12787@273804@Sapato Feminino Adora Salto Preto -Black Friday@0@~
+12789@273805@Sapato Feminino Adora Salto Preto -Black Friday@0@~
+12791@273806@Sapato Feminino Adora Salto Preto -Black Friday@0@~
+12793@273807@Sapato Feminino Adora Salto Preto -Black Friday@0@~
+12795@273808@Sapato Feminino Adora Salto Preto -Black Friday@0@~
+3223@240317@Sapatilha Pampili Feminina Angel Branca -Black Friday@2@~
+12811@240318@Sapatilha Pampili Feminina Angel Branca -Black Friday@0@~
+12813@240319@Sapatilha Pampili Feminina Angel Branca -Black Friday@0@~
+12815@240320@Sapatilha Pampili Feminina Angel Branca -Black Friday@0@~
+12817@240321@Sapatilha Pampili Feminina Angel Branca -Black Friday@0@~
+12819@240322@Sapatilha Pampili Feminina Angel Branca -Black Friday@1@~
+12821@240323@Sapatilha Pampili Feminina Angel Branca -Black Friday@1@~
+3225@303280@Sandalia Zaxy Feminina Rosa-Black Friday@3@~
+12823@303281@Sandalia Zaxy Feminina Rosa-Black Friday@0@~
+12825@317833@Sandalia Zaxy Feminina Rosa-Black Friday@0@~
+12827@303282@Sandalia Zaxy Feminina Rosa-Black Friday@0@~
+12829@303283@Sandalia Zaxy Feminina Rosa-Black Friday@0@~
+12831@303284@Sandalia Zaxy Feminina Rosa-Black Friday@2@~
+12833@303285@Sandalia Zaxy Feminina Rosa-Black Friday@0@~
+12835@303286@Sandalia Zaxy Feminina Rosa-Black Friday@1@~
+3227@243438@Tenis Mocassin Ortopasso Masculino  Azul Escuro-Black Friday@3@~
+12837@243439@Tenis Mocassin Ortopasso Masculino  Azul Escuro-Black Friday@0@~
+12839@243440@Tenis Mocassin Ortopasso Masculino  Azul Escuro-Black Friday@1@~
+12841@243441@Tenis Mocassin Ortopasso Masculino  Azul Escuro-Black Friday@0@~
+12843@243442@Tenis Mocassin Ortopasso Masculino  Azul Escuro-Black Friday@1@~
+12845@243443@Tenis Mocassin Ortopasso Masculino  Azul Escuro-Black Friday@0@~
+12847@243444@Tenis Mocassin Ortopasso Masculino  Azul Escuro-Black Friday@0@~
+12849@243446@Tenis Mocassin Ortopasso Masculino  Azul Escuro-Black Friday@0@~
+12851@243447@Tenis Mocassin Ortopasso Masculino  Azul Escuro-Black Friday@0@~
+12853@243448@Tenis Mocassin Ortopasso Masculino  Azul Escuro-Black Friday@1@~
+3229@243455@Tenis Ortopasso Masculino Azul - Black Friday@3@~
+12855@243456@Tenis Ortopasso Masculino Azul - Black Friday@1@~
+12857@243457@Tenis Ortopasso Masculino Azul - Black Friday@1@~
+12859@243458@Tenis Ortopasso Masculino Azul - Black Friday@0@~
+12861@243459@Tenis Ortopasso Masculino Azul - Black Friday@0@~
+12863@243460@Tenis Ortopasso Masculino Azul - Black Friday@0@~
+12865@243461@Tenis Ortopasso Masculino Azul - Black Friday@1@~
+12867@243462@Tenis Ortopasso Masculino Azul - Black Friday@0@~
+3231@295257@Sandália Beira Rio Feminina Pedras Lilas - Black Friday@2@~
+12869@295258@Sandália Beira Rio Feminina Pedras Lilas - Black Friday@0@~
+12871@295259@Sandália Beira Rio Feminina Pedras Lilas - Black Friday@0@~
+12873@295260@Sandália Beira Rio Feminina Pedras Lilas - Black Friday@0@~
+12875@295261@Sandália Beira Rio Feminina Pedras Lilas - Black Friday@1@~
+12877@295262@Sandália Beira Rio Feminina Pedras Lilas - Black Friday@1@~
+12879@295263@Sandália Beira Rio Feminina Pedras Lilas - Black Friday@0@~
+3235@278146@Sapatilha Peki Lili Feminina Preta - Black Friday@3@~
+12889@278150@Sapatilha Peki Lili Feminina Preta - Black Friday@1@~
+12891@278151@Sapatilha Peki Lili Feminina Preta - Black Friday@1@~
+12893@278152@Sapatilha Peki Lili Feminina Preta - Black Friday@0@~
+12895@278153@Sapatilha Peki Lili Feminina Preta - Black Friday@0@~
+12897@278154@Sapatilha Peki Lili Feminina Preta - Black Friday@0@~
+12899@278155@Sapatilha Peki Lili Feminina Preta - Black Friday@1@~
+3237@278126@Sapatilha Peki Lili Feminina Detalhes Creme-Black Friday@2@~
+12901@278127@Sapatilha Peki Lili Feminina Detalhes Creme-Black Friday@0@~
+12903@278128@Sapatilha Peki Lili Feminina Detalhes Creme-Black Friday@0@~
+12905@278129@Sapatilha Peki Lili Feminina Detalhes Creme-Black Friday@1@~
+12907@278130@Sapatilha Peki Lili Feminina Detalhes Creme-Black Friday@0@~
+12909@278131@Sapatilha Peki Lili Feminina Detalhes Creme-Black Friday@1@~
+12911@278132@Sapatilha Peki Lili Feminina Detalhes Creme-Black Friday@0@~
+12913@278133@Sapatilha Peki Lili Feminina Detalhes Creme-Black Friday@0@~
+12915@278134@Sapatilha Peki Lili Feminina Detalhes Creme-Black Friday@0@~
+12917@248135@Sapatilha Peki Lili Feminina Detalhes Creme-Black Friday@0@~
+3239@304411@Tênis Via Vip Feminino Listras Creme - Black Friday@3@~
+12919@304412@Tênis Via Vip Feminino Listras Creme - Black Friday@1@~
+12921@304413@Tênis Via Vip Feminino Listras Creme - Black Friday@0@~
+12923@304414@Tênis Via Vip Feminino Listras Creme - Black Friday@0@~
+12925@304415@Tênis Via Vip Feminino Listras Creme - Black Friday@1@~
+12927@304416@Tênis Via Vip Feminino Listras Creme - Black Friday@0@~
+12929@304417@Tênis Via Vip Feminino Listras Creme - Black Friday@0@~
+12931@304418@Tênis Via Vip Feminino Listras Creme - Black Friday@1@~
+12933@304419@Tênis Via Vip Feminino Listras Creme - Black Friday@0@~
+12935@304420@Tênis Via Vip Feminino Listras Creme - Black Friday@0@~
+12937@334421@Tênis Via Vip Feminino Listras Creme - Black Friday@0@~
+3241@294797@Tênis Klin Feminino Genesis Preto - Black Friday@3@~
+12939@294798@Tênis Klin Feminino Genesis Preto - Black Friday@1@~
+12941@294799@Tênis Klin Feminino Genesis Preto - Black Friday@1@~
+12943@294800@Tênis Klin Feminino Genesis Preto - Black Friday@1@~
+12945@294801@Tênis Klin Feminino Genesis Preto - Black Friday@0@~
+12947@294802@Tênis Klin Feminino Genesis Preto - Black Friday@0@~
+12949@294803@Tênis Klin Feminino Genesis Preto - Black Friday@0@~
+12951@294804@Tênis Klin Feminino Genesis Preto - Black Friday@0@~
+12953@294805@Tênis Klin Feminino Genesis Preto - Black Friday@0@~
+12955@294806@Tênis Klin Feminino Genesis Preto - Black Friday@0@~
+3249@242196@Sapatilha Beira Rio Feminina Slip On Floral Vermelha - Black Friday@1@~
+12963@242200@Sapatilha Beira Rio Feminina Slip On Floral Vermelha - Black Friday@1@~
+3251@238937@Sapato Dakota Feminino Azul - Black Friday@2@~
+12965@238938@Sapato Dakota Feminino Azul - Black Friday@1@~
+12967@238942@Sapato Dakota Feminino Azul - Black Friday@1@~
+3253@244182@Sandalia Zaxy Feminina Playful Mickey - Black Friday@2@~
+12969@244187@Sandalia Zaxy Feminina Playful Mickey - Black Friday@2@~
+3255@243500@Sandalia Pampili Feminina Tiras Marrom - Black friday@1@~
+12971@243508@Sandalia Pampili Feminina Tiras Marrom - Black friday@1@~
+3257@248795@Sapatilha Pampili Feminina Laço Dourada - Black Friday@2@~
+12975@248796@Sapatilha Pampili Feminina Laço Dourada - Black Friday@0@~
+12977@248797@Sapatilha Pampili Feminina Laço Dourada - Black Friday@0@~
+12979@248798@Sapatilha Pampili Feminina Laço Dourada - Black Friday@2@~
+12981@248799@Sapatilha Pampili Feminina Laço Dourada - Black Friday@0@~
+12983@248800@Sapatilha Pampili Feminina Laço Dourada - Black Friday@0@~
+3259@299278@Sandalia Pampili Feminina Flor Rosa - Black Friday@1@~
+12973@299279@Sandalia Pampili Feminina Flor Rosa - Black Friday@1@~
+3261@299258@Sandalia Pampili Feminina Laço Rosa - Black Friday@2@~
+12985@299262@Sandalia Pampili Feminina Laço Rosa - Black Friday@2@~
+3263@296105@Tênis Biker Kids Feminino Slip On Preto - Black Friday@2@~
+12987@296106@Tênis Biker Kids Feminino Slip On Preto - Black Friday@1@~
+12989@296107@Tênis Biker Kids Feminino Slip On Preto - Black Friday@0@~
+12991@296108@Tênis Biker Kids Feminino Slip On Preto - Black Friday@0@~
+12993@296109@Tênis Biker Kids Feminino Slip On Preto - Black Friday@0@~
+12995@296110@Tênis Biker Kids Feminino Slip On Preto - Black Friday@1@~
+12997@296111@Tênis Biker Kids Feminino Slip On Preto - Black Friday@0@~
+12999@296112@Tênis Biker Kids Feminino Slip On Preto - Black Friday@0@~
+13001@296113@Tênis Biker Kids Feminino Slip On Preto - Black Friday@0@~
+3265@297977@Tênis Bloompy Feminino Elastico Rosa - Black Friday@1@~
+13003@297978@Tênis Bloompy Feminino Elastico Rosa - Black Friday@0@~
+13005@297979@Tênis Bloompy Feminino Elastico Rosa - Black Friday@0@~
+13007@297980@Tênis Bloompy Feminino Elastico Rosa - Black Friday@0@~
+13009@297981@Tênis Bloompy Feminino Elastico Rosa - Black Friday@0@~
+13011@297982@Tênis Bloompy Feminino Elastico Rosa - Black Friday@0@~
+13013@297983@Tênis Bloompy Feminino Elastico Rosa - Black Friday@0@~
+13015@297984@Tênis Bloompy Feminino Elastico Rosa - Black Friday@0@~
+13017@297985@Tênis Bloompy Feminino Elastico Rosa - Black Friday@1@~
+3267@269348@Pantufa Molekinha Feminina Pelos Rosa - Black Friday@2@~
+13019@269352@Pantufa Molekinha Feminina Pelos Rosa - Black Friday@1@~
+13021@269353@Pantufa Molekinha Feminina Pelos Rosa - Black Friday@1@~
+3269@269328@Pantufa Molekinha Feminina Coração Preta - Black Friday@5@~
+13023@269332@Pantufa Molekinha Feminina Coração Preta - Black Friday@1@~
+13025@269333@Pantufa Molekinha Feminina Coração Preta - Black Friday@1@~
+13027@269334@Pantufa Molekinha Feminina Coração Preta - Black Friday@1@~
+13029@269335@Pantufa Molekinha Feminina Coração Preta - Black Friday@1@~
+13031@269336@Pantufa Molekinha Feminina Coração Preta - Black Friday@1@~
+3271@247884@Sandalia Pampili Feminina Laço Branca - Black Friday@4@~
+13033@247885@Sandalia Pampili Feminina Laço Branca - Black Friday@1@~
+13035@247886@Sandalia Pampili Feminina Laço Branca - Black Friday@1@~
+13037@247887@Sandalia Pampili Feminina Laço Branca - Black Friday@1@~
+13039@247888@Sandalia Pampili Feminina Laço Branca - Black Friday@0@~
+13041@247889@Sandalia Pampili Feminina Laço Branca - Black Friday@1@~
+13043@247890@Sandalia Pampili Feminina Laço Branca - Black Friday@0@~
+3273@245035@Sapatilha Sua Cia Feminina Xadrex Preta - Black Friday@3@~
+13045@245037@Sapatilha Sua Cia Feminina Xadrex Preta - Black Friday@2@~
+13047@245038@Sapatilha Sua Cia Feminina Xadrex Preta - Black Friday@1@~
+3275@299544@Sandalia Pampili Feminina Detalhe Branca-Black Friday@2@~
+13049@299546@Sandalia Pampili Feminina Detalhe Branca-Black Friday@1@~
+13051@299551@Sandalia Pampili Feminina Detalhe Branca-Black Friday@1@~
+3277@238657@Sandalia Klasipe Feminina Pedras Dourada -Black Friday@1@~
+13053@238664@Sandalia Klasipe Feminina Pedras Dourada -Black Friday@1@~
+3279@270355@Sapatilha Molekinha Feminina Detalhes Prata -Black Friday@1@~
+13055@270359@Sapatilha Molekinha Feminina Detalhes Prata -Black Friday@1@~
+3281@247047@Sandália Pampili Feminina Kiara Salto -Black Friday@2@~
+13061@247048@Sandália Pampili Feminina Kiara Salto -Black Friday@1@~
+13063@247049@Sandália Pampili Feminina Kiara Salto -Black Friday@0@~
+13065@247050@Sandália Pampili Feminina Kiara Salto -Black Friday@0@~
+13067@247051@Sandália Pampili Feminina Kiara Salto -Black Friday@0@~
+13069@247052@Sandália Pampili Feminina Kiara Salto -Black Friday@0@~
+13071@247053@Sandália Pampili Feminina Kiara Salto -Black Friday@0@~
+13073@247054@Sandália Pampili Feminina Kiara Salto -Black Friday@1@~
+13075@247055@Sandália Pampili Feminina Kiara Salto -Black Friday@0@~
+3283@238676@Sandalia Klasipe Feminina Love Dourada - Black Friday@2@~
+13057@238677@Sandalia Klasipe Feminina Love Dourada - Black Friday@1@~
+13059@238682@Sandalia Klasipe Feminina Love Dourada - Black Friday@1@~
+3285@243101@Sapatênis Cavalera Masculino  - Black Friday@2@~
+13077@243102@Sapatênis Cavalera Masculino  - Black Friday@0@~
+13079@243103@Sapatênis Cavalera Masculino  - Black Friday@0@~
+13081@243104@Sapatênis Cavalera Masculino  - Black Friday@0@~
+13083@243105@Sapatênis Cavalera Masculino  - Black Friday@0@~
+13085@243106@Sapatênis Cavalera Masculino  - Black Friday@0@~
+13087@243107@Sapatênis Cavalera Masculino  - Black Friday@0@~
+13089@243108@Sapatênis Cavalera Masculino  - Black Friday@2@~
+13091@243109@Sapatênis Cavalera Masculino  - Black Friday@0@~
+13093@243110@Sapatênis Cavalera Masculino  - Black Friday@0@~
+13095@243111@Sapatênis Cavalera Masculino  - Black Friday@0@~
+3287@294807@Tênis Klin Feminino Preto - Black Friday@5@~
+13097@294808@Tênis Klin Feminino Preto - Black Friday@1@~
+13099@294809@Tênis Klin Feminino Preto - Black Friday@1@~
+13101@294810@Tênis Klin Feminino Preto - Black Friday@1@~
+13103@294811@Tênis Klin Feminino Preto - Black Friday@1@~
+13105@294812@Tênis Klin Feminino Preto - Black Friday@0@~
+13107@294813@Tênis Klin Feminino Preto - Black Friday@1@~
+13109@294814@Tênis Klin Feminino Preto - Black Friday@0@~
+13111@294815@Tênis Klin Feminino Preto - Black Friday@0@~
+3289@243449@Tênis Ortopasso Masculino Marrom  - Black Friday@1@~
+13113@243450@Tênis Ortopasso Masculino Marrom  - Black Friday@1@~
+13115@243451@Tênis Ortopasso Masculino Marrom  - Black Friday@0@~
+13117@243452@Tênis Ortopasso Masculino Marrom  - Black Friday@0@~
+13119@243453@Tênis Ortopasso Masculino Marrom  - Black Friday@0@~
+13121@243454@Tênis Ortopasso Masculino Marrom  - Black Friday@0@~
+3291@244327@Sandália Pampili Feminina Tiras Rosa - Black Friday@4@~
+13123@244328@Sandália Pampili Feminina Tiras Rosa - Black Friday@0@~
+13125@244329@Sandália Pampili Feminina Tiras Rosa - Black Friday@0@~
+13127@244330@Sandália Pampili Feminina Tiras Rosa - Black Friday@1@~
+13129@244331@Sandália Pampili Feminina Tiras Rosa - Black Friday@1@~
+13131@244332@Sandália Pampili Feminina Tiras Rosa - Black Friday@0@~
+13133@244333@Sandália Pampili Feminina Tiras Rosa - Black Friday@0@~
+13135@244334@Sandália Pampili Feminina Tiras Rosa - Black Friday@1@~
+13137@244335@Sandália Pampili Feminina Tiras Rosa - Black Friday@1@~
+3293@239876@Sandália Molekinha Feminina Tiras - Black Friday@2@~
+13139@239877@Sandália Molekinha Feminina Tiras - Black Friday@1@~
+13141@239878@Sandália Molekinha Feminina Tiras - Black Friday@1@~
+13143@239879@Sandália Molekinha Feminina Tiras - Black Friday@0@~
+13145@239880@Sandália Molekinha Feminina Tiras - Black Friday@0@~
+13147@239881@Sandália Molekinha Feminina Tiras - Black Friday@0@~
+13149@239882@Sandália Molekinha Feminina Tiras - Black Friday@0@~
+13151@239883@Sandália Molekinha Feminina Tiras - Black Friday@0@~
+13153@239884@Sandália Molekinha Feminina Tiras - Black Friday@0@~
+3295@244318@Sandália Pampili Feminina Flores Branca  - Black Friday@2@~
+13155@244319@Sandália Pampili Feminina Flores Branca  - Black Friday@1@~
+13157@244320@Sandália Pampili Feminina Flores Branca  - Black Friday@0@~
+13159@244321@Sandália Pampili Feminina Flores Branca  - Black Friday@1@~
+13161@244322@Sandália Pampili Feminina Flores Branca  - Black Friday@0@~
+13163@244323@Sandália Pampili Feminina Flores Branca  - Black Friday@0@~
+13165@244324@Sandália Pampili Feminina Flores Branca  - Black Friday@0@~
+13167@244325@Sandália Pampili Feminina Flores Branca  - Black Friday@0@~
+13169@244326@Sandália Pampili Feminina Flores Branca  - Black Friday@0@~
+3297@304382@Tenis Via Vip Feminino Bege - Black Friday@4@~
+13171@304383@Tenis Via Vip Feminino Bege - Black Friday@0@~
+13173@304384@Tenis Via Vip Feminino Bege - Black Friday@0@~
+13175@304385@Tenis Via Vip Feminino Bege - Black Friday@0@~
+13177@304386@Tenis Via Vip Feminino Bege - Black Friday@2@~
+13179@304387@Tenis Via Vip Feminino Bege - Black Friday@1@~
+13181@304388@Tenis Via Vip Feminino Bege - Black Friday@1@~
+3299@339279@Sapatilha Sua Cia Feminina Laço Marrom - Black Friday@3@~
+13183@339280@Sapatilha Sua Cia Feminina Laço Marrom - Black Friday@0@~
+13185@339281@Sapatilha Sua Cia Feminina Laço Marrom - Black Friday@0@~
+13187@339282@Sapatilha Sua Cia Feminina Laço Marrom - Black Friday@1@~
+13189@339283@Sapatilha Sua Cia Feminina Laço Marrom - Black Friday@0@~
+13191@339284@Sapatilha Sua Cia Feminina Laço Marrom - Black Friday@1@~
+13193@339285@Sapatilha Sua Cia Feminina Laço Marrom - Black Friday@1@~
+3301@339343@Sapatilha Sua Cia Feminina Animal Print - Black Friday@5@~
+13195@339344@Sapatilha Sua Cia Feminina Animal Print - Black Friday@0@~
+13197@339345@Sapatilha Sua Cia Feminina Animal Print - Black Friday@1@~
+13199@339346@Sapatilha Sua Cia Feminina Animal Print - Black Friday@1@~
+13201@339347@Sapatilha Sua Cia Feminina Animal Print - Black Friday@0@~
+13203@339348@Sapatilha Sua Cia Feminina Animal Print - Black Friday@0@~
+13205@339349@Sapatilha Sua Cia Feminina Animal Print - Black Friday@2@~
+13207@339350@Sapatilha Sua Cia Feminina Animal Print - Black Friday@0@~
+13209@339351@Sapatilha Sua Cia Feminina Animal Print - Black Friday@1@~
+3303@315741@Sapatilha Sua Cia Feminina Preta  - Black Friday@2@~
+13211@315742@Sapatilha Sua Cia Feminina Preta  - Black Friday@1@~
+13213@315743@Sapatilha Sua Cia Feminina Preta  - Black Friday@0@~
+13215@315744@Sapatilha Sua Cia Feminina Preta  - Black Friday@0@~
+13217@315745@Sapatilha Sua Cia Feminina Preta  - Black Friday@0@~
+13219@315746@Sapatilha Sua Cia Feminina Preta  - Black Friday@0@~
+13221@315747@Sapatilha Sua Cia Feminina Preta  - Black Friday@0@~
+13223@315748@Sapatilha Sua Cia Feminina Preta  - Black Friday@1@~
+3305@339286@Sapatilha Sua Cia Feminina Amarela - Black Friday@4@~
+13237@339289@Sapatilha Sua Cia Feminina Amarela - Black Friday@1@~
+13239@339287@Sapatilha Sua Cia Feminina Amarela - Black Friday@1@~
+13241@339288@Sapatilha Sua Cia Feminina Amarela - Black Friday@1@~
+13243@339290@Sapatilha Sua Cia Feminina Amarela - Black Friday@0@~
+13245@339291@Sapatilha Sua Cia Feminina Amarela - Black Friday@1@~
+13247@339292@Sapatilha Sua Cia Feminina Amarela - Black Friday@0@~
+13249@339293@Sapatilha Sua Cia Feminina Amarela - Black Friday@0@~
+3307@339302@Sapatilha Sua Cia Feminina Vermelha Escura - Black Friday@6@~
+13257@339306@Sapatilha Sua Cia Feminina Vermelha Escura - Black Friday@3@~
+13259@339307@Sapatilha Sua Cia Feminina Vermelha Escura - Black Friday@2@~
+13263@339309@Sapatilha Sua Cia Feminina Vermelha Escura - Black Friday@1@~
+3309@289090@Babuche Grendene Os Incriveis Feminino Rosa - Black Friday@2@~
+13265@289091@Babuche Grendene Os Incriveis Feminino Rosa - Black Friday@0@~
+13267@289092@Babuche Grendene Os Incriveis Feminino Rosa - Black Friday@0@~
+13269@289093@Babuche Grendene Os Incriveis Feminino Rosa - Black Friday@0@~
+13271@289094@Babuche Grendene Os Incriveis Feminino Rosa - Black Friday@0@~
+13273@289095@Babuche Grendene Os Incriveis Feminino Rosa - Black Friday@2@~
+13275@289096@Babuche Grendene Os Incriveis Feminino Rosa - Black Friday@0@~
+13277@289097@Babuche Grendene Os Incriveis Feminino Rosa - Black Friday@0@~
+13279@289098@Babuche Grendene Os Incriveis Feminino Rosa - Black Friday@0@~
+13281@289099@Babuche Grendene Os Incriveis Feminino Rosa - Black Friday@0@~
+3311@270117@Tênis Pesh Masculino Camuflado Marrom - Black Friday@3@~
+13283@270118@Tênis Pesh Masculino Camuflado Marrom - Black Friday@1@~
+13285@270119@Tênis Pesh Masculino Camuflado Marrom - Black Friday@1@~
+13287@270120@Tênis Pesh Masculino Camuflado Marrom - Black Friday@0@~
+13289@270121@Tênis Pesh Masculino Camuflado Marrom - Black Friday@1@~
+3313@270122@Tênis Pesh Masculino Instrumentos Musicais - Black Friday@2@~
+13291@270123@Tênis Pesh Masculino Instrumentos Musicais - Black Friday@0@~
+13293@270124@Tênis Pesh Masculino Instrumentos Musicais - Black Friday@0@~
+13295@270125@Tênis Pesh Masculino Instrumentos Musicais - Black Friday@1@~
+13297@270126@Tênis Pesh Masculino Instrumentos Musicais - Black Friday@0@~
+13299@270127@Tênis Pesh Masculino Instrumentos Musicais - Black Friday@1@~
+13301@270128@Tênis Pesh Masculino Instrumentos Musicais - Black Friday@0@~
+13303@270129@Tênis Pesh Masculino Instrumentos Musicais - Black Friday@0@~
+13305@270130@Tênis Pesh Masculino Instrumentos Musicais - Black Friday@0@~
+3315@256030@Sandália Grendene Lady Bug Feminina - Black Friday@2@~
+13307@256031@Sandália Grendene Lady Bug Feminina - Black Friday@0@~
+13309@256032@Sandália Grendene Lady Bug Feminina - Black Friday@0@~
+13311@256033@Sandália Grendene Lady Bug Feminina - Black Friday@0@~
+13313@256034@Sandália Grendene Lady Bug Feminina - Black Friday@0@~
+13315@256035@Sandália Grendene Lady Bug Feminina - Black Friday@2@~
+13317@256036@Sandália Grendene Lady Bug Feminina - Black Friday@0@~
+13319@256037@Sandália Grendene Lady Bug Feminina - Black Friday@0@~
+13321@256038@Sandália Grendene Lady Bug Feminina - Black Friday@0@~
+13323@256039@Sandália Grendene Lady Bug Feminina - Black Friday@0@~
+3317@270131@Tênis Pesh Masculino Azul - Black Friday@3@~
+13325@270132@Tênis Pesh Masculino Azul - Black Friday@1@~
+13327@270133@Tênis Pesh Masculino Azul - Black Friday@1@~
+13329@270134@Tênis Pesh Masculino Azul - Black Friday@0@~
+13331@270135@Tênis Pesh Masculino Azul - Black Friday@0@~
+13333@270136@Tênis Pesh Masculino Azul - Black Friday@1@~
+13335@270137@Tênis Pesh Masculino Azul - Black Friday@0@~
+3319@310343@Sandália Xua Xua Feminina Laço - Black Friday@4@~
+13357@310344@Sandália Xua Xua Feminina Laço - Black Friday@1@~
+13359@310345@Sandália Xua Xua Feminina Laço - Black Friday@1@~
+13361@310346@Sandália Xua Xua Feminina Laço - Black Friday@1@~
+13363@310347@Sandália Xua Xua Feminina Laço - Black Friday@0@~
+13365@310348@Sandália Xua Xua Feminina Laço - Black Friday@1@~
+13367@310349@Sandália Xua Xua Feminina Laço - Black Friday@0@~
+13369@310350@Sandália Xua Xua Feminina Laço - Black Friday@0@~
+13371@310351@Sandália Xua Xua Feminina Laço - Black Friday@0@~
+3321@297966@Tênis Bloompy Masculino Azul - Black Friday@3@~
+13337@297967@Tênis Bloompy Masculino Azul - Black Friday@1@~
+13339@297968@Tênis Bloompy Masculino Azul - Black Friday@0@~
+13341@297969@Tênis Bloompy Masculino Azul - Black Friday@0@~
+13343@297970@Tênis Bloompy Masculino Azul - Black Friday@1@~
+13345@297971@Tênis Bloompy Masculino Azul - Black Friday@0@~
+13347@297972@Tênis Bloompy Masculino Azul - Black Friday@0@~
+13349@297973@Tênis Bloompy Masculino Azul - Black Friday@0@~
+13351@297974@Tênis Bloompy Masculino Azul - Black Friday@1@~
+13353@297975@Tênis Bloompy Masculino Azul - Black Friday@0@~
+13355@297976@Tênis Bloompy Masculino Azul - Black Friday@0@~
+3323@310361@Sandália Xua Xua Feminina Rosa - Black Friday@4@~
+13373@310367@Sandália Xua Xua Feminina Rosa - Black Friday@1@~
+13375@310368@Sandália Xua Xua Feminina Rosa - Black Friday@1@~
+13377@310362@Sandália Xua Xua Feminina Rosa - Black Friday@0@~
+13379@310363@Sandália Xua Xua Feminina Rosa - Black Friday@1@~
+13381@310364@Sandália Xua Xua Feminina Rosa - Black Friday@0@~
+13383@310365@Sandália Xua Xua Feminina Rosa - Black Friday@0@~
+13385@310366@Sandália Xua Xua Feminina Rosa - Black Friday@1@~
+3325@271051@Tênis Molekinho Masculino Jeans - Black Friday@2@~
+13387@271052@Tênis Molekinho Masculino Jeans - Black Friday@0@~
+13389@271053@Tênis Molekinho Masculino Jeans - Black Friday@0@~
+13391@271054@Tênis Molekinho Masculino Jeans - Black Friday@1@~
+13393@271055@Tênis Molekinho Masculino Jeans - Black Friday@0@~
+13395@271056@Tênis Molekinho Masculino Jeans - Black Friday@0@~
+13397@271057@Tênis Molekinho Masculino Jeans - Black Friday@0@~
+13399@271058@Tênis Molekinho Masculino Jeans - Black Friday@0@~
+13401@271059@Tênis Molekinho Masculino Jeans - Black Friday@1@~
+13403@271060@Tênis Molekinho Masculino Jeans - Black Friday@0@~
+3327@310383@Sapatilha Xua Xua Feminina Perolas - Black Friday@2@~
+13405@310384@Sapatilha Xua Xua Feminina Perolas - Black Friday@1@~
+13407@310385@Sapatilha Xua Xua Feminina Perolas - Black Friday@1@~
+3329@339317@Sapatilha Sua Cia Feminina Classica - Black Friday@4@~
+13421@339318@Sapatilha Sua Cia Feminina Classica - Black Friday@0@~
+13423@339319@Sapatilha Sua Cia Feminina Classica - Black Friday@0@~
+13425@339320@Sapatilha Sua Cia Feminina Classica - Black Friday@0@~
+13427@339321@Sapatilha Sua Cia Feminina Classica - Black Friday@1@~
+13429@339322@Sapatilha Sua Cia Feminina Classica - Black Friday@1@~
+13431@339323@Sapatilha Sua Cia Feminina Classica - Black Friday@2@~
+3331@302859@Sandália Finobel Masculina Marrom - Black Friday@3@~
+13433@302860@Sandália Finobel Masculina Marrom - Black Friday@0@~
+13435@302861@Sandália Finobel Masculina Marrom - Black Friday@0@~
+13437@302862@Sandália Finobel Masculina Marrom - Black Friday@0@~
+13439@302863@Sandália Finobel Masculina Marrom - Black Friday@0@~
+13441@302864@Sandália Finobel Masculina Marrom - Black Friday@1@~
+13443@302865@Sandália Finobel Masculina Marrom - Black Friday@1@~
+13445@302866@Sandália Finobel Masculina Marrom - Black Friday@1@~
+13447@302867@Sandália Finobel Masculina Marrom - Black Friday@0@~
+3333@302877@Sandalia Finobel Masculina Marrom - Black Friday@2@~
+13449@302878@Sandalia Finobel Masculina Marrom - Black Friday@0@~
+13451@302879@Sandalia Finobel Masculina Marrom - Black Friday@1@~
+13453@302880@Sandalia Finobel Masculina Marrom - Black Friday@0@~
+13455@302881@Sandalia Finobel Masculina Marrom - Black Friday@0@~
+13457@302882@Sandalia Finobel Masculina Marrom - Black Friday@0@~
+13459@302883@Sandalia Finobel Masculina Marrom - Black Friday@0@~
+13461@302884@Sandalia Finobel Masculina Marrom - Black Friday@0@~
+13463@302885@Sandalia Finobel Masculina Marrom - Black Friday@1@~
+3335@302904@Sapato Finobel Masculino Social Preto - Black Friday@2@~
+13467@302906@Sapato Finobel Masculino Social Preto - Black Friday@1@~
+13469@302907@Sapato Finobel Masculino Social Preto - Black Friday@0@~
+13471@302908@Sapato Finobel Masculino Social Preto - Black Friday@1@~
+3337@302850@Sandália Finobel Masculina Azul - Black Friday@3@~
+13489@302855@Sandália Finobel Masculina Azul - Black Friday@1@~
+13491@302856@Sandália Finobel Masculina Azul - Black Friday@1@~
+13493@302857@Sandália Finobel Masculina Azul - Black Friday@1@~
+3339@257889@Sandália Klin Masculina Tiras Azul - Black Friday@3@~
+13507@257895@Sandália Klin Masculina Tiras Azul - Black Friday@3@~
+3341@280650@Bota Bloompy Masculina Preta - Black Friday @6@~
+13509@280651@Bota Bloompy Masculina Preta - Black Friday @1@~
+13511@280652@Bota Bloompy Masculina Preta - Black Friday @0@~
+13513@280653@Bota Bloompy Masculina Preta - Black Friday @0@~
+13515@280654@Bota Bloompy Masculina Preta - Black Friday @2@~
+13517@280655@Bota Bloompy Masculina Preta - Black Friday @0@~
+13519@280656@Bota Bloompy Masculina Preta - Black Friday @3@~
+3343@304444@Tênis Via Vip Masculino Cinza com Verde - Black Friday @7@~
+13521@304445@Tênis Via Vip Masculino Cinza com Verde - Black Friday @2@~
+13523@304446@Tênis Via Vip Masculino Cinza com Verde - Black Friday @1@~
+13525@304447@Tênis Via Vip Masculino Cinza com Verde - Black Friday @0@~
+13527@304448@Tênis Via Vip Masculino Cinza com Verde - Black Friday @0@~
+13529@304449@Tênis Via Vip Masculino Cinza com Verde - Black Friday @2@~
+13531@304450@Tênis Via Vip Masculino Cinza com Verde - Black Friday @2@~
+3345@271363@Tênis Bloompy Masculino Azul Velcro - Black Friday @5@~
+13533@271364@Tênis Bloompy Masculino Azul Velcro - Black Friday @1@~
+13535@271365@Tênis Bloompy Masculino Azul Velcro - Black Friday @1@~
+13537@271366@Tênis Bloompy Masculino Azul Velcro - Black Friday @1@~
+13541@271368@Tênis Bloompy Masculino Azul Velcro - Black Friday @2@~
+3347@271061@Tênis Molekinho Masculino Azul - Black Friday@5@~
+13555@271065@Tênis Molekinho Masculino Azul - Black Friday@1@~
+13557@271066@Tênis Molekinho Masculino Azul - Black Friday@2@~
+13559@271067@Tênis Molekinho Masculino Azul - Black Friday@1@~
+13563@271069@Tênis Molekinho Masculino Azul - Black Friday@1@~
