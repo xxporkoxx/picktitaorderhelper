@@ -44,7 +44,11 @@ export class TrayStockUpdate extends Component {
                                                                     setTimeout(()=>{
                                                                         this.props.tray_refresh_all_products(splitedArrayOfProducts[8]).then(
                                                                             setTimeout(()=>{
-                                                                                this.props.tray_refresh_all_products(splitedArrayOfProducts[9])
+                                                                                this.props.tray_refresh_all_products(splitedArrayOfProducts[9]).then(
+                                                                                    setTimeout(()=>{
+                                                                                        this.props.tray_refresh_all_products(splitedArrayOfProducts[10])
+                                                                                    },1500)
+                                                                                )
                                                                             },1500)
                                                                         )
                                                                     },15000)
