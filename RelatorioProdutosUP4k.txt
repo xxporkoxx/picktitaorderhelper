@@ -8,15 +8,15 @@
 13@303479@Tênis Bibi Walk Baby New Azul@0@~
 15@303480@Tênis Bibi Walk Baby New Azul@1@~
 3557@303476@Tênis Bibi Walk Baby New Azul@0@~
-7@381480@Preparador De Papinhas Amassador Garden Fresh Nuby@21@~
-15651@381482@Preparador De Papinhas Amassador Garden Fresh Nuby@18@~
+7@381480@Preparador De Papinhas Amassador Garden Fresh Nuby@20@~
+15651@381482@Preparador De Papinhas Amassador Garden Fresh Nuby@17@~
 15653@381481@Preparador De Papinhas Amassador Garden Fresh Nuby@3@~
 11@356522@Copo Nuby Treinamento Super Bico 240ml Anti Vazamento@0@~
 10835@393671@Copo Nuby Treinamento Super Bico 240ml Anti Vazamento@0@~
 17937@393672@Copo Nuby Treinamento Super Bico 240ml Anti Vazamento@0@~
 18451@393670@Copo Nuby Treinamento Super Bico 240ml Anti Vazamento@0@~
-31@330840@Tênis Infantil Klin Baby New Confort Preto@1@~
-15045@330841@Tênis Infantil Klin Baby New Confort Preto@1@~
+31@330840@Tênis Infantil Klin Baby New Confort Preto@0@~
+15045@330841@Tênis Infantil Klin Baby New Confort Preto@0@~
 15047@330842@Tênis Infantil Klin Baby New Confort Preto@0@~
 15049@330843@Tênis Infantil Klin Baby New Confort Preto@0@~
 15051@330844@Tênis Infantil Klin Baby New Confort Preto@0@~
@@ -151,13 +151,11 @@
 889@299602@Sandália Infantil Pampili Dourado Conforto@2@~
 891@299603@Sandália Infantil Pampili Dourado Conforto@0@~
 897@299606@Sandália Infantil Pampili Dourado Conforto@1@~
-391@362273@Naninha Hug Sunshine Nuvem Bebe Cinza@0@~
-11915@362274@Naninha Hug Sunshine Nuvem Bebe Cinza@0@~
 401@362287@Naninha Hug Baby Bear Madri Triangulos Rosa ou Azul E12708@0@~
 11829@362289@Naninha Hug Baby Bear Madri Triangulos Rosa ou Azul E12708@0@~
 11831@362288@Naninha Hug Baby Bear Madri Triangulos Rosa ou Azul E12708@0@~
-405@362280@Naninha Hug Bebe Little Dreamer Azul ou Rosa E11408@4@~
-11833@362282@Naninha Hug Bebe Little Dreamer Azul ou Rosa E11408@4@~
+405@362280@Naninha Hug Bebe Little Dreamer Azul ou Rosa E11408@2@~
+11833@362282@Naninha Hug Bebe Little Dreamer Azul ou Rosa E11408@2@~
 11835@362281@Naninha Hug Bebe Little Dreamer Azul ou Rosa E11408@0@~
 471@299162@Sapatilha Infantil Pampili Menina Coruja Zoo@1@~
 1053@299163@Sapatilha Infantil Pampili Menina Coruja Zoo@1@~
@@ -186,24 +184,6 @@
 1217@321628@Tenis Cavalera Masculino Couro Azul@0@~
 3273@321630@Tenis Cavalera Masculino Couro Azul@1@~
 3275@321629@Tenis Cavalera Masculino Couro Azul@0@~
-517@325000@Bolsa Petite Jolie PJ3957 Nic@0@~
-4225@325002@Bolsa Petite Jolie PJ3957 Nic@0@~
-9319@351091@Bolsa Petite Jolie PJ3957 Nic@0@~
-11837@349552@Bolsa Petite Jolie PJ3957 Nic@0@~
-11839@361539@Bolsa Petite Jolie PJ3957 Nic@0@~
-13721@325001@Bolsa Petite Jolie PJ3957 Nic@0@~
-13723@369595@Bolsa Petite Jolie PJ3957 Nic@0@~
-15127@375465@Bolsa Petite Jolie PJ3957 Nic@0@~
-537@238973@Sandália Klin Masculina Infantil Cup Cake Marinho@2@~
-2633@238974@Sandália Klin Masculina Infantil Cup Cake Marinho@0@~
-2635@238975@Sandália Klin Masculina Infantil Cup Cake Marinho@0@~
-2637@238976@Sandália Klin Masculina Infantil Cup Cake Marinho@0@~
-2639@238977@Sandália Klin Masculina Infantil Cup Cake Marinho@2@~
-547@268767@Calça Vrasalon Infantil Masculina Moletom Slim@1@~
-3503@268769@Calça Vrasalon Infantil Masculina Moletom Slim@0@~
-3505@268770@Calça Vrasalon Infantil Masculina Moletom Slim@1@~
-3507@268768@Calça Vrasalon Infantil Masculina Moletom Slim@0@~
-3509@268771@Calça Vrasalon Infantil Masculina Moletom Slim@0@~
 553@238685@Sandalia Klassipé Feminina Cacau Preta@1@~
 2607@238686@Sandalia Klassipé Feminina Cacau Preta@1@~
 2609@238687@Sandalia Klassipé Feminina Cacau Preta@0@~
@@ -229,12 +209,11 @@
 1413@263833@Bota Pampili Feminina Infantil Bege@0@~
 1415@263834@Bota Pampili Feminina Infantil Bege@0@~
 1417@263835@Bota Pampili Feminina Infantil Bege@0@~
-583@268385@Cobertor Colibri Exclusive Bordado Camafeu@1@~
-605@264806@Tenis Klin Infantil Menino Baby Freedom@1@~
+605@264806@Tenis Klin Infantil Menino Baby Freedom@2@~
 1507@264807@Tenis Klin Infantil Menino Baby Freedom@1@~
 1509@264808@Tenis Klin Infantil Menino Baby Freedom@0@~
 1511@264809@Tenis Klin Infantil Menino Baby Freedom@0@~
-1513@264810@Tenis Klin Infantil Menino Baby Freedom@0@~
+1513@264810@Tenis Klin Infantil Menino Baby Freedom@1@~
 1515@264811@Tenis Klin Infantil Menino Baby Freedom@0@~
 1517@264812@Tenis Klin Infantil Menino Baby Freedom@0@~
 1519@264813@Tenis Klin Infantil Menino Baby Freedom@0@~
@@ -265,7 +244,7 @@
 9955@354352@Sandália Molekinha Infantil Glitter Brilho@0@~
 9957@354353@Sandália Molekinha Infantil Glitter Brilho@2@~
 9959@354354@Sandália Molekinha Infantil Glitter Brilho@0@~
-635@233125@Blusa Milon Infantil Menina Branca@6@~
+635@233125@Blusa Milon Infantil Menina Branca@5@~
 1629@282455@Blusa Milon Infantil Menina Branca@1@~
 1631@282456@Blusa Milon Infantil Menina Branca@0@~
 1633@282457@Blusa Milon Infantil Menina Branca@0@~
@@ -279,7 +258,7 @@
 4083@282460@Blusa Milon Infantil Menina Branca@1@~
 4085@282461@Blusa Milon Infantil Menina Branca@1@~
 4087@282462@Blusa Milon Infantil Menina Branca@2@~
-4089@282463@Blusa Milon Infantil Menina Branca@1@~
+4089@282463@Blusa Milon Infantil Menina Branca@0@~
 4091@282464@Blusa Milon Infantil Menina Branca@0@~
 691@290716@Tenis Klin New Confort Menino@1@~
 1747@290721@Tenis Klin New Confort Menino@0@~
@@ -289,11 +268,11 @@
 1755@290720@Tenis Klin New Confort Menino@0@~
 1757@290722@Tenis Klin New Confort Menino@0@~
 1759@290723@Tenis Klin New Confort Menino@0@~
-693@304485@Tênis Esportivo Feminino Olympikus Elegance@3@~
+693@304485@Tênis Esportivo Feminino Olympikus Elegance@2@~
 1761@304495@Tênis Esportivo Feminino Olympikus Elegance@0@~
 1763@304492@Tênis Esportivo Feminino Olympikus Elegance@0@~
 1765@304493@Tênis Esportivo Feminino Olympikus Elegance@0@~
-1767@304494@Tênis Esportivo Feminino Olympikus Elegance@1@~
+1767@304494@Tênis Esportivo Feminino Olympikus Elegance@0@~
 1769@304496@Tênis Esportivo Feminino Olympikus Elegance@0@~
 1771@304497@Tênis Esportivo Feminino Olympikus Elegance@0@~
 4095@304486@Tênis Esportivo Feminino Olympikus Elegance@0@~
@@ -302,9 +281,9 @@
 4101@304489@Tênis Esportivo Feminino Olympikus Elegance@1@~
 4103@304490@Tênis Esportivo Feminino Olympikus Elegance@1@~
 4105@304491@Tênis Esportivo Feminino Olympikus Elegance@0@~
-711@289069@Chinelo Masculino Rider Jam Preto@4@~
+711@289069@Chinelo Masculino Rider Jam Preto@3@~
 1803@289070@Chinelo Masculino Rider Jam Preto@0@~
-1805@289071@Chinelo Masculino Rider Jam Preto@3@~
+1805@289071@Chinelo Masculino Rider Jam Preto@2@~
 1807@289072@Chinelo Masculino Rider Jam Preto@1@~
 1809@289073@Chinelo Masculino Rider Jam Preto@0@~
 1811@289074@Chinelo Masculino Rider Jam Preto@0@~
@@ -315,22 +294,16 @@
 1950@238970@Sandália Klin Infantil Cup Cake Caramelo@1@~
 1952@238971@Sandália Klin Infantil Cup Cake Caramelo@0@~
 1954@238972@Sandália Klin Infantil Cup Cake Caramelo@0@~
-779@231135@Bota Botina Coturno Infantil Bebe Raniel@14@~
+779@231135@Bota Botina Coturno Infantil Bebe Raniel@13@~
 1957@231136@Bota Botina Coturno Infantil Bebe Raniel@2@~
 1959@231137@Bota Botina Coturno Infantil Bebe Raniel@0@~
 1961@231138@Bota Botina Coturno Infantil Bebe Raniel@5@~
 1963@231139@Bota Botina Coturno Infantil Bebe Raniel@4@~
 1965@231140@Bota Botina Coturno Infantil Bebe Raniel@1@~
-1967@231142@Bota Botina Coturno Infantil Bebe Raniel@1@~
+1967@231142@Bota Botina Coturno Infantil Bebe Raniel@0@~
 1971@231144@Bota Botina Coturno Infantil Bebe Raniel@1@~
-799@362283@Naninha Hug Baby Bear Menino E10608A@0@~
-11823@362284@Naninha Hug Baby Bear Menino E10608A@0@~
-845@274706@Cabides Hug Baby Little Dreamer@1@~
-1091@264678@Segura Bebê Bambi Rosa@4@~
 1161@238973@Sandalia Bebe Masculino Klin Cup Cake Branca@1@~
 15477@238977@Sandalia Bebe Masculino Klin Cup Cake Branca@1@~
-1185@299389@Camiseta Cavalera Masculina Quadrados@1@~
-14051@299390@Camiseta Cavalera Masculina Quadrados@1@~
 1207@379417@Camiseta Cavalera Masculina Manga Curta Polo@1@~
 13913@379418@Camiseta Cavalera Masculina Manga Curta Polo@1@~
 1232@269621@Sapatilha Zaxy Grendene AD In Roxa@7@~
@@ -350,24 +323,24 @@
 14067@271338@Camiseta Cavalera Masculina Manga Longa Clothing Mescla@1@~
 14069@271339@Camiseta Cavalera Masculina Manga Longa Clothing Mescla@1@~
 14071@271340@Camiseta Cavalera Masculina Manga Longa Clothing Mescla@0@~
-1259@290662@Camiseta Cavalera Masculina Águia Preta@3@~
+1259@290662@Camiseta Cavalera Masculina Águia Preta@1@~
 4133@318771@Camiseta Cavalera Masculina Águia Preta@0@~
 4135@315662@Camiseta Cavalera Masculina Águia Preta@0@~
 4137@318772@Camiseta Cavalera Masculina Águia Preta@0@~
 4139@290663@Camiseta Cavalera Masculina Águia Preta@0@~
 4141@290664@Camiseta Cavalera Masculina Águia Preta@0@~
-4143@290665@Camiseta Cavalera Masculina Águia Preta@2@~
+4143@290665@Camiseta Cavalera Masculina Águia Preta@0@~
 13807@371877@Camiseta Cavalera Masculina Águia Preta@0@~
 13809@371876@Camiseta Cavalera Masculina Águia Preta@0@~
 13811@371875@Camiseta Cavalera Masculina Águia Preta@0@~
 14247@371878@Camiseta Cavalera Masculina Águia Preta@0@~
 14249@371879@Camiseta Cavalera Masculina Águia Preta@1@~
-1271@249447@Camisa Ogochi Masculina Manga Longa Social Estampada@1@~
-14083@249448@Camisa Ogochi Masculina Manga Longa Social Estampada@1@~
+1271@249447@Camisa Ogochi Masculina Manga Longa Social Estampada@0@~
+14083@249448@Camisa Ogochi Masculina Manga Longa Social Estampada@0@~
 14085@249450@Camisa Ogochi Masculina Manga Longa Social Estampada@0@~
 14087@249451@Camisa Ogochi Masculina Manga Longa Social Estampada@0@~
-1275@263305@Camisa Masculina Yatchtmaster Xadrez Conforto@1@~
-7737@263306@Camisa Masculina Yatchtmaster Xadrez Conforto@1@~
+1275@263305@Camisa Masculina Yatchtmaster Xadrez Conforto@0@~
+7737@263306@Camisa Masculina Yatchtmaster Xadrez Conforto@0@~
 7739@263307@Camisa Masculina Yatchtmaster Xadrez Conforto@0@~
 7741@263308@Camisa Masculina Yatchtmaster Xadrez Conforto@0@~
 7743@263309@Camisa Masculina Yatchtmaster Xadrez Conforto@0@~
@@ -384,13 +357,13 @@
 1351@312352@Top Cropped Estampado Reserva Natural com Alças@1@~
 14121@312353@Top Cropped Estampado Reserva Natural com Alças@1@~
 1367@233870@Mala Maternidade Jujuba Azul Marinho XG - Hug Baby@1@~
-1377@267500@Vestido Feminino Preto Curto Abelt@1@~
+1377@267500@Vestido Feminino Preto Curto Abelt@2@~
 14123@267501@Vestido Feminino Preto Curto Abelt@1@~
-14125@267502@Vestido Feminino Preto Curto Abelt@0@~
+14125@267502@Vestido Feminino Preto Curto Abelt@1@~
 14127@267503@Vestido Feminino Preto Curto Abelt@0@~
-1403@296077@Mule Beira Rio Azul-Marinho@2@~
+1403@296077@Mule Beira Rio Azul-Marinho@1@~
 14151@296079@Mule Beira Rio Azul-Marinho@1@~
-14153@296080@Mule Beira Rio Azul-Marinho@1@~
+14153@296080@Mule Beira Rio Azul-Marinho@0@~
 1409@307598@Tenis Infantil Klin Cravinho Pelúcia Anjinho@1@~
 4155@307599@Tenis Infantil Klin Cravinho Pelúcia Anjinho@1@~
 4157@307600@Tenis Infantil Klin Cravinho Pelúcia Anjinho@0@~
@@ -503,9 +476,6 @@
 13919@325238@Camiseta  Cavalera Masculina Dedo Preta@0@~
 13921@325239@Camiseta  Cavalera Masculina Dedo Preta@0@~
 13923@325240@Camiseta  Cavalera Masculina Dedo Preta@0@~
-1509@290086@Sandalia Klin Infantil Line Play Caramelo@1@~
-14347@290091@Sandalia Klin Infantil Line Play Caramelo@1@~
-14349@290092@Sandalia Klin Infantil Line Play Caramelo@0@~
 1513@289848@Sapatenis Infantil Masculino Klin Baby Flyer@2@~
 6083@289849@Sapatenis Infantil Masculino Klin Baby Flyer@0@~
 6085@289850@Sapatenis Infantil Masculino Klin Baby Flyer@0@~
@@ -673,12 +643,12 @@
 14725@332278@Bota Lia Line Tratorada Prata Feminina Brilho@0@~
 14727@332279@Bota Lia Line Tratorada Prata Feminina Brilho@1@~
 14729@332280@Bota Lia Line Tratorada Prata Feminina Brilho@1@~
-1839@330557@Calça Feminina Rubinella Preta Couro Eco@3@~
+1839@330557@Calça Feminina Rubinella Preta Couro Eco@2@~
 14735@330563@Calça Feminina Rubinella Preta Couro Eco@1@~
 14737@330558@Calça Feminina Rubinella Preta Couro Eco@1@~
-14741@330560@Calça Feminina Rubinella Preta Couro Eco@1@~
-1861@332203@Bota Pampili Feminina Safira Cano Longo@1@~
-6345@332204@Bota Pampili Feminina Safira Cano Longo@0@~
+14741@330560@Calça Feminina Rubinella Preta Couro Eco@0@~
+1861@332203@Bota Pampili Feminina Safira Cano Longo@2@~
+6345@332204@Bota Pampili Feminina Safira Cano Longo@1@~
 6347@332205@Bota Pampili Feminina Safira Cano Longo@1@~
 6349@332206@Bota Pampili Feminina Safira Cano Longo@0@~
 6351@332207@Bota Pampili Feminina Safira Cano Longo@0@~
@@ -688,17 +658,17 @@
 6359@332211@Bota Pampili Feminina Safira Cano Longo@0@~
 6361@332212@Bota Pampili Feminina Safira Cano Longo@0@~
 6363@332213@Bota Pampili Feminina Safira Cano Longo@0@~
-1863@330194@Bota Pampili Menina Jujuba@6@~
+1863@330194@Bota Pampili Menina Jujuba@4@~
 6387@330195@Bota Pampili Menina Jujuba@1@~
 6389@330196@Bota Pampili Menina Jujuba@1@~
 6391@330197@Bota Pampili Menina Jujuba@1@~
 6393@330198@Bota Pampili Menina Jujuba@0@~
-6395@330199@Bota Pampili Menina Jujuba@1@~
+6395@330199@Bota Pampili Menina Jujuba@0@~
 6397@330200@Bota Pampili Menina Jujuba@0@~
 6399@330201@Bota Pampili Menina Jujuba@0@~
 6401@330202@Bota Pampili Menina Jujuba@0@~
 6403@330203@Bota Pampili Menina Jujuba@0@~
-6405@330204@Bota Pampili Menina Jujuba@1@~
+6405@330204@Bota Pampili Menina Jujuba@0@~
 6407@330205@Bota Pampili Menina Jujuba@1@~
 6409@330206@Bota Pampili Menina Jujuba@0@~
 6411@330207@Bota Pampili Menina Jujuba@0@~
@@ -714,7 +684,7 @@
 6381@330138@Bota Pampili Feminina Fofura Cano Longo Preta@0@~
 6383@330139@Bota Pampili Feminina Fofura Cano Longo Preta@0@~
 6385@330140@Bota Pampili Feminina Fofura Cano Longo Preta@0@~
-1887@307978@Babuche King Infantil@4@~
+1887@307978@Babuche King Infantil@3@~
 11639@307979@Babuche King Infantil@0@~
 11641@307980@Babuche King Infantil@0@~
 11643@307981@Babuche King Infantil@0@~
@@ -750,7 +720,7 @@
 12117@361318@Babuche King Infantil@0@~
 12119@361319@Babuche King Infantil@0@~
 12121@361320@Babuche King Infantil@0@~
-12123@361621@Babuche King Infantil@1@~
+12123@361621@Babuche King Infantil@0@~
 12125@361322@Babuche King Infantil@0@~
 1931@332332@Calça Jeans Cavalera Feminina Skinny Azul@1@~
 12589@332333@Calça Jeans Cavalera Feminina Skinny Azul@0@~
@@ -777,8 +747,8 @@
 15645@381478@Porta Lanchinho Nuby Verde@0@~
 15647@381476@Porta Lanchinho Nuby Verde@4@~
 15649@381477@Porta Lanchinho Nuby Verde@1@~
-1959@356514@Copo Nuby Tritan Alça 240 ml Canudo Bico Soft Flex Silicone@9@~
-10829@393677@Copo Nuby Tritan Alça 240 ml Canudo Bico Soft Flex Silicone@6@~
+1959@356514@Copo Nuby Tritan Alça 240 ml Canudo Bico Soft Flex Silicone@8@~
+10829@393677@Copo Nuby Tritan Alça 240 ml Canudo Bico Soft Flex Silicone@5@~
 10831@393678@Copo Nuby Tritan Alça 240 ml Canudo Bico Soft Flex Silicone@3@~
 1993@326577@Vestido Gatos e Atos Tubinho Preto@1@~
 6533@326578@Vestido Gatos e Atos Tubinho Preto@0@~
@@ -815,14 +785,14 @@
 6703@310236@Sapatilha Pampili Infantil Cachorrinho Nude@0@~
 6705@310237@Sapatilha Pampili Infantil Cachorrinho Nude@1@~
 6707@310238@Sapatilha Pampili Infantil Cachorrinho Nude@0@~
-2025@334641@Sapatilha Feminina Molekinha cachorros Tecido Pets@5@~
+2025@334641@Sapatilha Feminina Molekinha cachorros Tecido Pets@4@~
 6761@334642@Sapatilha Feminina Molekinha cachorros Tecido Pets@0@~
 6763@334643@Sapatilha Feminina Molekinha cachorros Tecido Pets@0@~
 6765@334644@Sapatilha Feminina Molekinha cachorros Tecido Pets@0@~
 6767@334645@Sapatilha Feminina Molekinha cachorros Tecido Pets@1@~
 6769@334646@Sapatilha Feminina Molekinha cachorros Tecido Pets@1@~
 6771@334647@Sapatilha Feminina Molekinha cachorros Tecido Pets@0@~
-6773@334648@Sapatilha Feminina Molekinha cachorros Tecido Pets@1@~
+6773@334648@Sapatilha Feminina Molekinha cachorros Tecido Pets@0@~
 6775@334649@Sapatilha Feminina Molekinha cachorros Tecido Pets@0@~
 6777@334650@Sapatilha Feminina Molekinha cachorros Tecido Pets@0@~
 6779@334651@Sapatilha Feminina Molekinha cachorros Tecido Pets@0@~
@@ -862,14 +832,6 @@
 6855@334832@Sapatilha Molekinha Oncinha Animal Print@1@~
 6857@334833@Sapatilha Molekinha Oncinha Animal Print@0@~
 6859@334834@Sapatilha Molekinha Oncinha Animal Print@0@~
-2039@334810@Bolsa Petite Jolie Pretty PJ4116@0@~
-12687@334812@Bolsa Petite Jolie Pretty PJ4116@0@~
-12689@334813@Bolsa Petite Jolie Pretty PJ4116@0@~
-12691@334811@Bolsa Petite Jolie Pretty PJ4116@0@~
-12693@349271@Bolsa Petite Jolie Pretty PJ4116@0@~
-13783@349270@Bolsa Petite Jolie Pretty PJ4116@0@~
-15131@377741@Bolsa Petite Jolie Pretty PJ4116@0@~
-15139@377739@Bolsa Petite Jolie Pretty PJ4116@0@~
 2041@332617@Vestido Mania Nacional Feminino Malha@1@~
 6885@332618@Vestido Mania Nacional Feminino Malha@1@~
 2049@326589@Blusa Gatos e Atos Feminina Estampada Bege@2@~
@@ -889,11 +851,11 @@
 6933@335712@Bota Infantil Pink Cats Flatform Preta@0@~
 6935@335713@Bota Infantil Pink Cats Flatform Preta@0@~
 6937@335714@Bota Infantil Pink Cats Flatform Preta@0@~
-2059@335682@Sapatilha Moleca Feminina Verniz@5@~
+2059@335682@Sapatilha Moleca Feminina Verniz@4@~
 6939@335690@Sapatilha Moleca Feminina Verniz@0@~
 6941@335691@Sapatilha Moleca Feminina Verniz@2@~
 6943@335692@Sapatilha Moleca Feminina Verniz@0@~
-6945@335693@Sapatilha Moleca Feminina Verniz@2@~
+6945@335693@Sapatilha Moleca Feminina Verniz@1@~
 6947@335694@Sapatilha Moleca Feminina Verniz@1@~
 6949@335695@Sapatilha Moleca Feminina Verniz@0@~
 6951@335696@Sapatilha Moleca Feminina Verniz@0@~
@@ -947,11 +909,11 @@
 7113@336253@Sapatilha Molekinha Infantil Oncinha Bebê@0@~
 7115@336254@Sapatilha Molekinha Infantil Oncinha Bebê@0@~
 7117@336255@Sapatilha Molekinha Infantil Oncinha Bebê@1@~
-2079@336623@Tenis Feminino Infantil Molekinha Preto@2@~
+2079@336623@Tenis Feminino Infantil Molekinha Preto@1@~
 7155@336624@Tenis Feminino Infantil Molekinha Preto@0@~
 7157@336625@Tenis Feminino Infantil Molekinha Preto@0@~
 7159@336626@Tenis Feminino Infantil Molekinha Preto@0@~
-7161@336627@Tenis Feminino Infantil Molekinha Preto@2@~
+7161@336627@Tenis Feminino Infantil Molekinha Preto@1@~
 7163@336628@Tenis Feminino Infantil Molekinha Preto@0@~
 7165@336629@Tenis Feminino Infantil Molekinha Preto@0@~
 7167@336630@Tenis Feminino Infantil Molekinha Preto@0@~
@@ -971,10 +933,6 @@
 7217@335313@Bermuda Cavalera Masculina Preta Sarja@0@~
 7219@335314@Bermuda Cavalera Masculina Preta Sarja@1@~
 7221@335315@Bermuda Cavalera Masculina Preta Sarja@0@~
-2097@335335@Camiseta Cavalera Masculina Mescla Estampada Skate@1@~
-7237@335337@Camiseta Cavalera Masculina Mescla Estampada Skate@1@~
-7239@335338@Camiseta Cavalera Masculina Mescla Estampada Skate@0@~
-7241@335336@Camiseta Cavalera Masculina Mescla Estampada Skate@0@~
 2111@332880@Bota Feminina Infantil Molekinha Rosa@1@~
 7311@332881@Bota Feminina Infantil Molekinha Rosa@1@~
 7313@332882@Bota Feminina Infantil Molekinha Rosa@0@~
@@ -1011,14 +969,14 @@
 7435@333166@Camiseta Cavalera Cornholio Beavis And Butthead Preta@1@~
 7437@333167@Camiseta Cavalera Cornholio Beavis And Butthead Preta@0@~
 7439@333164@Camiseta Cavalera Cornholio Beavis And Butthead Preta@1@~
-2145@292181@Mala Petite Jolie PJ3540 Week@5@~
+2145@292181@Mala Petite Jolie PJ3540 Week@0@~
 13755@371613@Mala Petite Jolie PJ3540 Week@0@~
 13757@371614@Mala Petite Jolie PJ3540 Week@0@~
 14867@375463@Mala Petite Jolie PJ3540 Week@0@~
 14877@375462@Mala Petite Jolie PJ3540 Week@0@~
 14923@377736@Mala Petite Jolie PJ3540 Week@0@~
 15137@375461@Mala Petite Jolie PJ3540 Week@0@~
-17671@371612@Mala Petite Jolie PJ3540 Week@5@~
+17671@371612@Mala Petite Jolie PJ3540 Week@0@~
 2169@337509@Sapatilha Sua Cia Feminina Preta Bico Fino@1@~
 7601@337510@Sapatilha Sua Cia Feminina Preta Bico Fino@1@~
 7603@337511@Sapatilha Sua Cia Feminina Preta Bico Fino@0@~
@@ -1044,18 +1002,13 @@
 7745@339463@Camiseta Cavalera Masculina Esqueleto Estampada@1@~
 7747@339464@Camiseta Cavalera Masculina Esqueleto Estampada@1@~
 7749@339465@Camiseta Cavalera Masculina Esqueleto Estampada@0@~
-2227@339447@Calça Cavalera Masculina Jeans Preta@0@~
-7857@339448@Calça Cavalera Masculina Jeans Preta@0@~
-7859@339449@Calça Cavalera Masculina Jeans Preta@0@~
-7861@339450@Calça Cavalera Masculina Jeans Preta@0@~
-7863@339451@Calça Cavalera Masculina Jeans Preta@0@~
-2229@339432@Calça Cavalera Masculina Jeans Escura@2@~
+2229@339432@Calça Cavalera Masculina Jeans Escura@1@~
 7865@339433@Calça Cavalera Masculina Jeans Escura@0@~
 7867@339434@Calça Cavalera Masculina Jeans Escura@0@~
 7869@339435@Calça Cavalera Masculina Jeans Escura@0@~
 7871@339436@Calça Cavalera Masculina Jeans Escura@1@~
 7873@339437@Calça Cavalera Masculina Jeans Escura@0@~
-7875@339438@Calça Cavalera Masculina Jeans Escura@1@~
+7875@339438@Calça Cavalera Masculina Jeans Escura@0@~
 2231@339452@Calça Cavalera Masculina Jeans Escura@2@~
 7877@339453@Calça Cavalera Masculina Jeans Escura@1@~
 7879@339454@Calça Cavalera Masculina Jeans Escura@0@~
@@ -1084,13 +1037,6 @@
 7961@335437@Jaqueta Feminina Karapalida Laurance Couro Preta@1@~
 7963@335438@Jaqueta Feminina Karapalida Laurance Couro Preta@1@~
 7965@335439@Jaqueta Feminina Karapalida Laurance Couro Preta@0@~
-2251@339802@Bota Meli Feminina Preta@1@~
-7975@339803@Bota Meli Feminina Preta@0@~
-7977@339804@Bota Meli Feminina Preta@1@~
-7979@339805@Bota Meli Feminina Preta@0@~
-7981@339806@Bota Meli Feminina Preta@0@~
-7983@339807@Bota Meli Feminina Preta@0@~
-7985@339808@Bota Meli Feminina Preta@0@~
 2253@339786@Bota Meli Feminina Nude Pelúcia@2@~
 7987@339787@Bota Meli Feminina Nude Pelúcia@1@~
 7989@339788@Bota Meli Feminina Nude Pelúcia@0@~
@@ -1261,9 +1207,9 @@
 19345@344229@Tenis Pampili Luluca Infantil Blog Preto Glitter e Patches@2@~
 19347@344230@Tenis Pampili Luluca Infantil Blog Preto Glitter e Patches@3@~
 19349@344231@Tenis Pampili Luluca Infantil Blog Preto Glitter e Patches@1@~
-2413@366573@Tenis Pampili Luluca Luna Cano Alto Prata Glitter e Patches@2@~
+2413@366573@Tenis Pampili Luluca Luna Cano Alto Prata Glitter e Patches@1@~
 14615@366574@Tenis Pampili Luluca Luna Cano Alto Prata Glitter e Patches@0@~
-14617@366575@Tenis Pampili Luluca Luna Cano Alto Prata Glitter e Patches@2@~
+14617@366575@Tenis Pampili Luluca Luna Cano Alto Prata Glitter e Patches@1@~
 15981@366576@Tenis Pampili Luluca Luna Cano Alto Prata Glitter e Patches@0@~
 15983@366577@Tenis Pampili Luluca Luna Cano Alto Prata Glitter e Patches@0@~
 18257@379029@Tenis Pampili Luluca Luna Cano Alto Prata Glitter e Patches@0@~
@@ -1282,9 +1228,6 @@
 2429@345168@Camiseta Cavalera Masculina Pilsen @1@~
 9387@351565@Camiseta Cavalera Masculina Pilsen @0@~
 9391@351567@Camiseta Cavalera Masculina Pilsen @1@~
-2433@345145@Camiseta Cavalera Masculina Personagem Pinhead@0@~
-8709@345147@Camiseta Cavalera Masculina Personagem Pinhead@0@~
-8711@345148@Camiseta Cavalera Masculina Personagem Pinhead@0@~
 2441@345175@Camiseta Cavalera Masculina Regata Águia Dupla Face@1@~
 8729@345176@Camiseta Cavalera Masculina Regata Águia Dupla Face@0@~
 8731@345177@Camiseta Cavalera Masculina Regata Águia Dupla Face@0@~
@@ -1312,14 +1255,14 @@
 8783@346084@Sapatilha Pampili Feminina Angel Peper@0@~
 8785@346085@Sapatilha Pampili Feminina Angel Peper@0@~
 8787@346086@Sapatilha Pampili Feminina Angel Peper@0@~
-2453@346308@Tenis Bibi 2WAY Infantil Menino Azul@11@~
+2453@346308@Tenis Bibi 2WAY Infantil Menino Azul@10@~
 8809@346309@Tenis Bibi 2WAY Infantil Menino Azul@0@~
 8811@346310@Tenis Bibi 2WAY Infantil Menino Azul@1@~
 8813@346311@Tenis Bibi 2WAY Infantil Menino Azul@1@~
 8815@346312@Tenis Bibi 2WAY Infantil Menino Azul@3@~
 8817@346313@Tenis Bibi 2WAY Infantil Menino Azul@1@~
 8819@346314@Tenis Bibi 2WAY Infantil Menino Azul@3@~
-8821@346315@Tenis Bibi 2WAY Infantil Menino Azul@2@~
+8821@346315@Tenis Bibi 2WAY Infantil Menino Azul@1@~
 2457@296073@Camiseta Cavalera Masculina Gola Polo @1@~
 8835@345172@Camiseta Cavalera Masculina Gola Polo @0@~
 8837@345173@Camiseta Cavalera Masculina Gola Polo @0@~
@@ -1356,11 +1299,11 @@
 9647@353471@Camiseta Cavalera Masculina Águia Branca@1@~
 9655@353470@Camiseta Cavalera Masculina Águia Branca@0@~
 9657@353469@Camiseta Cavalera Masculina Águia Branca@0@~
-2505@311708@Sapatilha Sua Cia Dourada Metalizada@5@~
+2505@311708@Sapatilha Sua Cia Dourada Metalizada@6@~
 9145@311709@Sapatilha Sua Cia Dourada Metalizada@2@~
 9147@311710@Sapatilha Sua Cia Dourada Metalizada@1@~
 9149@311711@Sapatilha Sua Cia Dourada Metalizada@1@~
-9151@311712@Sapatilha Sua Cia Dourada Metalizada@0@~
+9151@311712@Sapatilha Sua Cia Dourada Metalizada@1@~
 9153@311713@Sapatilha Sua Cia Dourada Metalizada@1@~
 9155@311714@Sapatilha Sua Cia Dourada Metalizada@0@~
 2507@270004@Sapatilha Sua Cia Feminina Verniz Marsala @6@~
@@ -1405,9 +1348,9 @@
 9385@350202@Camiseta Cavalera Masculina Eagle Estampada@0@~
 2583@352008@Alimentador de Silicone Pais e Filhos Azul@9@~
 2585@352007@Alimentador de Silicone Pais e Filhos Rosa@8@~
-2593@351492@Sandalia Pampili Feminina Preta Laço@5@~
+2593@351492@Sandalia Pampili Feminina Preta Laço@4@~
 9403@351493@Sandalia Pampili Feminina Preta Laço@1@~
-9405@351494@Sandalia Pampili Feminina Preta Laço@1@~
+9405@351494@Sandalia Pampili Feminina Preta Laço@0@~
 9407@351495@Sandalia Pampili Feminina Preta Laço@1@~
 9409@351496@Sandalia Pampili Feminina Preta Laço@1@~
 9411@351497@Sandalia Pampili Feminina Preta Laço@1@~
@@ -1426,8 +1369,8 @@
 9439@351543@Sandália Pampili Feminina Infantil Rosa@1@~
 9441@351544@Sandália Pampili Feminina Infantil Rosa@1@~
 9443@351545@Sandália Pampili Feminina Infantil Rosa@1@~
-2609@350203@Camiseta Cavalera Masculina Urso Pooh@1@~
-9471@350205@Camiseta Cavalera Masculina Urso Pooh@1@~
+2609@350203@Camiseta Cavalera Masculina Urso Pooh@0@~
+9471@350205@Camiseta Cavalera Masculina Urso Pooh@0@~
 9473@350206@Camiseta Cavalera Masculina Urso Pooh@0@~
 2611@352268@Bermuda Cavalera Masculina Vermelha Escura@1@~
 9475@352269@Bermuda Cavalera Masculina Vermelha Escura@0@~
@@ -1486,7 +1429,7 @@
 9609@353073@Sapatilha Pampili Feminina Laço@1@~
 9613@353075@Sapatilha Pampili Feminina Laço@0@~
 9615@353076@Sapatilha Pampili Feminina Laço@1@~
-2625@353077@Sapatilha Pampili Bailarina Feminina Elástico @25@~
+2625@353077@Sapatilha Pampili Bailarina Feminina Elástico @23@~
 9617@353094@Sapatilha Pampili Bailarina Feminina Elástico @0@~
 9619@353095@Sapatilha Pampili Bailarina Feminina Elástico @2@~
 9621@353096@Sapatilha Pampili Bailarina Feminina Elástico @1@~
@@ -1496,9 +1439,9 @@
 15455@353081@Sapatilha Pampili Bailarina Feminina Elástico @1@~
 15457@353082@Sapatilha Pampili Bailarina Feminina Elástico @0@~
 15459@353083@Sapatilha Pampili Bailarina Feminina Elástico @0@~
-15461@353084@Sapatilha Pampili Bailarina Feminina Elástico @1@~
+15461@353084@Sapatilha Pampili Bailarina Feminina Elástico @0@~
 15463@353085@Sapatilha Pampili Bailarina Feminina Elástico @0@~
-16857@386951@Sapatilha Pampili Bailarina Feminina Elástico @1@~
+16857@386951@Sapatilha Pampili Bailarina Feminina Elástico @0@~
 16859@386952@Sapatilha Pampili Bailarina Feminina Elástico @1@~
 16861@386953@Sapatilha Pampili Bailarina Feminina Elástico @2@~
 16863@386954@Sapatilha Pampili Bailarina Feminina Elástico @1@~
@@ -1582,16 +1525,16 @@
 9925@354484@Sandalia Klin Masculina Tic Tac @1@~
 9927@354485@Sandalia Klin Masculina Tic Tac @2@~
 9929@354486@Sandalia Klin Masculina Tic Tac @1@~
-2731@356506@Copo Nuby Pisca Pisca Térmico 300ml Easy Sip@4@~
+2731@356506@Copo Nuby Pisca Pisca Térmico 300ml Easy Sip@2@~
 10853@393675@Copo Nuby Pisca Pisca Térmico 300ml Easy Sip@1@~
-10855@393676@Copo Nuby Pisca Pisca Térmico 300ml Easy Sip@3@~
+10855@393676@Copo Nuby Pisca Pisca Térmico 300ml Easy Sip@1@~
 2735@354337@Sapatilha Molekinha Feminina Brilho Strass@3@~
 9961@354347@Sapatilha Molekinha Feminina Brilho Strass@0@~
 9967@354340@Sapatilha Molekinha Feminina Brilho Strass@0@~
 9971@354342@Sapatilha Molekinha Feminina Brilho Strass@1@~
 9973@354343@Sapatilha Molekinha Feminina Brilho Strass@2@~
 9975@354344@Sapatilha Molekinha Feminina Brilho Strass@0@~
-2737@354407@Sapatilha Molekinha Feminina Arco Iris Slip On Brilho@3@~
+2737@354407@Sapatilha Molekinha Feminina Arco Iris Slip On Brilho@2@~
 9979@354408@Sapatilha Molekinha Feminina Arco Iris Slip On Brilho@1@~
 9981@354409@Sapatilha Molekinha Feminina Arco Iris Slip On Brilho@0@~
 9983@354410@Sapatilha Molekinha Feminina Arco Iris Slip On Brilho@0@~
@@ -1599,7 +1542,7 @@
 9989@354413@Sapatilha Molekinha Feminina Arco Iris Slip On Brilho@1@~
 9991@354414@Sapatilha Molekinha Feminina Arco Iris Slip On Brilho@0@~
 9993@354415@Sapatilha Molekinha Feminina Arco Iris Slip On Brilho@0@~
-9995@354416@Sapatilha Molekinha Feminina Arco Iris Slip On Brilho@1@~
+9995@354416@Sapatilha Molekinha Feminina Arco Iris Slip On Brilho@0@~
 2741@355434@Sandalia Klin Masculina Tic Tac Casual Marrom @2@~
 10009@355435@Sandalia Klin Masculina Tic Tac Casual Marrom @0@~
 10011@355436@Sandalia Klin Masculina Tic Tac Casual Marrom @0@~
@@ -1676,13 +1619,13 @@
 10177@355647@Tenis Klin Masculino Step Flex Azul@1@~
 10179@355648@Tenis Klin Masculino Step Flex Azul@0@~
 10181@355649@Tenis Klin Masculino Step Flex Azul@0@~
-2763@355603@Sandalia Klin Masculina Tic Tac Neoprene@5@~
+2763@355603@Sandalia Klin Masculina Tic Tac Neoprene@4@~
 10231@355618@Sandalia Klin Masculina Tic Tac Neoprene@0@~
 10233@355619@Sandalia Klin Masculina Tic Tac Neoprene@2@~
 10237@355621@Sandalia Klin Masculina Tic Tac Neoprene@0@~
 10241@355623@Sandalia Klin Masculina Tic Tac Neoprene@0@~
 10243@355624@Sandalia Klin Masculina Tic Tac Neoprene@0@~
-10245@355625@Sandalia Klin Masculina Tic Tac Neoprene@1@~
+10245@355625@Sandalia Klin Masculina Tic Tac Neoprene@0@~
 10247@355626@Sandalia Klin Masculina Tic Tac Neoprene@0@~
 10249@355627@Sandalia Klin Masculina Tic Tac Neoprene@1@~
 10251@355628@Sandalia Klin Masculina Tic Tac Neoprene@0@~
@@ -1790,8 +1733,8 @@
 10485@354472@Sandalia Pampili Feminina Laço Preta@0@~
 10487@354473@Sandalia Pampili Feminina Laço Preta@1@~
 10489@354474@Sandalia Pampili Feminina Laço Preta@0@~
-2797@354386@Sapatilha Feminina Molekinha Raposa Gliter Listras@2@~
-10493@354388@Sapatilha Feminina Molekinha Raposa Gliter Listras@1@~
+2797@354386@Sapatilha Feminina Molekinha Raposa Gliter Listras@1@~
+10493@354388@Sapatilha Feminina Molekinha Raposa Gliter Listras@0@~
 10499@354391@Sapatilha Feminina Molekinha Raposa Gliter Listras@0@~
 10501@354392@Sapatilha Feminina Molekinha Raposa Gliter Listras@0@~
 10503@354393@Sapatilha Feminina Molekinha Raposa Gliter Listras@0@~
@@ -1824,24 +1767,15 @@
 10569@354445@Sandália Feminina Pampili Cherrie Laço Frappe@0@~
 2811@274798@Camiseta Acostamento Masculina ACDC New York@1@~
 10627@274801@Camiseta Acostamento Masculina ACDC New York@1@~
-2815@356993@Chinelo Molekinha Feminino Glitter Rosa @1@~
-10637@356994@Chinelo Molekinha Feminino Glitter Rosa @0@~
-10641@356996@Chinelo Molekinha Feminino Glitter Rosa @0@~
-10643@356997@Chinelo Molekinha Feminino Glitter Rosa @0@~
-10645@356998@Chinelo Molekinha Feminino Glitter Rosa @0@~
-10647@356999@Chinelo Molekinha Feminino Glitter Rosa @0@~
-10649@357000@Chinelo Molekinha Feminino Glitter Rosa @0@~
-10651@357001@Chinelo Molekinha Feminino Glitter Rosa @1@~
-10653@357002@Chinelo Molekinha Feminino Glitter Rosa @0@~
-2817@357003@Chinelo Molekinha Feminino Preto Slide@3@~
+2817@357003@Chinelo Molekinha Feminino Preto Slide@1@~
 10655@357004@Chinelo Molekinha Feminino Preto Slide@0@~
 10657@357005@Chinelo Molekinha Feminino Preto Slide@0@~
 10659@357006@Chinelo Molekinha Feminino Preto Slide@0@~
 10661@357007@Chinelo Molekinha Feminino Preto Slide@0@~
-10663@357008@Chinelo Molekinha Feminino Preto Slide@1@~
+10663@357008@Chinelo Molekinha Feminino Preto Slide@0@~
 10665@357009@Chinelo Molekinha Feminino Preto Slide@0@~
 10667@357010@Chinelo Molekinha Feminino Preto Slide@0@~
-10669@357011@Chinelo Molekinha Feminino Preto Slide@1@~
+10669@357011@Chinelo Molekinha Feminino Preto Slide@0@~
 10671@357012@Chinelo Molekinha Feminino Preto Slide@1@~
 2819@356983@Chinelo Molekinha Feminino Slide Concha@5@~
 10677@356986@Chinelo Molekinha Feminino Slide Concha@2@~
@@ -1871,10 +1805,10 @@
 10781@356090@Sandália Molekinha Feminina Azul Marinho @0@~
 10785@356092@Sandália Molekinha Feminina Azul Marinho @1@~
 10787@356093@Sandália Molekinha Feminina Azul Marinho @1@~
-2835@355815@Tênis Molekinha Feminino Slip On Jeans @2@~
+2835@355815@Tênis Molekinha Feminino Slip On Jeans @3@~
 10803@355816@Tênis Molekinha Feminino Slip On Jeans @0@~
 10805@355817@Tênis Molekinha Feminino Slip On Jeans @1@~
-10807@355818@Tênis Molekinha Feminino Slip On Jeans @1@~
+10807@355818@Tênis Molekinha Feminino Slip On Jeans @2@~
 10811@355820@Tênis Molekinha Feminino Slip On Jeans @0@~
 2837@355808@Tenis Molekinha Feminino Rosa@2@~
 10815@355809@Tenis Molekinha Feminino Rosa@0@~
@@ -1911,8 +1845,8 @@
 10921@357985@Sandália Molekinha Feminina Coração Dourada @0@~
 10923@357986@Sandália Molekinha Feminina Coração Dourada @0@~
 10925@357987@Sandália Molekinha Feminina Coração Dourada @0@~
-2849@357968@Sandália Molekinha Feminina Laço Rosa @2@~
-10929@357970@Sandália Molekinha Feminina Laço Rosa @1@~
+2849@357968@Sandália Molekinha Feminina Laço Rosa @1@~
+10929@357970@Sandália Molekinha Feminina Laço Rosa @0@~
 10931@357971@Sandália Molekinha Feminina Laço Rosa @0@~
 10935@357973@Sandália Molekinha Feminina Laço Rosa @1@~
 10937@357974@Sandália Molekinha Feminina Laço Rosa @0@~
@@ -1934,13 +1868,6 @@
 10987@357880@Tenis Klin Baby New Confort Azul Escuro@0@~
 10989@357881@Tenis Klin Baby New Confort Azul Escuro@0@~
 10991@357882@Tenis Klin Baby New Confort Azul Escuro@0@~
-2855@357883@Tênis Klin Baby New Confort Cinza@1@~
-10995@357885@Tênis Klin Baby New Confort Cinza@0@~
-10997@357886@Tênis Klin Baby New Confort Cinza@0@~
-10999@357887@Tênis Klin Baby New Confort Cinza@0@~
-11001@357888@Tênis Klin Baby New Confort Cinza@0@~
-11003@357889@Tênis Klin Baby New Confort Cinza@1@~
-11005@357890@Tênis Klin Baby New Confort Cinza@0@~
 2863@357717@Sandália Babuch Grendene Mormaii Masculino@2@~
 11047@357724@Sandália Babuch Grendene Mormaii Masculino@2@~
 11049@357725@Sandália Babuch Grendene Mormaii Masculino@0@~
@@ -1952,9 +1879,9 @@
 11091@356418@Chinelo Grendene Masculino Dakar Preto Vermelho@0@~
 11093@356419@Chinelo Grendene Masculino Dakar Preto Vermelho@1@~
 11095@356420@Chinelo Grendene Masculino Dakar Preto Vermelho@0@~
-2875@356427@Sandália Babuch Masculina Homem de Ferro@1@~
+2875@356427@Sandália Babuch Masculina Homem de Ferro@0@~
 11125@356428@Sandália Babuch Masculina Homem de Ferro@0@~
-11129@356430@Sandália Babuch Masculina Homem de Ferro@1@~
+11129@356430@Sandália Babuch Masculina Homem de Ferro@0@~
 11131@356431@Sandália Babuch Masculina Homem de Ferro@0@~
 11133@356432@Sandália Babuch Masculina Homem de Ferro@0@~
 11137@356434@Sandália Babuch Masculina Homem de Ferro@0@~
@@ -1985,8 +1912,8 @@
 11193@358147@Tenis Masculino Cavalera Marrom + Cinto@0@~
 11195@358148@Tenis Masculino Cavalera Marrom + Cinto@0@~
 11197@358149@Tenis Masculino Cavalera Marrom + Cinto@0@~
-2883@356519@Copo Nuby 360 Treinamento Copo Mágico Tampa Wonder Cup 300ml@8@~
-11199@393673@Copo Nuby 360 Treinamento Copo Mágico Tampa Wonder Cup 300ml@5@~
+2883@356519@Copo Nuby 360 Treinamento Copo Mágico Tampa Wonder Cup 300ml@6@~
+11199@393673@Copo Nuby 360 Treinamento Copo Mágico Tampa Wonder Cup 300ml@3@~
 11201@393674@Copo Nuby 360 Treinamento Copo Mágico Tampa Wonder Cup 300ml@3@~
 2885@358124@Tênis Cavalera Masculino Ronan + Cinto @3@~
 11203@358125@Tênis Cavalera Masculino Ronan + Cinto @0@~
@@ -2044,9 +1971,9 @@
 11497@360011@Camiseta Cavalera Feminina Pluto@0@~
 11973@364676@Camiseta Cavalera Feminina Pluto@1@~
 11975@364675@Camiseta Cavalera Feminina Pluto@0@~
-2977@359975@Camiseta Cavalera Masculina Pluto@1@~
+2977@359975@Camiseta Cavalera Masculina Pluto@2@~
 11501@359977@Camiseta Cavalera Masculina Pluto@0@~
-14289@371850@Camiseta Cavalera Masculina Pluto@0@~
+14289@371850@Camiseta Cavalera Masculina Pluto@1@~
 14291@371851@Camiseta Cavalera Masculina Pluto@1@~
 2981@359984@Camiseta Cavalera Masculina Caveiras Skull Skrrr@1@~
 11517@359985@Camiseta Cavalera Masculina Caveiras Skull Skrrr@0@~
@@ -2083,12 +2010,12 @@
 11581@333909@Camisa Ogochi Masculina Floral@0@~
 11583@333910@Camisa Ogochi Masculina Floral@1@~
 11585@333911@Camisa Ogochi Masculina Floral@0@~
-3009@334145@Sueter YatchMaster Masculino Botão@6@~
+3009@334145@Sueter YatchMaster Masculino Botão@5@~
 11595@334150@Sueter YatchMaster Masculino Botão@0@~
 11597@334151@Sueter YatchMaster Masculino Botão@1@~
 11599@334152@Sueter YatchMaster Masculino Botão@1@~
 11601@334153@Sueter YatchMaster Masculino Botão@0@~
-11603@334146@Sueter YatchMaster Masculino Botão@1@~
+11603@334146@Sueter YatchMaster Masculino Botão@0@~
 11605@334147@Sueter YatchMaster Masculino Botão@1@~
 11607@334148@Sueter YatchMaster Masculino Botão@2@~
 11609@334149@Sueter YatchMaster Masculino Botão@0@~
@@ -2165,43 +2092,6 @@
 12011@361897@Mochila Maternidade Hug Nancy Bege@1@~
 3099@342771@Bolsa Maternidade Hug Nancy M Bege@1@~
 12009@342772@Bolsa Maternidade Hug Nancy M Bege@1@~
-3101@307939@Babuche Kemo Iate Listra@0@~
-12015@307958@Babuche Kemo Iate Listra@0@~
-12029@307965@Babuche Kemo Iate Listra@0@~
-12035@307968@Babuche Kemo Iate Listra@0@~
-12043@361305@Babuche Kemo Iate Listra@0@~
-12045@361308@Babuche Kemo Iate Listra@0@~
-12047@361309@Babuche Kemo Iate Listra@0@~
-12049@361310@Babuche Kemo Iate Listra@0@~
-12051@361311@Babuche Kemo Iate Listra@0@~
-12053@361312@Babuche Kemo Iate Listra@0@~
-12127@361291@Babuche Kemo Iate Listra@0@~
-12129@361292@Babuche Kemo Iate Listra@0@~
-12131@361293@Babuche Kemo Iate Listra@0@~
-12133@361294@Babuche Kemo Iate Listra@0@~
-12135@361295@Babuche Kemo Iate Listra@0@~
-12137@361296@Babuche Kemo Iate Listra@0@~
-12139@361297@Babuche Kemo Iate Listra@0@~
-12141@361298@Babuche Kemo Iate Listra@0@~
-12143@361299@Babuche Kemo Iate Listra@0@~
-12145@361200@Babuche Kemo Iate Listra@0@~
-12147@361201@Babuche Kemo Iate Listra@0@~
-12149@361202@Babuche Kemo Iate Listra@0@~
-12151@361203@Babuche Kemo Iate Listra@0@~
-12153@361204@Babuche Kemo Iate Listra@0@~
-3107@361333@Babuche Kemo Masculino Iate Cores@1@~
-12055@361340@Babuche Kemo Masculino Iate Cores@0@~
-12057@361341@Babuche Kemo Masculino Iate Cores@0@~
-12059@361342@Babuche Kemo Masculino Iate Cores@0@~
-12061@361343@Babuche Kemo Masculino Iate Cores@0@~
-12063@361344@Babuche Kemo Masculino Iate Cores@0@~
-12065@361345@Babuche Kemo Masculino Iate Cores@0@~
-12067@361334@Babuche Kemo Masculino Iate Cores@0@~
-12069@361335@Babuche Kemo Masculino Iate Cores@0@~
-12071@361336@Babuche Kemo Masculino Iate Cores@0@~
-12073@361337@Babuche Kemo Masculino Iate Cores@0@~
-12075@361338@Babuche Kemo Masculino Iate Cores@1@~
-12077@361339@Babuche Kemo Masculino Iate Cores@0@~
 3115@363615@Tênis Pampili Feminino Blog Slip On@4@~
 12155@363624@Tênis Pampili Feminino Blog Slip On@0@~
 12157@363625@Tênis Pampili Feminino Blog Slip On@0@~
@@ -2280,7 +2170,7 @@
 12299@361356@Babuche King Iate Branco@3@~
 12301@361357@Babuche King Iate Branco@0@~
 12303@361358@Babuche King Iate Branco@0@~
-3135@363592@Tenis Pampili Feminino Slip On @10@~
+3135@363592@Tenis Pampili Feminino Slip On @11@~
 12305@363593@Tenis Pampili Feminino Slip On @1@~
 12307@363594@Tenis Pampili Feminino Slip On @1@~
 12309@363595@Tenis Pampili Feminino Slip On @1@~
@@ -2292,7 +2182,7 @@
 12381@363607@Tenis Pampili Feminino Slip On @1@~
 12383@363608@Tenis Pampili Feminino Slip On @1@~
 12385@363609@Tenis Pampili Feminino Slip On @0@~
-12387@363610@Tenis Pampili Feminino Slip On @0@~
+12387@363610@Tenis Pampili Feminino Slip On @1@~
 12389@363611@Tenis Pampili Feminino Slip On @0@~
 12391@363612@Tenis Pampili Feminino Slip On @0@~
 12393@363613@Tenis Pampili Feminino Slip On @0@~
@@ -2303,12 +2193,9 @@
 12403@363604@Tenis Pampili Feminino Slip On @1@~
 12405@363605@Tenis Pampili Feminino Slip On @1@~
 12407@363606@Tenis Pampili Feminino Slip On @0@~
-3137@364662@Camiseta Cavalera Masculina Caveira Preta @0@~
-12321@351574@Camiseta Cavalera Masculina Caveira Preta @0@~
-12323@364661@Camiseta Cavalera Masculina Caveira Preta @0@~
-3139@364677@Camiseta Cavalera Masculina Punk Kids@1@~
+3139@364677@Camiseta Cavalera Masculina Punk Kids@2@~
 12329@364678@Camiseta Cavalera Masculina Punk Kids@1@~
-13803@373208@Camiseta Cavalera Masculina Punk Kids@0@~
+13803@373208@Camiseta Cavalera Masculina Punk Kids@1@~
 13805@373209@Camiseta Cavalera Masculina Punk Kids@0@~
 3141@366564@Tenis Infantil Luluca Pampili Blog Branco Glitter e Patches@3@~
 12333@366565@Tenis Infantil Luluca Pampili Blog Branco Glitter e Patches@1@~
@@ -2325,15 +2212,6 @@
 12419@365301@Tenis Pampili Feminino Believe Dream @1@~
 12421@365302@Tenis Pampili Feminino Believe Dream @0@~
 12423@365303@Tenis Pampili Feminino Believe Dream @0@~
-3153@366164@Tenis Pampili Feminino Brilho Strass Preto@0@~
-12441@366165@Tenis Pampili Feminino Brilho Strass Preto@0@~
-12443@366166@Tenis Pampili Feminino Brilho Strass Preto@0@~
-12445@366167@Tenis Pampili Feminino Brilho Strass Preto@0@~
-12447@366168@Tenis Pampili Feminino Brilho Strass Preto@0@~
-12449@366169@Tenis Pampili Feminino Brilho Strass Preto@0@~
-12451@366170@Tenis Pampili Feminino Brilho Strass Preto@0@~
-12453@366171@Tenis Pampili Feminino Brilho Strass Preto@0@~
-12455@366172@Tenis Pampili Feminino Brilho Strass Preto@0@~
 3155@310369@Sandália Xúa Xúa Feminina Laço Pérola Branca @1@~
 12457@310371@Sandália Xúa Xúa Feminina Laço Pérola Branca @1@~
 12459@310372@Sandália Xúa Xúa Feminina Laço Pérola Branca @0@~
@@ -2378,13 +2256,6 @@
 12717@339340@Sapatilha Sua Cia Feminina Verniz Vermelha@0@~
 12719@339341@Sapatilha Sua Cia Feminina Verniz Vermelha@0@~
 12721@339342@Sapatilha Sua Cia Feminina Verniz Vermelha@1@~
-3209@293703@Sapatilha Sua Cia Feminina Argolas Lilas@0@~
-12723@293706@Sapatilha Sua Cia Feminina Argolas Lilas@0@~
-12725@293707@Sapatilha Sua Cia Feminina Argolas Lilas@0@~
-12727@293708@Sapatilha Sua Cia Feminina Argolas Lilas@0@~
-12729@293709@Sapatilha Sua Cia Feminina Argolas Lilas@0@~
-12731@293704@Sapatilha Sua Cia Feminina Argolas Lilas@0@~
-12733@293705@Sapatilha Sua Cia Feminina Argolas Lilas@0@~
 3211@339368@Tênis Sua Cia Feminino Slip Animal Print Onça@1@~
 12735@339369@Tênis Sua Cia Feminino Slip Animal Print Onça@1@~
 12737@339370@Tênis Sua Cia Feminino Slip Animal Print Onça@0@~
@@ -2432,8 +2303,6 @@
 12895@278153@Sapatilha Peki Lili Feminina Preta@0@~
 12897@278154@Sapatilha Peki Lili Feminina Preta@0@~
 12899@278155@Sapatilha Peki Lili Feminina Preta@1@~
-3249@242196@Sapatilha Beira Rio Feminina Slip On Floral Vermelha@1@~
-12963@242200@Sapatilha Beira Rio Feminina Slip On Floral Vermelha@1@~
 3257@248795@Sapatilha Pampili Feminina Laço Dourada@2@~
 12975@248796@Sapatilha Pampili Feminina Laço Dourada@0@~
 12977@248797@Sapatilha Pampili Feminina Laço Dourada@0@~
@@ -2553,8 +2422,6 @@
 13489@302855@Sandália Finobel Masculina Azul@1@~
 13491@302856@Sandália Finobel Masculina Azul@0@~
 13493@302857@Sandália Finobel Masculina Azul@1@~
-3339@257889@Sandália Klin Masculina Tiras Azul@2@~
-13507@257895@Sandália Klin Masculina Tiras Azul@2@~
 3341@280650@Bota Bloompy Masculina Preta@4@~
 13509@280651@Bota Bloompy Masculina Preta@0@~
 13511@280652@Bota Bloompy Masculina Preta@0@~
@@ -2588,11 +2455,11 @@
 13595@368012@Tênis Pampili Feminino Tweenie Cano Alto Preto @0@~
 13603@368016@Tênis Pampili Feminino Tweenie Cano Alto Preto @1@~
 13605@368017@Tênis Pampili Feminino Tweenie Cano Alto Preto @1@~
-3359@368018@Tênis Pampili Feminino Tweenie Holográfico Cano Alto @4@~
+3359@368018@Tênis Pampili Feminino Tweenie Holográfico Cano Alto @3@~
 13607@368019@Tênis Pampili Feminino Tweenie Holográfico Cano Alto @0@~
 13609@368020@Tênis Pampili Feminino Tweenie Holográfico Cano Alto @1@~
 13611@368021@Tênis Pampili Feminino Tweenie Holográfico Cano Alto @1@~
-13613@368022@Tênis Pampili Feminino Tweenie Holográfico Cano Alto @1@~
+13613@368022@Tênis Pampili Feminino Tweenie Holográfico Cano Alto @0@~
 13615@368023@Tênis Pampili Feminino Tweenie Holográfico Cano Alto @1@~
 3361@368047@Tênis Pampili Feminino Slip On Rosa @3@~
 13617@368048@Tênis Pampili Feminino Slip On Rosa @1@~
@@ -2613,11 +2480,11 @@
 13651@368044@Tênis Pampili Feminino Metalizado Slip On Rosa@0@~
 13653@368045@Tênis Pampili Feminino Metalizado Slip On Rosa@0@~
 13655@368046@Tênis Pampili Feminino Metalizado Slip On Rosa@0@~
-3367@369368@Tênis Pampili Feminino Dream Led Rosa@2@~
+3367@369368@Tênis Pampili Feminino Dream Led Rosa@1@~
 13673@369369@Tênis Pampili Feminino Dream Led Rosa@0@~
 13675@369370@Tênis Pampili Feminino Dream Led Rosa@0@~
 13677@369371@Tênis Pampili Feminino Dream Led Rosa@1@~
-13679@369372@Tênis Pampili Feminino Dream Led Rosa@1@~
+13679@369372@Tênis Pampili Feminino Dream Led Rosa@0@~
 13681@369373@Tênis Pampili Feminino Dream Led Rosa@0@~
 13683@369374@Tênis Pampili Feminino Dream Led Rosa@0@~
 13685@369375@Tênis Pampili Feminino Dream Led Rosa@0@~
@@ -2668,55 +2535,58 @@
 3409@359973@Camiseta Cavalera Masculina Alice Cooper @1@~
 13877@359974@Camiseta Cavalera Masculina Alice Cooper @0@~
 13879@373196@Camiseta Cavalera Masculina Alice Cooper @1@~
-3413@371895@Bolsa Petite Jolie PJ4499 Crush@12@~
+3413@371895@Bolsa Petite Jolie PJ4499 Crush@20@~
 14009@371896@Bolsa Petite Jolie PJ4499 Crush@1@~
 14013@371897@Bolsa Petite Jolie PJ4499 Crush@2@~
-17531@392905@Bolsa Petite Jolie PJ4499 Crush@2@~
-17533@392904@Bolsa Petite Jolie PJ4499 Crush@2@~
-17535@371898@Bolsa Petite Jolie PJ4499 Crush@2@~
-17583@377767@Bolsa Petite Jolie PJ4499 Crush@3@~
-3435@374379@Sandalia Words Colors Feminina Salto Cinza@1@~
+17531@392905@Bolsa Petite Jolie PJ4499 Crush@1@~
+17533@392904@Bolsa Petite Jolie PJ4499 Crush@4@~
+17535@371898@Bolsa Petite Jolie PJ4499 Crush@4@~
+17583@377767@Bolsa Petite Jolie PJ4499 Crush@2@~
+21013@400562@Bolsa Petite Jolie PJ4499 Crush@2@~
+21059@400663@Bolsa Petite Jolie PJ4499 Crush@2@~
+21061@400662@Bolsa Petite Jolie PJ4499 Crush@2@~
+3435@374379@Sandalia Words Colors Feminina Salto Cinza@0@~
 14261@374380@Sandalia Words Colors Feminina Salto Cinza@0@~
 14263@374381@Sandalia Words Colors Feminina Salto Cinza@0@~
-14265@374382@Sandalia Words Colors Feminina Salto Cinza@1@~
+14265@374382@Sandalia Words Colors Feminina Salto Cinza@0@~
 14267@374383@Sandalia Words Colors Feminina Salto Cinza@0@~
 14269@374384@Sandalia Words Colors Feminina Salto Cinza@0@~
-3437@374390@Sandalia Words Colors Feminina Tiras@3@~
-14303@374408@Sandalia Words Colors Feminina Tiras@1@~
-14305@374409@Sandalia Words Colors Feminina Tiras@1@~
-14307@374410@Sandalia Words Colors Feminina Tiras@0@~
-14309@374411@Sandalia Words Colors Feminina Tiras@1@~
-14311@374412@Sandalia Words Colors Feminina Tiras@0@~
-3439@374385@Sandália World Colors Feminina Rosa@4@~
+3437@374390@Sandalia World Colors Feminina Tiras@3@~
+14303@374408@Sandalia World Colors Feminina Tiras@1@~
+14305@374409@Sandalia World Colors Feminina Tiras@1@~
+14307@374410@Sandalia World Colors Feminina Tiras@0@~
+14309@374411@Sandalia World Colors Feminina Tiras@1@~
+14311@374412@Sandalia World Colors Feminina Tiras@0@~
+3439@374385@Sandália World Colors Feminina Rosa@3@~
 14313@374386@Sandália World Colors Feminina Rosa@2@~
 14315@374387@Sandália World Colors Feminina Rosa@0@~
-14317@374388@Sandália World Colors Feminina Rosa@2@~
+14317@374388@Sandália World Colors Feminina Rosa@1@~
 14319@374389@Sandália World Colors Feminina Rosa@0@~
-3443@374374@Sandalia Words Colors Feminina Azul Laços@3@~
-14483@374375@Sandalia Words Colors Feminina Azul Laços@1@~
-14485@374376@Sandalia Words Colors Feminina Azul Laços@1@~
-14487@374377@Sandalia Words Colors Feminina Azul Laços@1@~
-14489@374378@Sandalia Words Colors Feminina Azul Laços@0@~
-3445@374413@Chinelo World Colors Feminino Floco de Neve@3@~
+3443@374374@Sandalia World Colors Feminina Azul Laços@2@~
+14483@374375@Sandalia World Colors Feminina Azul Laços@0@~
+14485@374376@Sandalia World Colors Feminina Azul Laços@1@~
+14487@374377@Sandalia World Colors Feminina Azul Laços@1@~
+14489@374378@Sandalia World Colors Feminina Azul Laços@0@~
+3445@374413@Chinelo World Colors Feminino Floco de Neve@2@~
 14575@374414@Chinelo World Colors Feminino Floco de Neve@0@~
 14577@374415@Chinelo World Colors Feminino Floco de Neve@1@~
-14579@374416@Chinelo World Colors Feminino Floco de Neve@1@~
+14579@374416@Chinelo World Colors Feminino Floco de Neve@0@~
 14581@374417@Chinelo World Colors Feminino Floco de Neve@1@~
 14583@374418@Chinelo World Colors Feminino Floco de Neve@0@~
 14585@374419@Chinelo World Colors Feminino Floco de Neve@0@~
-3447@374390@Sandália World Colors Brilhos Cinza @1@~
+3447@374390@Sandália World Colors Brilhos Cinza @2@~
 14603@374391@Sandália World Colors Brilhos Cinza @1@~
 14605@374392@Sandália World Colors Brilhos Cinza @0@~
-14607@374393@Sandália World Colors Brilhos Cinza @0@~
+14607@374393@Sandália World Colors Brilhos Cinza @1@~
 14609@374394@Sandália World Colors Brilhos Cinza @0@~
 14611@374395@Sandália World Colors Brilhos Cinza @0@~
-3449@374420@Chinelo World Colors Feminino Sereia Amarelo@5@~
+3449@374420@Chinelo World Colors Feminino Sereia Amarelo@2@~
 14631@374421@Chinelo World Colors Feminino Sereia Amarelo@0@~
-14633@374422@Chinelo World Colors Feminino Sereia Amarelo@2@~
-14635@374423@Chinelo World Colors Feminino Sereia Amarelo@1@~
+14633@374422@Chinelo World Colors Feminino Sereia Amarelo@1@~
+14635@374423@Chinelo World Colors Feminino Sereia Amarelo@0@~
 14637@374424@Chinelo World Colors Feminino Sereia Amarelo@1@~
 14639@374425@Chinelo World Colors Feminino Sereia Amarelo@0@~
-14641@374426@Chinelo World Colors Feminino Sereia Amarelo@1@~
+14641@374426@Chinelo World Colors Feminino Sereia Amarelo@0@~
 3453@376250@Kit com 2 Blusas Malwee Femininas Flores@3@~
 14779@376251@Kit com 2 Blusas Malwee Femininas Flores@1@~
 14781@376252@Kit com 2 Blusas Malwee Femininas Flores@0@~
@@ -2733,14 +2603,14 @@
 14933@377761@Bolsa Petite Jolie PJ4801 Verano@0@~
 14935@377759@Bolsa Petite Jolie PJ4801 Verano@2@~
 14937@377760@Bolsa Petite Jolie PJ4801 Verano@0@~
-3469@375472@Bolsa Petite Jolie PJ4724 Summer @6@~
+3469@375472@Bolsa Petite Jolie PJ4724 Summer @5@~
 14951@375474@Bolsa Petite Jolie PJ4724 Summer @2@~
 14953@375473@Bolsa Petite Jolie PJ4724 Summer @2@~
-14955@375475@Bolsa Petite Jolie PJ4724 Summer @2@~
-3471@375468@Mochila Petite Jolie PJ4685 Tabby@5@~
+14955@375475@Bolsa Petite Jolie PJ4724 Summer @1@~
+3471@375468@Mochila Petite Jolie PJ4685 Tabby@3@~
 14987@375471@Mochila Petite Jolie PJ4685 Tabby@1@~
-14989@375470@Mochila Petite Jolie PJ4685 Tabby@2@~
-14991@375469@Mochila Petite Jolie PJ4685 Tabby@2@~
+14989@375470@Mochila Petite Jolie PJ4685 Tabby@1@~
+14991@375469@Mochila Petite Jolie PJ4685 Tabby@1@~
 3475@310305@Bolsa Petite Jolie PJ3668 Saddle@1@~
 15115@377749@Bolsa Petite Jolie PJ3668 Saddle@0@~
 15117@377748@Bolsa Petite Jolie PJ3668 Saddle@1@~
@@ -2758,31 +2628,31 @@
 15159@379878@Tenis Klin Masculino Baby Walk Azul@2@~
 15161@379879@Tenis Klin Masculino Baby Walk Azul@0@~
 15163@379880@Tenis Klin Masculino Baby Walk Azul@0@~
-3483@379881@Tênis Klin Masculino Baby Walk Preto@4@~
+3483@379881@Tênis Klin Masculino Baby Walk Preto@3@~
 15165@379882@Tênis Klin Masculino Baby Walk Preto@0@~
 15167@379883@Tênis Klin Masculino Baby Walk Preto@0@~
 15169@379884@Tênis Klin Masculino Baby Walk Preto@1@~
-15171@379885@Tênis Klin Masculino Baby Walk Preto@0@~
-15173@379886@Tênis Klin Masculino Baby Walk Preto@2@~
-15175@379887@Tênis Klin Masculino Baby Walk Preto@1@~
-3485@379978@Tênis Klin Masculino Baby Ligth @8@~
+15171@379885@Tênis Klin Masculino Baby Walk Preto@1@~
+15173@379886@Tênis Klin Masculino Baby Walk Preto@1@~
+15175@379887@Tênis Klin Masculino Baby Walk Preto@0@~
+3485@379978@Tênis Klin Masculino Baby Ligth @7@~
 15177@379979@Tênis Klin Masculino Baby Ligth @0@~
 15181@379981@Tênis Klin Masculino Baby Ligth @1@~
 15183@379982@Tênis Klin Masculino Baby Ligth @1@~
 15185@379983@Tênis Klin Masculino Baby Ligth @1@~
 15189@379985@Tênis Klin Masculino Baby Ligth @0@~
 15197@379989@Tênis Klin Masculino Baby Ligth @1@~
-15199@379990@Tênis Klin Masculino Baby Ligth @1@~
+15199@379990@Tênis Klin Masculino Baby Ligth @0@~
 15203@379992@Tênis Klin Masculino Baby Ligth @0@~
 15209@379995@Tênis Klin Masculino Baby Ligth @2@~
 15211@379996@Tênis Klin Masculino Baby Ligth @1@~
-3487@379939@Tênis Klin Masculino Rocket@12@~
+3487@379939@Tênis Klin Masculino Rocket@9@~
 15213@379940@Tênis Klin Masculino Rocket@0@~
 15215@379941@Tênis Klin Masculino Rocket@1@~
 15217@379942@Tênis Klin Masculino Rocket@1@~
 15219@379943@Tênis Klin Masculino Rocket@1@~
 15221@379944@Tênis Klin Masculino Rocket@0@~
-15223@379945@Tênis Klin Masculino Rocket@1@~
+15223@379945@Tênis Klin Masculino Rocket@0@~
 15225@379946@Tênis Klin Masculino Rocket@0@~
 15227@379947@Tênis Klin Masculino Rocket@0@~
 15229@379948@Tênis Klin Masculino Rocket@0@~
@@ -2791,22 +2661,22 @@
 15235@379951@Tênis Klin Masculino Rocket@0@~
 15237@379952@Tênis Klin Masculino Rocket@0@~
 15239@379953@Tênis Klin Masculino Rocket@1@~
-15241@379954@Tênis Klin Masculino Rocket@1@~
+15241@379954@Tênis Klin Masculino Rocket@0@~
 15243@379955@Tênis Klin Masculino Rocket@1@~
 15245@379956@Tênis Klin Masculino Rocket@0@~
 15247@379957@Tênis Klin Masculino Rocket@1@~
 15249@379958@Tênis Klin Masculino Rocket@0@~
 15251@379959@Tênis Klin Masculino Rocket@0@~
-15253@379960@Tênis Klin Masculino Rocket@3@~
+15253@379960@Tênis Klin Masculino Rocket@2@~
 15255@379961@Tênis Klin Masculino Rocket@0@~
 15257@379962@Tênis Klin Masculino Rocket@0@~
 15259@379963@Tênis Klin Masculino Rocket@1@~
-3489@379920@Sandalia Klin Masculina Baby Light Zigue Zague@21@~
+3489@379920@Sandalia Klin Masculina Baby Light Zigue Zague@15@~
 15263@379922@Sandalia Klin Masculina Baby Light Zigue Zague@2@~
 15265@379923@Sandalia Klin Masculina Baby Light Zigue Zague@0@~
-15267@379924@Sandalia Klin Masculina Baby Light Zigue Zague@1@~
-15269@379925@Sandalia Klin Masculina Baby Light Zigue Zague@1@~
-15271@379926@Sandalia Klin Masculina Baby Light Zigue Zague@1@~
+15267@379924@Sandalia Klin Masculina Baby Light Zigue Zague@0@~
+15269@379925@Sandalia Klin Masculina Baby Light Zigue Zague@0@~
+15271@379926@Sandalia Klin Masculina Baby Light Zigue Zague@0@~
 15273@379927@Sandalia Klin Masculina Baby Light Zigue Zague@1@~
 15275@379928@Sandalia Klin Masculina Baby Light Zigue Zague@1@~
 15277@379929@Sandalia Klin Masculina Baby Light Zigue Zague@0@~
@@ -2814,7 +2684,7 @@
 15305@379920@Sandalia Klin Masculina Baby Light Zigue Zague@0@~
 15307@379920@Sandalia Klin Masculina Baby Light Zigue Zague@0@~
 15309@379920@Sandalia Klin Masculina Baby Light Zigue Zague@0@~
-15311@379920@Sandalia Klin Masculina Baby Light Zigue Zague@13@~
+15311@379920@Sandalia Klin Masculina Baby Light Zigue Zague@10@~
 3491@379964@Tênis Klin Masculino Flash Preto@2@~
 15281@379965@Tênis Klin Masculino Flash Preto@0@~
 15283@379966@Tênis Klin Masculino Flash Preto@0@~
@@ -2842,7 +2712,7 @@
 15397@378098@Sandália Molekinha Infantil Dourada @1@~
 15399@378099@Sandália Molekinha Infantil Dourada @0@~
 15401@378100@Sandália Molekinha Infantil Dourada @0@~
-3513@379859@Sandália Molekinha Infantil Salto Rosa@19@~
+3513@379859@Sandália Molekinha Infantil Salto Rosa@18@~
 15403@379870@Sandália Molekinha Infantil Salto Rosa@0@~
 15405@379871@Sandália Molekinha Infantil Salto Rosa@2@~
 15407@379872@Sandália Molekinha Infantil Salto Rosa@1@~
@@ -2855,7 +2725,7 @@
 15421@379865@Sandália Molekinha Infantil Salto Rosa@1@~
 15423@379866@Sandália Molekinha Infantil Salto Rosa@1@~
 15425@379867@Sandália Molekinha Infantil Salto Rosa@2@~
-15427@379868@Sandália Molekinha Infantil Salto Rosa@1@~
+15427@379868@Sandália Molekinha Infantil Salto Rosa@0@~
 15429@379869@Sandália Molekinha Infantil Salto Rosa@2@~
 3519@320583@Bolsa Petite Jolie PJ3698 Bettie@1@~
 15479@321848@Bolsa Petite Jolie PJ3698 Bettie@1@~
@@ -2863,7 +2733,7 @@
 15507@380796@Bolsa Petite Jolie PJ4990 Run@2@~
 15509@380797@Bolsa Petite Jolie PJ4990 Run@0@~
 15511@380798@Bolsa Petite Jolie PJ4990 Run@0@~
-3535@380842@Tenis Klin Masculino College @12@~
+3535@380842@Tenis Klin Masculino College @10@~
 15539@380849@Tenis Klin Masculino College @1@~
 15541@380851@Tenis Klin Masculino College @1@~
 15543@380853@Tenis Klin Masculino College @0@~
@@ -2871,11 +2741,11 @@
 15547@380855@Tenis Klin Masculino College @0@~
 15549@380856@Tenis Klin Masculino College @0@~
 15551@380857@Tenis Klin Masculino College @0@~
-15553@380858@Tenis Klin Masculino College @1@~
+15553@380858@Tenis Klin Masculino College @0@~
 15555@380859@Tenis Klin Masculino College @1@~
 15557@380860@Tenis Klin Masculino College @1@~
 15559@380861@Tenis Klin Masculino College @0@~
-15561@380862@Tenis Klin Masculino College @1@~
+15561@380862@Tenis Klin Masculino College @0@~
 15563@380863@Tenis Klin Masculino College @1@~
 15565@380843@Tenis Klin Masculino College @1@~
 15567@380844@Tenis Klin Masculino College @1@~
@@ -2895,22 +2765,22 @@
 15591@380867@Tenis Klin Masculino College Azul@0@~
 15593@380868@Tenis Klin Masculino College Azul@0@~
 15595@380869@Tenis Klin Masculino College Azul@1@~
-3541@381211@Tenis Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@1@~
+3541@381211@Tenis Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@36@~
 18241@381212@Tenis Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@0@~
 18243@381213@Tenis Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@1@~
-18245@381214@Tenis Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@0@~
-18247@381215@Tenis Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@0@~
-18249@381216@Tenis Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@0@~
-18251@381217@Tenis Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@0@~
-18253@381218@Tenis Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@0@~
-18255@381219@Tenis Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@0@~
+18245@381214@Tenis Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@2@~
+18247@381215@Tenis Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@5@~
+18249@381216@Tenis Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@8@~
+18251@381217@Tenis Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@10@~
+18253@381218@Tenis Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@6@~
+18255@381219@Tenis Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@4@~
 3543@380835@Tênis Petite Jolie PJ4880 Mood @3@~
 15633@380836@Tênis Petite Jolie PJ4880 Mood @0@~
 15635@380837@Tênis Petite Jolie PJ4880 Mood @0@~
 15637@380838@Tênis Petite Jolie PJ4880 Mood @3@~
 15639@380839@Tênis Petite Jolie PJ4880 Mood @0@~
 15641@380840@Tênis Petite Jolie PJ4880 Mood @0@~
-3561@380787@Chinelo Rasteira Petite Jolie PJ4876@5@~
+3561@380787@Chinelo Rasteira Petite Jolie PJ4876@4@~
 15687@380816@Chinelo Rasteira Petite Jolie PJ4876@1@~
 15689@380817@Chinelo Rasteira Petite Jolie PJ4876@1@~
 15691@380818@Chinelo Rasteira Petite Jolie PJ4876@2@~
@@ -2918,19 +2788,19 @@
 15695@380820@Chinelo Rasteira Petite Jolie PJ4876@0@~
 15697@380821@Chinelo Rasteira Petite Jolie PJ4876@0@~
 15699@380788@Chinelo Rasteira Petite Jolie PJ4876@0@~
-15701@380789@Chinelo Rasteira Petite Jolie PJ4876@1@~
+15701@380789@Chinelo Rasteira Petite Jolie PJ4876@0@~
 15703@380790@Chinelo Rasteira Petite Jolie PJ4876@0@~
 15705@380791@Chinelo Rasteira Petite Jolie PJ4876@0@~
 15707@380792@Chinelo Rasteira Petite Jolie PJ4876@0@~
 15709@380793@Chinelo Rasteira Petite Jolie PJ4876@0@~
-3563@380822@Chinelo Petite Jolie PJ4752 Lucky@12@~
+3563@380822@Chinelo Petite Jolie PJ4752 Lucky@10@~
 15711@380829@Chinelo Petite Jolie PJ4752 Lucky@1@~
 15713@380830@Chinelo Petite Jolie PJ4752 Lucky@2@~
 15715@380831@Chinelo Petite Jolie PJ4752 Lucky@1@~
 15717@380832@Chinelo Petite Jolie PJ4752 Lucky@2@~
-15719@380833@Chinelo Petite Jolie PJ4752 Lucky@1@~
+15719@380833@Chinelo Petite Jolie PJ4752 Lucky@0@~
 15723@380823@Chinelo Petite Jolie PJ4752 Lucky@1@~
-15725@380824@Chinelo Petite Jolie PJ4752 Lucky@1@~
+15725@380824@Chinelo Petite Jolie PJ4752 Lucky@0@~
 15727@380825@Chinelo Petite Jolie PJ4752 Lucky@3@~
 15729@380826@Chinelo Petite Jolie PJ4752 Lucky@0@~
 15731@380827@Chinelo Petite Jolie PJ4752 Lucky@0@~
@@ -2940,28 +2810,26 @@
 15737@380752@Sandália Petite Jolie PJ4170 Core@0@~
 15739@380753@Sandália Petite Jolie PJ4170 Core@2@~
 15741@380754@Sandália Petite Jolie PJ4170 Core@1@~
-3569@381506@Vestido Farm Feminino Cropped Floral Pietra@2@~
+3569@381506@Vestido Farm Feminino Cropped Floral Pietra@1@~
 15749@381507@Vestido Farm Feminino Cropped Floral Pietra@0@~
-15751@381508@Vestido Farm Feminino Cropped Floral Pietra@1@~
+15751@381508@Vestido Farm Feminino Cropped Floral Pietra@0@~
 15753@381509@Vestido Farm Feminino Cropped Floral Pietra@1@~
 3571@381483@Bolsa Petite Jolie PJ4891 Saddle@3@~
 15755@381484@Bolsa Petite Jolie PJ4891 Saddle@1@~
 15759@381485@Bolsa Petite Jolie PJ4891 Saddle@0@~
 15777@381487@Bolsa Petite Jolie PJ4891 Saddle@2@~
 15839@381486@Bolsa Petite Jolie PJ4891 Saddle@0@~
-3573@381494@Bolsa Petite Jolie PJ4879 Bing@3@~
-15757@381495@Bolsa Petite Jolie PJ4879 Bing@2@~
+3573@381494@Bolsa Petite Jolie PJ4879 Bing@2@~
+15757@381495@Bolsa Petite Jolie PJ4879 Bing@1@~
 15761@381497@Bolsa Petite Jolie PJ4879 Bing@0@~
 15837@381498@Bolsa Petite Jolie PJ4879 Bing@1@~
-3575@381488@Bolsa Petite Jolie PJ4864 Bing@2@~
+3575@381488@Bolsa Petite Jolie PJ4864 Bing@4@~
 15771@381489@Bolsa Petite Jolie PJ4864 Bing@0@~
-15773@381490@Bolsa Petite Jolie PJ4864 Bing@0@~
 15775@381492@Bolsa Petite Jolie PJ4864 Bing@0@~
-15843@381491@Bolsa Petite Jolie PJ4864 Bing@2@~
-3579@380802@Carteira Petite Jolie PJ4809 Verniz@6@~
-15779@381472@Carteira Petite Jolie PJ4809 Verniz@4@~
-18439@380804@Carteira Petite Jolie PJ4809 Verniz@0@~
-18441@397538@Carteira Petite Jolie PJ4809 Verniz@2@~
+15843@381491@Bolsa Petite Jolie PJ4864 Bing@1@~
+20903@400554@Bolsa Petite Jolie PJ4864 Bing@1@~
+20905@400555@Bolsa Petite Jolie PJ4864 Bing@1@~
+21011@400553@Bolsa Petite Jolie PJ4864 Bing@1@~
 3581@382175@Tênis Klin New Confort Azul Royal Baby@2@~
 15781@382176@Tênis Klin New Confort Azul Royal Baby@2@~
 3583@382197@Tênis Klin Masculino Flyer Marrom@9@~
@@ -2979,8 +2847,8 @@
 15815@382185@Tênis Klin Masculino Baby Sport Preto@1@~
 15817@382186@Tênis Klin Masculino Baby Sport Preto@1@~
 15819@382187@Tênis Klin Masculino Baby Sport Preto@2@~
-15821@382188@Tênis Klin Masculino Baby Sport Preto@1@~
-15823@382189@Tênis Klin Masculino Baby Sport Preto@1@~
+15821@382188@Tênis Klin Masculino Baby Sport Preto@2@~
+15823@382189@Tênis Klin Masculino Baby Sport Preto@0@~
 3587@382190@Tênis Klin Masculino Mini Walk Preto@6@~
 15825@382191@Tênis Klin Masculino Mini Walk Preto@1@~
 15827@382192@Tênis Klin Masculino Mini Walk Preto@1@~
@@ -2999,10 +2867,10 @@
 3599@381512@Saia Farm Feminina Midi Floral Caramelo @2@~
 15873@381513@Saia Farm Feminina Midi Floral Caramelo @1@~
 15875@381514@Saia Farm Feminina Midi Floral Caramelo @1@~
-3607@381918@Saia Farm Midi Floral Pietra@2@~
+3607@381918@Saia Farm Midi Floral Pietra@1@~
 15895@381919@Saia Farm Midi Floral Pietra@1@~
 15897@381920@Saia Farm Midi Floral Pietra@0@~
-15899@381921@Saia Farm Midi Floral Pietra@1@~
+15899@381921@Saia Farm Midi Floral Pietra@0@~
 3615@381914@Saia Farm Lenço Tile S Feminina @2@~
 15909@381915@Saia Farm Lenço Tile S Feminina @0@~
 15911@381916@Saia Farm Lenço Tile S Feminina @1@~
@@ -3017,8 +2885,8 @@
 3627@382243@Vestido Farm Feminino Splash Tropical @2@~
 15935@382244@Vestido Farm Feminino Splash Tropical @1@~
 15937@382245@Vestido Farm Feminino Splash Tropical @1@~
-3633@382901@Oculos Infanti Feminino Infantil Rosa Proteção UV400@2@~
-15943@382902@Oculos Infanti Feminino Infantil Rosa Proteção UV400@2@~
+3633@382901@Oculos Infanti Feminino Infantil Rosa Proteção UV400@1@~
+15943@382902@Oculos Infanti Feminino Infantil Rosa Proteção UV400@1@~
 3639@383166@Tênis Bibi Luz Roller Celebration Feminino Rosa @2@~
 15991@383167@Tênis Bibi Luz Roller Celebration Feminino Rosa @0@~
 15995@383169@Tênis Bibi Luz Roller Celebration Feminino Rosa @0@~
@@ -3028,14 +2896,14 @@
 16003@383173@Tênis Bibi Luz Roller Celebration Feminino Rosa @0@~
 16005@383174@Tênis Bibi Luz Roller Celebration Feminino Rosa @0@~
 16007@383175@Tênis Bibi Luz Roller Celebration Feminino Rosa @0@~
-3641@383338@Bota Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@14@~
+3641@383338@Bota Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@10@~
 16019@383339@Bota Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@0@~
 16021@383340@Bota Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@0@~
 16023@383341@Bota Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@1@~
 16025@383342@Bota Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@0@~
-16027@383343@Bota Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@0@~
-16029@383344@Bota Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@5@~
-16031@383345@Bota Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@3@~
+16027@383343@Bota Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@1@~
+16029@383344@Bota Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@3@~
+16031@383345@Bota Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@0@~
 16033@383346@Bota Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@2@~
 18267@386965@Bota Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@2@~
 18269@386966@Bota Pampili Luluca Infantil Cano Alto Preto Lantejoula e Patches@1@~
@@ -3078,7 +2946,7 @@
 16115@383463@Sapato Klin Masculino Curumim Elástico Infantil Marrom@1@~
 16117@383464@Sapato Klin Masculino Curumim Elástico Infantil Marrom@0@~
 16119@383465@Sapato Klin Masculino Curumim Elástico Infantil Marrom@2@~
-3661@383466@Sapato Klin Masculino Algodão Doce Brasão Infantil@12@~
+3661@383466@Sapato Klin Masculino Algodão Doce Brasão Infantil@11@~
 16123@383467@Sapato Klin Masculino Algodão Doce Brasão Infantil@0@~
 16125@383468@Sapato Klin Masculino Algodão Doce Brasão Infantil@2@~
 16127@383469@Sapato Klin Masculino Algodão Doce Brasão Infantil@2@~
@@ -3088,7 +2956,7 @@
 16135@383473@Sapato Klin Masculino Algodão Doce Brasão Infantil@1@~
 16137@383474@Sapato Klin Masculino Algodão Doce Brasão Infantil@1@~
 16139@383475@Sapato Klin Masculino Algodão Doce Brasão Infantil@2@~
-16141@383476@Sapato Klin Masculino Algodão Doce Brasão Infantil@2@~
+16141@383476@Sapato Klin Masculino Algodão Doce Brasão Infantil@1@~
 16143@383477@Sapato Klin Masculino Algodão Doce Brasão Infantil@0@~
 16145@383478@Sapato Klin Masculino Algodão Doce Brasão Infantil@1@~
 3665@383009@Calça Farm Feminina Pantalona Floral Pietra @2@~
@@ -3115,7 +2983,7 @@
 16197@384402@Bota Klin Rock Masculina Marrom@1@~
 16199@384403@Bota Klin Rock Masculina Marrom@1@~
 16201@384404@Bota Klin Rock Masculina Marrom@2@~
-3681@384385@Bota Klin Rock Costura Masculina Marrom@9@~
+3681@384385@Bota Klin Rock Costura Masculina Marrom@8@~
 16203@384386@Bota Klin Rock Costura Masculina Marrom@1@~
 16205@384387@Bota Klin Rock Costura Masculina Marrom@1@~
 16207@384388@Bota Klin Rock Costura Masculina Marrom@1@~
@@ -3124,7 +2992,7 @@
 16213@384391@Bota Klin Rock Costura Masculina Marrom@1@~
 16215@384392@Bota Klin Rock Costura Masculina Marrom@0@~
 16217@384393@Bota Klin Rock Costura Masculina Marrom@1@~
-16219@384394@Bota Klin Rock Costura Masculina Marrom@2@~
+16219@384394@Bota Klin Rock Costura Masculina Marrom@1@~
 3683@383962@Tenis Klin Baby Flyer Masculino Marrom @6@~
 16221@383963@Tenis Klin Baby Flyer Masculino Marrom @1@~
 16223@383964@Tenis Klin Baby Flyer Masculino Marrom @0@~
@@ -3171,8 +3039,8 @@
 16297@384436@Tenis Klin Flyer Masculino Preto @1@~
 16299@384437@Tenis Klin Flyer Masculino Preto @1@~
 16301@384438@Tenis Klin Flyer Masculino Preto @1@~
-16303@384439@Tenis Klin Flyer Masculino Preto @1@~
-16305@384440@Tenis Klin Flyer Masculino Preto @0@~
+16303@384439@Tenis Klin Flyer Masculino Preto @0@~
+16305@384440@Tenis Klin Flyer Masculino Preto @1@~
 3693@383719@Vestido Farm Pietra Longo Feminino@2@~
 16307@383720@Vestido Farm Pietra Longo Feminino@1@~
 16309@383721@Vestido Farm Pietra Longo Feminino@1@~
@@ -3199,22 +3067,12 @@
 16357@385254@Tenis Bibi Evolution Masculino Preto @1@~
 16359@385255@Tenis Bibi Evolution Masculino Preto @1@~
 16361@385256@Tenis Bibi Evolution Masculino Preto @1@~
-3715@385262@Tenis Klin Bebê Cravinho Masculino Elastico@1@~
+3715@385262@Tenis Klin Bebê Cravinho Masculino Elastico@2@~
 16363@385263@Tenis Klin Bebê Cravinho Masculino Elastico@0@~
 16365@385264@Tenis Klin Bebê Cravinho Masculino Elastico@1@~
-16367@385265@Tenis Klin Bebê Cravinho Masculino Elastico@0@~
+16367@385265@Tenis Klin Bebê Cravinho Masculino Elastico@1@~
 16369@385266@Tenis Klin Bebê Cravinho Masculino Elastico@0@~
 16371@385267@Tenis Klin Bebê Cravinho Masculino Elastico@0@~
-3717@385268@ Tênis Klin Cravinho Casual Masculino@1@~
-16373@385269@ Tênis Klin Cravinho Casual Masculino@1@~
-16375@385270@ Tênis Klin Cravinho Casual Masculino@0@~
-16377@385271@ Tênis Klin Cravinho Casual Masculino@0@~
-16379@385272@ Tênis Klin Cravinho Casual Masculino@0@~
-3719@385257@Tenis Klin Cravinho Casual Masculino Preto@0@~
-16381@385258@Tenis Klin Cravinho Casual Masculino Preto@0@~
-16383@385259@Tenis Klin Cravinho Casual Masculino Preto@0@~
-16385@385260@Tenis Klin Cravinho Casual Masculino Preto@0@~
-16387@385261@Tenis Klin Cravinho Casual Masculino Preto@0@~
 3721@385463@Tenis Klin Outfit Masculino Cano Alto Marrom@9@~
 16389@385464@Tenis Klin Outfit Masculino Cano Alto Marrom@1@~
 16391@385465@Tenis Klin Outfit Masculino Cano Alto Marrom@1@~
@@ -3226,13 +3084,6 @@
 16403@385471@Tenis Klin Outfit Masculino Cano Alto Marrom@0@~
 16405@385472@Tenis Klin Outfit Masculino Cano Alto Marrom@1@~
 16407@385473@Tenis Klin Outfit Masculino Cano Alto Marrom@1@~
-3723@385209@Coturno Dakota G2091 Feminino Flatform Preto @0@~
-16409@385210@Coturno Dakota G2091 Feminino Flatform Preto @0@~
-16411@385211@Coturno Dakota G2091 Feminino Flatform Preto @0@~
-16413@385212@Coturno Dakota G2091 Feminino Flatform Preto @0@~
-16415@385213@Coturno Dakota G2091 Feminino Flatform Preto @0@~
-16417@385214@Coturno Dakota G2091 Feminino Flatform Preto @0@~
-16419@385215@Coturno Dakota G2091 Feminino Flatform Preto @0@~
 3725@385202@Coturno Dakota G2122 Feminino Salto Bloco Preto@1@~
 16421@385203@Coturno Dakota G2122 Feminino Salto Bloco Preto@0@~
 16423@385204@Coturno Dakota G2122 Feminino Salto Bloco Preto@0@~
@@ -3273,17 +3124,15 @@
 16491@385789@Mochila Pampili Viagem ao Mundo Feminina Cobre Rosado@1@~
 3739@385780@Mochila Pampili Infantil Feminina Ursinha Nude@1@~
 16493@385781@Mochila Pampili Infantil Feminina Ursinha Nude@1@~
-3741@385778@Mochila Pampili Feminina Pampis Gerânio Chaveiro@0@~
-16495@385779@Mochila Pampili Feminina Pampis Gerânio Chaveiro@0@~
 3751@385794@Bolsa Pampili Laço Rosa Blush Infantil@1@~
 16505@385796@Bolsa Pampili Laço Rosa Blush Infantil@0@~
 16665@385795@Bolsa Pampili Laço Rosa Blush Infantil@1@~
 3755@384442@Bolsa Farm Carioca Show De Banana@1@~
 16509@384443@Bolsa Farm Carioca Show De Banana@1@~
-3757@385760@Bota Halui Feminina Cristie Couro Preta @7@~
+3757@385760@Bota Halui Feminina Cristie Couro Preta @6@~
 16511@385761@Bota Halui Feminina Cristie Couro Preta @1@~
 16513@385762@Bota Halui Feminina Cristie Couro Preta @1@~
-16515@385763@Bota Halui Feminina Cristie Couro Preta @1@~
+16515@385763@Bota Halui Feminina Cristie Couro Preta @0@~
 16517@385764@Bota Halui Feminina Cristie Couro Preta @2@~
 16519@385765@Bota Halui Feminina Cristie Couro Preta @0@~
 16521@385766@Bota Halui Feminina Cristie Couro Preta @1@~
@@ -3303,10 +3152,10 @@
 16545@385773@Bota Halui Feminina Couro Marrom Claro@0@~
 16547@385774@Bota Halui Feminina Couro Marrom Claro@0@~
 16549@385775@Bota Halui Feminina Couro Marrom Claro@0@~
-3763@386301@Sapatenis Rafarillo Masculino Sky Surf Alth@18@~
+3763@386301@Sapatenis Rafarillo Masculino Sky Surf Alth@17@~
 16551@386302@Sapatenis Rafarillo Masculino Sky Surf Alth@3@~
 16553@386303@Sapatenis Rafarillo Masculino Sky Surf Alth@3@~
-16555@386304@Sapatenis Rafarillo Masculino Sky Surf Alth@1@~
+16555@386304@Sapatenis Rafarillo Masculino Sky Surf Alth@0@~
 16557@386305@Sapatenis Rafarillo Masculino Sky Surf Alth@1@~
 16559@386306@Sapatenis Rafarillo Masculino Sky Surf Alth@1@~
 16561@386307@Sapatenis Rafarillo Masculino Sky Surf Alth@1@~
@@ -3314,14 +3163,14 @@
 16565@386309@Sapatenis Rafarillo Masculino Sky Surf Alth@1@~
 16567@386310@Sapatenis Rafarillo Masculino Sky Surf Alth@2@~
 16569@386311@Sapatenis Rafarillo Masculino Sky Surf Alth@2@~
-16571@386312@Sapatenis Rafarillo Masculino Sky Surf Alth@1@~
-16573@386313@Sapatenis Rafarillo Masculino Sky Surf Alth@0@~
+16571@386312@Sapatenis Rafarillo Masculino Sky Surf Alth@0@~
+16573@386313@Sapatenis Rafarillo Masculino Sky Surf Alth@1@~
 16575@386314@Sapatenis Rafarillo Masculino Sky Surf Alth@0@~
 16577@386315@Sapatenis Rafarillo Masculino Sky Surf Alth@1@~
-3765@386316@Sapatenis Rafarillo Masculino Sunset Alth@13@~
+3765@386316@Sapatenis Rafarillo Masculino Sunset Alth@12@~
 16579@386317@Sapatenis Rafarillo Masculino Sunset Alth@3@~
 16581@386318@Sapatenis Rafarillo Masculino Sunset Alth@3@~
-16583@386319@Sapatenis Rafarillo Masculino Sunset Alth@2@~
+16583@386319@Sapatenis Rafarillo Masculino Sunset Alth@1@~
 16585@386320@Sapatenis Rafarillo Masculino Sunset Alth@1@~
 16587@386321@Sapatenis Rafarillo Masculino Sunset Alth@1@~
 16589@386322@Sapatenis Rafarillo Masculino Sunset Alth@1@~
@@ -3332,20 +3181,20 @@
 16597@386327@Sapatenis Rafarillo Masculino Sky Surf Alth@3@~
 16599@386328@Sapatenis Rafarillo Masculino Sky Surf Alth@2@~
 16601@386329@Sapatenis Rafarillo Masculino Sky Surf Alth@1@~
-3769@385216@Coturno Dakota Feminino Salto Bloco Marrom @7@~
-16603@385217@Coturno Dakota Feminino Salto Bloco Marrom @1@~
-16605@385218@Coturno Dakota Feminino Salto Bloco Marrom @0@~
-16607@385219@Coturno Dakota Feminino Salto Bloco Marrom @3@~
-16609@385220@Coturno Dakota Feminino Salto Bloco Marrom @1@~
-16611@385221@Coturno Dakota Feminino Salto Bloco Marrom @1@~
-16613@385222@Coturno Dakota Feminino Salto Bloco Marrom @1@~
-16615@385223@Coturno Dakota Feminino Salto Bloco Marrom @0@~
+3769@385216@Bota Coturno Dakota Feminino Salto Bloco Marrom G2123@6@~
+16603@385217@Bota Coturno Dakota Feminino Salto Bloco Marrom G2123@1@~
+16605@385218@Bota Coturno Dakota Feminino Salto Bloco Marrom G2123@0@~
+16607@385219@Bota Coturno Dakota Feminino Salto Bloco Marrom G2123@2@~
+16609@385220@Bota Coturno Dakota Feminino Salto Bloco Marrom G2123@1@~
+16611@385221@Bota Coturno Dakota Feminino Salto Bloco Marrom G2123@1@~
+16613@385222@Bota Coturno Dakota Feminino Salto Bloco Marrom G2123@1@~
+16615@385223@Bota Coturno Dakota Feminino Salto Bloco Marrom G2123@0@~
 3777@387222@Tenis Pampili Luluca Slip On Lantejoula e Patches@2@~
 16627@387223@Tenis Pampili Luluca Slip On Lantejoula e Patches@0@~
 16629@387224@Tenis Pampili Luluca Slip On Lantejoula e Patches@0@~
-16631@387225@Tenis Pampili Luluca Slip On Lantejoula e Patches@1@~
+16631@387225@Tenis Pampili Luluca Slip On Lantejoula e Patches@0@~
 16635@387227@Tenis Pampili Luluca Slip On Lantejoula e Patches@1@~
-16637@387228@Tenis Pampili Luluca Slip On Lantejoula e Patches@0@~
+16637@387228@Tenis Pampili Luluca Slip On Lantejoula e Patches@1@~
 3779@385483@Tenis Klin Flyer Masculino Preto@4@~
 16639@385491@Tenis Klin Flyer Masculino Preto@0@~
 16641@385484@Tenis Klin Flyer Masculino Preto@1@~
@@ -3364,12 +3213,12 @@
 16669@386364@Frasqueira Maternidade Pirulitando Carisma Termica@0@~
 16671@386363@Frasqueira Maternidade Pirulitando Carisma Termica@1@~
 16673@386365@Frasqueira Maternidade Pirulitando Carisma Termica@1@~
-3797@388607@Tenis Klin Freestyle Masculino Preto@8@~
+3797@388607@Tenis Klin Freestyle Masculino Preto@7@~
 16675@388608@Tenis Klin Freestyle Masculino Preto@1@~
 16677@388609@Tenis Klin Freestyle Masculino Preto@0@~
 16679@388610@Tenis Klin Freestyle Masculino Preto@1@~
 16681@388611@Tenis Klin Freestyle Masculino Preto@1@~
-16683@388612@Tenis Klin Freestyle Masculino Preto@2@~
+16683@388612@Tenis Klin Freestyle Masculino Preto@1@~
 16685@388613@Tenis Klin Freestyle Masculino Preto@1@~
 16687@388614@Tenis Klin Freestyle Masculino Preto@0@~
 16689@388615@Tenis Klin Freestyle Masculino Preto@1@~
@@ -3418,12 +3267,10 @@
 16809@384003@Camiseta Acostamento Masculina Floral Preta@1@~
 16811@384004@Camiseta Acostamento Masculina Floral Preta@0@~
 16813@384005@Camiseta Acostamento Masculina Floral Preta@0@~
-3861@382467@Camiseta Acostamento Masculina Lobo Verde@0@~
-16815@383428@Camiseta Acostamento Masculina Lobo Verde@0@~
-3863@383434@Camiseta Acostamento Masculina Sombras @4@~
+3863@383434@Camiseta Acostamento Masculina Sombras @3@~
 16817@384037@Camiseta Acostamento Masculina Sombras @1@~
 16819@384038@Camiseta Acostamento Masculina Sombras @1@~
-16821@384039@Camiseta Acostamento Masculina Sombras @1@~
+16821@384039@Camiseta Acostamento Masculina Sombras @0@~
 16831@383435@Camiseta Acostamento Masculina Sombras @0@~
 16833@383436@Camiseta Acostamento Masculina Sombras @1@~
 3865@382456@Camiseta Acostamento Masculina Lobo Amarela@1@~
@@ -3450,7 +3297,7 @@
 16925@386514@Sapatilha Pampili Feminina Branca Laço@1@~
 16927@386515@Sapatilha Pampili Feminina Branca Laço@1@~
 16929@386516@Sapatilha Pampili Feminina Branca Laço@0@~
-3879@388594@Tenis Sua Cia Feminino Slip On Elastico@17@~
+3879@388594@Tenis Sua Cia Feminino Slip On Elastico@15@~
 16931@388595@Tenis Sua Cia Feminino Slip On Elastico@0@~
 16933@388596@Tenis Sua Cia Feminino Slip On Elastico@0@~
 16935@388597@Tenis Sua Cia Feminino Slip On Elastico@0@~
@@ -3461,12 +3308,12 @@
 16945@388602@Tenis Sua Cia Feminino Slip On Elastico@5@~
 16947@388603@Tenis Sua Cia Feminino Slip On Elastico@5@~
 16949@388604@Tenis Sua Cia Feminino Slip On Elastico@1@~
-16951@388605@Tenis Sua Cia Feminino Slip On Elastico@1@~
-16953@388606@Tenis Sua Cia Feminino Slip On Elastico@2@~
-3881@389771@Bota Pampili Ivy Feminina Couro Cano Curto @7@~
+16951@388605@Tenis Sua Cia Feminino Slip On Elastico@0@~
+16953@388606@Tenis Sua Cia Feminino Slip On Elastico@1@~
+3881@389771@Bota Pampili Ivy Feminina Couro Cano Curto @6@~
 16955@389772@Bota Pampili Ivy Feminina Couro Cano Curto @1@~
 16957@389773@Bota Pampili Ivy Feminina Couro Cano Curto @1@~
-16959@389774@Bota Pampili Ivy Feminina Couro Cano Curto @1@~
+16959@389774@Bota Pampili Ivy Feminina Couro Cano Curto @0@~
 16961@389775@Bota Pampili Ivy Feminina Couro Cano Curto @0@~
 16963@389776@Bota Pampili Ivy Feminina Couro Cano Curto @1@~
 16965@389777@Bota Pampili Ivy Feminina Couro Cano Curto @1@~
@@ -3482,7 +3329,7 @@
 16983@389796@Bota Pampili Safira Matelassê Glam Corações Preta@1@~
 16985@389797@Bota Pampili Safira Matelassê Glam Corações Preta@1@~
 16987@389798@Bota Pampili Safira Matelassê Glam Corações Preta@0@~
-3885@389750@Bota Pampili Ivy Feminina Couro Strass@8@~
+3885@389750@Bota Pampili Ivy Feminina Couro Strass@7@~
 16989@389751@Bota Pampili Ivy Feminina Couro Strass@1@~
 16991@389752@Bota Pampili Ivy Feminina Couro Strass@1@~
 16993@389753@Bota Pampili Ivy Feminina Couro Strass@1@~
@@ -3490,7 +3337,7 @@
 16997@389755@Bota Pampili Ivy Feminina Couro Strass@1@~
 16999@389757@Bota Pampili Ivy Feminina Couro Strass@1@~
 17001@389758@Bota Pampili Ivy Feminina Couro Strass@0@~
-17003@389759@Bota Pampili Ivy Feminina Couro Strass@1@~
+17003@389759@Bota Pampili Ivy Feminina Couro Strass@0@~
 17005@389760@Bota Pampili Ivy Feminina Couro Strass@0@~
 17007@389761@Bota Pampili Ivy Feminina Couro Strass@1@~
 17785@389756@Bota Pampili Ivy Feminina Couro Strass@1@~
@@ -3564,8 +3411,8 @@
 17129@389846@Bota Pele Natural Feminina Couro Marrom@1@~
 17131@389847@Bota Pele Natural Feminina Couro Marrom@1@~
 17133@389848@Bota Pele Natural Feminina Couro Marrom@0@~
-3921@386354@Porta Look Pirulitando Coleção Listras Baby@3@~
-17137@386356@Porta Look Pirulitando Coleção Listras Baby@1@~
+3921@386354@Porta Look Pirulitando Coleção Listras Baby@4@~
+17137@386356@Porta Look Pirulitando Coleção Listras Baby@2@~
 17139@386355@Porta Look Pirulitando Coleção Listras Baby@2@~
 3929@389310@Jaqueta Lemon Masculino Cinza Ziper@1@~
 17147@389311@Jaqueta Lemon Masculino Cinza Ziper@0@~
@@ -3583,15 +3430,15 @@
 17167@383616@Jaqueta Mania Kids Masculina Marrom@1@~
 3935@380876@Jaqueta Vrasalon Feminina Moletom Vermelha@1@~
 17169@380877@Jaqueta Vrasalon Feminina Moletom Vermelha@1@~
-3937@388173@Jaqueta Bana Bana Feminina Run Verde@0@~
+3937@388173@Jaqueta Bana Bana Feminina Run Verde@1@~
 17171@388174@Jaqueta Bana Bana Feminina Run Verde@0@~
-17173@388175@Jaqueta Bana Bana Feminina Run Verde@0@~
+17173@388175@Jaqueta Bana Bana Feminina Run Verde@1@~
 3939@389801@Sapatilha Pampili Malu Feminina Degrade Roxa@7@~
 17175@389802@Sapatilha Pampili Malu Feminina Degrade Roxa@1@~
-17177@389803@Sapatilha Pampili Malu Feminina Degrade Roxa@0@~
+17177@389803@Sapatilha Pampili Malu Feminina Degrade Roxa@1@~
 17179@389804@Sapatilha Pampili Malu Feminina Degrade Roxa@1@~
 17181@389805@Sapatilha Pampili Malu Feminina Degrade Roxa@1@~
-17183@389806@Sapatilha Pampili Malu Feminina Degrade Roxa@1@~
+17183@389806@Sapatilha Pampili Malu Feminina Degrade Roxa@0@~
 17185@389807@Sapatilha Pampili Malu Feminina Degrade Roxa@1@~
 17187@389808@Sapatilha Pampili Malu Feminina Degrade Roxa@1@~
 17189@389809@Sapatilha Pampili Malu Feminina Degrade Roxa@1@~
@@ -3601,10 +3448,10 @@
 17195@385818@Jaqueta Gangster Masculina Azul Marinho@1@~
 17197@385819@Jaqueta Gangster Masculina Azul Marinho@0@~
 17199@385820@Jaqueta Gangster Masculina Azul Marinho@1@~
-3947@388158@Saia Bana Bana Neon Verde Refletiva @1@~
+3947@388158@Saia Bana Bana Neon Verde Refletiva @2@~
 17211@388159@Saia Bana Bana Neon Verde Refletiva @0@~
 17213@388160@Saia Bana Bana Neon Verde Refletiva @1@~
-17215@388161@Saia Bana Bana Neon Verde Refletiva @0@~
+17215@388161@Saia Bana Bana Neon Verde Refletiva @1@~
 3951@382300@Jaqueta Banana Danger Masculina Capuz@1@~
 17229@382301@Jaqueta Banana Danger Masculina Capuz@1@~
 3953@387995@Jaqueta Karapalida Feminina Courino Marrom@4@~
@@ -3620,14 +3467,14 @@
 3957@382650@Abrigo Vrasalon Masculina Infantil Amarela@1@~
 17247@382651@Abrigo Vrasalon Masculina Infantil Amarela@1@~
 17249@382654@Abrigo Vrasalon Masculina Infantil Amarela@0@~
-3961@389999@Jaqueta Banana Danger Masculina Moletinho Preta @3@~
-17255@390000@Jaqueta Banana Danger Masculina Moletinho Preta @1@~
-17257@390001@Jaqueta Banana Danger Masculina Moletinho Preta @1@~
-17259@390002@Jaqueta Banana Danger Masculina Moletinho Preta @1@~
-3963@3900007@Jaqueta Banana Danger Masculina Sport@3@~
-17261@390008@Jaqueta Banana Danger Masculina Sport@1@~
-17263@390009@Jaqueta Banana Danger Masculina Sport@1@~
-17265@390010@Jaqueta Banana Danger Masculina Sport@1@~
+3961@389999@Jaqueta Banana Danger Masculina Infantil Moletinho Preta @3@~
+17255@390000@Jaqueta Banana Danger Masculina Infantil Moletinho Preta @1@~
+17257@390001@Jaqueta Banana Danger Masculina Infantil Moletinho Preta @1@~
+17259@390002@Jaqueta Banana Danger Masculina Infantil Moletinho Preta @1@~
+3963@390007@Jaqueta Banana Danger Masculina Infantil Sport@3@~
+17261@390008@Jaqueta Banana Danger Masculina Infantil Sport@1@~
+17263@390009@Jaqueta Banana Danger Masculina Infantil Sport@1@~
+17265@390010@Jaqueta Banana Danger Masculina Infantil Sport@1@~
 3965@383756@Calça Ogochi Masculina Sarja Infantil @9@~
 17267@390035@Calça Ogochi Masculina Sarja Infantil @1@~
 17269@390036@Calça Ogochi Masculina Sarja Infantil @2@~
@@ -3639,23 +3486,23 @@
 17279@386043@Calça Red Nose Masculina Elástico Cinza@3@~
 17281@386044@Calça Red Nose Masculina Elástico Cinza@0@~
 17283@386045@Calça Red Nose Masculina Elástico Cinza@0@~
-3969@389992@Jaqueta Banana Danger Masculina Moletinho  Infantil @2@~
-17285@389993@Jaqueta Banana Danger Masculina Moletinho  Infantil @1@~
-17287@389994@Jaqueta Banana Danger Masculina Moletinho  Infantil @1@~
+3969@389992@Jaqueta Banana Danger Masculina Infantil Moletinho@2@~
+17285@389993@Jaqueta Banana Danger Masculina Infantil Moletinho@1@~
+17287@389994@Jaqueta Banana Danger Masculina Infantil Moletinho@1@~
 3971@333848@Calça Ogochi Masculina Moletom Infantil Preta@14@~
 17289@338690@Calça Ogochi Masculina Moletom Infantil Preta@4@~
 17291@338691@Calça Ogochi Masculina Moletom Infantil Preta@4@~
 17293@338692@Calça Ogochi Masculina Moletom Infantil Preta@2@~
 17295@338693@Calça Ogochi Masculina Moletom Infantil Preta@0@~
 17297@338694@Calça Ogochi Masculina Moletom Infantil Preta@4@~
-3973@389979@conjunto Banana Danger Masculino Com Capuz @1@~
-17299@389980@conjunto Banana Danger Masculino Com Capuz @1@~
-17301@389981@conjunto Banana Danger Masculino Com Capuz @0@~
-3975@390015@Calça Banana Danger Masculina Jeans Jogger@6@~
+3973@389979@Conjunto Banana Danger Masculino Bebê Com Capuz @2@~
+17299@389980@Conjunto Banana Danger Masculino Bebê Com Capuz @1@~
+17301@389981@Conjunto Banana Danger Masculino Bebê Com Capuz @1@~
+3975@390015@Calça Banana Danger Masculina Jeans Jogger@4@~
 17303@390016@Calça Banana Danger Masculina Jeans Jogger@1@~
-17305@390017@Calça Banana Danger Masculina Jeans Jogger@1@~
+17305@390017@Calça Banana Danger Masculina Jeans Jogger@0@~
 17307@390018@Calça Banana Danger Masculina Jeans Jogger@1@~
-17309@390019@Calça Banana Danger Masculina Jeans Jogger@1@~
+17309@390019@Calça Banana Danger Masculina Jeans Jogger@0@~
 17311@390020@Calça Banana Danger Masculina Jeans Jogger@1@~
 17313@390021@Calça Banana Danger Masculina Jeans Jogger@1@~
 3977@389975@Jaqueta Banana Danger Masculina Calça Moletom@2@~
@@ -3710,34 +3557,37 @@
 17399@384185@Bota Petite Jolie Infantil Lobe Glitter Transparente@0@~
 4007@327402@Conjunto Camu Camu Short Saia Bata Esquilos@1@~
 17409@327403@Conjunto Camu Camu Short Saia Bata Esquilos@1@~
-4009@388475@Vestido Camu Camu Carambolas Azul Marinho@1@~
+4009@388474@Vestido Camu Camu Carambolas Azul Marinho@4@~
 17411@388475@Vestido Camu Camu Carambolas Azul Marinho@1@~
+20865@388478@Vestido Camu Camu Carambolas Azul Marinho@1@~
+20867@388477@Vestido Camu Camu Carambolas Azul Marinho@1@~
+20869@388476@Vestido Camu Camu Carambolas Azul Marinho@1@~
 4011@390284@Jaqueta Kukie Feminina Infantil Degrade@2@~
 17413@390285@Jaqueta Kukie Feminina Infantil Degrade@0@~
 17415@390287@Jaqueta Kukie Feminina Infantil Degrade@1@~
 17417@390288@Jaqueta Kukie Feminina Infantil Degrade@1@~
 17419@390289@Jaqueta Kukie Feminina Infantil Degrade@0@~
-4013@390380@Vestido Kukie Feminino Infantil Ursinhos Quadrinhos@2@~
-17421@390381@Vestido Kukie Feminino Infantil Ursinhos Quadrinhos@1@~
-17423@390382@Vestido Kukie Feminino Infantil Ursinhos Quadrinhos@1@~
-4015@390332@Calça Kukie Feminina Paete Preta @1@~
-17425@390333@Calça Kukie Feminina Paete Preta @1@~
+4013@390380@Vestido Kukie Feminino Bebê Ursinhos Quadrinhos@2@~
+17421@390381@Vestido Kukie Feminino Bebê Ursinhos Quadrinhos@1@~
+17423@390382@Vestido Kukie Feminino Bebê Ursinhos Quadrinhos@1@~
+4015@390332@Calça Kukie Feminina Bebê Paete Preta @1@~
+17425@390333@Calça Kukie Feminina Bebê Paete Preta @1@~
 4017@390280@Jaqueta Kukie Feminina Acolchoada Rosa@1@~
 17427@390281@Jaqueta Kukie Feminina Acolchoada Rosa@0@~
 17429@390282@Jaqueta Kukie Feminina Acolchoada Rosa@1@~
 17431@390283@Jaqueta Kukie Feminina Acolchoada Rosa@0@~
-4019@390422@Vestido Kukie Feminino Corações do Amor@2@~
-17433@390423@Vestido Kukie Feminino Corações do Amor@1@~
-17435@390424@Vestido Kukie Feminino Corações do Amor@1@~
-4021@390290@Jaqueta Kukie Feminina Jeans Urso Azul @1@~
-17436@390291@Jaqueta Kukie Feminina Jeans Urso Azul @1@~
-17437@390292@Jaqueta Kukie Feminina Jeans Urso Azul @0@~
-4025@390393@Vestido Kukie Feminino Infantil Ursinhos @1@~
-17441@390394@Vestido Kukie Feminino Infantil Ursinhos @0@~
-17443@390395@Vestido Kukie Feminino Infantil Ursinhos @1@~
-17445@390396@Vestido Kukie Feminino Infantil Ursinhos @0@~
-4027@390406@Vestido Kukie Feminino Infantil Cachorros@1@~
-17447@390407@Vestido Kukie Feminino Infantil Cachorros@1@~
+4019@390422@Vestido Kukie Feminino Bebê Corações do Amor@2@~
+17433@390423@Vestido Kukie Feminino Bebê Corações do Amor@1@~
+17435@390424@Vestido Kukie Feminino Bebê Corações do Amor@1@~
+4021@390290@Jaqueta Kukie Feminina Bebê Jeans Urso Azul @1@~
+17436@390291@Jaqueta Kukie Feminina Bebê Jeans Urso Azul @1@~
+17437@390292@Jaqueta Kukie Feminina Bebê Jeans Urso Azul @0@~
+4025@390393@Vestido Kukie Feminino Bebê Urso Jeans@1@~
+17441@390394@Vestido Kukie Feminino Bebê Urso Jeans@0@~
+17443@390395@Vestido Kukie Feminino Bebê Urso Jeans@1@~
+17445@390396@Vestido Kukie Feminino Bebê Urso Jeans@0@~
+4027@390406@Vestido Kukie Feminino Bebê Cachorros@1@~
+17447@390407@Vestido Kukie Feminino Bebê Cachorros@1@~
 4029@390408@Jaqueta Kukie Feminina Infantil Pelos@4@~
 17449@390409@Jaqueta Kukie Feminina Infantil Pelos@1@~
 17451@390410@Jaqueta Kukie Feminina Infantil Pelos@1@~
@@ -3748,9 +3598,9 @@
 17459@390364@Saia Kukie Feminina Pom Pom Preta @1@~
 17461@390365@Saia Kukie Feminina Pom Pom Preta @1@~
 17463@390366@Saia Kukie Feminina Pom Pom Preta @0@~
-4033@390710@Camisa Vic e Vicky Feminina Xadrez Vermelha@1@~
+4033@390710@Camisa Vic e Vicky Feminina Xadrez Vermelha@0@~
 17465@390711@Camisa Vic e Vicky Feminina Xadrez Vermelha@0@~
-17467@390712@Camisa Vic e Vicky Feminina Xadrez Vermelha@1@~
+17467@390712@Camisa Vic e Vicky Feminina Xadrez Vermelha@0@~
 4037@390801@Blusa Vic Vicky Feminina Emoji Preta@3@~
 17473@390804@Blusa Vic Vicky Feminina Emoji Preta@1@~
 17475@390805@Blusa Vic Vicky Feminina Emoji Preta@1@~
@@ -3760,9 +3610,9 @@
 17477@383753@Calça Ogochi Masculina Infantil Jeans Preta@1@~
 17479@383754@Calça Ogochi Masculina Infantil Jeans Preta@1@~
 17481@383755@Calça Ogochi Masculina Infantil Jeans Preta@2@~
-4041@390752@Short Vic Vicky Feminino Infantil Amarração @2@~
+4041@390752@Short Vic Vicky Feminino Infantil Amarração @1@~
 17483@390753@Short Vic Vicky Feminino Infantil Amarração @1@~
-17485@390754@Short Vic Vicky Feminino Infantil Amarração @1@~
+17485@390754@Short Vic Vicky Feminino Infantil Amarração @0@~
 17487@390755@Short Vic Vicky Feminino Infantil Amarração @0@~
 4043@391398@Calça Six One Masculina Infantil Bege@4@~
 17488@391400@Calça Six One Masculina Infantil Bege@1@~
@@ -3781,9 +3631,9 @@
 17507@390736@Saia Vic Vicky Feminina Infantil Preta@1@~
 4053@375410@Vestido Myra Mahy Feminino Infantil Sereia @1@~
 17509@375411@Vestido Myra Mahy Feminino Infantil Sereia @1@~
-4054@390321@Jardineira Kukie Feminina Infantil Jeans Azul@2@~
-17511@390322@Jardineira Kukie Feminina Infantil Jeans Azul@1@~
-17513@390323@Jardineira Kukie Feminina Infantil Jeans Azul@1@~
+4054@390321@Jardineira Kukie Feminina Bebê Jeans Azul@2@~
+17511@390322@Jardineira Kukie Feminina Bebê Jeans Azul@1@~
+17513@390323@Jardineira Kukie Feminina Bebê Jeans Azul@1@~
 4057@390339@Calça Jogger Kukie Feminino Infantil@5@~
 17537@390343@Calça Jogger Kukie Feminino Infantil@1@~
 17539@390344@Calça Jogger Kukie Feminino Infantil@1@~
@@ -3801,12 +3651,12 @@
 17557@390313@Short Saia Kukie Feminino Infantil @0@~
 17559@390314@Short Saia Kukie Feminino Infantil @0@~
 17561@390315@Short Saia Kukie Feminino Infantil @1@~
-4068@392906@Bolsa Petite Jolie PJ5093 One@4@~
+4068@392906@Bolsa Petite Jolie PJ5093 One@5@~
 17570@392910@Bolsa Petite Jolie PJ5093 One@0@~
 17575@392911@Bolsa Petite Jolie PJ5093 One@2@~
 17577@392908@Bolsa Petite Jolie PJ5093 One@1@~
 17579@392909@Bolsa Petite Jolie PJ5093 One@1@~
-17581@392907@Bolsa Petite Jolie PJ5093 One@0@~
+17581@392907@Bolsa Petite Jolie PJ5093 One@1@~
 4069@284385@Bolsa Petite Jolie PJ2121 Love@0@~
 17585@284387@Bolsa Petite Jolie PJ2121 Love@0@~
 17587@284386@Bolsa Petite Jolie PJ2121 Love@0@~
@@ -3815,11 +3665,6 @@
 18315@284385@Bolsa Petite Jolie PJ2121 Love@0@~
 18317@284385@Bolsa Petite Jolie PJ2121 Love@0@~
 18319@284385@Bolsa Petite Jolie PJ2121 Love@0@~
-4071@392883@Bolsa Petite Jolie PJ5013 Beverly@0@~
-17591@392886@Bolsa Petite Jolie PJ5013 Beverly@0@~
-17593@392885@Bolsa Petite Jolie PJ5013 Beverly@0@~
-17595@392884@Bolsa Petite Jolie PJ5013 Beverly@0@~
-17597@392887@Bolsa Petite Jolie PJ5013 Beverly@0@~
 4077@338381@Bolsa Petite Jolie PJ4117 Easy@1@~
 17607@339885@Bolsa Petite Jolie PJ4117 Easy@0@~
 17609@375467@Bolsa Petite Jolie PJ4117 Easy@0@~
@@ -3827,12 +3672,13 @@
 17613@392903@Bolsa Petite Jolie PJ4117 Easy@0@~
 17615@369599@Bolsa Petite Jolie PJ4117 Easy@1@~
 17617@392902@Bolsa Petite Jolie PJ4117 Easy@0@~
-4079@283451@Bolsa Petite Jolie PJ1540 Bloom@0@~
-17619@283454@Bolsa Petite Jolie PJ1540 Bloom@0@~
-17621@371640@Bolsa Petite Jolie PJ1540 Bloom@0@~
-17623@283452@Bolsa Petite Jolie PJ1540 Bloom@0@~
-17625@392872@Bolsa Petite Jolie PJ1540 Bloom@0@~
-17669@283455@Bolsa Petite Jolie PJ1540 Bloom@0@~
+4079@283451@Bolsa Petite Jolie PJ1540 Bau Bloom@7@~
+17619@283454@Bolsa Petite Jolie PJ1540 Bau Bloom@1@~
+17621@371640@Bolsa Petite Jolie PJ1540 Bau Bloom@0@~
+17623@283452@Bolsa Petite Jolie PJ1540 Bau Bloom@2@~
+17625@392872@Bolsa Petite Jolie PJ1540 Bau Bloom@0@~
+17669@283455@Bolsa Petite Jolie PJ1540 Bau Bloom@3@~
+21007@283456@Bolsa Petite Jolie PJ1540 Bau Bloom@1@~
 4081@392888@Bolsa Petite Jolie PJ5012 City@1@~
 17627@392892@Bolsa Petite Jolie PJ5012 City@0@~
 17629@392889@Bolsa Petite Jolie PJ5012 City@1@~
@@ -3841,9 +3687,9 @@
 4083@390731@Saia Vic e Vicky  Preta Curta com detalhes @2@~
 17635@390733@Saia Vic e Vicky  Preta Curta com detalhes @1@~
 17637@390732@Saia Vic e Vicky  Preta Curta com detalhes @1@~
-4085@390684@Shorts Saia Vic e Vicky Feminino Curto Jeans@2@~
+4085@390684@Shorts Saia Vic e Vicky Feminino Curto Jeans@1@~
 17639@390685@Shorts Saia Vic e Vicky Feminino Curto Jeans@0@~
-17641@390686@Shorts Saia Vic e Vicky Feminino Curto Jeans@1@~
+17641@390686@Shorts Saia Vic e Vicky Feminino Curto Jeans@0@~
 17643@390687@Shorts Saia Vic e Vicky Feminino Curto Jeans@1@~
 4086@390693@Jardineira Vic e Vick Feminina Infantil Jeans@2@~
 17645@390694@Jardineira Vic e Vick Feminina Infantil Jeans@1@~
@@ -3854,9 +3700,9 @@
 17653@390704@Jardineira Vic e Vicky Feminina Infantil Preta@1@~
 4095@390748@Jaqueta Vic e Vicky Feminina Infantil Preta Moletom@1@~
 17661@390749@Jaqueta Vic e Vicky Feminina Infantil Preta Moletom@1@~
-4096@390345@Jaqueta Vic e Vicky Malha Feminina Infantil Preta@3@~
-17667@390346@Jaqueta Vic e Vicky Malha Feminina Infantil Preta@3@~
-17668@390347@Jaqueta Vic e Vicky Malha Feminina Infantil Preta@0@~
+4096@390745@Jaqueta Vic e Vicky Malha Feminina Infantil Preta@3@~
+17667@390746@Jaqueta Vic e Vicky Malha Feminina Infantil Preta@3@~
+17668@390747@Jaqueta Vic e Vicky Malha Feminina Infantil Preta@0@~
 4099@361920@Vestido Camu Camu Feminino Infantil Azul@1@~
 17672@361922@Vestido Camu Camu Feminino Infantil Azul@1@~
 4101@361927@Vestido Camu Camu Feminino Infantil Azul@1@~
@@ -3882,34 +3728,36 @@
 4113@388496@Vestido Camu Camu Feminino Azul Longo@2@~
 17721@388497@Vestido Camu Camu Feminino Azul Longo@1@~
 17722@388498@Vestido Camu Camu Feminino Azul Longo@1@~
-4115@388503@Conjunto Camu Camu Feminino Tucanos@3@~
-17723@388504@Conjunto Camu Camu Feminino Tucanos@1@~
-17725@388505@Conjunto Camu Camu Feminino Tucanos@1@~
+4115@388503@Conjunto Camu Camu Feminino Tucanos@1@~
+17723@388504@Conjunto Camu Camu Feminino Tucanos@0@~
+17725@388505@Conjunto Camu Camu Feminino Tucanos@0@~
 17727@388506@Conjunto Camu Camu Feminino Tucanos@0@~
 17729@388507@Conjunto Camu Camu Feminino Tucanos@1@~
-4117@392893@Bolsa Petite Jolie Pj2415 Saddle@3@~
-17731@392896@Bolsa Petite Jolie Pj2415 Saddle@1@~
-17733@392894@Bolsa Petite Jolie Pj2415 Saddle@1@~
-17735@392895@Bolsa Petite Jolie Pj2415 Saddle@1@~
-4119@388470@Vestido Camu Camu Feminino Infantil Bananas@2@~
+4117@392893@Bolsa Petite Jolie PJ2415 Saddle@7@~
+17731@392896@Bolsa Petite Jolie PJ2415 Saddle@3@~
+17733@392894@Bolsa Petite Jolie PJ2415 Saddle@1@~
+17735@392895@Bolsa Petite Jolie PJ2415 Saddle@1@~
+20901@400563@Bolsa Petite Jolie PJ2415 Saddle@1@~
+21047@400564@Bolsa Petite Jolie PJ2415 Saddle@1@~
+4119@388470@Vestido Camu Camu Feminino Infantil Bananas@3@~
 17737@388471@Vestido Camu Camu Feminino Infantil Bananas@1@~
 17739@388472@Vestido Camu Camu Feminino Infantil Bananas@1@~
-17741@388473@Vestido Camu Camu Feminino Infantil Bananas@0@~
+17741@388473@Vestido Camu Camu Feminino Infantil Bananas@1@~
 4121@388512@Conjunto Camu Camu Feminino Pinguim@3@~
 17743@388513@Conjunto Camu Camu Feminino Pinguim@1@~
 17745@388514@Conjunto Camu Camu Feminino Pinguim@1@~
-17747@388515@Conjunto Camu Camu Feminino Pinguim@1@~
-17749@388516@Conjunto Camu Camu Feminino Pinguim@0@~
-4123@388517@Vestido Camu Camu Curto Feminino Tigre@5@~
+17747@388515@Conjunto Camu Camu Feminino Pinguim@0@~
+17749@388516@Conjunto Camu Camu Feminino Pinguim@1@~
+4123@388517@Vestido Camu Camu Curto Feminino Tigre@4@~
 17751@388518@Vestido Camu Camu Curto Feminino Tigre@1@~
 17753@388519@Vestido Camu Camu Curto Feminino Tigre@1@~
-17755@388520@Vestido Camu Camu Curto Feminino Tigre@1@~
+17755@388520@Vestido Camu Camu Curto Feminino Tigre@0@~
 17757@388521@Vestido Camu Camu Curto Feminino Tigre@1@~
 17759@388522@Vestido Camu Camu Curto Feminino Tigre@1@~
-4127@388530@Vestido Camu Camu Feminino Infantil Araras@2@~
+4127@388530@Vestido Camu Camu Feminino Infantil Araras@3@~
 17765@388531@Vestido Camu Camu Feminino Infantil Araras@1@~
 17767@388532@Vestido Camu Camu Feminino Infantil Araras@1@~
-17769@388533@Vestido Camu Camu Feminino Infantil Araras@0@~
+17769@388533@Vestido Camu Camu Feminino Infantil Araras@1@~
 17771@388534@Vestido Camu Camu Feminino Infantil Araras@0@~
 4129@388535@Vestido Camu Camu Feminino Onça @3@~
 17773@388536@Vestido Camu Camu Feminino Onça @1@~
@@ -3929,11 +3777,11 @@
 17793@388566@Conjunto Camu Camu Feminino Infantil Verde@0@~
 17795@388567@Conjunto Camu Camu Feminino Infantil Verde@0@~
 17797@388568@Conjunto Camu Camu Feminino Infantil Verde@0@~
-4139@388582@Vestido Camu Camu Feminino Xadrez Floral @0@~
+4139@388582@Vestido Camu Camu Feminino Xadrez Floral @1@~
 17799@388583@Vestido Camu Camu Feminino Xadrez Floral @0@~
 17801@388584@Vestido Camu Camu Feminino Xadrez Floral @0@~
 17803@388585@Vestido Camu Camu Feminino Xadrez Floral @0@~
-17805@388586@Vestido Camu Camu Feminino Xadrez Floral @0@~
+17805@388586@Vestido Camu Camu Feminino Xadrez Floral @1@~
 4141@388545@Vestido Camu Camu Feminino Infantil Flores Abstratas@1@~
 17807@388546@Vestido Camu Camu Feminino Infantil Flores Abstratas@1@~
 4143@388589@Vestido Camu Camu Feminino Infantil Flores@2@~
@@ -3941,11 +3789,11 @@
 17811@388591@Vestido Camu Camu Feminino Infantil Flores@1@~
 17813@388592@Vestido Camu Camu Feminino Infantil Flores@0@~
 17815@388593@Vestido Camu Camu Feminino Infantil Flores@0@~
-4145@391035@Vestido Nanai Feminino Infantil Flores@5@~
+4145@391035@Vestido Nanai Feminino Infantil Flores@4@~
 17817@391036@Vestido Nanai Feminino Infantil Flores@1@~
 17819@391037@Vestido Nanai Feminino Infantil Flores@1@~
 17821@391038@Vestido Nanai Feminino Infantil Flores@0@~
-17823@391039@Vestido Nanai Feminino Infantil Flores@1@~
+17823@391039@Vestido Nanai Feminino Infantil Flores@0@~
 17825@391040@Vestido Nanai Feminino Infantil Flores@1@~
 17827@391041@Vestido Nanai Feminino Infantil Flores@1@~
 4147@337863@Conjunto Carinhoso Feminino Infantil Vermelho @2@~
@@ -3969,20 +3817,20 @@
 17869@383127@Macacão Fábula Feminino Luna @1@~
 17871@383128@Macacão Fábula Feminino Luna @1@~
 17873@383129@Macacão Fábula Feminino Luna @1@~
-4157@384151@Bolsa Petite Jolie Pj4937 One@3@~
+4157@384151@Bolsa Petite Jolie Pj4937 One@2@~
 17863@384154@Bolsa Petite Jolie Pj4937 One@2@~
 17865@384152@Bolsa Petite Jolie Pj4937 One@0@~
-17867@384153@Bolsa Petite Jolie Pj4937 One@1@~
+17867@384153@Bolsa Petite Jolie Pj4937 One@0@~
 4159@383524@Vestido Fábula Feminino Infantil Flor Curto@2@~
 17875@383525@Vestido Fábula Feminino Infantil Flor Curto@1@~
 17877@3383526@Vestido Fábula Feminino Infantil Flor Curto@1@~
 17879@383527@Vestido Fábula Feminino Infantil Flor Curto@0@~
-4161@383120@Vestido Fábula Feminino Zoo Curto Verde@4@~
+4161@383120@Vestido Fábula Feminino Zoo Curto Verde@3@~
 17881@383121@Vestido Fábula Feminino Zoo Curto Verde@0@~
 17883@383122@Vestido Fábula Feminino Zoo Curto Verde@1@~
 17885@383123@Vestido Fábula Feminino Zoo Curto Verde@1@~
 17887@383124@Vestido Fábula Feminino Zoo Curto Verde@1@~
-17889@383125@Vestido Fábula Feminino Zoo Curto Verde@1@~
+17889@383125@Vestido Fábula Feminino Zoo Curto Verde@0@~
 4163@383528@Calça Fabula Feminina Legging Bicharada Branca@2@~
 17891@383529@Calça Fabula Feminina Legging Bicharada Branca@0@~
 17893@383530@Calça Fabula Feminina Legging Bicharada Branca@0@~
@@ -4023,7 +3871,7 @@
 17961@391131@Vestido Milon Feminino Manga Longa @1@~
 17963@391132@Vestido Milon Feminino Manga Longa @0@~
 17965@391133@Vestido Milon Feminino Manga Longa @0@~
-4187@391882@Jaqueta Red Nose Masculina Esportiva Kids@14@~
+4187@391882@Jaqueta Red Nose Masculina Esportiva Kids@13@~
 17967@391887@Jaqueta Red Nose Masculina Esportiva Kids@1@~
 17969@391888@Jaqueta Red Nose Masculina Esportiva Kids@2@~
 17971@391889@Jaqueta Red Nose Masculina Esportiva Kids@1@~
@@ -4031,7 +3879,7 @@
 17975@391883@Jaqueta Red Nose Masculina Esportiva Kids@1@~
 17977@391884@Jaqueta Red Nose Masculina Esportiva Kids@2@~
 17979@391885@Jaqueta Red Nose Masculina Esportiva Kids@2@~
-17981@391886@Jaqueta Red Nose Masculina Esportiva Kids@1@~
+17981@391886@Jaqueta Red Nose Masculina Esportiva Kids@0@~
 17983@391891@Jaqueta Red Nose Masculina Esportiva Kids@1@~
 17985@391892@Jaqueta Red Nose Masculina Esportiva Kids@2@~
 17987@391893@Jaqueta Red Nose Masculina Esportiva Kids@1@~
@@ -4093,21 +3941,15 @@
 20509@400289@Naninha Hug Baby Bear Névoa@1@~
 4215@394474@Babadores Hug 2 Unidades Floresta Encantada@1@~
 18099@394475@Babadores Hug 2 Unidades Floresta Encantada@1@~
-4217@394472@Babadores Hug 2 Unidades Névoa Azul@1@~
-18101@394473@Babadores Hug 2 Unidades Névoa Azul@1@~
 4219@393667@Copo Nuby Gator Grip Canudo Flip-It 450ml@4@~
 18105@393668@Copo Nuby Gator Grip Canudo Flip-It 450ml@0@~
 18107@393669@Copo Nuby Gator Grip Canudo Flip-It 450ml@4@~
 4223@394476@Babadores Hug 2 Unidades Floresta Encantada@1@~
 18111@394477@Babadores Hug 2 Unidades Floresta Encantada@1@~
-4229@394522@Capa Bebê Conforto Hug Festa dos Bichos @0@~
-18129@394523@Capa Bebê Conforto Hug Festa dos Bichos @0@~
+4229@394522@Capa Bebê Conforto Hug Festa dos Bichos @1@~
+18129@394523@Capa Bebê Conforto Hug Festa dos Bichos @1@~
 4231@394528@Capa Bebê Conforto Hug Happy Zoo@1@~
 18189@394529@Capa Bebê Conforto Hug Happy Zoo@1@~
-4237@394524@Capa Bebe Conforto Hug Névoa@1@~
-18135@394525@Capa Bebe Conforto Hug Névoa@1@~
-4241@394496@Cueiro Hug Melhores Amigos Camurça@1@~
-18139@394497@Cueiro Hug Melhores Amigos Camurça@1@~
 4243@394492@Cueiro Hug Bosque Azul@2@~
 18141@394493@Cueiro Hug Bosque Azul@2@~
 4247@394507@Cueiro Hug Happy Zoo @1@~
@@ -4124,56 +3966,50 @@
 4259@394441@Frasqueira Térmica Hug Névoa @2@~
 18523@394442@Frasqueira Térmica Hug Névoa @1@~
 18525@398446@Frasqueira Térmica Hug Névoa @1@~
-4261@394439@Mochila Maternidade Hug Névoa Rosa@1@~
-18165@394440@Mochila Maternidade Hug Névoa Rosa@1@~
-4263@394435@Mochila Maternidade Hug Colméia @1@~
-18167@394436@Mochila Maternidade Hug Colméia @1@~
+4261@394439@Mochila Maternidade Hug Névoa Rosa@0@~
+18165@394440@Mochila Maternidade Hug Névoa Rosa@0@~
 4269@327714@Mochila Maternidade Hug Barcelona@1@~
 18173@394430@Mochila Maternidade Hug Barcelona@1@~
 4279@342775@Bolsa Maternidade Hug Dublin G@3@~
 18183@342776@Bolsa Maternidade Hug Dublin G@1@~
 18517@398455@Bolsa Maternidade Hug Dublin G@1@~
 18519@398448@Bolsa Maternidade Hug Dublin G@1@~
-4283@342773@Bolsa Maternidade Hug Nancy G@0@~
-18187@342774@Bolsa Maternidade Hug Nancy G@0@~
-4289@394517@Segura Bebê Hug Pedacinho do Céu @3@~
+4289@394517@Segura Bebê Hug Pedacinho do Céu @4@~
 18223@394519@Segura Bebê Hug Pedacinho do Céu @2@~
-18225@394518@Segura Bebê Hug Pedacinho do Céu @1@~
-4295@394459@Almofada Amamentação Hug Névoa Azul@1@~
-18205@394460@Almofada Amamentação Hug Névoa Azul@1@~
-4297@394461@Almofada de Amamentação Hug Pedacinho do Céu@1@~
-18207@394462@Almofada de Amamentação Hug Pedacinho do Céu@1@~
-4301@334112@Conjunto Vic e Vicky Saia You Can Call Me@2@~
+18225@394518@Segura Bebê Hug Pedacinho do Céu @2@~
+4297@394461@Almofada de Amamentação Hug Pedacinho do Céu@2@~
+18207@394462@Almofada de Amamentação Hug Pedacinho do Céu@2@~
+4301@334112@Conjunto Vic e Vicky Saia You Can Call Me@1@~
 18209@334113@Conjunto Vic e Vicky Saia You Can Call Me@1@~
 18211@334114@Conjunto Vic e Vicky Saia You Can Call Me@0@~
-18213@334115@Conjunto Vic e Vicky Saia You Can Call Me@1@~
+18213@334115@Conjunto Vic e Vicky Saia You Can Call Me@0@~
 4303@326380@Casaco Vic e Vicky Pelo Marinho@2@~
 18215@326381@Casaco Vic e Vicky Pelo Marinho@1@~
 18217@326382@Casaco Vic e Vicky Pelo Marinho@1@~
-4313@396249@Tênis Pampili Led Born to Shine Sneaker Preto@2@~
+4313@396249@Tênis Pampili Led Born to Shine Sneaker Preto@1@~
 18271@396250@Tênis Pampili Led Born to Shine Sneaker Preto@0@~
 18273@396251@Tênis Pampili Led Born to Shine Sneaker Preto@0@~
-18275@396252@Tênis Pampili Led Born to Shine Sneaker Preto@2@~
+18275@396252@Tênis Pampili Led Born to Shine Sneaker Preto@1@~
 18277@396253@Tênis Pampili Led Born to Shine Sneaker Preto@0@~
 18279@396254@Tênis Pampili Led Born to Shine Sneaker Preto@0@~
 18281@396255@Tênis Pampili Led Born to Shine Sneaker Preto@0@~
 18283@396256@Tênis Pampili Led Born to Shine Sneaker Preto@0@~
 18285@396257@Tênis Pampili Led Born to Shine Sneaker Preto@0@~
-4315@344241@Tenis Pampili Luluca Infantil Cano Alto Rosa Gliter e Patches@8@~
+4315@344241@Tenis Pampili Luluca Infantil Cano Alto Rosa Gliter e Patches@5@~
 18287@396239@Tenis Pampili Luluca Infantil Cano Alto Rosa Gliter e Patches@1@~
 18289@396240@Tenis Pampili Luluca Infantil Cano Alto Rosa Gliter e Patches@0@~
 18291@396241@Tenis Pampili Luluca Infantil Cano Alto Rosa Gliter e Patches@0@~
 18293@396242@Tenis Pampili Luluca Infantil Cano Alto Rosa Gliter e Patches@0@~
 18295@396243@Tenis Pampili Luluca Infantil Cano Alto Rosa Gliter e Patches@0@~
 18297@396244@Tenis Pampili Luluca Infantil Cano Alto Rosa Gliter e Patches@0@~
-18299@396245@Tenis Pampili Luluca Infantil Cano Alto Rosa Gliter e Patches@1@~
+18299@396245@Tenis Pampili Luluca Infantil Cano Alto Rosa Gliter e Patches@0@~
 18301@396246@Tenis Pampili Luluca Infantil Cano Alto Rosa Gliter e Patches@1@~
-18303@396247@Tenis Pampili Luluca Infantil Cano Alto Rosa Gliter e Patches@2@~
+18303@396247@Tenis Pampili Luluca Infantil Cano Alto Rosa Gliter e Patches@0@~
 18305@396248@Tenis Pampili Luluca Infantil Cano Alto Rosa Gliter e Patches@2@~
 19351@399621@Tenis Pampili Luluca Infantil Cano Alto Rosa Gliter e Patches@1@~
 19353@399622@Tenis Pampili Luluca Infantil Cano Alto Rosa Gliter e Patches@0@~
-4317@396258@Tenis Pampili LED Glitter Rosa Sneaker Infantil@2@~
-18307@396259@Tenis Pampili LED Glitter Rosa Sneaker Infantil@2@~
+4317@396258@Tenis Pampili LED Glitter Rosa Sneaker Infantil@1@~
+18307@396259@Tenis Pampili LED Glitter Rosa Sneaker Infantil@1@~
 18309@396260@Tenis Pampili LED Glitter Rosa Sneaker Infantil@0@~
 18311@396261@Tenis Pampili LED Glitter Rosa Sneaker Infantil@0@~
 18313@396262@Tenis Pampili LED Glitter Rosa Sneaker Infantil@0@~
@@ -4182,13 +4018,11 @@
 18323@387466@Legging Alto Giro Up Co2 laser Leaked@1@~
 4321@385667@Top Alto Giro Light Degrade Dupla Face@1@~
 18327@385669@Top Alto Giro Light Degrade Dupla Face@1@~
-4323@387517@Legging Alto Giro Atletika Disconnect@1@~
-18329@387519@Legging Alto Giro Atletika Disconnect@1@~
 4325@387460@Shorts Alto Giro Summit Muay Thai@1@~
 18331@387461@Shorts Alto Giro Summit Muay Thai@1@~
-4327@385302@Legging Alto Giro Atletika Elastic Point@3@~
+4327@385302@Legging Alto Giro Atletika Elastic Point@2@~
 18333@385303@Legging Alto Giro Atletika Elastic Point@1@~
-18335@385304@Legging Alto Giro Atletika Elastic Point@1@~
+18335@385304@Legging Alto Giro Atletika Elastic Point@0@~
 18337@385305@Legging Alto Giro Atletika Elastic Point@1@~
 4331@385335@Shorts Alto Giro Moletom Three Cables Printed@3@~
 18343@385338@Shorts Alto Giro Moletom Three Cables Printed@1@~
@@ -4210,14 +4044,14 @@
 18369@385629@Top Alto Giro Squash Emana Recortes Tela@1@~
 4343@387470@Jaqueta Alto Giro Body Prene Evolution Dupla Face@1@~
 18371@387471@Jaqueta Alto Giro Body Prene Evolution Dupla Face@1@~
-4345@385657@Legging Alto Giro Atletic Recortes Rosa@2@~
+4345@385657@Legging Alto Giro Atletic Recortes Rosa@1@~
 18373@385659@Legging Alto Giro Atletic Recortes Rosa@1@~
-18375@385660@Legging Alto Giro Atletic Recortes Rosa@1@~
+18375@385660@Legging Alto Giro Atletic Recortes Rosa@0@~
 4347@387505@Regata Alto Giro Leggerissimo Tie Dye@1@~
 18377@387506@Regata Alto Giro Leggerissimo Tie Dye@1@~
-4349@385306@Legging Alto Giro Squash Emana Assimetrica@3@~
+4349@385306@Legging Alto Giro Squash Emana Assimetrica@2@~
 18379@385307@Legging Alto Giro Squash Emana Assimetrica@1@~
-18381@385308@Legging Alto Giro Squash Emana Assimetrica@2@~
+18381@385308@Legging Alto Giro Squash Emana Assimetrica@1@~
 4351@385605@Legging Alto Giro Up Co2 Atlanta Barriga Zero@3@~
 18383@385606@Legging Alto Giro Up Co2 Atlanta Barriga Zero@1@~
 18385@387462@Legging Alto Giro Up Co2 Atlanta Barriga Zero@1@~
@@ -4238,34 +4072,36 @@
 18409@387513@Legging Alto Giro Atletika Laser Stripes@1@~
 4359@387470@Blusa Alto Giro Body Prene Evolution Azul Escuro@1@~
 18411@387471@Blusa Alto Giro Body Prene Evolution Azul Escuro@1@~
-4363@385312@Legging Alto Giro Atlanta Cutting Suzuka@3@~
-18413@385313@Legging Alto Giro Atlanta Cutting Suzuka@1@~
-18415@385637@Legging Alto Giro Atlanta Cutting Suzuka@1@~
+4363@385312@Legging Alto Giro Atlanta Cutting Suzuka@1@~
+18413@385313@Legging Alto Giro Atlanta Cutting Suzuka@0@~
+18415@385637@Legging Alto Giro Atlanta Cutting Suzuka@0@~
 18417@385638@Legging Alto Giro Atlanta Cutting Suzuka@1@~
 4365@387497@Jaqueta Alto Giro Bahamas Elastic Capuz@1@~
 18431@387498@Jaqueta Alto Giro Bahamas Elastic Capuz@1@~
 18433@387499@Jaqueta Alto Giro Bahamas Elastic Capuz@0@~
 18435@387500@Jaqueta Alto Giro Bahamas Elastic Capuz@0@~
-4369@380713@Bolsa Petite Jolie PJ4985 Pretty@1@~
+4369@380713@Bolsa Petite Jolie PJ4985 Pretty@7@~
 18443@380714@Bolsa Petite Jolie PJ4985 Pretty@1@~
-18445@380805@Bolsa Petite Jolie PJ4985 Pretty@0@~
-18447@397537@Bolsa Petite Jolie PJ4985 Pretty@0@~
-4371@397539@Bolsa Petite Jolie PJ5007 Cassy Vermelha@1@~
+18445@380805@Bolsa Petite Jolie PJ4985 Pretty@2@~
+18447@397537@Bolsa Petite Jolie PJ4985 Pretty@2@~
+20879@380806@Bolsa Petite Jolie PJ4985 Pretty@1@~
+20881@380715@Bolsa Petite Jolie PJ4985 Pretty@1@~
+4371@397539@Bolsa Petite Jolie PJ5007 Cassy Vermelha@2@~
 18449@397540@Bolsa Petite Jolie PJ5007 Cassy Vermelha@0@~
-20639@397542@Bolsa Petite Jolie PJ5007 Cassy Vermelha@1@~
-4375@384161@Mochila Petite Jolie PJ4992 Isla@3@~
-18453@384162@Mochila Petite Jolie PJ4992 Isla@1@~
+20639@397542@Bolsa Petite Jolie PJ5007 Cassy Vermelha@2@~
+4375@384161@Mochila Petite Jolie PJ4992 Isla@2@~
+18453@384162@Mochila Petite Jolie PJ4992 Isla@0@~
 18455@384163@Mochila Petite Jolie PJ4992 Isla@2@~
-4381@398117@Cobertor Camesa Baby Microfibra Bolinhas@5@~
-18457@398119@Cobertor Camesa Baby Microfibra Bolinhas@3@~
+4381@398117@Cobertor Camesa Baby Microfibra Bolinhas@4@~
+18457@398119@Cobertor Camesa Baby Microfibra Bolinhas@2@~
 18459@398118@Cobertor Camesa Baby Microfibra Bolinhas@2@~
 18461@398120@Cobertor Camesa Baby Microfibra Bolinhas@0@~
 4383@398121@Cobertor Camesa Baby Microfibra Patchwork @2@~
 18463@398124@Cobertor Camesa Baby Microfibra Patchwork @0@~
 18465@398122@Cobertor Camesa Baby Microfibra Patchwork @0@~
 18467@398123@Cobertor Camesa Baby Microfibra Patchwork @2@~
-4385@398128@Cobertor Camesa Baby Flannel Elefantes@3@~
-18469@398130@Cobertor Camesa Baby Flannel Elefantes@1@~
+4385@398128@Cobertor Camesa Baby Flannel Elefantes@4@~
+18469@398130@Cobertor Camesa Baby Flannel Elefantes@2@~
 18471@398129@Cobertor Camesa Baby Flannel Elefantes@2@~
 4387@398125@Cobertor Camesa Baby Flannel Dino @5@~
 18473@398127@Cobertor Camesa Baby Flannel Dino @0@~
@@ -4276,11 +4112,11 @@
 4391@398131@Pijama Fantasia Camesa Baby Infantil Antialergénico@8@~
 18507@398132@Pijama Fantasia Camesa Baby Infantil Antialergénico@6@~
 18509@398134@Pijama Fantasia Camesa Baby Infantil Antialergénico@2@~
-4395@398391@Tenis Tanara Tratorado Dourado T4201@5@~
-18485@398392@Tenis Tanara Tratorado Dourado T4201@1@~
+4395@398391@Tenis Tanara Tratorado Dourado T4201@3@~
+18485@398392@Tenis Tanara Tratorado Dourado T4201@0@~
 18487@398393@Tenis Tanara Tratorado Dourado T4201@0@~
 18489@398394@Tenis Tanara Tratorado Dourado T4201@1@~
-18491@398395@Tenis Tanara Tratorado Dourado T4201@2@~
+18491@398395@Tenis Tanara Tratorado Dourado T4201@1@~
 18493@398396@Tenis Tanara Tratorado Dourado T4201@1@~
 4397@398403@Tenis Tanara Tratorado Rosa Dad Sneaker T4182@6@~
 18495@398404@Tenis Tanara Tratorado Rosa Dad Sneaker T4182@1@~
@@ -4294,9 +4130,9 @@
 18557@398450@Mochila Hug Versatile Azul Marinho@1@~
 4405@398451@Frasqueira Hug Mônaco Rosa Termica@1@~
 18527@398452@Frasqueira Hug Mônaco Rosa Termica@1@~
-4407@398461@Kit Lençol Hug Berço Azul@3@~
+4407@398461@Kit Lençol Hug Berço Azul@4@~
 18537@398463@Kit Lençol Hug Berço Azul@2@~
-18539@398462@Kit Lençol Hug Berço Azul@1@~
+18539@398462@Kit Lençol Hug Berço Azul@2@~
 4409@398457@Bolsa Maternidade Hug Colmeia M@2@~
 18541@398458@Bolsa Maternidade Hug Colmeia M@1@~
 18545@398459@Bolsa Maternidade Hug Colmeia M@1@~
@@ -4328,14 +4164,14 @@
 18573@398475@Segura Bebê Hug Jardim@1@~
 4439@398491@Porta Bebê Hug Jardim Borboletas@1@~
 18575@398492@Porta Bebê Hug Jardim Borboletas@1@~
-4441@398557@Tenis Lia Line Courino Preto@6@~
+4441@398557@Tenis Lia Line Courino Preto@3@~
 18589@398558@Tenis Lia Line Courino Preto@0@~
-18591@398559@Tenis Lia Line Courino Preto@1@~
-18593@398560@Tenis Lia Line Courino Preto@1@~
-18595@398561@Tenis Lia Line Courino Preto@2@~
+18591@398559@Tenis Lia Line Courino Preto@0@~
+18593@398560@Tenis Lia Line Courino Preto@0@~
+18595@398561@Tenis Lia Line Courino Preto@1@~
 18597@398562@Tenis Lia Line Courino Preto@1@~
 18599@398563@Tenis Lia Line Courino Preto@1@~
-4443@398544@Tenis Lia Line Feminino Slip On Rosa@8@~
+4443@398544@Tenis Lia Line Feminino Slip On Rosa@7@~
 18601@398545@Tenis Lia Line Feminino Slip On Rosa@1@~
 18603@398546@Tenis Lia Line Feminino Slip On Rosa@0@~
 18605@398547@Tenis Lia Line Feminino Slip On Rosa@0@~
@@ -4343,7 +4179,7 @@
 18609@398549@Tenis Lia Line Feminino Slip On Rosa@0@~
 18611@398550@Tenis Lia Line Feminino Slip On Rosa@1@~
 18625@398551@Tenis Lia Line Feminino Slip On Rosa@0@~
-18627@398552@Tenis Lia Line Feminino Slip On Rosa@1@~
+18627@398552@Tenis Lia Line Feminino Slip On Rosa@0@~
 18629@398553@Tenis Lia Line Feminino Slip On Rosa@0@~
 18631@398554@Tenis Lia Line Feminino Slip On Rosa@2@~
 18633@398555@Tenis Lia Line Feminino Slip On Rosa@2@~
@@ -4357,13 +4193,11 @@
 18623@398570@Tenis Lia Line Knit Sport@0@~
 4447@398468@Almofada Amamentação Hug  Jardim Rosa @1@~
 18637@398469@Almofada Amamentação Hug  Jardim Rosa @1@~
-4449@398472@Almofada Amamentação Hug Little Dreamer @1@~
-18639@398473@Almofada Amamentação Hug Little Dreamer @1@~
 4451@398453@Bolsa Maternidade Hug Vintage G Rosa@1@~
 18643@398454@Bolsa Maternidade Hug Vintage G Rosa@1@~
-4453@398398@Tenis Tanara Tratorado T4204 Bege@2@~
+4453@398398@Tenis Tanara Tratorado T4204 Bege@3@~
 18645@398399@Tenis Tanara Tratorado T4204 Bege@1@~
-18647@398400@Tenis Tanara Tratorado T4204 Bege@1@~
+18647@398400@Tenis Tanara Tratorado T4204 Bege@2@~
 18649@348401@Tenis Tanara Tratorado T4204 Bege@0@~
 4459@335298@Saida Maternidade Mundo Faz De Conta 2 Peças@1@~
 4461@268402@Saida Maternidade Colibri 2 Peças @1@~
@@ -4384,8 +4218,6 @@
 4471@396768@Kit Bolsas Maternidade Merver Urso Prada@1@~
 18673@396769@Kit Bolsas Maternidade Merver Urso Prada@0@~
 18675@396770@Kit Bolsas Maternidade Merver Urso Prada@1@~
-4473@396781@Kit Bolsas Maternidade Merver Milão Urso Aplicado@1@~
-18677@396782@Kit Bolsas Maternidade Merver Milão Urso Aplicado@1@~
 4475@396783@Mochila Maternidade Merver Prada Urso G@2@~
 18679@396784@Mochila Maternidade Merver Prada Urso G@0@~
 18681@396785@Mochila Maternidade Merver Prada Urso G@1@~
@@ -4403,8 +4235,8 @@
 18695@396795@Mochila Maternidade Merver Dinossauro ou Bailarina P@1@~
 18697@385241@Mochila Maternidade Merver Dinossauro ou Bailarina P@2@~
 4487@384175@Tenis Petite Jolie PJ4822 Lupita@2@~
-18699@384178@Tenis Petite Jolie PJ4822 Lupita@0@~
-18701@384179@Tenis Petite Jolie PJ4822 Lupita@2@~
+18699@384178@Tenis Petite Jolie PJ4822 Lupita@1@~
+18701@384179@Tenis Petite Jolie PJ4822 Lupita@1@~
 4489@396803@Mochila Maternidade Merver Urso G Rosa@1@~
 18703@396804@Mochila Maternidade Merver Urso G Rosa@1@~
 4491@398150@Jardineira Look Jeans Feminina Rosa @2@~
@@ -4431,11 +4263,11 @@
 18735@398177@Saia Look Jeans Feminina Babado @1@~
 18737@398178@Saia Look Jeans Feminina Babado @1@~
 18739@398179@Saia Look Jeans Feminina Babado @1@~
-4503@398207@Calça Look Jeans Pantacourt Feminina Azul@3@~
+4503@398207@Calça Look Jeans Pantacourt Feminina Azul@4@~
 18741@398208@Calça Look Jeans Pantacourt Feminina Azul@1@~
 18743@398209@Calça Look Jeans Pantacourt Feminina Azul@1@~
 18745@398210@Calça Look Jeans Pantacourt Feminina Azul@1@~
-18747@398211@Calça Look Jeans Pantacourt Feminina Azul@0@~
+18747@398211@Calça Look Jeans Pantacourt Feminina Azul@1@~
 4505@398199@Blusa Feminina Floral Look Jeans @2@~
 18749@398200@Blusa Feminina Floral Look Jeans @1@~
 18751@398201@Blusa Feminina Floral Look Jeans @1@~
@@ -4444,15 +4276,15 @@
 18755@398167@Jaqueta Look Jeans Feminina Couro Preta@1@~
 18757@398168@Jaqueta Look Jeans Feminina Couro Preta@1@~
 18759@398169@Jaqueta Look Jeans Feminina Couro Preta@1@~
-4509@398194@Shorts Look Jeans Feminino Preto@4@~
+4509@398194@Shorts Look Jeans Feminino Preto@3@~
 18761@398195@Shorts Look Jeans Feminino Preto@1@~
 18763@398196@Shorts Look Jeans Feminino Preto@1@~
-18765@398197@Shorts Look Jeans Feminino Preto@1@~
+18765@398197@Shorts Look Jeans Feminino Preto@0@~
 18767@398198@Shorts Look Jeans Feminino Preto@1@~
-4511@398159@Jaqueta Look Jeans Masculina Infantil Verde@4@~
+4511@398159@Jaqueta Look Jeans Masculina Infantil Verde@3@~
 18769@398160@Jaqueta Look Jeans Masculina Infantil Verde@1@~
 18771@398161@Jaqueta Look Jeans Masculina Infantil Verde@1@~
-18773@398162@Jaqueta Look Jeans Masculina Infantil Verde@1@~
+18773@398162@Jaqueta Look Jeans Masculina Infantil Verde@0@~
 18775@398163@Jaqueta Look Jeans Masculina Infantil Verde@1@~
 4513@398233@Calça Look Jeans Masculina Camuflada @1@~
 18777@398234@Calça Look Jeans Masculina Camuflada @0@~
@@ -4474,54 +4306,54 @@
 18809@398142@Jardineira Look Jeans Masculina Infantil Verde@1@~
 18811@398143@Jardineira Look Jeans Masculina Infantil Verde@0@~
 18813@398144@Jardineira Look Jeans Masculina Infantil Verde@1@~
-4523@398646@Tenis Sua Cia Feminino Casual Branco @3@~
+4523@398646@Tenis Sua Cia Feminino Casual Branco @1@~
 18815@398647@Tenis Sua Cia Feminino Casual Branco @0@~
-18817@398648@Tenis Sua Cia Feminino Casual Branco @1@~
+18817@398648@Tenis Sua Cia Feminino Casual Branco @0@~
 18819@398649@Tenis Sua Cia Feminino Casual Branco @0@~
 18821@398651@Tenis Sua Cia Feminino Casual Branco @1@~
 18823@398652@Tenis Sua Cia Feminino Casual Branco @0@~
-18839@398650@Tenis Sua Cia Feminino Casual Branco @1@~
-4525@398680@Sapatilha Sua Cia Feminina Preta@4@~
+18839@398650@Tenis Sua Cia Feminino Casual Branco @0@~
+4525@398680@Sapatilha Sua Cia Feminina Preta@3@~
 18825@398681@Sapatilha Sua Cia Feminina Preta@1@~
 18827@398682@Sapatilha Sua Cia Feminina Preta@0@~
-18829@398683@Sapatilha Sua Cia Feminina Preta@1@~
+18829@398683@Sapatilha Sua Cia Feminina Preta@0@~
 18831@398684@Sapatilha Sua Cia Feminina Preta@0@~
 18833@398685@Sapatilha Sua Cia Feminina Preta@0@~
 18835@398686@Sapatilha Sua Cia Feminina Preta@1@~
 18837@398687@Sapatilha Sua Cia Feminina Preta@1@~
-4527@398688@Sapatilha Sua Cia Feminina Laço Rosa @10@~
+4527@398688@Sapatilha Sua Cia Feminina Laço Rosa @6@~
 18841@398689@Sapatilha Sua Cia Feminina Laço Rosa @1@~
-18843@398690@Sapatilha Sua Cia Feminina Laço Rosa @1@~
-18845@398691@Sapatilha Sua Cia Feminina Laço Rosa @3@~
-18847@398692@Sapatilha Sua Cia Feminina Laço Rosa @3@~
+18843@398690@Sapatilha Sua Cia Feminina Laço Rosa @0@~
+18845@398691@Sapatilha Sua Cia Feminina Laço Rosa @1@~
+18847@398692@Sapatilha Sua Cia Feminina Laço Rosa @2@~
 18849@398693@Sapatilha Sua Cia Feminina Laço Rosa @1@~
 18851@398694@Sapatilha Sua Cia Feminina Laço Rosa @1@~
-4529@398703@Sapatilha Sua Cia Feminina Easy Rosa@5@~
+4529@398703@Sapatilha Sua Cia Feminina Easy Rosa@3@~
 18853@390704@Sapatilha Sua Cia Feminina Easy Rosa@1@~
-18855@390705@Sapatilha Sua Cia Feminina Easy Rosa@2@~
+18855@390705@Sapatilha Sua Cia Feminina Easy Rosa@1@~
 18857@390706@Sapatilha Sua Cia Feminina Easy Rosa@1@~
-18859@390707@Sapatilha Sua Cia Feminina Easy Rosa@1@~
+18859@390707@Sapatilha Sua Cia Feminina Easy Rosa@0@~
 18861@390708@Sapatilha Sua Cia Feminina Easy Rosa@0@~
 18863@390709@Sapatilha Sua Cia Feminina Easy Rosa@0@~
-4531@398695@Sapatilha Sua Cia Feminina Verde Verniz @8@~
+4531@398695@Sapatilha Sua Cia Feminina Verde Verniz @7@~
 18865@398696@Sapatilha Sua Cia Feminina Verde Verniz @0@~
 18867@398697@Sapatilha Sua Cia Feminina Verde Verniz @0@~
 18869@398698@Sapatilha Sua Cia Feminina Verde Verniz @2@~
 18871@398699@Sapatilha Sua Cia Feminina Verde Verniz @2@~
-18873@398700@Sapatilha Sua Cia Feminina Verde Verniz @2@~
+18873@398700@Sapatilha Sua Cia Feminina Verde Verniz @1@~
 18875@398701@Sapatilha Sua Cia Feminina Verde Verniz @1@~
 18877@398702@Sapatilha Sua Cia Feminina Verde Verniz @1@~
-4533@398653@Tenis Sua Cia Feminino Slip On Napa Soft @9@~
+4533@398653@Tenis Sua Cia Feminino Slip On Napa Soft @10@~
 18879@398654@Tenis Sua Cia Feminino Slip On Napa Soft @1@~
 18881@398655@Tenis Sua Cia Feminino Slip On Napa Soft @1@~
 18883@398656@Tenis Sua Cia Feminino Slip On Napa Soft @2@~
 18885@398657@Tenis Sua Cia Feminino Slip On Napa Soft @3@~
-18887@398658@Tenis Sua Cia Feminino Slip On Napa Soft @1@~
+18887@398658@Tenis Sua Cia Feminino Slip On Napa Soft @2@~
 18889@398659@Tenis Sua Cia Feminino Slip On Napa Soft @1@~
 4535@398673@Tenis Sua Cia Tratorado Cadarço Rose@11@~
 18891@398674@Tenis Sua Cia Tratorado Cadarço Rose@1@~
-18893@398675@Tenis Sua Cia Tratorado Cadarço Rose@2@~
-18895@398676@Tenis Sua Cia Tratorado Cadarço Rose@2@~
+18893@398675@Tenis Sua Cia Tratorado Cadarço Rose@1@~
+18895@398676@Tenis Sua Cia Tratorado Cadarço Rose@3@~
 18897@398677@Tenis Sua Cia Tratorado Cadarço Rose@3@~
 18899@398678@Tenis Sua Cia Tratorado Cadarço Rose@2@~
 18901@398679@Tenis Sua Cia Tratorado Cadarço Rose@1@~
@@ -4538,24 +4370,18 @@
 18921@398664@Tenis Sua Cia Feminino Flyknit@3@~
 18923@398665@Tenis Sua Cia Feminino Flyknit@2@~
 18925@398666@Tenis Sua Cia Feminino Flyknit@0@~
-4539@384837@Saida Maternidade Have Fun Feminina Cachorrinhos @0@~
-18927@384839@Saida Maternidade Have Fun Feminina Cachorrinhos @0@~
-18929@384838@Saida Maternidade Have Fun Feminina Cachorrinhos @0@~
-4541@357473@Saida Maternidade Paraíso Feminina Babadinhos @0@~
-18931@357475@Saida Maternidade Paraíso Feminina Babadinhos @0@~
-18933@357474@Saida Maternidade Paraíso Feminina Babadinhos @0@~
 4543@335587@Saida Maternidade Paraíso Feminina Love @1@~
 18935@335588@Saida Maternidade Paraíso Feminina Love @0@~
 18937@335589@Saida Maternidade Paraíso Feminina Love @1@~
-4545@389664@Saida Maternidade Feminina Tricart Malha@4@~
+4545@389664@Saida Maternidade Feminina Tricart Malha@3@~
 18939@389668@Saida Maternidade Feminina Tricart Malha@0@~
 18941@389667@Saida Maternidade Feminina Tricart Malha@1@~
-18943@389670@Saida Maternidade Feminina Tricart Malha@1@~
+18943@389670@Saida Maternidade Feminina Tricart Malha@0@~
 18945@389669@Saida Maternidade Feminina Tricart Malha@0@~
 18947@389665@Saida Maternidade Feminina Tricart Malha@1@~
 18949@389666@Saida Maternidade Feminina Tricart Malha@1@~
-4547@398960@Tenis Bibi Light Stick Luz LED@14@~
-18951@398961@Tenis Bibi Light Stick Luz LED@1@~
+4547@398960@Tenis Bibi Light Stick Luz LED@15@~
+18951@398961@Tenis Bibi Light Stick Luz LED@2@~
 18953@398962@Tenis Bibi Light Stick Luz LED@3@~
 18955@398963@Tenis Bibi Light Stick Luz LED@3@~
 18957@398964@Tenis Bibi Light Stick Luz LED@3@~
@@ -4563,26 +4389,26 @@
 18961@398966@Tenis Bibi Light Stick Luz LED@2@~
 4549@387001@Cobertor Colibri Superstar Le Petit Raschel King Rosa@2@~
 18963@387002@Cobertor Colibri Superstar Le Petit Raschel King Rosa@2@~
-4551@399037@Cobertor Colibri Exclusive Relevo Unique Bege@1@~
-18965@399038@Cobertor Colibri Exclusive Relevo Unique Bege@1@~
-4553@386993@Cobertor Colibri Le Petit Cachorrinho Amarelo@2@~
-18967@386994@Cobertor Colibri Le Petit Cachorrinho Amarelo@2@~
+4551@399037@Cobertor Colibri Exclusive Relevo Unique Bege@0@~
+18965@399038@Cobertor Colibri Exclusive Relevo Unique Bege@0@~
+4553@386993@Cobertor Colibri Le Petit Cachorrinho Amarelo@3@~
+18967@386994@Cobertor Colibri Le Petit Cachorrinho Amarelo@3@~
 4555@386997@Cobertor Colibri Le Petit Cachorrinho Rosa@3@~
 18969@386998@Cobertor Colibri Le Petit Cachorrinho Rosa@3@~
-4559@399060@Babuche World Colors Masculino Tubarão Azul@5@~
-18973@399063@Babuche World Colors Masculino Tubarão Azul@1@~
+4559@399060@Babuche World Colors Masculino Tubarão Azul@3@~
+18973@399063@Babuche World Colors Masculino Tubarão Azul@0@~
 18975@399061@Babuche World Colors Masculino Tubarão Azul@2@~
 18977@399062@Babuche World Colors Masculino Tubarão Azul@0@~
-18979@399064@Babuche World Colors Masculino Tubarão Azul@2@~
+18979@399064@Babuche World Colors Masculino Tubarão Azul@1@~
 4561@399070@Babuche World Colors Feminino Unicórnio @2@~
 18981@399071@Babuche World Colors Feminino Unicórnio @1@~
 18983@399072@Babuche World Colors Feminino Unicórnio @0@~
 18985@399073@Babuche World Colors Feminino Unicórnio @0@~
 18987@399074@Babuche World Colors Feminino Unicórnio @1@~
-4563@399056@Sandalia World Colors Feminina Lilly@4@~
+4563@399056@Sandalia World Colors Feminina Lilly@3@~
 18989@399057@Sandalia World Colors Feminina Lilly@1@~
 18991@399058@Sandalia World Colors Feminina Lilly@2@~
-18993@399059@Sandalia World Colors Feminina Lilly@1@~
+18993@399059@Sandalia World Colors Feminina Lilly@0@~
 4565@399065@Babuche World Colors Pop Mini WBoys@4@~
 18995@399066@Babuche World Colors Pop Mini WBoys@2@~
 18997@399067@Babuche World Colors Pop Mini WBoys@0@~
@@ -4597,9 +4423,9 @@
 19017@399511@Tenis Bloompy Feminino Fly Girls Rosa@1@~
 19019@399512@Tenis Bloompy Feminino Fly Girls Rosa@1@~
 19021@399513@Tenis Bloompy Feminino Fly Girls Rosa@1@~
-19023@399514@Tenis Bloompy Feminino Fly Girls Rosa@0@~
+19023@399514@Tenis Bloompy Feminino Fly Girls Rosa@1@~
 19025@399515@Tenis Bloompy Feminino Fly Girls Rosa@1@~
-19027@399516@Tenis Bloompy Feminino Fly Girls Rosa@1@~
+19027@399516@Tenis Bloompy Feminino Fly Girls Rosa@0@~
 19029@399517@Tenis Bloompy Feminino Fly Girls Rosa@1@~
 4575@399484@Tenis Bloompy Feminino New York FlyKnit Rosa@12@~
 19031@399485@Tenis Bloompy Feminino New York FlyKnit Rosa@1@~
@@ -4619,23 +4445,23 @@
 19057@399554@Tenis Bloompy Feminino Sintonia Rosa Verniz@2@~
 19059@399555@Tenis Bloompy Feminino Sintonia Rosa Verniz@2@~
 19061@399556@Tenis Bloompy Feminino Sintonia Rosa Verniz@2@~
-4579@399475@Tenis Bloompy Feminino Sintonia Bolinhas Preto@8@~
+4579@399475@Tenis Bloompy Feminino Sintonia Bolinhas Preto@7@~
 19063@399475@Tenis Bloompy Feminino Sintonia Bolinhas Preto@1@~
 19065@399476@Tenis Bloompy Feminino Sintonia Bolinhas Preto@1@~
 19067@399477@Tenis Bloompy Feminino Sintonia Bolinhas Preto@1@~
 19069@399478@Tenis Bloompy Feminino Sintonia Bolinhas Preto@0@~
 19071@399479@Tenis Bloompy Feminino Sintonia Bolinhas Preto@1@~
 19073@399480@Tenis Bloompy Feminino Sintonia Bolinhas Preto@1@~
-19075@399481@Tenis Bloompy Feminino Sintonia Bolinhas Preto@1@~
+19075@399481@Tenis Bloompy Feminino Sintonia Bolinhas Preto@0@~
 19077@399482@Tenis Bloompy Feminino Sintonia Bolinhas Preto@1@~
 19079@399483@Tenis Bloompy Feminino Sintonia Bolinhas Preto@1@~
-4581@399557@Tenis Bloompy Feminino Sintonia Gliter Preto@6@~
+4581@399557@Tenis Bloompy Feminino Sintonia Gliter Preto@3@~
 19081@399558@Tenis Bloompy Feminino Sintonia Gliter Preto@0@~
 19083@399559@Tenis Bloompy Feminino Sintonia Gliter Preto@0@~
 19085@399560@Tenis Bloompy Feminino Sintonia Gliter Preto@1@~
-19087@399561@Tenis Bloompy Feminino Sintonia Gliter Preto@2@~
-19089@399562@Tenis Bloompy Feminino Sintonia Gliter Preto@1@~
-19091@399563@Tenis Bloompy Feminino Sintonia Gliter Preto@2@~
+19087@399561@Tenis Bloompy Feminino Sintonia Gliter Preto@1@~
+19089@399562@Tenis Bloompy Feminino Sintonia Gliter Preto@0@~
+19091@399563@Tenis Bloompy Feminino Sintonia Gliter Preto@1@~
 4583@399519@Tenis Bloompy Masculino Brookling Cinza@13@~
 19093@399520@Tenis Bloompy Masculino Brookling Cinza@1@~
 19095@399521@Tenis Bloompy Masculino Brookling Cinza@1@~
@@ -4656,9 +4482,9 @@
 19123@399547@Tenis Bloompy Masculino Street Line Branco@2@~
 19125@399548@Tenis Bloompy Masculino Street Line Branco@1@~
 19127@399549@Tenis Bloompy Masculino Street Line Branco@1@~
-4587@399495@Tenis Bloompy Masculino Denver Cano Alto Branco@9@~
+4587@399495@Tenis Bloompy Masculino Denver Cano Alto Branco@8@~
 19129@399496@Tenis Bloompy Masculino Denver Cano Alto Branco@1@~
-19131@399497@Tenis Bloompy Masculino Denver Cano Alto Branco@1@~
+19131@399497@Tenis Bloompy Masculino Denver Cano Alto Branco@0@~
 19133@399498@Tenis Bloompy Masculino Denver Cano Alto Branco@1@~
 19135@399499@Tenis Bloompy Masculino Denver Cano Alto Branco@1@~
 19137@399500@Tenis Bloompy Masculino Denver Cano Alto Branco@1@~
@@ -4667,17 +4493,17 @@
 19143@399503@Tenis Bloompy Masculino Denver Cano Alto Branco@1@~
 19145@399504@Tenis Bloompy Masculino Denver Cano Alto Branco@1@~
 19147@399505@Tenis Bloompy Masculino Denver Cano Alto Branco@1@~
-4589@399530@Tenis Bloompy Masculino Street Line Elastico Preto @8@~
-19149@399531@Tenis Bloompy Masculino Street Line Elastico Preto @1@~
-19151@399532@Tenis Bloompy Masculino Street Line Elastico Preto @1@~
-19153@399533@Tenis Bloompy Masculino Street Line Elastico Preto @1@~
-19155@399534@Tenis Bloompy Masculino Street Line Elastico Preto @1@~
-19157@399535@Tenis Bloompy Masculino Street Line Elastico Preto @0@~
-19159@399536@Tenis Bloompy Masculino Street Line Elastico Preto @0@~
-19161@399537@Tenis Bloompy Masculino Street Line Elastico Preto @0@~
-19163@399538@Tenis Bloompy Masculino Street Line Elastico Preto @2@~
-19165@399539@Tenis Bloompy Masculino Street Line Elastico Preto @1@~
-19167@399540@Tenis Bloompy Masculino Street Line Elastico Preto @1@~
+4589@399530@Tenis Bloompy Masculino Infantil Street Line Elastico Preto @8@~
+19149@399531@Tenis Bloompy Masculino Infantil Street Line Elastico Preto @1@~
+19151@399532@Tenis Bloompy Masculino Infantil Street Line Elastico Preto @1@~
+19153@399533@Tenis Bloompy Masculino Infantil Street Line Elastico Preto @1@~
+19155@399534@Tenis Bloompy Masculino Infantil Street Line Elastico Preto @1@~
+19157@399535@Tenis Bloompy Masculino Infantil Street Line Elastico Preto @0@~
+19159@399536@Tenis Bloompy Masculino Infantil Street Line Elastico Preto @0@~
+19161@399537@Tenis Bloompy Masculino Infantil Street Line Elastico Preto @0@~
+19163@399538@Tenis Bloompy Masculino Infantil Street Line Elastico Preto @2@~
+19165@399539@Tenis Bloompy Masculino Infantil Street Line Elastico Preto @1@~
+19167@399540@Tenis Bloompy Masculino Infantil Street Line Elastico Preto @1@~
 4591@399564@Tenis Bloompy Masculino Street Line Elastico Preto@8@~
 19169@399565@Tenis Bloompy Masculino Street Line Elastico Preto@1@~
 19171@399566@Tenis Bloompy Masculino Street Line Elastico Preto@0@~
@@ -4698,8 +4524,8 @@
 19263@399796@Tênis Molekinha Feminino Onça Preto@0@~
 19265@399797@Tênis Molekinha Feminino Onça Preto@2@~
 19267@399798@Tênis Molekinha Feminino Onça Preto@2@~
-19269@399799@Tênis Molekinha Feminino Onça Preto@1@~
-19271@399800@Tênis Molekinha Feminino Onça Preto@2@~
+19269@399799@Tênis Molekinha Feminino Onça Preto@2@~
+19271@399800@Tênis Molekinha Feminino Onça Preto@1@~
 4597@399647@Tênis Molekinha Feminino Cetim Holográfico @6@~
 19285@399648@Tênis Molekinha Feminino Cetim Holográfico @1@~
 19287@399649@Tênis Molekinha Feminino Cetim Holográfico @1@~
@@ -4707,7 +4533,7 @@
 19291@399651@Tênis Molekinha Feminino Cetim Holográfico @1@~
 19293@399652@Tênis Molekinha Feminino Cetim Holográfico @1@~
 19295@399653@Tênis Molekinha Feminino Cetim Holográfico @1@~
-4599@399637@Tênis Molekinha Feminino Metal Glam @10@~
+4599@399637@Tênis Molekinha Feminino Metal Glam @9@~
 19297@399638@Tênis Molekinha Feminino Metal Glam @0@~
 19299@399639@Tênis Molekinha Feminino Metal Glam @1@~
 19301@399640@Tênis Molekinha Feminino Metal Glam @2@~
@@ -4715,15 +4541,15 @@
 19305@399642@Tênis Molekinha Feminino Metal Glam @2@~
 19307@399643@Tênis Molekinha Feminino Metal Glam @1@~
 19309@399644@Tênis Molekinha Feminino Metal Glam @0@~
-19311@399645@Tênis Molekinha Feminino Metal Glam @1@~
+19311@399645@Tênis Molekinha Feminino Metal Glam @0@~
 19313@399646@Tênis Molekinha Feminino Metal Glam @1@~
-4601@399801@Tênis Molekinha Feminino Nobuck Nice Gleam Preto@12@~
+4601@399801@Tênis Molekinha Feminino Nobuck Nice Gleam Preto@11@~
 19315@399802@Tênis Molekinha Feminino Nobuck Nice Gleam Preto@1@~
 19317@399803@Tênis Molekinha Feminino Nobuck Nice Gleam Preto@1@~
 19319@399804@Tênis Molekinha Feminino Nobuck Nice Gleam Preto@2@~
 19321@399805@Tênis Molekinha Feminino Nobuck Nice Gleam Preto@2@~
 19323@399806@Tênis Molekinha Feminino Nobuck Nice Gleam Preto@2@~
-19325@399807@Tênis Molekinha Feminino Nobuck Nice Gleam Preto@2@~
+19325@399807@Tênis Molekinha Feminino Nobuck Nice Gleam Preto@1@~
 19327@399808@Tênis Molekinha Feminino Nobuck Nice Gleam Preto@2@~
 4603@399719@Tenis Molekinho Masculino Free Sport Preto@6@~
 19181@399720@Tenis Molekinho Masculino Free Sport Preto@1@~
@@ -4733,7 +4559,7 @@
 19189@399724@Tenis Molekinho Masculino Free Sport Preto@1@~
 19191@399725@Tenis Molekinho Masculino Free Sport Preto@1@~
 19193@399726@Tenis Molekinho Masculino Free Sport Preto@0@~
-4605@399727@Tenis Molekinho Masculino Slip On Napa Neo@9@~
+4605@399727@Tenis Molekinho Masculino Slip On Napa Neo@8@~
 19195@399728@Tenis Molekinho Masculino Slip On Napa Neo@1@~
 19197@399729@Tenis Molekinho Masculino Slip On Napa Neo@1@~
 19199@399730@Tenis Molekinho Masculino Slip On Napa Neo@0@~
@@ -4742,30 +4568,30 @@
 19205@399733@Tenis Molekinho Masculino Slip On Napa Neo@1@~
 19207@399734@Tenis Molekinho Masculino Slip On Napa Neo@0@~
 19209@399735@Tenis Molekinho Masculino Slip On Napa Neo@1@~
-19211@399736@Tenis Molekinho Masculino Slip On Napa Neo@1@~
+19211@399736@Tenis Molekinho Masculino Slip On Napa Neo@0@~
 19213@399737@Tenis Molekinho Masculino Slip On Napa Neo@2@~
-4607@399747@Tenis Molekinho Masculino Napa Rust Neo@6@~
+4607@399747@Tenis Molekinho Masculino Napa Rust Neo@5@~
 19517@399748@Tenis Molekinho Masculino Napa Rust Neo@1@~
-19519@399749@Tenis Molekinho Masculino Napa Rust Neo@1@~
+19519@399749@Tenis Molekinho Masculino Napa Rust Neo@0@~
 19521@399750@Tenis Molekinho Masculino Napa Rust Neo@1@~
 19523@399751@Tenis Molekinho Masculino Napa Rust Neo@1@~
 19525@399752@Tenis Molekinho Masculino Napa Rust Neo@0@~
 19527@399753@Tenis Molekinho Masculino Napa Rust Neo@1@~
 19529@399754@Tenis Molekinho Masculino Napa Rust Neo@0@~
 19531@399755@Tenis Molekinho Masculino Napa Rust Neo@1@~
-4609@399738@Tenis Molekinho Masculino Napa Slip On Jeans@6@~
+4609@399738@Tenis Molekinho Masculino Napa Slip On Jeans@5@~
 19231@399739@Tenis Molekinho Masculino Napa Slip On Jeans@1@~
 19233@399740@Tenis Molekinho Masculino Napa Slip On Jeans@1@~
-19235@399741@Tenis Molekinho Masculino Napa Slip On Jeans@1@~
+19235@399741@Tenis Molekinho Masculino Napa Slip On Jeans@0@~
 19237@399742@Tenis Molekinho Masculino Napa Slip On Jeans@0@~
 19239@399743@Tenis Molekinho Masculino Napa Slip On Jeans@1@~
 19241@399744@Tenis Molekinho Masculino Napa Slip On Jeans@1@~
 19243@399745@Tenis Molekinho Masculino Napa Slip On Jeans@1@~
 19245@399746@Tenis Molekinho Masculino Napa Slip On Jeans@0@~
-4611@399712@Tenis Molekinho Masculino Flat Floter Azul@6@~
+4611@399712@Tenis Molekinho Masculino Flat Floter Azul@5@~
 19273@399713@Tenis Molekinho Masculino Flat Floter Azul@1@~
 19275@399714@Tenis Molekinho Masculino Flat Floter Azul@0@~
-19277@399715@Tenis Molekinho Masculino Flat Floter Azul@1@~
+19277@399715@Tenis Molekinho Masculino Flat Floter Azul@0@~
 19279@399716@Tenis Molekinho Masculino Flat Floter Azul@1@~
 19281@399717@Tenis Molekinho Masculino Flat Floter Azul@2@~
 19283@399718@Tenis Molekinho Masculino Flat Floter Azul@1@~
@@ -4776,12 +4602,12 @@
 19335@399760@Tenis Molekinho Masculino Sider Preto@1@~
 19337@399761@Tenis Molekinho Masculino Sider Preto@1@~
 19339@399762@Tenis Molekinho Masculino Sider Preto@2@~
-4617@399630@Sapatilha Molekinha Feminina Metalizada Rosa@7@~
-19375@399631@Sapatilha Molekinha Feminina Metalizada Rosa@1@~
+4617@399630@Sapatilha Molekinha Feminina Metalizada Rosa@4@~
+19375@399631@Sapatilha Molekinha Feminina Metalizada Rosa@0@~
 19377@399632@Sapatilha Molekinha Feminina Metalizada Rosa@1@~
 19379@399633@Sapatilha Molekinha Feminina Metalizada Rosa@0@~
 19381@399634@Sapatilha Molekinha Feminina Metalizada Rosa@2@~
-19383@399635@Sapatilha Molekinha Feminina Metalizada Rosa@2@~
+19383@399635@Sapatilha Molekinha Feminina Metalizada Rosa@0@~
 19385@399636@Sapatilha Molekinha Feminina Metalizada Rosa@1@~
 4619@399814@Sapatilha Molekinha Feminina Metalizada Laço Rosa@16@~
 19355@399815@Sapatilha Molekinha Feminina Metalizada Laço Rosa@1@~
@@ -4804,19 +4630,19 @@
 19401@399681@Sapatilha Molekinha Feminina Coração Vermelha@1@~
 19403@399682@Sapatilha Molekinha Feminina Coração Vermelha@1@~
 19515@399674@Sapatilha Molekinha Feminina Coração Vermelha@0@~
-4625@399838@Tenis Molekinha Feminino Babado Preto@6@~
+4625@399838@Tenis Molekinha Feminino Babado Preto@4@~
 19417@399839@Tenis Molekinha Feminino Babado Preto@0@~
 19419@399840@Tenis Molekinha Feminino Babado Preto@1@~
 19421@399841@Tenis Molekinha Feminino Babado Preto@1@~
 19423@399842@Tenis Molekinha Feminino Babado Preto@1@~
 19425@399843@Tenis Molekinha Feminino Babado Preto@1@~
 19427@399844@Tenis Molekinha Feminino Babado Preto@0@~
-19429@399845@Tenis Molekinha Feminino Babado Preto@2@~
-4629@399683@Sapatilha Molekinha Laço Coração@10@~
+19429@399845@Tenis Molekinha Feminino Babado Preto@0@~
+4629@399683@Sapatilha Molekinha Laço Coração@9@~
 19477@399684@Sapatilha Molekinha Laço Coração@1@~
-19479@399685@Sapatilha Molekinha Laço Coração@1@~
-19481@399686@Sapatilha Molekinha Laço Coração@2@~
-19483@399687@Sapatilha Molekinha Laço Coração@1@~
+19479@399685@Sapatilha Molekinha Laço Coração@0@~
+19481@399686@Sapatilha Molekinha Laço Coração@1@~
+19483@399687@Sapatilha Molekinha Laço Coração@2@~
 19485@399688@Sapatilha Molekinha Laço Coração@1@~
 19487@399689@Sapatilha Molekinha Laço Coração@1@~
 19489@399690@Sapatilha Molekinha Laço Coração@1@~
@@ -4833,15 +4659,15 @@
 19455@399892@Bota Molekinha Feminina Perola Rosa@2@~
 19457@399893@Bota Molekinha Feminina Perola Rosa@2@~
 19459@399894@Bota Molekinha Feminina Perola Rosa@2@~
-4633@399870@Bota Molekinha Feminina Viena Maxi Glam@27@~
+4633@399870@Bota Molekinha Feminina Viena Maxi Glam@24@~
 19461@399876@Bota Molekinha Feminina Viena Maxi Glam@1@~
 19463@399870@Bota Molekinha Feminina Viena Maxi Glam@1@~
 19465@399870@Bota Molekinha Feminina Viena Maxi Glam@1@~
-19467@399870@Bota Molekinha Feminina Viena Maxi Glam@14@~
+19467@399870@Bota Molekinha Feminina Viena Maxi Glam@12@~
 19469@399880@Bota Molekinha Feminina Viena Maxi Glam@1@~
 19471@399881@Bota Molekinha Feminina Viena Maxi Glam@1@~
 19473@399882@Bota Molekinha Feminina Viena Maxi Glam@1@~
-19475@399883@Bota Molekinha Feminina Viena Maxi Glam@1@~
+19475@399883@Bota Molekinha Feminina Viena Maxi Glam@0@~
 19633@399871@Bota Molekinha Feminina Viena Maxi Glam@1@~
 19635@399872@Bota Molekinha Feminina Viena Maxi Glam@1@~
 19637@399873@Bota Molekinha Feminina Viena Maxi Glam@0@~
@@ -4852,12 +4678,12 @@
 19497@399811@Sapatilha Molekinha Feminina Laço Verniz Preta@1@~
 19499@399812@Sapatilha Molekinha Feminina Laço Verniz Preta@3@~
 19501@399813@Sapatilha Molekinha Feminina Laço Verniz Preta@3@~
-4637@399693@Tenis Molekinha Feminino Flyknit Rosa@14@~
+4637@399693@Tenis Molekinha Feminino Flyknit Rosa@13@~
 19503@399694@Tenis Molekinha Feminino Flyknit Rosa@1@~
 19505@399695@Tenis Molekinha Feminino Flyknit Rosa@1@~
 19507@399696@Tenis Molekinha Feminino Flyknit Rosa@1@~
 19509@399697@Tenis Molekinha Feminino Flyknit Rosa@1@~
-19511@399698@Tenis Molekinha Feminino Flyknit Rosa@2@~
+19511@399698@Tenis Molekinha Feminino Flyknit Rosa@1@~
 19513@399699@Tenis Molekinha Feminino Flyknit Rosa@0@~
 19621@399700@Tenis Molekinha Feminino Flyknit Rosa@1@~
 19623@399701@Tenis Molekinha Feminino Flyknit Rosa@1@~
@@ -4865,9 +4691,9 @@
 19627@399703@Tenis Molekinha Feminino Flyknit Rosa@1@~
 19629@399704@Tenis Molekinha Feminino Flyknit Rosa@2@~
 19631@399705@Tenis Molekinha Feminino Flyknit Rosa@2@~
-4639@399763@Tenis Molekinho Masculino Sider Preto@7@~
+4639@399763@Tenis Molekinho Masculino Sider Preto@8@~
 19533@399764@Tenis Molekinho Masculino Sider Preto@1@~
-19535@399765@Tenis Molekinho Masculino Sider Preto@0@~
+19535@399765@Tenis Molekinho Masculino Sider Preto@1@~
 19537@399766@Tenis Molekinho Masculino Sider Preto@0@~
 19539@399767@Tenis Molekinho Masculino Sider Preto@1@~
 19541@399768@Tenis Molekinho Masculino Sider Preto@0@~
@@ -4894,21 +4720,21 @@
 19579@399780@Sapatilha Molekinha Feminina Gliter Mini Dourada@2@~
 19581@399781@Sapatilha Molekinha Feminina Gliter Mini Dourada@1@~
 19583@399782@Sapatilha Molekinha Feminina Gliter Mini Dourada@1@~
-4645@399654@Sapatilha Molekinha Feminina Tecido Coração@16@~
+4645@399654@Sapatilha Molekinha Feminina Tecido Coração@12@~
 19585@399655@Sapatilha Molekinha Feminina Tecido Coração@0@~
 19587@399656@Sapatilha Molekinha Feminina Tecido Coração@2@~
 19589@399657@Sapatilha Molekinha Feminina Tecido Coração@2@~
 19591@399658@Sapatilha Molekinha Feminina Tecido Coração@2@~
 19593@399659@Sapatilha Molekinha Feminina Tecido Coração@1@~
-19595@399660@Sapatilha Molekinha Feminina Tecido Coração@1@~
+19595@399660@Sapatilha Molekinha Feminina Tecido Coração@0@~
 19597@399661@Sapatilha Molekinha Feminina Tecido Coração@0@~
 19599@399662@Sapatilha Molekinha Feminina Tecido Coração@0@~
 19601@399663@Sapatilha Molekinha Feminina Tecido Coração@0@~
 19603@399664@Sapatilha Molekinha Feminina Tecido Coração@1@~
 19605@399665@Sapatilha Molekinha Feminina Tecido Coração@1@~
-19607@399666@Sapatilha Molekinha Feminina Tecido Coração@2@~
-19609@399667@Sapatilha Molekinha Feminina Tecido Coração@2@~
-19611@399668@Sapatilha Molekinha Feminina Tecido Coração@1@~
+19607@399666@Sapatilha Molekinha Feminina Tecido Coração@1@~
+19609@399667@Sapatilha Molekinha Feminina Tecido Coração@1@~
+19611@399668@Sapatilha Molekinha Feminina Tecido Coração@0@~
 19613@399669@Sapatilha Molekinha Feminina Tecido Coração@0@~
 19615@399670@Sapatilha Molekinha Feminina Tecido Coração@0@~
 19617@399671@Sapatilha Molekinha Feminina Tecido Coração@1@~
@@ -4921,20 +4747,20 @@
 19651@399600@Camiseta Ecko Masculina Logo Estampada@1@~
 19653@399601@Camiseta Ecko Masculina Logo Estampada@4@~
 19655@399602@Camiseta Ecko Masculina Logo Estampada@1@~
-4649@399612@Camiseta Ecko Masculina Rhino @11@~
+4649@399612@Camiseta Ecko Masculina Rhino @9@~
 19657@399617@Camiseta Ecko Masculina Rhino @1@~
 19659@399618@Camiseta Ecko Masculina Rhino @1@~
-19661@399619@Camiseta Ecko Masculina Rhino @2@~
-19663@399620@Camiseta Ecko Masculina Rhino @1@~
+19661@399619@Camiseta Ecko Masculina Rhino @1@~
+19663@399620@Camiseta Ecko Masculina Rhino @0@~
 19665@399613@Camiseta Ecko Masculina Rhino @1@~
 19667@399614@Camiseta Ecko Masculina Rhino @2@~
 19669@399615@Camiseta Ecko Masculina Rhino @2@~
 19671@399616@Camiseta Ecko Masculina Rhino @1@~
-4651@399576@Camiseta Ecko Masculina Chocolate Kids@8@~
+4651@399576@Camiseta Ecko Masculina Chocolate Kids@7@~
 19751@399577@Camiseta Ecko Masculina Chocolate Kids@2@~
 19753@399578@Camiseta Ecko Masculina Chocolate Kids@2@~
 19755@399579@Camiseta Ecko Masculina Chocolate Kids@2@~
-19757@399580@Camiseta Ecko Masculina Chocolate Kids@2@~
+19757@399580@Camiseta Ecko Masculina Chocolate Kids@1@~
 4653@399607@Camiseta Ecko Masculina Rinoceronte Logotipo@5@~
 19673@399608@Camiseta Ecko Masculina Rinoceronte Logotipo@1@~
 19675@399609@Camiseta Ecko Masculina Rinoceronte Logotipo@2@~
@@ -4949,10 +4775,10 @@
 19825@398524@Calça Karapalida Feminina Couro Eco Preta@1@~
 19827@398525@Calça Karapalida Feminina Couro Eco Preta@1@~
 19829@398526@Calça Karapalida Feminina Couro Eco Preta@1@~
-4659@398537@Vestido Karapalida Ombro Vermelho@3@~
+4659@398537@Vestido Karapalida Ombro Vermelho@2@~
 19831@398538@Vestido Karapalida Ombro Vermelho@1@~
 19833@398539@Vestido Karapalida Ombro Vermelho@1@~
-19835@398540@Vestido Karapalida Ombro Vermelho@1@~
+19835@398540@Vestido Karapalida Ombro Vermelho@0@~
 4661@399846@Tênis Molekinha Feminino Fresh Neo Cores@17@~
 19681@399863@Tênis Molekinha Feminino Fresh Neo Cores@1@~
 19683@399864@Tênis Molekinha Feminino Fresh Neo Cores@1@~
@@ -4977,86 +4803,86 @@
 19721@399852@Tênis Molekinha Feminino Fresh Neo Cores@1@~
 19723@399853@Tênis Molekinha Feminino Fresh Neo Cores@1@~
 19725@399854@Tênis Molekinha Feminino Fresh Neo Cores@0@~
-4663@399590@Camiseta Ecko Masculina Logotipo Rhino@11@~
+4663@399590@Camiseta Ecko Masculina Logotipo Rhino@9@~
 19735@399591@Camiseta Ecko Masculina Logotipo Rhino@1@~
-19737@399592@Camiseta Ecko Masculina Logotipo Rhino@2@~
+19737@399592@Camiseta Ecko Masculina Logotipo Rhino@1@~
 19739@399593@Camiseta Ecko Masculina Logotipo Rhino@2@~
 19741@399594@Camiseta Ecko Masculina Logotipo Rhino@0@~
 19743@399595@Camiseta Ecko Masculina Logotipo Rhino@1@~
 19745@399596@Camiseta Ecko Masculina Logotipo Rhino@2@~
-19747@399597@Camiseta Ecko Masculina Logotipo Rhino@2@~
+19747@399597@Camiseta Ecko Masculina Logotipo Rhino@1@~
 19749@399598@Camiseta Ecko Masculina Logotipo Rhino@1@~
 4665@399571@Camiseta Ecko Masculina Rinoceronte@8@~
 19727@399572@Camiseta Ecko Masculina Rinoceronte@2@~
 19729@399573@Camiseta Ecko Masculina Rinoceronte@2@~
 19731@399574@Camiseta Ecko Masculina Rinoceronte@2@~
 19733@399575@Camiseta Ecko Masculina Rinoceronte@2@~
-4667@399401@Camiseta Ecko Masculina Logo E917A@4@~
+4667@399401@Camiseta Ecko Masculina Logo E917A@3@~
 19759@399402@Camiseta Ecko Masculina Logo E917A@0@~
-19761@399403@Camiseta Ecko Masculina Logo E917A@2@~
+19761@399403@Camiseta Ecko Masculina Logo E917A@1@~
 19763@399404@Camiseta Ecko Masculina Logo E917A@1@~
 19765@399405@Camiseta Ecko Masculina Logo E917A@1@~
-4669@399421@Blusão Ecko Masculino Branco @4@~
+4669@399421@Blusão Ecko Masculino Branco @1@~
 19767@399422@Blusão Ecko Masculino Branco @0@~
 19769@399423@Blusão Ecko Masculino Branco @1@~
-19771@399424@Blusão Ecko Masculino Branco @2@~
-19773@399425@Blusão Ecko Masculino Branco @1@~
-4671@399396@Camiseta Ecko Masculina Logo Estampada@6@~
-19775@399397@Camiseta Ecko Masculina Logo Estampada@1@~
-19777@399398@Camiseta Ecko Masculina Logo Estampada@2@~
-19779@399399@Camiseta Ecko Masculina Logo Estampada@2@~
+19771@399424@Blusão Ecko Masculino Branco @0@~
+19773@399425@Blusão Ecko Masculino Branco @0@~
+4671@399396@Camiseta Ecko Masculina Logo Estampada@3@~
+19775@399397@Camiseta Ecko Masculina Logo Estampada@0@~
+19777@399398@Camiseta Ecko Masculina Logo Estampada@1@~
+19779@399399@Camiseta Ecko Masculina Logo Estampada@1@~
 19781@399400@Camiseta Ecko Masculina Logo Estampada@1@~
 4673@399411@Camiseta Ecko Masculina Azul Marinho@6@~
 19783@399412@Camiseta Ecko Masculina Azul Marinho@1@~
 19785@399413@Camiseta Ecko Masculina Azul Marinho@2@~
 19787@399414@Camiseta Ecko Masculina Azul Marinho@2@~
 19789@399415@Camiseta Ecko Masculina Azul Marinho@1@~
-4675@399391@Camiseta Ecko Masculina Logo Verde@5@~
-19791@399392@Camiseta Ecko Masculina Logo Verde@1@~
-19793@399393@Camiseta Ecko Masculina Logo Verde@1@~
-19795@399394@Camiseta Ecko Masculina Logo Verde@2@~
+4675@399391@Camiseta Ecko Masculina Logo Verde@2@~
+19791@399392@Camiseta Ecko Masculina Logo Verde@0@~
+19793@399393@Camiseta Ecko Masculina Logo Verde@0@~
+19795@399394@Camiseta Ecko Masculina Logo Verde@1@~
 19797@399395@Camiseta Ecko Masculina Logo Verde@1@~
 4677@399381@Jaqueta Ecko Feminina Logotipo Vermelha@3@~
-19815@399382@Jaqueta Ecko Feminina Logotipo Vermelha@1@~
-19817@399383@Jaqueta Ecko Feminina Logotipo Vermelha@2@~
+19815@399382@Jaqueta Ecko Feminina Logotipo Vermelha@2@~
+19817@399383@Jaqueta Ecko Feminina Logotipo Vermelha@1@~
 19819@399384@Jaqueta Ecko Feminina Logotipo Vermelha@0@~
 19821@399385@Jaqueta Ecko Feminina Logotipo Vermelha@0@~
-4679@399376@Jaqueta Ecko Feminina Rino Rosa @3@~
+4679@399376@Jaqueta Ecko Feminina Rino Rosa @2@~
 19807@399377@Jaqueta Ecko Feminina Rino Rosa @2@~
 19809@399378@Jaqueta Ecko Feminina Rino Rosa @0@~
-19811@399379@Jaqueta Ecko Feminina Rino Rosa @1@~
+19811@399379@Jaqueta Ecko Feminina Rino Rosa @0@~
 19813@399380@Jaqueta Ecko Feminina Rino Rosa @0@~
-4681@399386@Camiseta Ecko Masculina Logo Estampada@5@~
+4681@399386@Camiseta Ecko Masculina Logo Estampada@3@~
 19799@399387@Camiseta Ecko Masculina Logo Estampada@0@~
 19801@399388@Camiseta Ecko Masculina Logo Estampada@3@~
-19803@399389@Camiseta Ecko Masculina Logo Estampada@1@~
-19805@399390@Camiseta Ecko Masculina Logo Estampada@1@~
+19803@399389@Camiseta Ecko Masculina Logo Estampada@0@~
+19805@399390@Camiseta Ecko Masculina Logo Estampada@0@~
 4683@@Camiseta Ecko Masculina Branca Detalhes @0@~
 4685@388025@Shorts Karapalida Feminino Hanna Cinza@2@~
 19839@388026@Shorts Karapalida Feminino Hanna Cinza@1@~
 19841@388029@Shorts Karapalida Feminino Hanna Cinza@1@~
-4687@398510@Conjunto Karapalida Feminino Julia Preto@5@~
+4687@398510@Conjunto Karapalida Feminino Julia Preto@4@~
 19843@398512@Conjunto Karapalida Feminino Julia Preto@1@~
 19845@398515@Conjunto Karapalida Feminino Julia Preto@1@~
-19847@398513@Conjunto Karapalida Feminino Julia Preto@1@~
+19847@398513@Conjunto Karapalida Feminino Julia Preto@0@~
 19849@398514@Conjunto Karapalida Feminino Julia Preto@1@~
 19851@398511@Conjunto Karapalida Feminino Julia Preto@1@~
-4689@398497@Conjunto Karapalida Feminina Couro Eco Preto@4@~
+4689@398497@Conjunto Karapalida Feminina Couro Eco Preto@2@~
 19853@398501@Conjunto Karapalida Feminina Couro Eco Preto@1@~
-19855@398500@Conjunto Karapalida Feminina Couro Eco Preto@1@~
-19857@398499@Conjunto Karapalida Feminina Couro Eco Preto@1@~
+19855@398500@Conjunto Karapalida Feminina Couro Eco Preto@0@~
+19857@398499@Conjunto Karapalida Feminina Couro Eco Preto@0@~
 19859@398498@Conjunto Karapalida Feminina Couro Eco Preto@1@~
 4691@384846@Saida Maternidade Have Fun 2 Peças@1@~
 19865@384847@Saida Maternidade Have Fun 2 Peças@0@~
 19867@384848@Saida Maternidade Have Fun 2 Peças@1@~
 4693@389520@Saida Maternidade Dayane Baby 3 peças@1@~
 19869@389522@Saida Maternidade Dayane Baby 3 peças@1@~
-4695@399623@Sapatilha Molekinha Feminina Cetim Holografico@8@~
-19871@399624@Sapatilha Molekinha Feminina Cetim Holografico@1@~
+4695@399623@Sapatilha Molekinha Feminina Cetim Holografico@5@~
+19871@399624@Sapatilha Molekinha Feminina Cetim Holografico@0@~
 19873@399625@Sapatilha Molekinha Feminina Cetim Holografico@1@~
 19875@399626@Sapatilha Molekinha Feminina Cetim Holografico@1@~
-19877@399627@Sapatilha Molekinha Feminina Cetim Holografico@1@~
-19879@399628@Sapatilha Molekinha Feminina Cetim Holografico@2@~
+19877@399627@Sapatilha Molekinha Feminina Cetim Holografico@0@~
+19879@399628@Sapatilha Molekinha Feminina Cetim Holografico@1@~
 19881@399629@Sapatilha Molekinha Feminina Cetim Holografico@2@~
 4697@@Kit Leozinho Animado @1@~
 4699@383983@Camiseta Bento Masculina Dinossauros@3@~
@@ -5104,12 +4930,12 @@
 4725@395132@Macacão Fabula Feminino Baby Amarelo@1@~
 19951@395133@Macacão Fabula Feminino Baby Amarelo@1@~
 19953@395134@Macacão Fabula Feminino Baby Amarelo@0@~
-4727@395136@Macacão Fabula Feminino Baby Comidas@2@~
+4727@395136@Macacão Fabula Feminino Baby Comidas@1@~
 19957@395137@Macacão Fabula Feminino Baby Comidas@1@~
-19959@395138@Macacão Fabula Feminino Baby Comidas@1@~
-4729@400059@Sapatilha WorldColors Feminina Confeti Baby @4@~
+19959@395138@Macacão Fabula Feminino Baby Comidas@0@~
+4729@400059@Sapatilha WorldColors Feminina Confeti Baby @3@~
 19961@400060@Sapatilha WorldColors Feminina Confeti Baby @1@~
-19963@400061@Sapatilha WorldColors Feminina Confeti Baby @1@~
+19963@400061@Sapatilha WorldColors Feminina Confeti Baby @0@~
 19965@400062@Sapatilha WorldColors Feminina Confeti Baby @2@~
 19967@400063@Sapatilha WorldColors Feminina Confeti Baby @0@~
 4731@346288@Camiseta Bento Masculina Dinossauros Preta@2@~
@@ -5131,9 +4957,9 @@
 19991@393361@Cardigan Malwee Feminino Tecido@1@~
 19993@393362@Cardigan Malwee Feminino Tecido@1@~
 19995@393363@Cardigan Malwee Feminino Tecido@1@~
-4743@400054@Babuche World Colors Feminino Pop Mini@5@~
+4743@400054@Babuche World Colors Feminino Pop Mini@4@~
 19997@400055@Babuche World Colors Feminino Pop Mini@2@~
-19999@400056@Babuche World Colors Feminino Pop Mini@1@~
+19999@400056@Babuche World Colors Feminino Pop Mini@0@~
 20001@400057@Babuche World Colors Feminino Pop Mini@1@~
 20003@400058@Babuche World Colors Feminino Pop Mini@1@~
 4745@399416@Camiseta Ecko Masculina Preta @6@~
@@ -5158,10 +4984,10 @@
 20033@399438@Jaqueta Ecko Masculina Corta Vento @2@~
 20035@399439@Jaqueta Ecko Masculina Corta Vento @2@~
 20037@399440@Jaqueta Ecko Masculina Corta Vento @1@~
-4755@399451@Jaqueta Ecko Masculina Moleton@5@~
+4755@399451@Jaqueta Ecko Masculina Moleton@3@~
 20039@399452@Jaqueta Ecko Masculina Moleton@1@~
 20041@399453@Jaqueta Ecko Masculina Moleton@2@~
-20043@399454@Jaqueta Ecko Masculina Moleton@2@~
+20043@399454@Jaqueta Ecko Masculina Moleton@0@~
 20045@399455@Jaqueta Ecko Masculina Moleton@0@~
 4757@342096@Camiseta Acostamento Lobo Verde@1@~
 20047@343230@Camiseta Acostamento Lobo Verde@1@~
@@ -5185,14 +5011,14 @@
 20085@399184@Camiseta Cobra D'Agua Manga Longa Vermelha @1@~
 20087@399185@Camiseta Cobra D'Agua Manga Longa Vermelha @1@~
 20089@399186@Camiseta Cobra D'Agua Manga Longa Vermelha @1@~
-4769@399441@Jaqueta Ecko Masculina Corta Vento Preta@5@~
+4769@399441@Jaqueta Ecko Masculina Corta Vento Preta@4@~
 20091@399442@Jaqueta Ecko Masculina Corta Vento Preta@1@~
 20093@399443@Jaqueta Ecko Masculina Corta Vento Preta@2@~
 20095@399444@Jaqueta Ecko Masculina Corta Vento Preta@1@~
-20097@399445@Jaqueta Ecko Masculina Corta Vento Preta@1@~
-4771@399446@Jaqueta Ecko Masculina Rhino Azul Marinho@5@~
+20097@399445@Jaqueta Ecko Masculina Corta Vento Preta@0@~
+4771@399446@Jaqueta Ecko Masculina Rhino Azul Marinho@4@~
 20099@399447@Jaqueta Ecko Masculina Rhino Azul Marinho@1@~
-20101@399448@Jaqueta Ecko Masculina Rhino Azul Marinho@2@~
+20101@399448@Jaqueta Ecko Masculina Rhino Azul Marinho@1@~
 20103@399449@Jaqueta Ecko Masculina Rhino Azul Marinho@2@~
 20105@399450@Jaqueta Ecko Masculina Rhino Azul Marinho@0@~
 4773@325423@Camiseta Alto Giro Masculina Cinza@2@~
@@ -5217,11 +5043,11 @@
 20151@393237@Jaqueta Malwee Feminina Girl Power@1@~
 20153@393238@Jaqueta Malwee Feminina Girl Power@0@~
 20155@393239@Jaqueta Malwee Feminina Girl Power@1@~
-4781@398842@Bermuda Ogochi Masculina Marrom@1@~
+4781@398842@Bermuda Ogochi Masculina Marrom@3@~
 20157@398843@Bermuda Ogochi Masculina Marrom@0@~
 20159@398844@Bermuda Ogochi Masculina Marrom@1@~
-20161@398845@Bermuda Ogochi Masculina Marrom@0@~
-20163@398846@Bermuda Ogochi Masculina Marrom@0@~
+20161@398845@Bermuda Ogochi Masculina Marrom@1@~
+20163@398846@Bermuda Ogochi Masculina Marrom@1@~
 20165@398847@Bermuda Ogochi Masculina Marrom@0@~
 4783@393364@Cardigan Malwee Feminino Tecido@6@~
 20167@393365@Cardigan Malwee Feminino Tecido@1@~
@@ -5242,18 +5068,18 @@
 20195@382415@Calça Riccieri Masculina @0@~
 20197@382416@Calça Riccieri Masculina @1@~
 20199@382417@Calça Riccieri Masculina @1@~
-4787@392527@Calça Yonders Masculina Bege@3@~
+4787@392527@Calça Yonders Masculina Bege@2@~
 20201@392536@Calça Yonders Masculina Bege@1@~
-20203@392537@Calça Yonders Masculina Bege@1@~
+20203@392537@Calça Yonders Masculina Bege@0@~
 20205@392538@Calça Yonders Masculina Bege@0@~
 20207@392539@Calça Yonders Masculina Bege@1@~
 20209@392540@Calça Yonders Masculina Bege@0@~
-4789@376139@Saia Ilicito Feminina Fenda Branca@2@~
+4789@376139@Saia Ilicito Feminina Fenda Branca@1@~
 20211@376140@Saia Ilicito Feminina Fenda Branca@0@~
 20213@376141@Saia Ilicito Feminina Fenda Branca@1@~
 20215@376142@Saia Ilicito Feminina Fenda Branca@0@~
 20217@376143@Saia Ilicito Feminina Fenda Branca@0@~
-20219@376144@Saia Ilicito Feminina Fenda Branca@1@~
+20219@376144@Saia Ilicito Feminina Fenda Branca@0@~
 4791@397463@Body Doce Trama Feminino Rosas@2@~
 20221@397464@Body Doce Trama Feminino Rosas@1@~
 20223@397465@Body Doce Trama Feminino Rosas@1@~
@@ -5261,13 +5087,13 @@
 20225@393578@Saia Mania Nacional Feminina Midi Listras @1@~
 20227@393579@Saia Mania Nacional Feminina Midi Listras @1@~
 20229@393580@Saia Mania Nacional Feminina Midi Listras @1@~
-4795@400037@Calça Lenis Feminina Jeans Jogger@1@~
+4795@400037@Calça Lenis Feminina Jeans Jogger@0@~
 20231@400038@Calça Lenis Feminina Jeans Jogger@0@~
 20233@400039@Calça Lenis Feminina Jeans Jogger@0@~
 20235@400040@Calça Lenis Feminina Jeans Jogger@0@~
-20237@400041@Calça Lenis Feminina Jeans Jogger@1@~
-4797@397703@Vestido Gatos e Atos Midi Listras@3@~
-20239@397704@Vestido Gatos e Atos Midi Listras@1@~
+20237@400041@Calça Lenis Feminina Jeans Jogger@0@~
+4797@397703@Vestido Gatos e Atos Midi Listras@2@~
+20239@397704@Vestido Gatos e Atos Midi Listras@0@~
 20241@397705@Vestido Gatos e Atos Midi Listras@0@~
 20243@397706@Vestido Gatos e Atos Midi Listras@1@~
 20245@397707@Vestido Gatos e Atos Midi Listras@1@~
@@ -5277,8 +5103,8 @@
 20251@397103@Jardineira Ilicito Botões  Jeans Claro@0@~
 20253@397104@Jardineira Ilicito Botões  Jeans Claro@1@~
 20255@397105@Jardineira Ilicito Botões  Jeans Claro@1@~
-4801@400441@Bolsa Petite Jolie Estampada Eco@10@~
-20257@400442@Bolsa Petite Jolie Estampada Eco@5@~
+4801@400441@Bolsa Petite Jolie Estampada Eco@37@~
+20257@400442@Bolsa Petite Jolie Estampada Eco@32@~
 20361@400445@Bolsa Petite Jolie Estampada Eco@5@~
 4803@393629@Saia Mania Nacional Feminina Longa Azul @3@~
 20263@393630@Saia Mania Nacional Feminina Longa Azul @1@~
@@ -5327,8 +5153,8 @@
 4833@362994@Vestido Karapalida Feminino Gisele Azul@2@~
 20327@362995@Vestido Karapalida Feminino Gisele Azul@1@~
 20329@362996@Vestido Karapalida Feminino Gisele Azul@1@~
-4835@363021@Short Karapalida Feminino Jeans Azul@3@~
-20331@363022@Short Karapalida Feminino Jeans Azul@1@~
+4835@363021@Short Karapalida Feminino Jeans Azul@2@~
+20331@363022@Short Karapalida Feminino Jeans Azul@0@~
 20333@363023@Short Karapalida Feminino Jeans Azul@1@~
 20335@363024@Short Karapalida Feminino Jeans Azul@1@~
 4837@374513@Blusa Karapalida Feminina Babados Whatever@1@~
@@ -5360,21 +5186,21 @@
 4849@374550@Conjunto Karapalida Feminino Bege@2@~
 20379@374552@Conjunto Karapalida Feminino Bege@1@~
 20381@374553@Conjunto Karapalida Feminino Bege@1@~
-4851@363031@Macacão Karapalida Feminino Michele Branco @2@~
+4851@363031@Macacão Karapalida Feminino Michele Branco @1@~
 20385@363035@Macacão Karapalida Feminino Michele Branco @1@~
-20387@363032@Macacão Karapalida Feminino Michele Branco @1@~
+20387@363032@Macacão Karapalida Feminino Michele Branco @0@~
 4853@362994@Vestido Karapalida Feminino Julia Azul Claro@2@~
 20389@362995@Vestido Karapalida Feminino Julia Azul Claro@1@~
 20391@362996@Vestido Karapalida Feminino Julia Azul Claro@1@~
-4855@346792@Conjunto Karapalida Feminino Cristie @2@~
+4855@346792@Conjunto Karapalida Feminino Cristie @1@~
 20393@346794@Conjunto Karapalida Feminino Cristie @1@~
-20395@346795@Conjunto Karapalida Feminino Cristie @1@~
+20395@346795@Conjunto Karapalida Feminino Cristie @0@~
 4857@346796@Conjunto Karapalida Feminino Mary Bege@1@~
 20397@346797@Conjunto Karapalida Feminino Mary Bege@1@~
 4859@374519@Blusa Karapalida Feminina Rosa@1@~
 20399@374520@Blusa Karapalida Feminina Rosa@1@~
-4861@399456@Calça Ecko Masculina Rony Preta@2@~
-20401@399458@Calça Ecko Masculina Rony Preta@1@~
+4861@399456@Calça Ecko Masculina Rony Preta@3@~
+20401@399458@Calça Ecko Masculina Rony Preta@2@~
 20403@399459@Calça Ecko Masculina Rony Preta@1@~
 4863@392581@Bermuda Yonders Masculina Sarja Marrom@9@~
 20405@392582@Bermuda Yonders Masculina Sarja Marrom@1@~
@@ -5390,45 +5216,45 @@
 20427@374532@Vestido Karapalida Feminino Moly Verde@1@~
 4869@388005@Calça Karapalida Feminina Moletom Cinza@1@~
 20429@388006@Calça Karapalida Feminina Moletom Cinza@1@~
-4871@388011@Shorts Karapalida Feminino Cora Preto@4@~
+4871@388011@Shorts Karapalida Feminino Cora Preto@2@~
 20431@388012@Shorts Karapalida Feminino Cora Preto@1@~
-20433@388013@Shorts Karapalida Feminino Cora Preto@1@~
-20435@388014@Shorts Karapalida Feminino Cora Preto@1@~
+20433@388013@Shorts Karapalida Feminino Cora Preto@0@~
+20435@388014@Shorts Karapalida Feminino Cora Preto@0@~
 20437@388015@Shorts Karapalida Feminino Cora Preto@1@~
 4873@398508@Conjunto Karapalida Feminino Gigi Matelasse Preto@1@~
 20439@398509@Conjunto Karapalida Feminino Gigi Matelasse Preto@1@~
 4875@388033@Saia Karapalida Feminina Emilia Cinza@2@~
 20441@388034@Saia Karapalida Feminina Emilia Cinza@1@~
 20443@388035@Saia Karapalida Feminina Emilia Cinza@1@~
-4877@398518@Calça Karapalida Feminina My Life Jogger@5@~
+4877@398518@Calça Karapalida Feminina My Life Jogger@3@~
 20445@398519@Calça Karapalida Feminina My Life Jogger@1@~
-20447@398520@Calça Karapalida Feminina My Life Jogger@2@~
-20449@398521@Calça Karapalida Feminina My Life Jogger@2@~
+20447@398520@Calça Karapalida Feminina My Life Jogger@1@~
+20449@398521@Calça Karapalida Feminina My Life Jogger@1@~
 4879@388001@Calça Karapalida Feminina Jeans Skinny @2@~
 20451@388002@Calça Karapalida Feminina Jeans Skinny @1@~
 20453@388003@Calça Karapalida Feminina Jeans Skinny @1@~
 20455@388004@Calça Karapalida Feminina Jeans Skinny @0@~
-4881@388021@Shorts Karapalida Feminino Couro Eco Preto@2@~
+4881@388021@Shorts Karapalida Feminino Couro Eco Preto@1@~
 20457@388022@Shorts Karapalida Feminino Couro Eco Preto@1@~
 20459@388023@Shorts Karapalida Feminino Couro Eco Preto@0@~
-20461@388024@Shorts Karapalida Feminino Couro Eco Preto@1@~
+20461@388024@Shorts Karapalida Feminino Couro Eco Preto@0@~
 4883@331993@Calça Karapalida Feminina Montaria Preta @1@~
 20463@331994@Calça Karapalida Feminina Montaria Preta @0@~
 20465@331995@Calça Karapalida Feminina Montaria Preta @0@~
 20467@331996@Calça Karapalida Feminina Montaria Preta @1@~
-4885@390413@Jaqueta Kukie Feminina Veludo@5@~
+4885@390413@Jaqueta Kukie Feminina Veludo@6@~
 20469@390418@Jaqueta Kukie Feminina Veludo@1@~
 20471@390419@Jaqueta Kukie Feminina Veludo@0@~
 20473@390420@Jaqueta Kukie Feminina Veludo@1@~
 20475@390421@Jaqueta Kukie Feminina Veludo@0@~
 20477@390414@Jaqueta Kukie Feminina Veludo@1@~
-20479@390915@Jaqueta Kukie Feminina Veludo@1@~
+20479@390915@Jaqueta Kukie Feminina Veludo@2@~
 20481@390416@Jaqueta Kukie Feminina Veludo@1@~
 20483@390417@Jaqueta Kukie Feminina Veludo@0@~
-4887@398893@Conjunto Banana Danger Masculino Moletinho Lets Talk@3@~
-20485@398895@Conjunto Banana Danger Masculino Moletinho Lets Talk@1@~
-20543@398894@Conjunto Banana Danger Masculino Moletinho Lets Talk@1@~
-20545@398896@Conjunto Banana Danger Masculino Moletinho Lets Talk@1@~
+4887@398893@Conjunto Banana Danger Masculino Bebê Moletinho Lets Talk@3@~
+20485@398895@Conjunto Banana Danger Masculino Bebê Moletinho Lets Talk@1@~
+20543@398894@Conjunto Banana Danger Masculino Bebê Moletinho Lets Talk@1@~
+20545@398896@Conjunto Banana Danger Masculino Bebê Moletinho Lets Talk@1@~
 4889@384223@Calça Banana Danger Masculina Moletom Create@3@~
 20487@384225@Calça Banana Danger Masculina Moletom Create@1@~
 20503@384224@Calça Banana Danger Masculina Moletom Create@1@~
@@ -5438,10 +5264,10 @@
 20491@390390@Vestido Kukie Feminino Manga Longa Cachorrinho@1@~
 20493@390391@Vestido Kukie Feminino Manga Longa Cachorrinho@1@~
 20495@390392@Vestido Kukie Feminino Manga Longa Cachorrinho@1@~
-4893@382311@Calça Banana Danger Masculina Microfibra Jogger@3@~
-20497@382312@Calça Banana Danger Masculina Microfibra Jogger@1@~
-20529@382313@Calça Banana Danger Masculina Microfibra Jogger@1@~
-20531@382314@Calça Banana Danger Masculina Microfibra Jogger@1@~
+4893@382311@Calça Banana Danger Masculina Infantil Microfibra Jogger@5@~
+20497@382312@Calça Banana Danger Masculina Infantil Microfibra Jogger@1@~
+20529@382313@Calça Banana Danger Masculina Infantil Microfibra Jogger@1@~
+20531@382314@Calça Banana Danger Masculina Infantil Microfibra Jogger@3@~
 4897@398901@Conjunto Banana Danger Masculino Gamer Cinza@4@~
 20499@398905@Conjunto Banana Danger Masculino Gamer Cinza@1@~
 20535@398902@Conjunto Banana Danger Masculino Gamer Cinza@1@~
@@ -5449,8 +5275,8 @@
 20539@398904@Conjunto Banana Danger Masculino Gamer Cinza@1@~
 4899@384215@Camiseta Banana Danger Masculina Manga Longa Preta@1@~
 20501@384216@Camiseta Banana Danger Masculina Manga Longa Preta@1@~
-4901@398910@Conjunto Banana Danger Masculino Moletinho Sport@2@~
-20505@398911@Conjunto Banana Danger Masculino Moletinho Sport@1@~
+4901@398910@Conjunto Banana Danger Masculino Moletinho Sport@1@~
+20505@398911@Conjunto Banana Danger Masculino Moletinho Sport@0@~
 20527@398913@Conjunto Banana Danger Masculino Moletinho Sport@1@~
 4903@375290@Saia Karapalida Infantil Botões@1@~
 20511@375297@Saia Karapalida Infantil Botões@1@~
@@ -5458,16 +5284,14 @@
 20513@398917@Conjunto Banana Danger Masculino Microfibra Basic Preto@1@~
 20521@398915@Conjunto Banana Danger Masculino Microfibra Basic Preto@1@~
 20523@398916@Conjunto Banana Danger Masculino Microfibra Basic Preto@1@~
-4907@394456@Almofada Hug Urso @3@~
+4907@394456@Almofada Hug Urso @4@~
 20515@400285@Almofada Hug Urso @1@~
-20517@400286@Almofada Hug Urso @1@~
+20517@400286@Almofada Hug Urso @2@~
 20519@400284@Almofada Hug Urso @1@~
 4909@400287@Cueiro Festa Dos Bichos@1@~
 20525@400288@Cueiro Festa Dos Bichos@1@~
-4911@400291@Segura Bebê Hug @1@~
-20533@400292@Segura Bebê Hug @1@~
-4913@400293@Kit 2 Babinhas Hug Happy Zoo @1@~
-20547@400294@Kit 2 Babinhas Hug Happy Zoo @1@~
+4913@400293@Kit 2 Babinhas Hug Happy Zoo @2@~
+20547@400294@Kit 2 Babinhas Hug Happy Zoo @2@~
 4915@387995@Jaqueta Karapalida Feminina Courino Marrom@4@~
 20549@387996@Jaqueta Karapalida Feminina Courino Marrom@1@~
 20551@387997@Jaqueta Karapalida Feminina Courino Marrom@1@~
@@ -5477,24 +5301,24 @@
 20557@394465@Kit Babadores Hug 2 Unidades Bosque Azul @1@~
 4919@331986@Blusa Karapalida Feminina Manga Longa Cinza@1@~
 20559@331987@Blusa Karapalida Feminina Manga Longa Cinza@1@~
-4921@390397@Vestido Kukie Feminino Urso Jeans@3@~
-20561@390398@Vestido Kukie Feminino Urso Jeans@1@~
-20563@390399@Vestido Kukie Feminino Urso Jeans@1@~
-20565@390400@Vestido Kukie Feminino Urso Jeans@1@~
-4923@267544@Short Kukie Feminino Infantil@10@~
-20567@348805@Short Kukie Feminino Infantil@1@~
+4921@390397@Vestido Kukie Feminino Infantil Urso Jeans@3@~
+20561@390398@Vestido Kukie Feminino Infantil Urso Jeans@1@~
+20563@390399@Vestido Kukie Feminino Infantil Urso Jeans@1@~
+20565@390400@Vestido Kukie Feminino Infantil Urso Jeans@1@~
+4923@267544@Short Kukie Feminino Infantil@23@~
+20567@348805@Short Kukie Feminino Infantil@2@~
 20569@348806@Short Kukie Feminino Infantil@1@~
 20571@348807@Short Kukie Feminino Infantil@1@~
-20573@348808@Short Kukie Feminino Infantil@1@~
-20575@348809@Short Kukie Feminino Infantil@1@~
+20573@348808@Short Kukie Feminino Infantil@2@~
+20575@348809@Short Kukie Feminino Infantil@3@~
 20577@348800@Short Kukie Feminino Infantil@1@~
-20579@348801@Short Kukie Feminino Infantil@1@~
-20581@348802@Short Kukie Feminino Infantil@1@~
-20583@348803@Short Kukie Feminino Infantil@1@~
-20585@348804@Short Kukie Feminino Infantil@1@~
-4925@390326@Calça Kukie Feminina Legging Jeans@4@~
+20579@348801@Short Kukie Feminino Infantil@2@~
+20581@348802@Short Kukie Feminino Infantil@3@~
+20583@348803@Short Kukie Feminino Infantil@4@~
+20585@348804@Short Kukie Feminino Infantil@4@~
+4925@390326@Calça Kukie Feminina Legging Jeans@3@~
 20587@390327@Calça Kukie Feminina Legging Jeans@1@~
-20589@390328@Calça Kukie Feminina Legging Jeans@1@~
+20589@390328@Calça Kukie Feminina Legging Jeans@0@~
 20591@390329@Calça Kukie Feminina Legging Jeans@1@~
 20593@390330@Calça Kukie Feminina Legging Jeans@1@~
 4927@374534@Vestido Kukie Feminino Poá Rosa@1@~
@@ -5508,58 +5332,52 @@
 4933@362999@Conjunto Karapalida Feminino Nanda Rosa@2@~
 20613@363000@Conjunto Karapalida Feminino Nanda Rosa@1@~
 20615@363002@Conjunto Karapalida Feminino Nanda Rosa@1@~
-4935@@Kit Carrinho Olympus BeBê@1@~
 4937@334037@Bolero Kukie Pedrinhas Bebê@2@~
 20623@334038@Bolero Kukie Pedrinhas Bebê@0@~
 20625@334039@Bolero Kukie Pedrinhas Bebê@1@~
 20797@339145@Bolero Kukie Pedrinhas Bebê@0@~
 20799@339146@Bolero Kukie Pedrinhas Bebê@1@~
-4939@390430@Vestido Kukie Feminino Ursinhos Bebê@3@~
-20627@390431@Vestido Kukie Feminino Ursinhos Bebê@1@~
-20629@390432@Vestido Kukie Feminino Ursinhos Bebê@1@~
-20631@390433@Vestido Kukie Feminino Ursinhos Bebê@1@~
-4941@387166@Colete Prima Dona Feminino Preto@1@~
-20633@387170@Colete Prima Dona Feminino Preto@1@~
-4943@398940@Conjunto Pinoducci Feminino Moletinho @2@~
-20635@398942@Conjunto Pinoducci Feminino Moletinho @1@~
+4939@390430@Vestido Kukie Feminino Bebê Ursinhos@3@~
+20627@390431@Vestido Kukie Feminino Bebê Ursinhos@1@~
+20629@390432@Vestido Kukie Feminino Bebê Ursinhos@1@~
+20631@390433@Vestido Kukie Feminino Bebê Ursinhos@1@~
+4941@387166@Colete Prima Dona Feminino Preto@0@~
+20633@387170@Colete Prima Dona Feminino Preto@0@~
+4943@398940@Conjunto Pinoducci Feminino Moletinho @1@~
+20635@398942@Conjunto Pinoducci Feminino Moletinho @0@~
 20637@398943@Conjunto Pinoducci Feminino Moletinho @1@~
-4945@398747@Tênis Farm Feminino Mule Lona@5@~
+4945@398747@Tênis Farm Feminino Mule Lona@4@~
 20641@398748@Tênis Farm Feminino Mule Lona@1@~
 20643@398749@Tênis Farm Feminino Mule Lona@1@~
 20645@398750@Tênis Farm Feminino Mule Lona@1@~
-20647@398781@Tênis Farm Feminino Mule Lona@1@~
+20647@398751@Tênis Farm Feminino Mule Lona@0@~
 20649@398752@Tênis Farm Feminino Mule Lona@1@~
-4947@398734@Tênis Farm Feminino Avenida Boliche Selva Chic@4@~
+4947@398734@Tênis Farm Feminino Avenida Boliche Selva Chic@2@~
 20651@398735@Tênis Farm Feminino Avenida Boliche Selva Chic@1@~
-20653@398736@Tênis Farm Feminino Avenida Boliche Selva Chic@1@~
-20655@398737@Tênis Farm Feminino Avenida Boliche Selva Chic@0@~
+20653@398736@Tênis Farm Feminino Avenida Boliche Selva Chic@0@~
 20657@398738@Tênis Farm Feminino Avenida Boliche Selva Chic@1@~
-20659@398739@Tênis Farm Feminino Avenida Boliche Selva Chic@1@~
-4949@398740@Tênis Farm Feminino Avenida Iate Selva Chic@6@~
+4949@398740@Tênis Farm Feminino Avenida Iate Selva Chic@4@~
 20661@398741@Tênis Farm Feminino Avenida Iate Selva Chic@1@~
-20663@398742@Tênis Farm Feminino Avenida Iate Selva Chic@1@~
+20663@398742@Tênis Farm Feminino Avenida Iate Selva Chic@0@~
 20665@398743@Tênis Farm Feminino Avenida Iate Selva Chic@1@~
 20667@398744@Tênis Farm Feminino Avenida Iate Selva Chic@1@~
 20669@398745@Tênis Farm Feminino Avenida Iate Selva Chic@1@~
-20671@398746@Tênis Farm Feminino Avenida Iate Selva Chic@1@~
-4951@398710@Tênis Farm Avenida Boliche Piruetas Verde Latino@4@~
-20673@398711@Tênis Farm Avenida Boliche Piruetas Verde Latino@0@~
+4951@398710@Tênis Farm Avenida Boliche Piruetas Verde Latino@3@~
 20675@398712@Tênis Farm Avenida Boliche Piruetas Verde Latino@1@~
 20677@398713@Tênis Farm Avenida Boliche Piruetas Verde Latino@1@~
 20679@398714@Tênis Farm Avenida Boliche Piruetas Verde Latino@1@~
-20681@398715@Tênis Farm Avenida Boliche Piruetas Verde Latino@1@~
-4953@398722@Tênis Farm Feminino Pista Maluquice@4@~
+4953@398722@Tênis Farm Feminino Pista Maluquice@5@~
 20683@398723@Tênis Farm Feminino Pista Maluquice@0@~
-20685@398724@Tênis Farm Feminino Pista Maluquice@1@~
-20687@398725@Tênis Farm Feminino Pista Maluquice@1@~
-20689@398726@Tênis Farm Feminino Pista Maluquice@1@~
+20685@398724@Tênis Farm Feminino Pista Maluquice@0@~
+20687@398725@Tênis Farm Feminino Pista Maluquice@2@~
+20689@398726@Tênis Farm Feminino Pista Maluquice@2@~
 20691@398727@Tênis Farm Feminino Pista Maluquice@1@~
-4955@398728@Tenis Farm Tucano Arco Farm@4@~
-20693@398729@Tenis Farm Tucano Arco Farm@0@~
-20695@398730@Tenis Farm Tucano Arco Farm@1@~
-20697@398731@Tenis Farm Tucano Arco Farm@1@~
-20699@398732@Tenis Farm Tucano Arco Farm@1@~
-20701@398733@Tenis Farm Tucano Arco Farm@1@~
+4955@398728@Tenis Farm Feminino Tucano Arco Me Leva@6@~
+20693@398729@Tenis Farm Feminino Tucano Arco Me Leva@0@~
+20695@398730@Tenis Farm Feminino Tucano Arco Me Leva@1@~
+20697@398731@Tenis Farm Feminino Tucano Arco Me Leva@2@~
+20699@398732@Tenis Farm Feminino Tucano Arco Me Leva@2@~
+20701@398733@Tenis Farm Feminino Tucano Arco Me Leva@1@~
 4957@391451@Calça Johnny Fox Infantil Masculina Moletom@2@~
 20703@391452@Calça Johnny Fox Infantil Masculina Moletom@0@~
 20705@391453@Calça Johnny Fox Infantil Masculina Moletom@1@~
@@ -5585,17 +5403,17 @@
 20737@391431@Jaqueta Johnny Fox Infantil Masculina Zíper @1@~
 20739@391432@Jaqueta Johnny Fox Infantil Masculina Zíper @1@~
 20741@391433@Jaqueta Johnny Fox Infantil Masculina Zíper @1@~
-4967@384454@Mochila Farm Xodó Maluquice Me Leva@1@~
-20743@384455@Mochila Farm Xodó Maluquice Me Leva@1@~
-4969@384444@Bolsa Farm Praiana Show De Banana Creme@1@~
-20745@384445@Bolsa Farm Praiana Show De Banana Creme@1@~
+4967@384454@Mochila Farm Xodó Maluquice Me Leva@3@~
+20743@384455@Mochila Farm Xodó Maluquice Me Leva@3@~
+4969@384444@Bolsa Farm Praiana Show De Banana Creme@0@~
+20745@384445@Bolsa Farm Praiana Show De Banana Creme@0@~
 4971@391459@Calça Johnny Fox Infantil Masculina Jogger @4@~
 20747@391460@Calça Johnny Fox Infantil Masculina Jogger @1@~
 20749@391461@Calça Johnny Fox Infantil Masculina Jogger @1@~
 20751@391462@Calça Johnny Fox Infantil Masculina Jogger @1@~
 20753@391463@Calça Johnny Fox Infantil Masculina Jogger @1@~
-4973@381456@Jaqueta Queens Feminina Branca @3@~
-20755@381461@Jaqueta Queens Feminina Branca @1@~
+4973@381456@Jaqueta Queens Feminina Branca @2@~
+20755@381461@Jaqueta Queens Feminina Branca @0@~
 20757@381462@Jaqueta Queens Feminina Branca @1@~
 20759@381463@Jaqueta Queens Feminina Branca @1@~
 20761@381464@Jaqueta Queens Feminina Branca @0@~
@@ -5614,14 +5432,167 @@
 20783@399108@Saia Ilicito Feminina Xadrez @1@~
 20785@399109@Saia Ilicito Feminina Xadrez @0@~
 20787@399110@Saia Ilicito Feminina Xadrez @1@~
-4979@396978@Cropped Ilicito Feminino @2@~
-20789@396979@Cropped Ilicito Feminino @1@~
-20791@396980@Cropped Ilicito Feminino @1@~
+4979@396978@Cropped Ilicito Feminino Couro Eco@2@~
+20789@396979@Cropped Ilicito Feminino Couro Eco@1@~
+20791@396980@Cropped Ilicito Feminino Couro Eco@1@~
 4981@391422@Jaqueta Johnny Fox Infantil Masculina Jeans @1@~
 20793@391423@Jaqueta Johnny Fox Infantil Masculina Jeans @1@~
 20795@391424@Jaqueta Johnny Fox Infantil Masculina Jeans @0@~
 4983@381473@Mordedor Nuby Bananinha Massageador@12@~
 20805@381474@Mordedor Nuby Bananinha Massageador@12@~
-4985@400511@Copo Nuby Bico Silicone 300ml@24@~
-20807@400513@Copo Nuby Bico Silicone 300ml@18@~
-20809@400512@Copo Nuby Bico Silicone 300ml@6@~
+4985@400511@Copo Nuby Bico Silicone 300ml@16@~
+20807@400513@Copo Nuby Bico Silicone 300ml@14@~
+20809@400512@Copo Nuby Bico Silicone 300ml@2@~
+4987@390831@Blusa Vic Vicky Feminina Manga Longa Gatinho Cinza@3@~
+20811@390832@Blusa Vic Vicky Feminina Manga Longa Gatinho Cinza@1@~
+20813@390833@Blusa Vic Vicky Feminina Manga Longa Gatinho Cinza@1@~
+20815@390834@Blusa Vic Vicky Feminina Manga Longa Gatinho Cinza@0@~
+20817@390835@Blusa Vic Vicky Feminina Manga Longa Gatinho Cinza@1@~
+4989@339121@Conjunto Kukie Manga Longa Bebê Surprise Love @2@~
+20819@339122@Conjunto Kukie Manga Longa Bebê Surprise Love @1@~
+20821@339123@Conjunto Kukie Manga Longa Bebê Surprise Love @1@~
+4991@391448@Calça Johnny Fox Moletom Detalhes Preta@1@~
+20823@391449@Calça Johnny Fox Moletom Detalhes Preta@0@~
+20825@391450@Calça Johnny Fox Moletom Detalhes Preta@1@~
+4993@391434@Blusão Johnny Fox Infantil Cinza@1@~
+20827@391435@Blusão Johnny Fox Infantil Cinza@1@~
+4997@326456@Conjunto Kukie Infantil Feminino Panda Divertido @2@~
+20829@326459@Conjunto Kukie Infantil Feminino Panda Divertido @1@~
+20831@326460@Conjunto Kukie Infantil Feminino Panda Divertido @1@~
+4999@388176@Saia Bana Bana Corta Vento @4@~
+20833@388177@Saia Bana Bana Corta Vento @1@~
+20835@388178@Saia Bana Bana Corta Vento @1@~
+20837@388179@Saia Bana Bana Corta Vento @1@~
+20839@388180@Saia Bana Bana Corta Vento @1@~
+5001@388129@Conjunto Bana Bana Moletom Recortes@3@~
+20841@388130@Conjunto Bana Bana Moletom Recortes@1@~
+20843@388131@Conjunto Bana Bana Moletom Recortes@0@~
+20845@388132@Conjunto Bana Bana Moletom Recortes@1@~
+20847@388133@Conjunto Bana Bana Moletom Recortes@1@~
+20849@388134@Conjunto Bana Bana Moletom Recortes@0@~
+20851@388135@Conjunto Bana Bana Moletom Recortes@0@~
+5003@388108@Blusa Bana Bana Infantil Detalhes Star@5@~
+20853@388109@Blusa Bana Bana Infantil Detalhes Star@1@~
+20855@388110@Blusa Bana Bana Infantil Detalhes Star@1@~
+20857@388111@Blusa Bana Bana Infantil Detalhes Star@1@~
+20859@388112@Blusa Bana Bana Infantil Detalhes Star@1@~
+20861@388113@Blusa Bana Bana Infantil Detalhes Star@0@~
+20863@388114@Blusa Bana Bana Infantil Detalhes Star@1@~
+5005@388512@Conjunto Camu Camu Short  Feminino Infantil @4@~
+20871@388516@Conjunto Camu Camu Short  Feminino Infantil @1@~
+20873@388515@Conjunto Camu Camu Short  Feminino Infantil @1@~
+20875@388514@Conjunto Camu Camu Short  Feminino Infantil @1@~
+20877@388513@Conjunto Camu Camu Short  Feminino Infantil @1@~
+5007@@Tenis Bibi Masculino Pac Man @2@~
+20883@@Tenis Bibi Masculino Pac Man @2@~
+5009@390316@Jardineira Kukie Feminina Infantil Jeans Azul @2@~
+20885@390317@Jardineira Kukie Feminina Infantil Jeans Azul @0@~
+20887@390318@Jardineira Kukie Feminina Infantil Jeans Azul @0@~
+20889@390319@Jardineira Kukie Feminina Infantil Jeans Azul @1@~
+20891@390320@Jardineira Kukie Feminina Infantil Jeans Azul @1@~
+5011@390384@Vestido Kukie Feminino Infantil Ursinhos Quadrinhos @2@~
+20893@390385@Vestido Kukie Feminino Infantil Ursinhos Quadrinhos @1@~
+20895@390386@Vestido Kukie Feminino Infantil Ursinhos Quadrinhos @0@~
+20897@390387@Vestido Kukie Feminino Infantil Ursinhos Quadrinhos @1@~
+5013@321494@Bolsa Petite Jolie PJ3939 Shape@3@~
+20899@321854@Bolsa Petite Jolie PJ3939 Shape@1@~
+20961@321495@Bolsa Petite Jolie PJ3939 Shape@1@~
+21009@400566@Bolsa Petite Jolie PJ3939 Shape@1@~
+5015@390401@Vestido Kukie Feminino Infantil Cachorros@3@~
+20907@390402@Vestido Kukie Feminino Infantil Cachorros@0@~
+20909@390403@Vestido Kukie Feminino Infantil Cachorros@1@~
+20911@390404@Vestido Kukie Feminino Infantil Cachorros@1@~
+20913@390405@Vestido Kukie Feminino Infantil Cachorros@1@~
+5017@390425@Vestido Kukie Feminino Infantil Corações Do Amor@3@~
+20915@390426@Vestido Kukie Feminino Infantil Corações Do Amor@1@~
+20917@390427@Vestido Kukie Feminino Infantil Corações Do Amor@1@~
+20919@390428@Vestido Kukie Feminino Infantil Corações Do Amor@0@~
+20921@390429@Vestido Kukie Feminino Infantil Corações Do Amor@1@~
+5019@390434@Vestido Kukie Feminino Infantil Ursinhos@2@~
+20923@390435@Vestido Kukie Feminino Infantil Ursinhos@0@~
+20925@390436@Vestido Kukie Feminino Infantil Ursinhos@1@~
+20927@390437@Vestido Kukie Feminino Infantil Ursinhos@1@~
+5021@390293@Jaqueta Kukie Feminina Infantil Jeans Urso@2@~
+20929@390294@Jaqueta Kukie Feminina Infantil Jeans Urso@0@~
+20931@390295@Jaqueta Kukie Feminina Infantil Jeans Urso@1@~
+20933@390296@Jaqueta Kukie Feminina Infantil Jeans Urso@0@~
+20935@390297@Jaqueta Kukie Feminina Infantil Jeans Urso@1@~
+5023@390357@Saia Kukie Feminina Infantil Pom Pom Preta@4@~
+20937@390358@Saia Kukie Feminina Infantil Pom Pom Preta@1@~
+20939@390359@Saia Kukie Feminina Infantil Pom Pom Preta@1@~
+20941@390360@Saia Kukie Feminina Infantil Pom Pom Preta@1@~
+20943@390361@Saia Kukie Feminina Infantil Pom Pom Preta@1@~
+5025@390334@Calça Kukie Feminina Infantil Paete@3@~
+20945@390335@Calça Kukie Feminina Infantil Paete@1@~
+20947@390336@Calça Kukie Feminina Infantil Paete@0@~
+20949@390337@Calça Kukie Feminina Infantil Paete@1@~
+20951@390338@Calça Kukie Feminina Infantil Paete@1@~
+5027@388572@Blusa Camu Camu Feminina Detalhes Laranja@3@~
+20953@388573@Blusa Camu Camu Feminina Detalhes Laranja@1@~
+20955@388574@Blusa Camu Camu Feminina Detalhes Laranja@1@~
+20957@388575@Blusa Camu Camu Feminina Detalhes Laranja@0@~
+20959@388576@Blusa Camu Camu Feminina Detalhes Laranja@1@~
+5029@388122@Vestido Bana Bana Feminino Gatinho @4@~
+20963@388123@Vestido Bana Bana Feminino Gatinho @1@~
+20965@388124@Vestido Bana Bana Feminino Gatinho @0@~
+20967@388125@Vestido Bana Bana Feminino Gatinho @1@~
+20969@388126@Vestido Bana Bana Feminino Gatinho @1@~
+20971@388127@Vestido Bana Bana Feminino Gatinho @0@~
+20973@388128@Vestido Bana Bana Feminino Gatinho @1@~
+5031@388167@Vestido Bana Bana Infantil Star Division @4@~
+20975@388168@Vestido Bana Bana Infantil Star Division @1@~
+20977@388169@Vestido Bana Bana Infantil Star Division @1@~
+20979@388170@Vestido Bana Bana Infantil Star Division @1@~
+20981@388171@Vestido Bana Bana Infantil Star Division @1@~
+20983@388172@Vestido Bana Bana Infantil Star Division @0@~
+5033@388136@Vestido Bana Bana Feminino Tokyo Listras@4@~
+20985@388137@Vestido Bana Bana Feminino Tokyo Listras@1@~
+20987@388138@Vestido Bana Bana Feminino Tokyo Listras@1@~
+20989@388139@Vestido Bana Bana Feminino Tokyo Listras@1@~
+20991@388140@Vestido Bana Bana Feminino Tokyo Listras@1@~
+20993@388141@Vestido Bana Bana Feminino Tokyo Listras@0@~
+20995@388142@Vestido Bana Bana Feminino Tokyo Listras@0@~
+5035@400556@Bolsa Petite Jolie PJ5064@5@~
+20997@400558@Bolsa Petite Jolie PJ5064@1@~
+20999@400560@Bolsa Petite Jolie PJ5064@1@~
+21001@400561@Bolsa Petite Jolie PJ5064@1@~
+21003@400557@Bolsa Petite Jolie PJ5064@1@~
+21005@400559@Bolsa Petite Jolie PJ5064@1@~
+5037@382315@Calça Banana Danger Masculina Microfibra Jogger@10@~
+21015@382316@Calça Banana Danger Masculina Microfibra Jogger@3@~
+21017@382317@Calça Banana Danger Masculina Microfibra Jogger@4@~
+21019@382318@Calça Banana Danger Masculina Microfibra Jogger@3@~
+5039@389971@Jaqueta Banana Danger Bebê Calça Moletom@3@~
+21021@389972@Jaqueta Banana Danger Bebê Calça Moletom@1@~
+21023@389973@Jaqueta Banana Danger Bebê Calça Moletom@1@~
+21025@389974@Jaqueta Banana Danger Bebê Calça Moletom@1@~
+5041@389982@Conjunto Banana Danger Masculino Infantil Com Capuz@2@~
+21027@389983@Conjunto Banana Danger Masculino Infantil Com Capuz@1@~
+21029@389984@Conjunto Banana Danger Masculino Infantil Com Capuz@0@~
+21031@389985@Conjunto Banana Danger Masculino Infantil Com Capuz@1@~
+5043@390003@Jaqueta Banana Danger Masculina Moletinho Preta@2@~
+21033@390004@Jaqueta Banana Danger Masculina Moletinho Preta@1@~
+21035@390005@Jaqueta Banana Danger Masculina Moletinho Preta@0@~
+21037@390006@Jaqueta Banana Danger Masculina Moletinho Preta@1@~
+5045@390011@Jaqueta Banana Danger Masculina Sport @3@~
+21039@390012@Jaqueta Banana Danger Masculina Sport @1@~
+21041@390013@Jaqueta Banana Danger Masculina Sport @1@~
+21043@390014@Jaqueta Banana Danger Masculina Sport @1@~
+5047@@Kit Mamadeiras Philips Avent Anti Colica 3 unidades Classica@1@~
+21045@383632@Kit Mamadeiras Philips Avent Anti Colica 3 unidades Classica@1@~
+5049@361916@Naninha Hug Baby Bear Happy Zoo@2@~
+21049@394489@Naninha Hug Baby Bear Happy Zoo@2@~
+5051@394480@Naninha Hug Baby Bear Bosque Azul@1@~
+21051@394481@Naninha Hug Baby Bear Bosque Azul@1@~
+5053@400672@Bolsa Petite Jolie PJ5123 Hello@3@~
+21053@400673@Bolsa Petite Jolie PJ5123 Hello@1@~
+21055@400674@Bolsa Petite Jolie PJ5123 Hello@1@~
+21057@400675@Bolsa Petite Jolie PJ5123 Hello@1@~
+5055@400684@Bolsa Petite Jolie PJ5378 Easy Preta@1@~
+21063@400685@Bolsa Petite Jolie PJ5378 Easy Preta@1@~
+5057@369596@Mochila Petite Jolie PJ2032 Kitbag@2@~
+21065@400676@Mochila Petite Jolie PJ2032 Kitbag@1@~
+21067@400677@Mochila Petite Jolie PJ2032 Kitbag@1@~
+5059@400678@Bolsa Petite Jolie PJ5168 Shopper@2@~
+21069@400681@Bolsa Petite Jolie PJ5168 Shopper@1@~
+21071@400679@Bolsa Petite Jolie PJ5168 Shopper@1@~
