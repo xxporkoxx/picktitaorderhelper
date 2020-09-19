@@ -5585,7 +5585,7 @@
 21513@403167@Sandalia Klin Masculina Tic Tac Casual @1@~
 21515@403168@Sandalia Klin Masculina Tic Tac Casual @1@~
 21517@403169@Sandalia Klin Masculina Tic Tac Casual @1@~
-21519@403170@Sandalia Klin Masculina Tic Tac Casual @1@~
+21519@403170@Sandalia Klin Masculina Tic Tac Casual @1@~    
 21521@403171@Sandalia Klin Masculina Tic Tac Casual @1@~
 21523@403172@Sandalia Klin Masculina Tic Tac Casual @1@~
 21525@403173@Sandalia Klin Masculina Tic Tac Casual @1@~
@@ -5616,3 +5616,62 @@
 21563@400400@Blusa Feminina Infantil Malha Tropical @1@~
 21565@400401@Blusa Feminina Infantil Malha Tropical @1@~
 21567@400402@Blusa Feminina Infantil Malha Tropical @1@~
+5169@404265@Fralda Ecologica Nova Era Baby Tie Dye@1@~
+21569@404266@Fralda Ecologica Nova Era Baby Tie Dye@1@~
+5171@402985@Sandalia Petite Jolie Feminina PJ5397 Preta@2@~
+21571@402987@Sandalia Petite Jolie Feminina PJ5397 Preta@1@~
+21573@402988@Sandalia Petite Jolie Feminina PJ5397 Preta@1@~
+5173@404499@Buzininha Buba Mordedor Animal Fun@3@~
+21575@404501@Buzininha Buba Mordedor Animal Fun@1@~
+21577@404502@Buzininha Buba Mordedor Animal Fun@1@~
+21579@404500@Buzininha Buba Mordedor Animal Fun@1@~
+5175@404470@Kit Cuidados Buba Baby 0m+@2@~
+21581@404472@Kit Cuidados Buba Baby 0m+@1@~
+21583@404471@Kit Cuidados Buba Baby 0m+@1@~
+5177@404505@Conjunto de Chocalhos Buba Baby Fun 3m+@1@~
+21585@404506@Conjunto de Chocalhos Buba Baby Fun 3m+@1@~
+5179@404490@Bichinhos de Banho Buba Dinossauros Baby@1@~
+21587@404491@Bichinhos de Banho Buba Dinossauros Baby@1@~
+5181@404492@Bichinhos de Banho Buba Animais Aquáticos Baby@1@~
+21589@404493@Bichinhos de Banho Buba Animais Aquáticos Baby@1@~
+5183@404494@Foguete Torpedo Buba Baby Banho Luz@3@~
+21591@404496@Foguete Torpedo Buba Baby Banho Luz@1@~
+21593@404497@Foguete Torpedo Buba Baby Banho Luz@1@~
+21595@404498@Foguete Torpedo Buba Baby Banho Luz@1@~
+5185@404511@Bichinho Buba Atividades Vaquinha Sonoro@1@~
+21597@404512@Bichinho Buba Atividades Vaquinha Sonoro@1@~
+5187@404473@Aspirador Nasal Buba Baby Com Estojo@1@~
+21599@404474@Aspirador Nasal Buba Baby Com Estojo@1@~
+5189@404462@Copo Buba Baby Treinamento Rosa @1@~
+21601@404463@Copo Buba Baby Treinamento Rosa @1@~
+5191@404475@Mictorio Buba Sapinho Infantil Educativo@4@~
+21603@404476@Mictorio Buba Sapinho Infantil Educativo@4@~
+5193@404460@Copo Buba Treinamento Alça Dinossauros 6m+@1@~
+21605@404461@Copo Buba Treinamento Alça Dinossauros 6m+@1@~
+5195@404646@Tenis Pampili Summer Tie Dye@5@~
+21607@404647@Tenis Pampili Summer Tie Dye@1@~
+21609@404648@Tenis Pampili Summer Tie Dye@1@~
+21611@404649@Tenis Pampili Summer Tie Dye@1@~
+21613@404650@Tenis Pampili Summer Tie Dye@0@~
+21615@404651@Tenis Pampili Summer Tie Dye@1@~
+21617@404652@Tenis Pampili Summer Tie Dye@0@~
+21619@404653@Tenis Pampili Summer Tie Dye@0@~
+21621@404654@Tenis Pampili Summer Tie Dye@1@~
+5197@404466@Prato Buba Baby Urso Divisoria@1@~
+21623@404467@Prato Buba Baby Urso Divisoria@1@~
+5199@404468@Prato Buba Baby Urso Divisoria Rosa@1@~
+21625@404469@Prato Buba Baby Urso Divisoria Rosa@1@~
+5201@404503@Kit Pato Banho Buba Amarelo 6 unidades@1@~
+21627@404504@Kit Pato Banho Buba Amarelo 6 unidades@1@~
+5203@404458@Garrafa Buba Animal Fun Leão@1@~
+21629@404459@Garrafa Buba Animal Fun Leão@1@~
+5205@404515@Boneca Buba Juju Atividades@1@~
+21631@404516@Boneca Buba Juju Atividades@1@~
+5207@404456@Copo Buba Treinamento Alça Urso 6m+@1@~
+21633@404457@Copo Buba Treinamento Alça Urso 6m+@1@~
+5209@404454@Copo Buba Treinamento Alça Urso Rosa 6m+@1@~
+21635@404455@Copo Buba Treinamento Alça Urso Rosa 6m+@1@~
+5211@404481@Protetor Solar Buba Baby Carro @1@~
+21637@404482@Protetor Solar Buba Baby Carro @1@~
+5213@404481@Bichinho Buba Atividades Leão Sonoro@1@~
+21639@404482@Bichinho Buba Atividades Leão Sonoro@1@~
