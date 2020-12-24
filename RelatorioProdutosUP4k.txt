@@ -5666,3 +5666,11 @@
 5707@411887@Bolsa Farm Feminina Dias da Semana Sexta Feira Verde@1@~
 24025@411888@Bolsa Farm Feminina Dias da Semana Sexta Feira Verde@1@~
 5709@304952@Kit Berço Hug Amiguinho Panda@1@~
+5711@283598@Bolsa Maternidade Hug Meu Ursinho M@1@~
+24041@327713@Bolsa Maternidade Hug Meu Ursinho M@1@~
+5713@342777@Bolsa Maternidade Hug Dublin M@1@~
+24043@342778@Bolsa Maternidade Hug Dublin M@1@~
+5715@418064@Bolsa Maternidade Hug Marrocos Rosa M@1@~
+24045@418065@Bolsa Maternidade Hug Marrocos Rosa M@1@~
+5717@418062@Bolsa Maternidade Hug Cassis M @1@~
+24047@418063@Bolsa Maternidade Hug Cassis M @1@~
