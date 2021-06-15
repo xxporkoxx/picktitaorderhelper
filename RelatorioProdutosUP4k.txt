@@ -112,10 +112,10 @@
 14427@327360@Sapatilha Pampili Infantil Fofura Galaxia Preto@0@~
 14429@327361@Sapatilha Pampili Infantil Fofura Galaxia Preto@1@~
 14431@327362@Sapatilha Pampili Infantil Fofura Galaxia Preto@0@~
-1615@327340@Sapatilha Infantil Pampili Bailarina Dourado@3@~
+1615@327340@Sapatilha Infantil Pampili Bailarina Dourado@2@~
 14445@327341@Sapatilha Infantil Pampili Bailarina Dourado@1@~
 14447@327342@Sapatilha Infantil Pampili Bailarina Dourado@0@~
-14449@327343@Sapatilha Infantil Pampili Bailarina Dourado@2@~
+14449@327343@Sapatilha Infantil Pampili Bailarina Dourado@1@~
 14451@327344@Sapatilha Infantil Pampili Bailarina Dourado@0@~
 14453@327345@Sapatilha Infantil Pampili Bailarina Dourado@0@~
 1623@398248@Capa Bebê Conforto Hug Pedacinho do Céu@2@~
@@ -886,7 +886,7 @@
 15211@379996@Tênis Klin Masculino Baby Ligth @0@~
 3487@379939@Tênis Klin Masculino Rocket@2@~
 15213@379940@Tênis Klin Masculino Rocket@0@~
-15215@379941@Tênis Klin Masculino Rocket@0@~
+15215@379941@Tênis Klin Masculino Rocket@1@~
 15217@379942@Tênis Klin Masculino Rocket@0@~
 15219@379943@Tênis Klin Masculino Rocket@0@~
 15221@379944@Tênis Klin Masculino Rocket@0@~
@@ -1173,11 +1173,11 @@
 16353@385252@Tenis Bibi Evolution Masculino Preto @0@~
 16355@385253@Tenis Bibi Evolution Masculino Preto @0@~
 16357@385254@Tenis Bibi Evolution Masculino Preto @0@~
-16359@385255@Tenis Bibi Evolution Masculino Preto @1@~
+16359@385255@Tenis Bibi Evolution Masculino Preto @0@~
 16361@385256@Tenis Bibi Evolution Masculino Preto @0@~
 3721@385463@Tenis Klin Outfit Masculino Cano Alto Marrom@2@~
 16389@385464@Tenis Klin Outfit Masculino Cano Alto Marrom@1@~
-16391@385465@Tenis Klin Outfit Masculino Cano Alto Marrom@0@~
+16391@385465@Tenis Klin Outfit Masculino Cano Alto Marrom@1@~
 16393@385466@Tenis Klin Outfit Masculino Cano Alto Marrom@0@~
 16395@385467@Tenis Klin Outfit Masculino Cano Alto Marrom@0@~
 16397@385468@Tenis Klin Outfit Masculino Cano Alto Marrom@0@~
@@ -1457,8 +1457,8 @@
 17347@384234@Calça Banana Danger Jeans Skinny@0@~
 17349@384235@Calça Banana Danger Jeans Skinny@1@~
 17351@384236@Calça Banana Danger Jeans Skinny@1@~
-3987@382304@Calça Ogochi Masculina Jeans Preto Skinny @4@~
-17353@382305@Calça Ogochi Masculina Jeans Preto Skinny @1@~
+3987@382304@Calça Ogochi Masculina Jeans Preto Skinny @3@~
+17353@382305@Calça Ogochi Masculina Jeans Preto Skinny @0@~
 17355@382306@Calça Ogochi Masculina Jeans Preto Skinny @1@~
 17357@382307@Calça Ogochi Masculina Jeans Preto Skinny @0@~
 17359@382308@Calça Ogochi Masculina Jeans Preto Skinny @0@~
@@ -2032,7 +2032,7 @@
 19317@399803@Tênis Molekinha Feminino Nobuck Nice Gleam Preto@0@~
 19319@399804@Tênis Molekinha Feminino Nobuck Nice Gleam Preto@0@~
 19321@399805@Tênis Molekinha Feminino Nobuck Nice Gleam Preto@0@~
-19323@399806@Tênis Molekinha Feminino Nobuck Nice Gleam Preto@1@~
+19323@399806@Tênis Molekinha Feminino Nobuck Nice Gleam Preto@0@~
 19325@399807@Tênis Molekinha Feminino Nobuck Nice Gleam Preto@1@~
 19327@399808@Tênis Molekinha Feminino Nobuck Nice Gleam Preto@0@~
 4603@399719@Tenis Molekinho Masculino Free Sport Preto@1@~
@@ -2570,8 +2570,8 @@
 21021@389972@Jaqueta Banana Danger Bebê Calça Moletom@0@~
 21023@389973@Jaqueta Banana Danger Bebê Calça Moletom@1@~
 21025@389974@Jaqueta Banana Danger Bebê Calça Moletom@1@~
-5041@389982@Conjunto Banana Danger Masculino Infantil Com Capuz@3@~
-21027@389983@Conjunto Banana Danger Masculino Infantil Com Capuz@1@~
+5041@389982@Conjunto Banana Danger Masculino Infantil Com Capuz@2@~
+21027@389983@Conjunto Banana Danger Masculino Infantil Com Capuz@0@~
 21029@389984@Conjunto Banana Danger Masculino Infantil Com Capuz@0@~
 21031@389985@Conjunto Banana Danger Masculino Infantil Com Capuz@2@~
 5043@390003@Jaqueta Banana Danger Masculina Moletinho Preta@1@~
@@ -3132,7 +3132,7 @@
 22357@407327@Tenis Bibi Luz Roller Celebration Tie Dye Feminino@0@~
 22359@407328@Tenis Bibi Luz Roller Celebration Tie Dye Feminino@0@~
 22361@407329@Tenis Bibi Luz Roller Celebration Tie Dye Feminino@0@~
-5341@407573@Tenis Bibi Luz Space Wave Dinossauro@0@~
+5341@407573@Tenis Bibi Luz Space Wave Dinossauro@1@~
 22391@407584@Tenis Bibi Luz Space Wave Dinossauro@0@~
 22393@407574@Tenis Bibi Luz Space Wave Dinossauro@0@~
 22395@407575@Tenis Bibi Luz Space Wave Dinossauro@0@~
@@ -3236,7 +3236,7 @@
 22613@408103@Sandalia Molekinha Feminina Sofia Dourada@0@~
 22615@408104@Sandalia Molekinha Feminina Sofia Dourada@0@~
 22617@408105@Sandalia Molekinha Feminina Sofia Dourada@1@~
-5365@407660@Sandalia Moleca Feminina Alice@7@~
+5365@407660@Sandalia Moleca Feminina Alice@6@~
 22619@407661@Sandalia Moleca Feminina Alice@0@~
 22621@407664@Sandalia Moleca Feminina Alice@0@~
 22623@407665@Sandalia Moleca Feminina Alice@1@~
@@ -3244,7 +3244,7 @@
 22627@407668@Sandalia Moleca Feminina Alice@1@~
 22629@407669@Sandalia Moleca Feminina Alice@0@~
 22631@407670@Sandalia Moleca Feminina Alice@0@~
-22633@407671@Sandalia Moleca Feminina Alice@2@~
+22633@407671@Sandalia Moleca Feminina Alice@1@~
 22635@407672@Sandalia Moleca Feminina Alice@2@~
 22637@407673@Sandalia Moleca Feminina Alice@0@~
 5367@408088@Sandalia Molekinha Feminina Ouro Rose@1@~
